@@ -2,8 +2,9 @@
 article_id: ALM-12-A06
 title: "Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium"
 slug: "k3-listrik-dan-darurat-aluminium"
-description: "Cover supply/tools/leads, wet conditions, grounding/return paths, unintended current, aluminium dust/chips, hot surfaces, extinguishing suitability, alarm, isolation, first response, reporting, and learning"
-status: outline
+description: "Cara membaca kesiapan peralatan listrik, panas berlebih, kebakaran, dan keadaan darurat pada pekerjaan aluminium tanpa menggantikan prosedur atau penilaian lokasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,54 +17,11 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/51/35155.html"
-  - "https://www.iso.org/standard/85161.html"
-  - "https://irata.org/uploads/documents/International_Code_of_Practice_%28ICOP%29_-_English_TC-102ENG.pdf"
   - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
-  - "https://www.astm.org/e1105-15r23.html"
-  - "https://www.iso.org/standard/30010.html"
-  - "https://www.iso.org/standard/64572.html"
   - "https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf"
-  - "https://www.osha.gov/sites/default/files/enforcement/directives/CPL_03-00-008.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium”
-- **Reader and situation:** Workshop or site supervisor checking readiness
-- **Reader outcome:** Cover supply/tools/leads, wet conditions, grounding/return paths, unintended current, aluminium dust/chips, hot surfaces, extinguishing suitability, alarm, isolation, first response, reporting, and learning
-- **Primary intent:** Prevent electrical/fire incidents and respond safely
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Kawan Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes live electrical work, conductor/terminal design, firefighting beyond training, or medical advice; ALM-04-A04 owns contact evidence
-- **Final public route:** `/artikel/k3-listrik-dan-darurat-aluminium.html`
-- **Appointed CMS date:** `2026-07-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Almini.id`, `Sobat Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,154 +32,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Almini.id! Kabel sambung, mesin potong, bor, gerinda, dan panel listrik kerap dianggap aman selama masih menyala. Itu cara baca yang terlalu sempit. Peralatan dapat berubah kondisi karena kabel rusak, sambungan longgar, panas berlebih, kondisi basah, serpihan, debu, atau penggunaan yang tidak sesuai dengan pekerjaan dan lokasi.
 
-### KR-02
+Jawaban singkatnya: kesiapan listrik dan darurat dimulai dari mengenali sumber energi, kondisi peralatan, kondisi ruang, serta siapa yang berwenang menghentikan pekerjaan. Jangan menunggu percikan, bau panas, atau insiden untuk mencari panel, tombol henti, prosedur, dan jalur pelaporan. Artikel ini membahas pertanyaan pemeriksaan awal, bukan petunjuk kerja bertegangan, rancangan kelistrikan, atau tindakan pemadaman.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-), [official Permen PU 24/2008 PDF](https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf)
-- **Purpose for this article:** Anchor surveys, building operation, preventive maintenance, records, and escalation in Indonesian building-governance context.
-- **Safe grounded facts:** PP 16/2021 is the implementing regulation for Indonesia's building law. Permen PU 24/2008 is an official guideline for maintenance and care of buildings; its text distinguishes routine maintenance from restorative care and supports planned inspection, cleaning, records, equipment, and personnel rather than appearance-only cleaning.
-- **Limits:** Do not turn a national framework into a project permit list, maintenance frequency, inspection interval, or technical acceptance value. Confirm local government, building-function, ownership, and contract requirements under GATE-02.
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-### KR-03
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [Permenaker No. 9 Tahun 2016 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), [Permenaker No. 9 Tahun 2016 status — BPK](https://peraturan.bpk.go.id/Details/146109/permenaker-), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)
-- **Purpose for this article:** Control statements about elevated work, competence, planning, equipment, supervision, and rescue.
-- **Safe grounded facts:** The BPK status record marks Permenaker 9/2016 as in force with a partial revocation. The 2026 instrument governs labor-inspection procedures and makes the listed partial changes; it does not erase the rest of the work-at-height regulation.
-- **Limits:** Do not reproduce qualification categories, certificate rules, equipment numbers, anchor loads, weather thresholds, or rescue techniques from memory. Resolve GATE-01, GATE-02, and GATE-03 before precise claims.
+## Lihat sumber energi dan jalurnya, bukan hanya alat di tangan
 
-### KR-04
+Dalam pekerjaan aluminium, sumber energi dapat datang dari panel, suplai sementara, kabel, perkakas portabel, pengisi daya, atau mesin tetap. *Panel* adalah tempat perangkat pengendalian dan distribusi listrik berada; ia bukan benda yang boleh dibuka atau diubah oleh orang yang tidak berwenang. Kabel, steker, konektor, rumah alat, dan sambungan perlu diperlakukan sebagai bagian dari satu jalur, bukan sebagai benda terpisah.
 
-- **Original sources:** [Permenaker No. 8 Tahun 2020 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [ISO 22846-1:2003 official abstract, confirmed 2024](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/51/35155.html), [ISO 18893:2024 official abstract](https://www.iso.org/standard/85161.html), [IRATA International Code of Practice](https://irata.org/uploads/documents/International_Code_of_Practice_%28ICOP%29_-_English_TC-102ENG.pdf)
-- **Purpose for this article:** Support ground-based, MEWP, scaffold, gondola/BMU, and rope-access comparisons without selecting a site method remotely.
-- **Safe grounded facts:** Permenaker 8/2020 is the current Indonesian K3 instrument for lifting and transport machinery, subject to its actual scope and the partial 2026 changes recorded by BPK. ISO 22846-1 sets fundamental principles for rope-access work systems. ISO 18893 covers MEWP selection, inspection, training, maintenance, repair, and safe operation. IRATA ICOP is industry guidance, not Indonesian law or proof of a contractor's certification.
-- **Limits:** Do not assume every gondola, BMU, suspended platform, scaffold, or anchor falls under one cited instrument. Do not provide capacities, tie patterns, slopes, wind limits, or operating instructions without GATE-01 and GATE-03.
+*Grounding* atau pembumian adalah bagian dari rancangan dan perlindungan sistem kelistrikan. Jangan menyamakan benda logam yang menyentuh lantai atau rangka aluminium dengan pembumian yang benar. Jalur arus yang tidak direncanakan dapat melibatkan komponen, kabel, atau bagian lain; penyebabnya perlu diperiksa oleh pihak kompeten, bukan diuji coba saat pekerjaan berlangsung.
 
-### KR-29
+Sobat Almini.id, sebelum alat dipakai, periksa identitas alat dan sumber suplai, kondisi tampak kabel serta konektor, kemungkinan area basah, dan perubahan yang baru terjadi di lokasi. Temuan yang meragukan bukan bahan perdebatan cepat; pisahkan dari penggunaan dan laporkan sesuai sistem kerja.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+## Panas berlebih dan kebakaran perlu dibaca sebagai kejadian sistem
 
-### KR-32
+Panas pada alat atau sambungan dapat muncul karena banyak sebab. Artikel ini tidak menetapkan batas suhu atau cara memperbaiki peralatan. Yang penting ialah membedakan gejala—misalnya perubahan bau, warna, suara, atau panas yang tidak biasa—dari diagnosis penyebabnya. Jangan terus memakai alat hanya karena pekerjaan hampir selesai.
 
-- **Original sources:** [ISO/TR 17671-4 aluminium arc-welding guidance](https://www.iso.org/standard/30010.html) and [ISO 18273:2015 aluminium welding-consumable classification](https://www.iso.org/standard/64572.html).
-- **Purpose for this article:** Prevent steel-welding assumptions or filler trade names from being transferred to aluminium work.
-- **Safe grounded facts:** Filler classification is based on chemical composition; the welding guidance does not establish finished-joint mechanical properties or project acceptance by itself.
-- **Limits:** No procedure, filler selection, allowable property, distortion tolerance, defect acceptance, or structural conclusion without the application standard, qualified procedure/personnel, drawings, and inspection plan.
+Pada pekerjaan pemotongan, pengamplasan, penggerindaan, atau pemolesan, serpihan dan debu aluminium juga perlu dibedakan dari aluminium padat. [Panduan teknis OSHA tentang debu mudah terbakar](https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf) mengingatkan bahwa bahan padat tidak menggambarkan bahaya dari debu yang terkumpul. Rujukan ini bersifat teknis dari luar negeri; ia bukan dasar hukum Indonesia dan bukan prosedur pengendalian untuk satu bengkel.
 
-### KR-36
+Sumber panas lain, bahan kimia, limbah, pekerjaan panas, dan benda di sekitar dapat mengubah evaluasi. Karena itu, perhatikan aktivitas bersamaan, bukan hanya alat listrik yang sedang dioperasikan. [NEEDS GATE-04: Identitas alat, sumber listrik, kondisi kabel dan panel, lingkungan basah atau berdebu, serta bahan dan pekerjaan sekitar harus diverifikasi sebelum keputusan pengendalian dibuat.]
 
-- **Original sources:** [OSHA combustible-dust technical manual](https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf), [OSHA combustible-dust emphasis directive](https://www.osha.gov/sites/default/files/enforcement/directives/CPL_03-00-008.pdf), and the Indonesian K3 sources already mapped in KR-02/KR-03.
-- **Purpose for this article:** Bound cutting, grinding, polishing, welding, finishing, housekeeping, ventilation, ignition, lifting, and site-installation guidance.
-- **Safe grounded facts:** Solid aluminium product behavior does not describe accumulated dust; generic housekeeping or PPE language is not a dust-hazard analysis or process control plan.
-- **Limits:** Do not prescribe collection equipment, ventilation, extinguishing, zoning, exposure limits, PPE, or hot-work procedures without current Indonesian requirements and a site/process-specific competent design.
+## Istilah penting yang tidak boleh dipakai sembarangan
 
-## Evidence gates
+*Lockout/tagout* adalah penguncian dan penandaan untuk mengendalikan sumber energi agar peralatan tidak diaktifkan tanpa sengaja saat pekerjaan tertentu dilakukan. Istilah ini bukan perintah untuk memasang gembok atau label berdasarkan artikel ini. Prosedur, titik isolasi, pembuktian keadaan aman, otorisasi, dan perubahan giliran kerja harus mengikuti aturan tempat kerja serta orang yang berwenang.
 
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+*Emergency stop* atau tombol henti darurat adalah pengendalian yang dirancang untuk menghentikan fungsi tertentu dalam keadaan darurat. Keberadaannya tidak berarti seluruh sumber energi sudah terisolasi, dan tidak boleh dianggap menggantikan prosedur pengamanan lain. Tanyakan tombol itu menghentikan apa, siapa yang boleh menggunakannya, bagaimana area dilindungi sesudahnya, dan siapa yang melakukan pemeriksaan sebelum alat kembali dipakai.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Teman Almini.id, definisi sederhana ini membantu percakapan awal, tetapi keputusan teknisnya tetap perlu ditetapkan untuk alat dan lokasi yang benar.
 
-## Internal-link plan
+## APD ada batasnya
 
-### Existing local routes
+Alat pelindung diri (APD) dapat menjadi bagian dari perlindungan terhadap bahaya yang sudah dinilai, tetapi bukan pembuktian bahwa pekerjaan listrik aman. Helm, sarung tangan, pelindung mata, pakaian, atau perlengkapan lain perlu dipilih melalui prosedur dan penilaian yang sesuai. Jangan mengubah artikel umum menjadi daftar APD wajib atau menganggap satu jenis APD cocok untuk semua pekerjaan.
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Lebih penting lagi, APD tidak memperbaiki suplai yang bermasalah, tidak mengeringkan area basah, tidak membatasi orang lain dari area berbahaya, dan tidak menggantikan rencana keadaan darurat. Bila kondisi alat atau lokasi belum jelas, tindakan awal yang aman adalah menghentikan pekerjaan dan meminta pemeriksaan yang tepat.
 
-### Planned sibling articles
+## Siapkan respons dengan pertanyaan yang benar
 
-These are future routes. Do not link them as live until their HTML exists.
+Kesiapan keadaan darurat bukan hanya menyimpan alat pemadam. Tim perlu mengetahui bagaimana memberi tanda bahaya, siapa yang menghubungi bantuan, siapa yang memiliki wewenang menghentikan pekerjaan, bagaimana orang lain menjauh dari area, dan ke mana kejadian dicatat. Jenis respons, pemadaman, pertolongan, atau evakuasi harus mengikuti penilaian lokasi, pelatihan, dan rencana yang berlaku—bukan instruksi singkat di halaman ini.
 
-- `ALM-12-A04` → `/artikel/k3-bahan-kimia-finishing-aluminium.html` — K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant
-- `ALM-12-A05` → `/artikel/k3-pemasangan-aluminium-di-ketinggian.html` — Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh
+Setelah kondisi ditangani oleh pihak yang berwenang, dokumentasikan gejala, alat atau area terkait, waktu, perubahan pekerjaan, dan tindakan yang sudah dilakukan. Dalam sistem manajemen mutu, [ISO 9001](https://www.iso.org/standard/62085.html) menempatkan informasi terdokumentasi dan pengendalian proses sebagai bagian penting; rujukan ini tidak membuktikan kesiapan darurat proyek.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+[NEEDS GATE-08: Alarm, komunikasi, isolasi energi, alat tanggap, perlindungan publik, pertolongan, dan pembukaan kembali area memerlukan prosedur lokasi, pelatihan, serta otoritas yang sesuai.]
 
-## Jawaban singkat dan salah paham utama
+## Dua pemeriksaan yang berguna sebelum menerima pekerjaan aluminium
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saat memeriksa item yang akan dikerjakan, cocokkan gambar kerja dengan identitas produk dan kondisi penerimaan. Informasi pada halaman [produk aluminium Yogyakarta](/produk-aluminium-yogyakarta.html) dapat menjadi titik awal mengenali lingkup produk yang ditawarkan, tetapi tidak menggantikan pemeriksaan alat listrik atau K3 lokasi.
 
-## Definisi dan batas objek
+Jika pekerjaan atau pengadaan terkait area lain, halaman [produk aluminium Yalimo](/produk-aluminium-yalimo.html) juga hanya membantu pembaca melihat konteks produk; tetap minta informasi aktual tentang instalasi, akses, dan tanggung jawab keselamatan sebelum pekerjaan dijadwalkan. Kedua tautan ini bukan bukti bahwa produk, peralatan, atau metode tertentu aman.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang perlu ditolak
 
-## Cara kerjanya
+“Matikan saja tombolnya” bukan bukti bahwa energi sudah terkendali. “Belum pernah ada masalah” juga bukan bukti kabel, panel, atau kondisi area hari ini aman. Jalan pintas seperti itu menyembunyikan pertanyaan yang seharusnya dicatat dan dijawab sebelum kerja dilanjutkan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kerangka pengelolaan bangunan Indonesia mendukung perlunya perencanaan, peralatan, personel, dan rekaman, namun tidak dapat dipakai untuk mengarang prosedur listrik atau respons darurat proyek. [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) dan [Permen PU 24/2008](https://peraturan.bpk.go.id/Details/104476/permen-) perlu dibaca bersama kewajiban lokasi dan dokumen proyek yang berlaku.
 
-## Faktor yang mengubah hasil
+## Aturan kerja sebelum menyalakan atau menyalakan kembali
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Peralatan listrik, panas berlebih, kebakaran, dan keadaan darurat pada pekerjaan aluminium harus dibaca sebagai hubungan alat, energi, lingkungan, orang, dan keputusan. Sebelum kerja dimulai atau diteruskan, pastikan ada identitas alat, kondisi yang dapat diperiksa, jalur pelaporan, dan penetapan siapa yang dapat menghentikan pekerjaan.
 
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan praktisnya: jika sumber energi, kondisi alat, atau kesiapan respons belum jelas, jangan mengatasinya dengan keberanian atau APD. Tahan pekerjaan dan minta penetapan dari pihak kompeten.

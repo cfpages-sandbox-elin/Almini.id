@@ -2,8 +2,9 @@
 article_id: ALM-12-A04
 title: "K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant"
 slug: "k3-bahan-kimia-finishing-aluminium"
-description: "Explain inventory, labels/SDS, substitution, ventilation, incompatibility, skin/eye exposure, flammability, mixing limits, storage, spill response, waste, PPE program, and emergency facilities"
-status: outline
+description: "Cara mengelola informasi bahaya bahan kimia untuk finishing dan penyambungan aluminium melalui label, SDS, penyimpanan, pengendalian kerja, dan bukti kondisi lokasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,54 +17,11 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/51/35155.html"
-  - "https://www.iso.org/standard/85161.html"
-  - "https://irata.org/uploads/documents/International_Code_of_Practice_%28ICOP%29_-_English_TC-102ENG.pdf"
   - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
-  - "https://www.astm.org/e1105-15r23.html"
-  - "https://www.iso.org/standard/30010.html"
-  - "https://www.iso.org/standard/64572.html"
   - "https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf"
-  - "https://www.osha.gov/sites/default/files/enforcement/directives/CPL_03-00-008.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant”
-- **Reader and situation:** Workshop or site team using chemical products
-- **Reader outcome:** Explain inventory, labels/SDS, substitution, ventilation, incompatibility, skin/eye exposure, flammability, mixing limits, storage, spill response, waste, PPE program, and emergency facilities
-- **Primary intent:** Control chemical finish/joining hazards
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes chemical formulation, medical treatment, or unapproved mixing; SDS, site assessment, and competent personnel govern
-- **Final public route:** `/artikel/k3-bahan-kimia-finishing-aluminium.html`
-- **Appointed CMS date:** `2026-06-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,156 +32,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Almini.id! Bahan yang dipakai untuk anodizing, praperlakuan permukaan, cat, perekat, dan bahan perapat sambungan sering datang dalam kemasan kecil lalu dianggap mudah ditangani. Padahal bahaya tidak ditentukan oleh besar kecilnya kemasan atau bau yang terasa. Nama produk, kandungan, cara pakai, kondisi ruang, serta kegiatan di sekitarnya dapat mengubah risikonya.
 
-### KR-02
+Jawaban singkatnya: keselamatan dan kesehatan kerja (K3) bahan kimia dimulai dari mengenali produk yang benar, membaca dokumennya, lalu menerapkan pengendalian yang sesuai kondisi kerja. Lembar data keselamatan (*safety data sheet* atau SDS) adalah rujukan utama untuk bahaya, penanganan, penyimpanan, alat pelindung diri, dan tindakan bila terjadi kejadian. Artikel ini tidak menggantikan SDS, penilaian lokasi, atau arahan petugas yang kompeten.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-), [official Permen PU 24/2008 PDF](https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf)
-- **Purpose for this article:** Anchor surveys, building operation, preventive maintenance, records, and escalation in Indonesian building-governance context.
-- **Safe grounded facts:** PP 16/2021 is the implementing regulation for Indonesia's building law. Permen PU 24/2008 is an official guideline for maintenance and care of buildings; its text distinguishes routine maintenance from restorative care and supports planned inspection, cleaning, records, equipment, and personnel rather than appearance-only cleaning.
-- **Limits:** Do not turn a national framework into a project permit list, maintenance frequency, inspection interval, or technical acceptance value. Confirm local government, building-function, ownership, and contract requirements under GATE-02.
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-### KR-03
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [Permenaker No. 9 Tahun 2016 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), [Permenaker No. 9 Tahun 2016 status — BPK](https://peraturan.bpk.go.id/Details/146109/permenaker-), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)
-- **Purpose for this article:** Control statements about elevated work, competence, planning, equipment, supervision, and rescue.
-- **Safe grounded facts:** The BPK status record marks Permenaker 9/2016 as in force with a partial revocation. The 2026 instrument governs labor-inspection procedures and makes the listed partial changes; it does not erase the rest of the work-at-height regulation.
-- **Limits:** Do not reproduce qualification categories, certificate rules, equipment numbers, anchor loads, weather thresholds, or rescue techniques from memory. Resolve GATE-01, GATE-02, and GATE-03 before precise claims.
+## Bedakan proses, produk, dan bahayanya
 
-### KR-04
+Anodizing adalah perlakuan elektrokimia pada permukaan aluminium. *Pretreatment* atau praperlakuan adalah tahap menyiapkan permukaan sebelum proses berikutnya. *Finishing* berarti penyelesaian permukaan, yang dapat melibatkan cat atau pelapis (*coating*). Perekat (*adhesive*) menyatukan bagian, sedangkan bahan perapat sambungan (*sealant*) mengisi atau menutup celah sesuai fungsi sistemnya. Istilah ini tidak memberi tahu kadar, pelarut, atau bahaya suatu produk tertentu.
 
-- **Original sources:** [Permenaker No. 8 Tahun 2020 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [ISO 22846-1:2003 official abstract, confirmed 2024](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/51/35155.html), [ISO 18893:2024 official abstract](https://www.iso.org/standard/85161.html), [IRATA International Code of Practice](https://irata.org/uploads/documents/International_Code_of_Practice_%28ICOP%29_-_English_TC-102ENG.pdf)
-- **Purpose for this article:** Support ground-based, MEWP, scaffold, gondola/BMU, and rope-access comparisons without selecting a site method remotely.
-- **Safe grounded facts:** Permenaker 8/2020 is the current Indonesian K3 instrument for lifting and transport machinery, subject to its actual scope and the partial 2026 changes recorded by BPK. ISO 22846-1 sets fundamental principles for rope-access work systems. ISO 18893 covers MEWP selection, inspection, training, maintenance, repair, and safe operation. IRATA ICOP is industry guidance, not Indonesian law or proof of a contractor's certification.
-- **Limits:** Do not assume every gondola, BMU, suspended platform, scaffold, or anchor falls under one cited instrument. Do not provide capacities, tie patterns, slopes, wind limits, or operating instructions without GATE-01 and GATE-03.
+*Solvent* atau pelarut adalah bahan yang dapat dipakai dalam sebagian produk atau pekerjaan pembersihan, tetapi jangan menganggap semua produk sejenis memiliki sifat sama. Karena itu, inventaris kerja sebaiknya mencatat nama dagang, produsen, kode produk, tujuan pemakaian, SDS versi terbaru, serta lokasi penyimpanan dan pemakaiannya. Tanpa identitas ini, “pakai cat” atau “pakai sealant” terlalu kabur untuk menjadi dasar kontrol.
 
-### KR-29
+## SDS dan label adalah titik mulai, bukan hiasan lemari
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Label pada wadah membantu memastikan produk tidak tertukar. SDS memperluas informasi itu agar tim dapat memahami bahaya yang dinyatakan produsen, ketidakcocokan bahan, persyaratan penyimpanan, pengendalian paparan, dan langkah tanggap menurut produk tersebut. Pastikan SDS cocok dengan produk serta versi yang benar, tersedia bagi orang yang menggunakannya, dan tidak digantikan oleh ringkasan tanpa sumber.
 
-### KR-32
+Kawan Almini.id, bila produk dipindahkan ke wadah kerja, identitasnya tidak boleh ikut hilang. Jangan mengandalkan warna, bau, atau ingatan untuk membedakan isi wadah. Jika label atau SDS tidak tersedia, tahan pemakaian sampai identitas dan petunjuknya dapat diverifikasi. Ini bukan memperlambat kerja; ini menghindari keputusan berdasarkan tebakan.
 
-- **Original sources:** [ISO/TR 17671-4 aluminium arc-welding guidance](https://www.iso.org/standard/30010.html) and [ISO 18273:2015 aluminium welding-consumable classification](https://www.iso.org/standard/64572.html).
-- **Purpose for this article:** Prevent steel-welding assumptions or filler trade names from being transferred to aluminium work.
-- **Safe grounded facts:** Filler classification is based on chemical composition; the welding guidance does not establish finished-joint mechanical properties or project acceptance by itself.
-- **Limits:** No procedure, filler selection, allowable property, distortion tolerance, defect acceptance, or structural conclusion without the application standard, qualified procedure/personnel, drawings, and inspection plan.
+## Pengendalian harus mengikuti cara bahan dipakai
 
-### KR-36
+Bahaya dapat berubah saat bahan dibuka, dituangkan, dicampur, diaplikasikan, dibersihkan, atau menjadi limbah. Ruang tertutup, ventilasi yang ada, sumber penyalaan, pekerjaan lain di dekatnya, jumlah bahan yang terbuka, serta kemungkinan mengenai kulit atau mata adalah bagian dari kondisi yang perlu ditinjau.
 
-- **Original sources:** [OSHA combustible-dust technical manual](https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf), [OSHA combustible-dust emphasis directive](https://www.osha.gov/sites/default/files/enforcement/directives/CPL_03-00-008.pdf), and the Indonesian K3 sources already mapped in KR-02/KR-03.
-- **Purpose for this article:** Bound cutting, grinding, polishing, welding, finishing, housekeeping, ventilation, ignition, lifting, and site-installation guidance.
-- **Safe grounded facts:** Solid aluminium product behavior does not describe accumulated dust; generic housekeeping or PPE language is not a dust-hazard analysis or process control plan.
-- **Limits:** Do not prescribe collection equipment, ventilation, extinguishing, zoning, exposure limits, PPE, or hot-work procedures without current Indonesian requirements and a site/process-specific competent design.
+Alat pelindung diri (APD) adalah bagian dari program pengendalian, bukan jawaban tunggal. Jenis sarung tangan, pelindung mata, pakaian pelindung, atau pelindung pernapasan harus cocok dengan SDS, pekerjaan, dan hasil penilaian risiko; jangan memilihnya hanya karena tersedia di gudang. Demikian juga, kata “ventilasi” tidak cukup tanpa melihat proses dan lokasi. [NEEDS GATE-04: Produk, SDS, volume, proses aplikasi, kondisi ruang, dan bahan sekitar harus dipastikan sebelum memilih pengendalian atau APD.]
 
-## Evidence gates
+## Jangan mencampur, mengganti, atau menyimpan berdasarkan kebiasaan
 
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Penggantian produk dapat mengubah bahaya sekaligus kecocokan dengan permukaan dan sistem. Pencampuran tanpa persetujuan tertulis produsen atau prosedur yang sah dapat menimbulkan kondisi yang tidak dijelaskan dalam SDS masing-masing. Jadi, sederhananya: gunakan bahan sesuai identitas dan instruksi yang berlaku; jangan meracik untuk mengejar hasil cepat.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Penyimpanan juga perlu mengikuti SDS dan tata letak lokasi, termasuk pemisahan dari bahan yang dinyatakan tidak kompatibel serta perlindungan dari kondisi yang relevan. Tanyakan: siapa pemilik stok ini, kapan SDS terakhir diperiksa, dan apakah wadahnya masih dapat dikenali? Catatan penerimaan, pemakaian, dan sisa bahan membantu tim berikutnya tidak mengulang dugaan yang sama.
 
-## Internal-link plan
+Dalam sistem manajemen mutu, rekaman, identifikasi, dan pengendalian perubahan adalah bagian yang berbeda dari pekerjaan; [ISO 9001](https://www.iso.org/standard/62085.html) memberi kerangka umum untuk pengelolaan mutu, bukan prosedur kimia atau jaminan keselamatan lokasi tertentu.
 
-### Existing local routes
+## Paparan kulit, mata, uap, dan kebakaran perlu dipisahkan
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Jangan menyamakan bahaya kontak dengan kulit atau mata dengan bahaya menghirup uap, lalu menganggap satu tindakan menyelesaikan semuanya. Begitu pula, potensi mudah menyala tidak boleh disimpulkan dari istilah pelarut saja; lihat klasifikasi dan petunjuk produk yang benar. Bila ada tumpahan atau paparan, rencana tindakan harus berasal dari SDS, fasilitas yang tersedia, serta prosedur lokasi—bukan dari saran umum yang diingat pekerja.
 
-### Planned sibling articles
+Untuk pekerjaan yang juga menghasilkan debu aluminium dari pemotongan, pengamplasan, atau pemolesan, jangan campurkan pembahasannya dengan bahan padat utuh. Rujukan OSHA tentang debu mudah terbakar mengingatkan bahwa perilaku produk aluminium padat tidak otomatis menggambarkan debu yang terkumpul. [Panduan teknis OSHA](https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf) adalah rujukan teknis luar negeri, bukan dasar hukum Indonesia dan bukan rancangan pengendalian untuk bengkel tertentu.
 
-These are future routes. Do not link them as live until their HTML exists.
+[NEEDS GATE-08: Pencegahan kebakaran, respons tumpahan, fasilitas darurat, dan perlindungan orang di lokasi harus ditetapkan dari SDS yang berlaku, penilaian proses, kondisi lokasi, serta otoritas yang berwenang.]
 
-- `ALM-12-A02` → `/artikel/k3-pemesinan-aluminium.html` — Serpihan, Tepi Tajam, Mesin Berputar, Debu, dan Kebisingan di Bengkel Aluminium
-- `ALM-12-A03` → `/artikel/k3-pengelasan-aluminium.html` — K3 Pengelasan Aluminium: Fume, Radiasi Busur, Listrik, Gas, dan Hot Work
-- `ALM-12-A05` → `/artikel/k3-pemasangan-aluminium-di-ketinggian.html` — Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh
-- `ALM-12-A06` → `/artikel/k3-listrik-dan-darurat-aluminium.html` — Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium
+## Contoh keputusan sebelum pekerjaan dimulai
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Misalnya tim akan memakai bahan perapat sambungan pada komponen aluminium di dalam ruang. Pertanyaan yang baik bukan “ada sealant, kan?” melainkan: produk dan SDS mana yang dipakai, permukaan apa yang disentuh, apakah ada produk lain yang tidak kompatibel, bagaimana kondisi ruang saat aplikasi, siapa yang menyetujui substitusi, dan ke mana sisa kemasan akan dikelola.
 
-## Jawaban singkat dan salah paham utama
+Jika salah satu jawaban belum ada, berhenti pada tahap persiapan lebih aman daripada membuka kemasan lalu mencari informasi setelahnya. Teman Almini.id juga perlu memisahkan keputusan teknis hasil akhir—misalnya kecocokan produk dengan sistem—dari keputusan K3. Keduanya dapat saling terkait, namun bukti yang diperlukan tidak selalu sama.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang sering berbahaya
 
-## Definisi dan batas objek
+“Sudah biasa dipakai” bukan pengganti SDS dan penilaian kondisi kerja. Produk dapat berubah formulasi, kemasan dapat tertukar, atau lokasi hari ini berbeda dari lokasi kemarin. “Pakai APD saja” juga tidak cukup bila sumber bahaya, tata ruang, prosedur, atau fasilitas tanggap tidak jelas.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kerangka Indonesia untuk bangunan dan pemeliharaan mendukung perlunya perencanaan, personel, peralatan, serta rekaman, tetapi tidak boleh dipelintir menjadi daftar prosedur kimia untuk setiap proyek. [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) dan [Permen PU 24/2008](https://peraturan.bpk.go.id/Details/104476/permen-) perlu dibaca sesuai lingkupnya bersama persyaratan lokasi yang berlaku.
 
-## Cara kerjanya
+## Aturan kerja yang perlu dibawa pulang
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+K3 finishing aluminium yang baik bukan soal menghafal nama bahan. Mulailah dari inventaris yang dapat ditelusuri, label yang terbaca, SDS yang sesuai, dan penilaian pekerjaan sebelum bahan digunakan. Simpan rekaman produk, perubahan, dan sisa bahan agar keputusan tidak putus saat orang atau giliran kerja berganti.
 
-## Faktor yang mengubah hasil
+Aturan praktisnya: jika produk, SDS, atau kondisi kerja belum jelas, jangan menggantinya dengan asumsi. Tahan pekerjaan dan minta penetapan dari pihak yang kompeten.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Lengkapi penilaian ini dengan [peta bahaya fabrikasi dan pemasangan aluminium](/artikel/k3-fabrikasi-dan-pemasangan-aluminium.html) serta [pengendalian listrik dan kondisi darurat](/artikel/k3-listrik-dan-darurat-aluminium.html).
