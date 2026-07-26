@@ -2,8 +2,9 @@
 article_id: ALM-05-A06
 title: "Bukti Penerimaan Struktur Aluminium: Gambar, Sertifikat, Inspeksi, dan As-Built"
 slug: "bukti-penerimaan-struktur-aluminium"
-description: "Map design basis, approved drawings, material traceability, procedures, qualifications, inspection/test records, nonconformance closure, as-builts, and maintenance assumptions"
-status: outline
+description: "Susun bukti penerimaan struktur aluminium dari gambar, identitas material, catatan fabrikasi, inspeksi, deviasi, dan as-built tanpa menyamakan dokumen dengan keselamatan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,56 +16,28 @@ final_route: "/artikel/bukti-penerimaan-struktur-aluminium.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://store.astm.org/e1300-24.html"
-  - "https://pesta.bsn.go.id/produk/detail/13242-sni63892020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
-  - "https://www.iso.org/standard/74384.html"
   - "https://www.iso.org/standard/62085.html"
   - "https://www.astm.org/e2357-18.html"
   - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/85023.html"
-  - "https://www.iso.org/committee/50126/x/catalogue/"
   - "https://www.iso.org/standard/76708.html"
   - "https://www.iso.org/standard/30010.html"
   - "https://www.iso.org/standard/64572.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Bukti Penerimaan Struktur Aluminium: Gambar, Sertifikat, Inspeksi, dan As-Built
 
-## Assignment lock
+Halo, Teman Almini.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Bukti Penerimaan Struktur Aluminium: Gambar, Sertifikat, Inspeksi, dan As-Built”
-- **Reader and situation:** Owner or QA team at handover
-- **Reader outcome:** Map design basis, approved drawings, material traceability, procedures, qualifications, inspection/test records, nonconformance closure, as-builts, and maintenance assumptions
-- **Primary intent:** Verify structural quality records
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Teman Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Kawan Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes certifying safety from paperwork alone; engineer and qualified inspectors own technical acceptance
-- **Final public route:** `/artikel/bukti-penerimaan-struktur-aluminium.html`
-- **Appointed CMS date:** `2026-01-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Penerimaan struktur aluminium tidak seharusnya bergantung pada satu sertifikat atau satu foto pekerjaan selesai. Bukti yang perlu dibaca bersama mencakup dasar rancangan, gambar yang disetujui, identitas material, catatan fabrikasi, kualifikasi dan prosedur yang relevan, inspeksi, catatan deviasi, penyelesaian ketidaksesuaian, serta gambar as-built. Setiap dokumen menjawab pertanyaan berbeda.
 
-## Opening instructions
+Dokumen lengkap juga tidak otomatis membuktikan struktur aman. Penerimaan teknis tetap menjadi tanggung jawab engineer dan pemeriksa yang berwenang. Tujuan paket bukti adalah membuat mereka dapat menelusuri apakah barang, pekerjaan, dan perubahan di lapangan sesuai dengan dasar yang ditinjau.
 
-- Open with the exact short salutation: **“Halo, Teman Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bukti Penerimaan Struktur Aluminium: Gambar, Sertifikat, Inspeksi, dan As-Built**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Almini.id`, `Sobat Almini.id`, or `Kawan Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
+_Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu._
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -75,155 +48,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Tentukan objek dan dasar penerimaannya
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Mulailah dengan objek yang jelas: bagian mana yang diterima, fungsi strukturnya apa, gambar revisi mana yang dipakai, dan siapa yang berwenang menerima. **Dasar rancangan** menjelaskan landasan keputusan teknis. **Gambar kerja yang disetujui** menjelaskan susunan yang diminta. Keduanya bukan catatan bahwa pekerjaan sudah dikerjakan dengan benar.
 
-### KR-02
+PP No. 16 Tahun 2021 adalah peraturan pelaksana undang-undang bangunan; [halaman BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) mengidentifikasikan dokumen tersebut. Namun artikel ini tidak menerjemahkan kerangka nasional menjadi daftar izin atau kriteria penerimaan satu proyek. Kebutuhan pemilik, lokasi, fungsi bangunan, kontrak, dan otoritas harus dipastikan pada pekerjaan yang sebenarnya.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-), [official Permen PU 24/2008 PDF](https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf)
-- **Purpose for this article:** Anchor surveys, building operation, preventive maintenance, records, and escalation in Indonesian building-governance context.
-- **Safe grounded facts:** PP 16/2021 is the implementing regulation for Indonesia's building law. Permen PU 24/2008 is an official guideline for maintenance and care of buildings; its text distinguishes routine maintenance from restorative care and supports planned inspection, cleaning, records, equipment, and personnel rather than appearance-only cleaning.
-- **Limits:** Do not turn a national framework into a project permit list, maintenance frequency, inspection interval, or technical acceptance value. Confirm local government, building-function, ownership, and contract requirements under GATE-02.
+Sobat Almini.id, bila dasar rancangan atau gambar revisi tidak jelas, hentikan proses penerimaan. Dokumen berikutnya tidak dapat menutup kekosongan di awal.
 
-### KR-18
+## Bukti apa yang perlu dipisahkan
 
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [ASTM E1300-24 official scope](https://store.astm.org/e1300-24.html), [SNI 6389:2020 — BSN](https://pesta.bsn.go.id/produk/detail/13242-sni63892020), [Permenaker No. 9 Tahun 2016 — Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016)
-- **Purpose for this article:** Teach document roles and stop standards names, logos, or test-method citations from becoming unsupported compliance claims.
-- **Safe grounded facts:** A standards catalog establishes document identity/status; a full standard controls its technical requirements. A certificate must be checked for issuer, holder, scope, status, date, and relevance. A test report must match the claimed material or system configuration. A logo or “ISO/K3/rope access” phrase is not sufficient evidence.
-- **Limits:** Do not quote structural loads, glass capacity, safety factors, acceptance criteria, certificate validity, or permit conclusions without GATE-01, GATE-02, GATE-03, and GATE-07.
+| Jenis bukti | Pertanyaan yang dijawab |
+| --- | --- |
+| Identitas material | Barang apa yang diterima dan bagaimana ia dapat ditelusuri? |
+| Gambar disetujui | Susunan serta detail apa yang diminta? |
+| Perhitungan atau dasar desain | Dasar apa yang ditinjau engineer untuk proyek ini? |
+| Catatan fabrikasi | Pekerjaan apa yang dilakukan dan sesuai prosedur mana? |
+| Inspeksi atau uji | Apa yang diperiksa atau diuji, dengan batas serta kondisi apa? |
+| Deviasi dan penutupan | Ketidaksesuaian apa yang terjadi dan bagaimana keputusan dicatat? |
+| As-built | Apa yang benar-benar terpasang setelah perubahan yang disetujui? |
 
-### KR-25
+Paduan, temper, bentuk produk, ukuran/toleransi, kondisi permukaan, identitas kelompok produksi, dan penggunaan yang direncanakan adalah fakta terpisah. Cakupan [ISO 2107:2023](https://www.iso.org/standard/85023.html) dan [ISO 6362-4:2022](https://www.iso.org/standard/76708.html) membantu menjaga identitas aluminium tidak berubah menjadi label umum saja.
 
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
+## Cara bukti bergerak dari material ke pekerjaan
 
-### KR-29
+Saat material diterima, cocokkan penandaan atau dokumen yang tersedia dengan pesanan dan gambar. Saat fabrikasi berlangsung, simpan rekaman yang menghubungkan bagian yang dibuat dengan gambar serta prosedur yang berlaku. Bila ada pengelasan, jangan menganggap nama bahan tambah cukup. [ISO/TR 17671-4](https://www.iso.org/standard/30010.html) membahas panduan las busur aluminium dan [ISO 18273:2015](https://www.iso.org/standard/64572.html) penggolongan bahan tambah; keduanya tidak membuktikan sifat sambungan jadi atau penerimaan proyek tanpa prosedur, personel, gambar, dan rencana inspeksi yang sesuai.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Sesudah pemasangan, pemeriksaan perlu mencatat objek, waktu, batas pengamatan, hasil, dan pihak yang melakukan. Foto dapat membantu menunjukkan lokasi, tetapi tidak menggantikan catatan yang menjelaskan apa yang diperiksa. Kawan Almini.id, jangan membuat kesimpulan teknis dari dokumen yang tidak dapat ditautkan ke bagian yang benar-benar terpasang.
 
-### KR-31
+## Inspeksi, deviasi, dan kondisi berhenti
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Inspeksi dapat terjadi saat menerima material, sebelum pekerjaan tersembunyi, setelah pemasangan, atau pada tahap lain yang ditetapkan proyek. Jangan menunggu pekerjaan tertutup bila bukti yang diperlukan baru bisa dilihat sebelumnya. Bila ada deviasi, jangan menghapusnya dari catatan. Jelaskan apa yang berbeda, bagian mana yang terkena, dasar keputusan, pihak yang meninjau, dan status penutupannya.
 
-### KR-32
+[NEEDS GATE-01: Dasar rancangan, perhitungan, gambar, fungsi struktur, dan penerimaan teknis harus ditinjau engineer yang kompeten untuk proyek tersebut.]
 
-- **Original sources:** [ISO/TR 17671-4 aluminium arc-welding guidance](https://www.iso.org/standard/30010.html) and [ISO 18273:2015 aluminium welding-consumable classification](https://www.iso.org/standard/64572.html).
-- **Purpose for this article:** Prevent steel-welding assumptions or filler trade names from being transferred to aluminium work.
-- **Safe grounded facts:** Filler classification is based on chemical composition; the welding guidance does not establish finished-joint mechanical properties or project acceptance by itself.
-- **Limits:** No procedure, filler selection, allowable property, distortion tolerance, defect acceptance, or structural conclusion without the application standard, qualified procedure/personnel, drawings, and inspection plan.
+[NEEDS GATE-02: Persyaratan pemilik, otoritas, fungsi bangunan, kompetensi, akses, dan prosedur proyek perlu dipastikan pada lokasi yang berlaku.]
 
-## Evidence gates
+[NEEDS GATE-04: Material, sambungan, pengikat, anchor, tumpuan, kondisi terpasang, dan antarmuka tersembunyi perlu dapat ditelusuri dalam bukti sistem.]
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+[NEEDS GATE-06: Prosedur fabrikasi, pengelasan, inspeksi, pengujian, deviasi, penutupan ketidaksesuaian, dan handover harus mengikuti rencana yang disetujui.]
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+[NEEDS GATE-07: Sertifikat, laporan uji, hasil pemeriksaan, dan klaim kinerja perlu diperiksa penerbit, ruang lingkup, tanggal, konfigurasi, serta kecocokannya dengan proyek.]
 
-## Internal-link plan
+[NEEDS GATE-10: Penerimaan, perbaikan, penggantian, atau penggunaan struktur memerlukan keputusan pihak yang berwenang berdasarkan bukti proyek yang lengkap.]
 
-### Existing local routes
+## Cara menentukan prioritas pemeriksaan
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Dahulukan bukti yang bila hilang tidak dapat dipulihkan setelah tahap berikutnya: identitas material sebelum tercampur, detail sebelum tertutup, revisi gambar sebelum difabrikasi, dan keputusan deviasi sebelum diteruskan. Lalu prioritaskan bagian dengan konsekuensi tinggi bila salah atau sulit diakses setelah selesai.
 
-### Planned sibling articles
+Dalam sistem manajemen mutu, informasi terdokumentasi dan pengendalian proses adalah bagian yang berbeda namun saling terkait; lihat cakupan [ISO 9001:2015](https://www.iso.org/standard/62085.html). Dalam konteks konstruksi, gambar kerja, catatan penerimaan, pemeriksaan pekerjaan tersembunyi, pengujian, dan gambar as-built juga merupakan catatan berbeda, sebagaimana ditunjukkan oleh cakupan [ASTM E2357](https://www.astm.org/e2357-18.html) dan [ASTM E1105](https://www.astm.org/e1105-15r23.html).
 
-These are future routes. Do not link them as live until their HTML exists.
+## Rekaman serah-terima dan pemicu pemeriksaan ulang
 
-- `ALM-05-A04` → `/artikel/merancang-profil-ekstrusi-aluminium.html` — Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan
-- `ALM-05-A05` → `/artikel/retrofit-aluminium-bangunan-lama.html` — Retrofit Aluminium pada Bangunan Lama: Substrat, Anchor, Gerakan, dan Ketidakpastian
+Paket handover yang baik memuat daftar bagian, gambar revisi yang berlaku, identitas material, catatan fabrikasi, inspeksi atau uji yang relevan, daftar deviasi dan statusnya, as-built, serta asumsi perawatan atau pemeriksaan yang perlu diteruskan. Sertakan siapa yang menerbitkan, meninjau, dan menerima dokumen bila proyek mensyaratkannya.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jalan pintas “semua sertifikat sudah ada” tidak cukup. Sertifikat tanpa identitas barang, gambar, ruang lingkup, dan hubungan ke pekerjaan dapat menjadi arsip yang rapi tetapi tidak membantu penerimaan. Lebih aman memakai matriks sederhana: setiap bagian penting punya dasar gambar, bukti material, bukti pengerjaan, pemeriksaan, dan status deviasi.
 
-## Tentukan objek, kondisi, dan tahap siklus hidup
+Untuk informasi produk awal, Anda dapat melihat [produk aluminium](https://almini.id/produk-aluminium-yogyakarta.html). Untuk handover struktur, kumpulkan bukti yang spesifik pada proyek, bukan klaim umum dari halaman produk.
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Penerimaan Struktur Aluminium: Gambar, Sertifikat, Inspeksi, dan As-Built”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Penutup: penerimaan adalah jejak keputusan yang dapat ditelusuri
 
-## Mekanisme perubahan atau penurunan kinerja
+Bukti penerimaan struktur aluminium harus menghubungkan dasar rancangan, gambar, material, fabrikasi, inspeksi, deviasi, dan as-built. Tidak satu pun dokumen berdiri sendiri sebagai bukti keselamatan atau persetujuan.
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Penerimaan Struktur Aluminium: Gambar, Sertifikat, Inspeksi, dan As-Built”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Inspeksi dan data yang perlu dicatat
-
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Penerimaan Struktur Aluminium: Gambar, Sertifikat, Inspeksi, dan As-Built”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan perawatan atau intervensi
-
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Penerimaan Struktur Aluminium: Gambar, Sertifikat, Inspeksi, dan As-Built”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Penerimaan Struktur Aluminium: Gambar, Sertifikat, Inspeksi, dan As-Built”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Bukti Penerimaan Struktur Aluminium: Gambar, Sertifikat, Inspeksi, dan As-Built”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Almini.id, langkah berikutnya ialah buat daftar bagian penting dan cocokkan setiap bagian dengan bukti yang diperlukan sebelum penutupan atau serah-terima. Aturan kerjanya: jangan menerima hanya karena berkas terkumpul; terima bila berkas itu dapat menelusuri keputusan pada barang yang terpasang.
