@@ -2,8 +2,9 @@
 article_id: ALM-01-A06
 title: "Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek"
 slug: "glosarium-aluminium-untuk-proyek"
-description: "Define common units, dimensions, nominal versus measured values, tolerances, lot/heat, certificates, finish terms, and system vocabulary with links to owner pages"
-status: outline
+description: "Panduan membaca istilah aluminium pada gambar, lembar data, dan penawaran, dari ukuran serta identitas material hingga istilah komponen sistem dan batas bukti."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,43 +18,12 @@ sources:
   - "https://pesta.bsn.go.id/produk/index/"
   - "https://www.iso.org/sectors/building-construction"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
   - "https://www.iso.org/standard/85023.html"
   - "https://www.iso.org/committee/50126/x/catalogue/"
   - "https://www.iso.org/standard/76708.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek”
-- **Reader and situation:** Buyer checking drawings, data sheets, or quotes
-- **Reader outcome:** Define common units, dimensions, nominal versus measured values, tolerances, lot/heat, certificates, finish terms, and system vocabulary with links to owner pages
-- **Primary intent:** Decode technical and procurement vocabulary
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Teman Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Kawan Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes a standalone purchase specification, owned by ALM-02-A03, and does not replace applicable standards
-- **Final public route:** `/artikel/glosarium-aluminium-untuk-proyek.html`
-- **Appointed CMS date:** `2025-10-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Almini.id`, `Sobat Almini.id`, or `Kawan Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -64,131 +34,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Almini.id!
 
-### KR-19
+Istilah teknis pada gambar, lembar data, dan penawaran aluminium sering tampak seolah sudah cukup jelas: profil, ACP, anodizing, atau sertifikat. Padahal setiap istilah hanya membantu bila pembaca tahu pertanyaan keputusan yang sedang dijawab. Nama komponen tidak otomatis membuktikan bahan, ukuran, kecocokan, kapasitas, kinerja, atau penerimaan proyek.
 
-- **Original sources:** [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/), [ISO building-construction standards](https://www.iso.org/sectors/building-construction).
-- **Purpose for this article:** Prevent façade materials from being compared by trade name alone.
-- **Safe grounded facts:** Material, processed product, coating/core, support/fixing, joints, interfaces, installation, and complete-system performance are separate evidence layers.
-- **Limits:** No equivalence, rating, durability, fire, structural, water, energy, acoustic, environmental, or warranty claim without exact identity and matched evidence.
+Glosarium ini memberi arti praktis untuk membaca dokumen. Gunakan sebagai alat bertanya: objek apa yang dimaksud, dokumen apa yang perlu dicocokkan, dan bukti apa yang masih kurang. Ia tidak menggantikan spesifikasi pembelian, standar lengkap, atau penilaian sistem proyek. [NEEDS GATE-01: definisi teknis, angka, metode, klasifikasi, dan kriteria penerimaan harus berasal dari standar lengkap serta dokumen yang berlaku.]
 
-### KR-21
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-31
+## Satuan, ukuran, dan nilai yang perlu dibedakan
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+**Satuan** adalah cara menyatakan ukuran, misalnya panjang, luas, atau massa. Selalu baca satuan bersama objek dan titik ukurnya. “Panjang” belum jelas bila tidak diketahui bagian mana yang diukur dan dari titik mana.
 
-## Evidence gates
+**Dimensi** adalah ukuran yang ditentukan untuk suatu bagian: lebar, tinggi, tebal, panjang, diameter, atau ukuran penampang. Dimensi pada gambar perlu dihubungkan dengan revisi gambar dan komponen yang tepat.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+**Nominal** adalah sebutan ukuran atau kelas yang dipakai untuk mengenali produk, sedangkan **terukur** adalah hasil pengukuran pada benda tertentu. Keduanya tidak selalu sama persis, karena spesifikasi dapat mengatur toleransi. **Toleransi** adalah batas variasi yang diizinkan oleh acuan yang berlaku, bukan angka yang boleh dipilih dari kebiasaan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+[ISO 6362-4](https://www.iso.org/standard/76708.html) mencakup toleransi dimensi dan bentuk profil ekstrusi aluminium. Halaman publiknya tidak memberi nilai penerimaan untuk proyek Anda. Kawan Almini.id, saat melihat angka, tanyakan empat hal: bagian apa, satuan apa, titik ukur mana, dan acuan toleransi apa?
 
-## Internal-link plan
+## Identitas material dan rekaman produksi
 
-### Existing local routes
+**Paduan** adalah aluminium yang dicampur dengan unsur lain untuk produk tertentu. **Temper** adalah penandaan kondisi material setelah proses tertentu. Keduanya berbeda dan dapat perlu dicatat terpisah. [ISO 2107](https://www.iso.org/standard/85023.html) membahas penandaan temper, sementara [katalog ISO/TC 79](https://www.iso.org/committee/50126/x/catalogue/) menunjukkan bahwa aluminium tempa memiliki beberapa ranah identitas.
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+**Lot** atau kelompok produksi adalah pengenal untuk kelompok barang tertentu bila tersedia. **Heat** sering dipakai pada rekaman produksi material, tetapi artinya dan kecocokannya perlu dibaca dari dokumen pemasok; jangan menganggap semua produk memiliki atau memakai pengenal yang sama. **Ketertelusuran** berarti kemampuan menghubungkan barang, dokumen, dan riwayat yang relevan—bukan sekadar adanya nomor di kertas.
 
-### Planned sibling articles
+**Sertifikat material** dapat merujuk pada dokumen dengan ruang lingkup tertentu. Periksa penerbit, produk yang dicakup, tanggal, status, dan hubungan dengan barang yang diterima. Sertifikat bukan bukti otomatis bahwa susunan terpasang atau proyek telah diterima. [NEEDS GATE-04: nama paduan, temper, bentuk, dimensi, permukaan, kelompok produksi, dan penggunaan produk perlu dicocokkan dengan barang yang nyata.]
 
-These are future routes. Do not link them as live until their HTML exists.
+## Istilah bentuk dan komponen sistem
 
-- `ALM-01-A04` → `/artikel/dari-bauksit-ke-profil-aluminium.html` — Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat
-- `ALM-01-A05` → `/artikel/sifat-aluminium-massa-kekuatan-kekakuan.html` — Ringan Bukan Berarti Lemah: Massa, Kekuatan, Kekakuan, dan Konduktivitas Aluminium
+**Profile** atau profil adalah produk dengan penampang tertentu, sering dibentuk melalui ekstrusi. Sebutkan profil mana, ukuran penampangnya, dan fungsinya; kata profil saja tidak menerangkan sambungan atau kapasitas.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+**Mullion** adalah elemen vertikal pada susunan dinding tirai (*curtain wall*), sedangkan **transom** adalah elemen mendatarnya. Curtain wall adalah sistem penutup fasad yang umumnya tidak sama dengan struktur utama bangunan. Kedua istilah membantu menunjuk posisi elemen, bukan membuktikan jalur gaya, air, api, atau kinerja fasad.
 
-## Jawaban singkat dan salah paham utama
+**ACP** adalah panel komposit aluminium. Kata ACP tidak cukup untuk menjelaskan inti, kulit, ikatan, bentuk kaset, subrangka, pengikat, rongga, atau pemasangan. Karena itu, jangan menyamakan nama ACP dengan spesifikasi sistem lengkap.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Spandrel** biasanya menunjuk area penutup pada fasad di depan bagian bangunan tertentu. Maknanya dalam gambar harus dibaca bersama susunan panel, insulasi, rangka, dan pertemuan sistem; nama area tidak memberi hasil termal atau kebakaran.
 
-## Definisi dan batas objek
+Sobat Almini.id, istilah komponen berguna untuk menemukan lokasi di gambar. Ia belum memberi keputusan apakah komponen tersebut cocok atau telah terbukti bekerja bersama bagian lain.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Istilah permukaan dan sambungan
 
-## Cara kerjanya
+**Anodizing** atau anodisasi adalah proses penyelesaian permukaan aluminium. **Powder coating** atau pelapisan bubuk adalah jenis penyelesaian permukaan lain. Keduanya perlu dibaca bersama produk, proses, warna atau contoh yang disetujui, dan kondisi paparan. Nama proses tidak membuktikan mutu lapisan, umur pakai, ketahanan korosi, atau bahan pembersih yang cocok.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Sealant** adalah bahan perapat yang digunakan pada detail tertentu. **Gasket** adalah pelapis elastis pada sambungan. Keduanya bukan benda yang dapat dipilih hanya dari warna atau bentuk; jenis substrat, sambungan, gerak, produk yang bertemu, dan detail sistem ikut menentukan pertanyaannya.
 
-## Faktor yang mengubah hasil
+**Fastener** adalah pengikat mekanis, misalnya komponen yang menghubungkan bagian-bagian sistem. Kata ini tidak menjelaskan jenis, posisi, tumpuan, atau kapasitasnya. **Hardware** adalah perangkat seperti engsel, roda, kunci, pegangan, atau penahan pintu dan jendela. Perangkat yang mirip belum tentu cocok dengan daun, rangka, kaca, penguat, serta penggunaan yang sama.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[ISO 12944-2](https://www.iso.org/standard/64834.html) membahas klasifikasi lingkungan korosi. Halaman itu tidak mengubah nama anodisasi, pelapisan bubuk, sealant, atau pengikat menjadi klaim masa layan dan kompatibilitas proyek.
 
-## Contoh keputusan praktis
+## Dokumen yang menjawab pertanyaan berbeda
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Gambar kerja** menjelaskan detail yang diusulkan atau disetujui sesuai proses proyek. **Gambar kondisi akhir** mencatat susunan yang didokumentasikan setelah pekerjaan. Keduanya berbeda dari **lembar data**, yang biasanya menjelaskan produk dalam ruang lingkup tertentu.
 
-## Kesalahan umum dan cara memeriksanya
+**Laporan uji** menjelaskan hasil pada metode, benda uji, dan kondisi yang dicatat. **Sertifikasi** perlu dibaca penerbit, ruang lingkup, status, serta relevansinya. **Persetujuan** adalah keputusan pihak yang berwenang dalam proses proyek. Jangan menggantikan satu jenis dokumen dengan yang lain.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[Katalog SNI BSN](https://pesta.bsn.go.id/produk/index/) dan [halaman standar konstruksi ISO](https://www.iso.org/sectors/building-construction) membantu menemukan identitas dan ranah dokumen, tetapi bukan teks lengkap standar atau bukti kepatuhan produk. [NEEDS GATE-07: nilai kinerja, laporan uji, sertifikasi, dan hasil sistem harus cocok dengan produk, konfigurasi, metode, serta kondisi yang diklaim.]
 
-## Objection or shortcut to address
+## Cara memakai istilah saat membandingkan penawaran
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Saat membaca penawaran, ubah setiap istilah menjadi pertanyaan. Jika tertulis “profil aluminium”, minta paduan, temper, bentuk, dimensi, permukaan, serta gambar acuannya. Jika tertulis “ACP”, minta identitas panel dan susunan sistem yang dicakup. Jika tertulis “hardware”, minta perangkat, lokasi, antarmuka, identitas produk, dan bukti yang relevan. Jika tertulis “sertifikat”, minta penerbit, ruang lingkup, tanggal, dan produk yang dicakup.
 
-## Required conclusion
+Contoh ini tidak membuat satu penawaran otomatis benar atau salah. Ia membantu melihat bagian yang masih kabur sebelum pembelian atau pemasangan. Teman Almini.id, jangan menjadikan glosarium ini sebagai spesifikasi siap pakai; nilai, detail, dan penerimaan harus tetap dikunci oleh proyek.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesalahan umum saat memakai istilah aluminium
 
-## Draft completion checklist
+Kesalahan pertama adalah menganggap nama bahan sebagai nama sistem. Perbaiki dengan mendaftar komponen, sambungan, tumpuan, dan antarmuka. Kesalahan kedua adalah menganggap nominal sama dengan hasil ukur. Perbaiki dengan mencari acuan dan toleransi yang tepat. Kesalahan ketiga adalah menganggap sertifikat atau laporan uji satu komponen berlaku untuk sistem terpasang. Perbaiki dengan mencocokkan objek, konfigurasi, metode, dan dokumen proyek.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Glosarium aluminium membantu menerjemahkan istilah menjadi pertanyaan keputusan. Langkah berikutnya: tandai istilah pada gambar atau penawaran Anda, lalu buat kolom untuk objek yang dimaksud, bukti yang tersedia, dan informasi yang masih perlu diminta. Aturan kerjanya sederhana: istilah membuka percakapan, tetapi identitas serta bukti yang cocoklah yang mendukung keputusan proyek.

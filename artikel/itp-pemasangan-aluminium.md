@@ -1,9 +1,10 @@
 ---
 article_id: ALM-11-A02
-title: "ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan"
+title: "ITP Pemasangan Aluminium: Penerimaan, Survei, Titik Tahan, dan Perlindungan"
 slug: "itp-pemasangan-aluminium"
-description: "Define material receipt, storage, substrate survey, layout, anchors, assembly, joints/sealants, drainage, finish protection, testing, nonconformance, cleaning, and records"
-status: outline
+description: "Cara menyusun rencana inspeksi dan pengujian pemasangan aluminium, dari penerimaan material dan survei hingga sambungan, perlindungan, temuan, serta rekaman."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,7 +16,6 @@ final_route: "/artikel/itp-pemasangan-aluminium.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf"
   - "https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf"
   - "https://iwfa.com/inspection-guidelines/"
   - "https://www.iso.org/standard/62085.html"
@@ -24,40 +24,9 @@ sources:
   - "https://www.iso.org/standard/45798.html"
   - "https://www.iso.org/standard/83053.html"
   - "https://www.iso.org/standard/70156.html"
-  - "https://www.iso.org/standard/80119.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan”
-- **Reader and situation:** Site QA, installer, or owner
-- **Reader outcome:** Define material receipt, storage, substrate survey, layout, anchors, assembly, joints/sealants, drainage, finish protection, testing, nonconformance, cleaning, and records
-- **Primary intent:** Plan installation quality control
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Teman Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Kawan Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes project tolerances, anchor approval, or façade-specific acceptance; ALM-06-A05 owns façade ITP and project documents govern
-- **Final public route:** `/artikel/itp-pemasangan-aluminium.html`
-- **Appointed CMS date:** `2026-05-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Almini.id`, `Sobat Almini.id`, or `Kawan Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,156 +37,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# ITP Pemasangan Aluminium: Penerimaan, Survei, Titik Tahan, dan Perlindungan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Almini.id!
 
-### KR-09
+Pemasangan aluminium tidak cukup dikendalikan dengan pemeriksaan terakhir saat pekerjaan sudah tampak rapi. Banyak bukti penting berada sebelum komponen tertutup, sebelum sambungan diselesaikan, atau sebelum perlindungan permukaan dilepas. Karena itu, proyek memerlukan ITP, yaitu rencana inspeksi dan pengujian (*inspection and test plan*), yang menyebut apa yang diperiksa, kapan, dokumen acuannya, siapa yang mencatat, dan kapan pekerjaan harus ditahan sampai bukti tersedia.
 
-- **Original sources:** [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-), [official Permen PU 24/2008 PDF](https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf), [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf)
-- **Purpose for this article:** Ground cleaning frequency, inspection logs, vendor KPIs, and escalation as a managed program.
-- **Safe grounded facts:** Useful logs identify zones, dates, observations, products/methods, weather/site conditions, access used, exceptions, damage, photos, and follow-up. An appearance KPI alone can hide safety, damage, residue, access, and documentation failures.
-- **Limits:** Do not state a universal cleaning frequency or inspection interval. Project-specific schedules require exposure history, contract, manufacturer, building-management, and legal inputs under GATE-02 and GATE-09.
+ITP bukan persetujuan otomatis dan bukan daftar angka universal. Toleransi, persetujuan anchor—pengikat ke struktur atau substrat—pengujian, dan penerimaan tetap mengikuti gambar, spesifikasi, kondisi lokasi, serta pihak proyek yang berwenang. [NEEDS GATE-04: identitas produk, substrat, sambungan, pengikat, detail, dan kondisi terpasang perlu diverifikasi sebelum pekerjaan dilanjutkan.]
 
-### KR-16
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf), [IWFA inspection-guideline overview](https://iwfa.com/inspection-guidelines/), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Define a defensible evidence chain from baseline through acceptance and operation.
-- **Safe grounded facts:** Useful records include zones, product/manufacturer, batch or traceability identifier where available, glass/configuration, dates, installer/vendor, access method, site conditions, photos, measurements where agreed, damage/exclusions, care instructions, warranty issuer, notice route, and open items.
-- **Limits:** Do not invent visual tolerances, measurement protocols, cure periods, remedies, or warranty coverage. Apply GATE-01, GATE-06, and GATE-09 to the actual contract and product.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-17
+## Mulai dari objek, dokumen, dan tanggung jawab
 
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Support RFQs, scope normalization, cost-driver explanations, vendor comparison, and hidden-condition governance.
-- **Safe grounded facts:** Cleaning cost can change with area, contamination, access, frequency, hours, protection, water/logistics, and mobilization. Film cost can change with exact product, glazing compatibility, area/layout, waste, access, existing-film removal, attachment system, evidence, and warranty.
-- **Limits:** No public source here establishes a current project price, contractor capability, insurance, availability, tax, contract right, or change-order entitlement. Obtain dated quotations and project/legal review under GATE-09.
+Sebelum pekerjaan dimulai, ITP perlu menyebut sistem yang dipasang, batas pekerjaan, gambar dan revisi yang berlaku, spesifikasi terkait, pihak pemeriksa, serta rekaman yang harus disimpan. Pisahkan pekerjaan material, rangka, panel atau kaca, sambungan, bahan perapat, drainase, perlindungan permukaan, dan pertemuan dengan pekerjaan lain bila semuanya memang ada dalam lingkup proyek.
 
-### KR-29
+Tentukan pula siapa yang memeriksa sendiri, siapa yang menyaksikan, dan siapa yang berwenang memutuskan bila ada perbedaan. Kawan Almini.id, daftar peran ini bukan birokrasi tambahan; ia mencegah pekerjaan berlanjut atas dasar asumsi ketika gambar, produk, atau kondisi lokasi belum cocok.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+[ISO 9001](https://www.iso.org/standard/62085.html) mendukung pentingnya proses serta rekaman mutu yang terkendali, tetapi sertifikasi sistem mutu tidak membuktikan satu instalasi telah diterima. [NEEDS GATE-06: gambar, pengajuan produk, urutan pemasangan, perubahan, pemeriksaan, dan penerimaan harus mengikuti dokumen proyek serta pihak yang berwenang.]
 
-### KR-30
+## Periksa penerimaan material dan penyimpanan sebelum dipasang
 
-- **Original sources:** [ISO 15686-1 service-life planning](https://www.iso.org/standard/45798.html), [ISO 55000:2024 asset-management vocabulary](https://www.iso.org/standard/83053.html).
-- **Purpose for this article:** Ground inspection/access, cleaning, defect triage, diagnosis, making-safe, planned maintenance, repair/replace/retrofit, records, and lifecycle decisions.
-- **Safe grounded facts:** Symptom, access/viewing limitation, baseline, test, root-cause hypothesis, consequence, temporary control, repair design, acceptance, and monitoring are separate.
-- **Limits:** No remote declaration of safety, cause, repair method, cleaner compatibility, remaining life, cost, warranty, or reuse/recycling outcome without condition evidence and competent review.
+Saat material datang, cocokkan identitas barang, jumlah, kondisi kemasan, dokumen pengiriman, produk yang disetujui, dan kondisi permukaan yang dapat dilihat. Catat kerusakan, kekurangan, atau ketidakjelasan sebagai temuan, bukan sebagai catatan lisan yang hilang saat barang dipindahkan. Simpan hubungan antara material dan dokumen agar produk yang dipasang dapat ditelusuri kemudian.
 
-### KR-33
+Penyimpanan serta penanganan perlu direncanakan sesuai produk. Perlindungan pada permukaan, sudut, kaca, panel, dan komponen lain dapat berbeda. Jangan menganggap material yang tampak baik saat diterima akan tetap baik bila cara penyimpanan atau penanganannya berubah. Teman Almini.id, foto penerimaan perlu menunjukkan kondisi serta identitas yang relevan, bukan hanya tumpukan barang.
 
-- **Original sources:** [ISO 7599:2018 decorative/protective anodizing](https://www.iso.org/standard/70156.html) and [ISO 10074:2021 hard anodizing](https://www.iso.org/standard/80119.html).
-- **Purpose for this article:** Ground finish selection, appearance, durability, inspection, care, and substitution.
-- **Safe grounded facts:** Anodized appearance or nominal treatment name does not prove coating grade, sealing quality, abrasion behavior, corrosion result, electrical insulation, or service life.
-- **Limits:** Obtain the full invoked specification, applicator process record, approved physical sample, test report, exposure classification, and compatible-care guidance.
+## Survei substrat dan tata letak mendahului pengikat
 
-## Evidence gates
+Survei lokasi memeriksa kondisi yang diperlukan oleh gambar dan detail: posisi, permukaan, bukaan, pertemuan, ruang kerja, serta kondisi substrat yang akan menerima pengikat. Tata letak berarti menandai posisi komponen terhadap acuan proyek sebelum pemasangan permanen. Survei dan tata letak tidak membuktikan kapasitas anchor atau struktur, tetapi keduanya dapat mengungkap ketidakcocokan lebih awal.
 
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Jika kondisi aktual berbeda dari gambar, tahan keputusan yang mengubah posisi, pengikat, atau detail. Jangan memindahkan titik pengikat atau mengubah bracket—komponen penumpu atau penghubung—berdasarkan kebiasaan di lokasi. [NEEDS GATE-07: kapasitas substrat, pengikat, sambungan, perhitungan, hasil uji, serta kinerja sistem memerlukan bukti yang sesuai dengan kondisi aktual.]
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Sobat Almini.id, titik tahan pertama yang berguna biasanya berada sebelum detail yang nantinya tidak dapat diperiksa tanpa pembongkaran.
 
-## Internal-link plan
+## Pasang dan periksa sambungan sebelum tertutup
 
-### Existing local routes
+Saat komponen dirakit, ITP perlu menghubungkan pekerjaan dengan gambar, identitas produk, posisi, sambungan, pengikat, serta detail pertemuan. Catat komponen yang akan tertutup, lokasi pemeriksaan, foto bila relevan, dan temuan yang belum selesai. Jangan memakai tampilan akhir sebagai pengganti bukti dari pekerjaan yang kini tidak terlihat.
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Bahan perapat (sealant) dan gasket, yaitu pelapis elastis pada sambungan, merupakan bagian dari detail sistem. Jenis substrat, geometri sambungan, kondisi permukaan, bahan yang bertemu, urutan pemasangan, dan petunjuk produk dapat memengaruhi pertanyaan pemeriksaannya. [GANA Glazing Manual](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf) membantu menunjukkan bahwa kaca, sambungan, dan konfigurasi perlu dibaca bersama; dokumen itu tidak memberi resep perbaikan atau penerimaan sambungan untuk proyek Anda.
 
-### Planned sibling articles
+## Drainase dan perlindungan permukaan perlu dijaga sampai serah-terima
 
-These are future routes. Do not link them as live until their HTML exists.
+Untuk sistem yang memiliki jalur air, ITP perlu menyebut detail drainase, bukaan pelepas air, pertemuan, dan kondisi yang harus diperiksa sebelum bagian tersebut tertutup. Jangan menganggap adanya bahan perapat berarti jalur air atau udara sudah benar. [ASTM E1105](https://www.astm.org/e1105-15r23.html) membahas pengujian penetrasi air lapangan pada sistem tertentu, dan [ASTM E2357](https://www.astm.org/e2357-18.html) membahas susunan penghalang udara. Keduanya tidak memberi hasil penerimaan tanpa susunan, metode, dan laporan yang cocok dengan proyek.
 
-- `ALM-11-A01` → `/artikel/diagnosis-awal-sistem-aluminium.html` — Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet
-- `ALM-11-A03` → `/artikel/handover-sistem-aluminium.html` — Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi
-- `ALM-11-A04` → `/artikel/jadwal-perawatan-sistem-aluminium.html` — Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko
+Perlindungan permukaan juga perlu ditinjau sepanjang pekerjaan. Penyelesaian seperti anodisasi tidak dapat dinilai hanya dari namanya. [ISO 7599](https://www.iso.org/standard/70156.html) membahas anodisasi dekoratif serta pelindung, bukan bukti mutu lapisan, umur pakai, atau bahan pembersih yang sesuai untuk instalasi tertentu. [NEEDS GATE-05: alat, bahan pembersih, air, proses, limpasan, dan material di sekitarnya harus dicocokkan dengan instruksi produk.]
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kelola ketidaksesuaian dan perubahan sebagai rekaman proyek
 
-## Jawaban singkat dan salah paham utama
+Ketidaksesuaian adalah kondisi ketika barang, pekerjaan, atau bukti tidak dapat dicocokkan dengan acuan yang berlaku. Catat bagian yang terlibat, lokasi, dokumen acuan, fakta yang diamati, foto bila membantu, tindakan penahanan, pihak yang meninjau, dan status tindak lanjut. Jangan memperbaiki, menutup, atau mengganti bagian begitu saja bila tindakan itu akan menghilangkan bukti atau mengubah detail tanpa persetujuan.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Perubahan produk, bracket, sambungan, atau detail drainase harus diperlakukan sebagai perubahan sistem, bukan sekadar penyesuaian kecil. Bila perubahan disetujui, perbarui gambar, daftar produk, pemeriksaan yang diperlukan, serta catatan kondisi akhir. [NEEDS GATE-09: ruang lingkup, harga, jadwal, jaminan, tanggung jawab, dan hak perubahan memerlukan bukti kontrak serta dokumen proyek bertanggal.]
 
-## Definisi dan batas objek
+## Catatan akhir membantu operasi, bukan menggantikan penerimaan
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Rekaman ITP dapat mencakup penerimaan material, survei, tata letak, pemeriksaan komponen tersembunyi, sambungan, drainase, perlindungan, hasil uji bila dipersyaratkan, ketidaksesuaian, perubahan, dan status pekerjaan terbuka. Catatan kondisi akhir perlu dibedakan dari gambar rencana, laporan uji, atau tanda tangan penerimaan; masing-masing menjawab pertanyaan berbeda. [Permen PU No. 24/PRT/M/2008](https://peraturan.bpk.go.id/Details/104476/permen-) serta [panduan inspeksi IWFA](https://iwfa.com/inspection-guidelines/) menunjukkan nilai catatan kondisi, lokasi, akses, foto, dan tindak lanjut; penerapannya tetap perlu mengikuti proyek serta sistem yang sebenarnya.
 
-## Cara kerjanya
+Perencanaan umur pakai dan pengelolaan aset membedakan pengamatan, tindakan sementara, perbaikan, penerimaan, serta pemantauan. [ISO 15686-1](https://www.iso.org/standard/45798.html) dan [ISO 55000](https://www.iso.org/standard/83053.html) memberi konteks pada pemisahan rekaman tersebut. Keduanya tidak menyatakan proyek tertentu sudah lengkap atau siap digunakan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang umum adalah membuat checklist di akhir pekerjaan, lalu menandai semua kotak setelah komponen tertutup. Cara ini tidak dapat menggantikan bukti pada saat pekerjaan diperiksa. Alternatif yang kuat adalah memakai ITP sebagai urutan kerja: penerimaan, survei, titik tahan, pemeriksaan, temuan, koreksi yang disetujui, dan rekaman akhir.
 
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+ITP pemasangan aluminium yang baik membuat penerimaan, survei, titik tahan, perlindungan, dan rekaman menjadi satu alur bukti. Langkah berikutnya: buat tabel ITP untuk sistem Anda dengan kolom pekerjaan, acuan, pemeriksaan, pihak, rekaman, titik tahan, dan tindakan bila ada ketidaksesuaian. Aturan kerjanya sederhana: bila produk, kondisi lokasi, atau bukti pekerjaan tersembunyi belum cocok, jangan lanjutkan atau menyatakan pemasangan telah diterima.

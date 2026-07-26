@@ -2,8 +2,9 @@
 article_id: ALM-03-A06
 title: "Inspeksi Fabrikasi Aluminium: Dimensi, Permukaan, Sambungan, dan Rekaman"
 slug: "inspeksi-fabrikasi-aluminium"
-description: "Define incoming, in-process, and final checks for identity, dimensions, burrs, bends, welds/fasteners/adhesives, finish protection, nonconformance, and records"
-status: outline
+description: "Cara menyusun pemeriksaan fabrikasi aluminium dari identitas bahan dan gambar hingga proses, dimensi, permukaan, sambungan, ketidaksesuaian, titik tahan, serta rekaman."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,50 +17,16 @@ technical_review: required
 sources:
   - "https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf"
   - "https://iwfa.com/inspection-guidelines/"
-  - "https://peraturan.bpk.go.id/Details/104476/permen-"
   - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
-  - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/85023.html"
   - "https://www.iso.org/committee/50126/x/catalogue/"
   - "https://www.iso.org/standard/76708.html"
   - "https://www.iso.org/standard/30010.html"
   - "https://www.iso.org/standard/64572.html"
   - "https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf"
-  - "https://www.osha.gov/sites/default/files/enforcement/directives/CPL_03-00-008.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Inspeksi Fabrikasi Aluminium: Dimensi, Permukaan, Sambungan, dan Rekaman
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Inspeksi Fabrikasi Aluminium: Dimensi, Permukaan, Sambungan, dan Rekaman”
-- **Reader and situation:** Workshop QA or buyer accepting fabricated parts
-- **Reader outcome:** Define incoming, in-process, and final checks for identity, dimensions, burrs, bends, welds/fasteners/adhesives, finish protection, nonconformance, and records
-- **Primary intent:** Build a fabrication inspection plan
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Kawan Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes structural fitness from visual inspection alone; ALM-05-A06 owns project acceptance and ALM-11-A02 owns site installation QC
-- **Final public route:** `/artikel/inspeksi-fabrikasi-aluminium.html`
-- **Appointed CMS date:** `2025-11-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Inspeksi Fabrikasi Aluminium: Dimensi, Permukaan, Sambungan, dan Rekaman**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Almini.id`, `Sobat Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,147 +37,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Inspeksi Fabrikasi Aluminium: Dimensi, Permukaan, Sambungan, dan Rekaman
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Almini.id!
 
-### KR-16
+Inspeksi fabrikasi aluminium tidak dimulai ketika barang sudah siap dikirim. Pemeriksaan yang dapat ditelusuri dimulai dari identitas bahan dan gambar yang dipakai, lalu mengikuti pemotongan, pemesinan, pembentukan, penyambungan, perlindungan permukaan, sampai barang dilepas dari bengkel. Tujuannya bukan mencari kesalahan sebanyak mungkin, melainkan memastikan setiap pemeriksaan menjawab pertanyaan yang tepat dan setiap ketidaksesuaian tercatat sebelum tertutup oleh proses berikutnya.
 
-- **Original sources:** [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf), [IWFA inspection-guideline overview](https://iwfa.com/inspection-guidelines/), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Define a defensible evidence chain from baseline through acceptance and operation.
-- **Safe grounded facts:** Useful records include zones, product/manufacturer, batch or traceability identifier where available, glass/configuration, dates, installer/vendor, access method, site conditions, photos, measurements where agreed, damage/exclusions, care instructions, warranty issuer, notice route, and open items.
-- **Limits:** Do not invent visual tolerances, measurement protocols, cure periods, remedies, or warranty coverage. Apply GATE-01, GATE-06, and GATE-09 to the actual contract and product.
+Tidak ada satu daftar penerimaan universal untuk semua produk aluminium. Toleransi, parameter proses, jenis sambungan, metode uji, dan siapa yang menyetujui hasil harus datang dari gambar, spesifikasi, standar lengkap, prosedur yang disetujui, serta dasar rancangan proyek. [NEEDS GATE-01: angka, definisi, metode, klasifikasi, dan kriteria penerimaan perlu berasal dari dokumen lengkap serta interpretasi yang tepat.]
 
-### KR-29
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-31
+## Kunci identitas bahan dan gambar sebelum proses dimulai
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Pemeriksaan barang masuk perlu menghubungkan bahan yang diterima dengan pesanan dan gambar kerja yang berlaku. Catat nama paduan, temper—penandaan kondisi material setelah proses tertentu—bentuk produk, dimensi yang dirujuk, keadaan permukaan, kelompok produksi bila tersedia, dan penggunaan yang dimaksud. Jangan mengganti semua itu dengan satu label “aluminium”.
 
-### KR-32
+[ISO 2107](https://www.iso.org/standard/85023.html) membahas penandaan temper, dan [katalog ISO/TC 79](https://www.iso.org/committee/50126/x/catalogue/) menunjukkan bahwa produk aluminium tempa memiliki beberapa ranah identitas. Untuk profil ekstrusi, [ISO 6362-4](https://www.iso.org/standard/76708.html) mencakup toleransi dimensi serta bentuk. Halaman publik tersebut tidak memberi nilai penerimaan untuk komponen Anda.
 
-- **Original sources:** [ISO/TR 17671-4 aluminium arc-welding guidance](https://www.iso.org/standard/30010.html) and [ISO 18273:2015 aluminium welding-consumable classification](https://www.iso.org/standard/64572.html).
-- **Purpose for this article:** Prevent steel-welding assumptions or filler trade names from being transferred to aluminium work.
-- **Safe grounded facts:** Filler classification is based on chemical composition; the welding guidance does not establish finished-joint mechanical properties or project acceptance by itself.
-- **Limits:** No procedure, filler selection, allowable property, distortion tolerance, defect acceptance, or structural conclusion without the application standard, qualified procedure/personnel, drawings, and inspection plan.
+Simpan juga versi gambar, daftar komponen, catatan perubahan, dan penandaan bagian. Sobat Almini.id, potongan yang tampak benar tetapi dibuat dari bahan atau gambar yang salah tetap menjadi masalah ketertelusuran.
 
-### KR-36
+## Pecah proses menjadi titik pemeriksaan yang bermakna
 
-- **Original sources:** [OSHA combustible-dust technical manual](https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf), [OSHA combustible-dust emphasis directive](https://www.osha.gov/sites/default/files/enforcement/directives/CPL_03-00-008.pdf), and the Indonesian K3 sources already mapped in KR-02/KR-03.
-- **Purpose for this article:** Bound cutting, grinding, polishing, welding, finishing, housekeeping, ventilation, ignition, lifting, and site-installation guidance.
-- **Safe grounded facts:** Solid aluminium product behavior does not describe accumulated dust; generic housekeeping or PPE language is not a dust-hazard analysis or process control plan.
-- **Limits:** Do not prescribe collection equipment, ventilation, extinguishing, zoning, exposure limits, PPE, or hot-work procedures without current Indonesian requirements and a site/process-specific competent design.
+Fabrikasi dapat meliputi pemotongan, pemesinan, pembentukan, pengeboran, penyambungan, perakitan, dan perlindungan permukaan. Setiap tahap dapat mengubah bagian berikutnya. Karena itu, tentukan titik pemeriksaan sebelum proses yang akan menyembunyikan kondisi sebelumnya, misalnya sebelum sambungan tertutup, sebelum lapisan pelindung dipasang, atau sebelum komponen dirakit menjadi susunan yang sulit diukur.
 
-## Evidence gates
+Titik tahan adalah saat pekerjaan tidak diteruskan sampai pemeriksaan atau keputusan yang dipersyaratkan tersedia. Tulis apa yang diperiksa, gambar atau spesifikasi acuannya, siapa yang memeriksa, rekaman apa yang dibuat, dan apa yang terjadi bila hasil belum jelas. Jangan memakai titik tahan sebagai ritual tanda tangan tanpa objek pemeriksaan yang spesifik.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+Teman Almini.id, pemotongan, pemesinan, dan pembentukan dapat memengaruhi dimensi, tepi, lubang, kelurusan, atau permukaan. Catat fakta yang dilihat terhadap dokumen acuan; jangan menyimpulkan kapasitas produk hanya dari inspeksi visual.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Dimensi dan permukaan perlu dibaca terhadap acuan yang sama
 
-## Internal-link plan
+Pemeriksaan dimensi harus menyebut komponen, titik ukur, alat atau metode yang disetujui, gambar acuan, dan hasil yang dicatat. Tepi tajam, burr atau sisa tajam dari proses, bengkok, goresan, kerusakan lapisan, dan kontaminasi dapat pula dicatat sebagai kondisi yang perlu ditinjau. Namun istilah seperti “rapi” atau “bagus” tidak cukup sebagai kriteria.
 
-### Existing local routes
+Jangan mengubah hasil ukur atau tampilan satu bagian menjadi kesimpulan tentang produk akhir atau sistem terpasang. Dimensi yang dicatat dapat membantu menemukan penyimpangan terhadap gambar; ia tidak otomatis membuktikan sambungan, tumpuan, atau kinerja di lapangan. [NEEDS GATE-04: bahan, bentuk, dimensi, permukaan, sambungan, komponen yang tersembunyi, dan kondisi yang dimaksud perlu diverifikasi pada produk aktual.]
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Untuk komponen yang akan dipasangkan dengan kaca atau material lain, jaga pula catatan kondisi permukaan dan batas penanganan. [GANA Glazing Manual](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf) dan [panduan inspeksi IWFA](https://iwfa.com/inspection-guidelines/) menunjukkan pentingnya konfigurasi, kondisi, foto, dan batas inspeksi; dokumen tersebut tidak memberi toleransi visual universal bagi fabrikasi Anda.
 
-### Planned sibling articles
+## Sambungan perlu bukti yang sesuai metode dan fungsi
 
-These are future routes. Do not link them as live until their HTML exists.
+Sambungan dapat memakai pengikat mekanis, perekat, atau las. Metode yang berbeda membutuhkan identitas, gambar, prosedur, serta pemeriksaan yang berbeda. Untuk las aluminium, jangan memindahkan asumsi baja atau nama bahan tambah langsung ke pekerjaan aluminium. [ISO/TR 17671-4](https://www.iso.org/standard/30010.html) membahas panduan pengelasan busur aluminium, sedangkan [ISO 18273](https://www.iso.org/standard/64572.html) berkaitan dengan klasifikasi bahan tambah aluminium.
 
-- `ALM-03-A04` → `/artikel/pengelasan-aluminium-dan-buktinya.html` — Pengelasan Aluminium: Kapan Diperlukan dan Bukti Apa yang Harus Ada
-- `ALM-03-A05` → `/artikel/metode-sambungan-aluminium.html` — Baut, Rivet, Adhesive, atau Las: Memilih Metode Sambungan Aluminium
+Dokumen tersebut tidak dengan sendirinya membuktikan sifat sambungan jadi, penerimaan cacat, atau kapasitas proyek. Jangan menentukan prosedur, bahan tambah, atau putusan sambungan dari artikel ini. [NEEDS GATE-07: hasil uji, sertifikasi, kapasitas, dan klaim kinerja sambungan memerlukan bukti yang cocok dengan metode serta susunan yang dipakai.]
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Perlindungan, penanganan, dan keselamatan proses juga perlu dicatat
 
-## Tentukan objek, kondisi, dan tahap siklus hidup
+Setelah komponen memenuhi pemeriksaan pada tahap tertentu, tentukan bagaimana ia diberi penandaan, dilindungi, disimpan, dan diangkut tanpa menghapus identitas atau merusak permukaan. Perlindungan yang dipilih tetap perlu cocok dengan lapisan dan cara penanganan produk; jangan menganggap semua film pelindung, bahan pembersih, atau cara pengikatan aman bagi semua permukaan.
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Fabrikasi Aluminium: Dimensi, Permukaan, Sambungan, dan Rekaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pekerjaan pemotongan, penggerindaan, pemolesan, atau pengelasan dapat menghasilkan kondisi proses yang memerlukan pengendalian keselamatan tersendiri. Perilaku produk aluminium padat tidak sama dengan perilaku debu yang terkumpul. [Panduan OSHA tentang debu mudah terbakar](https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf) memberi konteks umum mengenai bahaya debu, bukan rancangan pengendalian atau prosedur kerja untuk bengkel di Indonesia. [NEEDS GATE-02: persyaratan keselamatan, ventilasi, pengendalian proses, dan kompetensi harus dikonfirmasi untuk fasilitas serta pekerjaan nyata.]
 
-## Mekanisme perubahan atau penurunan kinerja
+## Kelola ketidaksesuaian tanpa menghapus jejaknya
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Fabrikasi Aluminium: Dimensi, Permukaan, Sambungan, dan Rekaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ketidaksesuaian adalah kondisi ketika hasil yang diamati tidak dapat dicocokkan dengan acuan yang berlaku atau informasi belum cukup untuk menyatakan kecocokan. Catat identitas bagian, lokasi atau jumlah, dokumen acuan, deskripsi fakta, foto bila relevan, tindakan penahanan, pihak peninjau, dan keputusan tindak lanjut. Jangan menghapus tanda, mengerjakan ulang, atau mencampur komponen sebelum statusnya jelas bila hal itu akan menghilangkan penelusuran.
 
-## Inspeksi dan data yang perlu dicatat
+Perbaikan proses atau pengerjaan ulang bukan otomatis penerimaan. Setelah tindakan dilakukan, tentukan rekaman apa yang perlu diperbarui dan apakah pemeriksaan ulang diperlukan. Kawan Almini.id, keputusan untuk menerima penyimpangan atau mengubah gambar adalah keputusan proyek yang perlu otoritas sesuai dokumen yang berlaku. [NEEDS GATE-06: perubahan, ketidaksesuaian, pengerjaan ulang, pemeriksaan ulang, dan pelepasan produk harus disetujui serta direkam sesuai proyek.]
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Fabrikasi Aluminium: Dimensi, Permukaan, Sambungan, dan Rekaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Rekaman akhir harus menghubungkan barang dengan keputusan
 
-## Pilihan perawatan atau intervensi
+Paket rekaman dapat memuat identitas bahan, gambar dan revisi yang dipakai, hasil pemeriksaan masuk, catatan proses, hasil ukur, pemeriksaan sambungan, kondisi permukaan, ketidaksesuaian, perubahan, serta catatan perlindungan dan pengiriman. Pisahkan juga catatan pabrik dari pemeriksaan penerimaan lokasi atau penerimaan sistem terpasang.
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Fabrikasi Aluminium: Dimensi, Permukaan, Sambungan, dan Rekaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[ISO 9001](https://www.iso.org/standard/62085.html) mendukung proses dan rekaman mutu yang terkendali, tetapi sertifikasi sistem mutu tidak menyatakan bagian tertentu memenuhi proyek. Jalan pintas yang umum adalah memeriksa sekali di akhir. Alternatif yang lebih kuat adalah titik pemeriksaan yang mengikuti proses, sehingga kondisi penting tercatat sebelum tidak lagi terlihat.
 
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Fabrikasi Aluminium: Dimensi, Permukaan, Sambungan, dan Rekaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Fabrikasi Aluminium: Dimensi, Permukaan, Sambungan, dan Rekaman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Inspeksi fabrikasi aluminium yang baik menghubungkan identitas, gambar, proses, pemeriksaan, ketidaksesuaian, dan pelepasan produk dalam satu rantai rekaman. Langkah berikutnya: buat rencana inspeksi per tahap yang menyebut objek, dokumen acuan, pemeriksa, rekaman, titik tahan, dan tindakan bila hasil belum jelas. Aturan kerjanya sederhana: jika produk tidak dapat ditautkan pada bahan, gambar, dan pemeriksaan yang tepat, jangan menyatakan ia siap dilepas atau diterima.
