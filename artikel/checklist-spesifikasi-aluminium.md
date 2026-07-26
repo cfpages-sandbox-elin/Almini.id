@@ -1,9 +1,10 @@
 ---
 article_id: ALM-02-A03
-title: "Checklist Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta"
+title: "Daftar Periksa Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta"
 slug: "checklist-spesifikasi-aluminium"
-description: "Turn use, environment, form, alloy, temper, dimensions, tolerance, finish, certificates, fabrication, packaging, inspection, and substitution rules into a complete checklist"
-status: outline
+description: "Cara menyusun kebutuhan pembelian aluminium yang dapat diperiksa, dari fungsi dan identitas material hingga dokumen, penggantian produk, serta penerimaan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,46 +15,14 @@ reader_address: "Kawan Almini.id"
 final_route: "/artikel/checklist-spesifikasi-aluminium.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/104476/permen-"
   - "https://www.iso.org/standard/62085.html"
   - "https://www.astm.org/e2357-18.html"
   - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/85023.html"
-  - "https://www.iso.org/committee/50126/x/catalogue/"
   - "https://www.iso.org/standard/76708.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Checklist Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Checklist Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta”
-- **Reader and situation:** Designer or buyer preparing an enquiry
-- **Reader outcome:** Turn use, environment, form, alloy, temper, dimensions, tolerance, finish, certificates, fabrication, packaging, inspection, and substitution rules into a complete checklist
-- **Primary intent:** Write a verifiable purchase requirement
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Kawan Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes structural sizing, owned by ALM-05-A01, and supplier stock claims, owned by `/produk/`
-- **Final public route:** `/artikel/checklist-spesifikasi-aluminium.html`
-- **Appointed CMS date:** `2025-10-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Almini.id`, `Sobat Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -64,134 +33,75 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Spesialis Jasa Produk Aluminium untuk Rumah hingga Proyek Besar 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Daftar Periksa Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Almini.id!
 
-### KR-17
+Spesifikasi aluminium yang hanya berbunyi “aluminium warna hitam” atau “profil aluminium sesuai contoh” terlalu mudah ditafsirkan berbeda. Akibatnya, pembeli, perakit, dan pemeriksa bisa merasa membicarakan barang yang sama padahal bentuk, kondisi material, ukuran, pelapisan, atau kelengkapan sistemnya berbeda. Cara aman menyusunnya adalah mengubah kebutuhan proyek menjadi daftar periksa: fungsi dulu, identitas produk kemudian, lalu bukti dan aturan penerimaannya.
 
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Support RFQs, scope normalization, cost-driver explanations, vendor comparison, and hidden-condition governance.
-- **Safe grounded facts:** Cleaning cost can change with area, contamination, access, frequency, hours, protection, water/logistics, and mobilization. Film cost can change with exact product, glazing compatibility, area/layout, waste, access, existing-film removal, attachment system, evidence, and warranty.
-- **Limits:** No public source here establishes a current project price, contractor capability, insurance, availability, tax, contract right, or change-order entitlement. Obtain dated quotations and project/legal review under GATE-09.
+Daftar ini tidak menentukan ukuran struktural atau menyatakan suatu produk pasti cocok untuk proyek tertentu. Nilai ukuran, toleransi, metode uji, dan penerimaan harus berasal dari rancangan serta dokumen proyek yang disetujui. Namun daftar periksa yang jelas membuat Anda tahu data apa yang perlu diminta, siapa yang menyetujui perubahan, dan kapan pesanan harus ditahan. [NEEDS GATE-01: gunakan standar lengkap dan dasar rancangan yang berlaku bila spesifikasi membutuhkan klasifikasi, angka, atau kriteria lulus.]
 
-### KR-29
+![Ilustrasi Spesialis Jasa Produk Aluminium untuk Rumah hingga Proyek Besar 1](/wp-content/uploads/2026/05/Spesialis-Jasa-Produk-Aluminium-untuk-Rumah-hingga-Proyek-Besar-1.avif)
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-31
+## Mulai dari objek dan fungsi yang dibeli
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Tulis objek pengadaan dengan nama yang tidak mengundang tebakan. Apakah yang dibeli profil ekstrusi, lembaran, kusen, daun pintu, jendela, atau satu sistem lengkap? Sebutkan fungsi, lokasi penggunaan, lingkungan paparan, kuantitas, dan batas pekerjaan. Bila produk bertemu kaca, dinding, penutup atap, atau pekerjaan lain, tuliskan antarmukanya juga.
 
-## Evidence gates
+Ini penting karena aluminium bahan baku, komponen hasil fabrikasi, dan sistem terpasang bukan hal yang sama. Data sebuah profil belum menerangkan gasket, yaitu pelapis elastis pada sambungan, bahan perapat (sealant), kaca, pengikat, atau pekerjaan pemasangannya. Teman Almini.id, tanyakan sejak awal: “Bagian apa yang benar-benar masuk harga dan bukti apa yang harus datang bersamanya?”
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
+Untuk kebutuhan produk atau layanan setempat, pembaca dapat melihat [informasi produk aluminium di Yogyakarta](/produk-aluminium-yogyakarta.html). Namun penawaran aktual, ketersediaan, harga, dan jangka waktu tetap harus dibuktikan melalui dokumen proyek yang bertanggal, bukan disimpulkan dari halaman umum. [NEEDS GATE-09: konfirmasi ruang lingkup, penawaran, ketersediaan, jaminan, dan hak perubahan dengan dokumen proyek.]
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Bedakan paduan, temper, bentuk, dan ukuran
 
-## Internal-link plan
+Sebut “aluminium” saja belum cukup sebagai identitas. Paduan adalah campuran aluminium dengan unsur lain yang ditetapkan untuk produk tertentu. Temper adalah penandaan kondisi material setelah proses tertentu; ini terpisah dari nama paduan. [ISO 2107](https://www.iso.org/standard/85023.html) membahas penandaan temper untuk aluminium dan paduannya. Jadi, bila hal itu relevan pada kebutuhan Anda, catat paduan dan temper sebagai dua isian yang berbeda.
 
-### Existing local routes
+Lanjutkan dengan bentuk produk: profil, hollow, lembaran, pelat, atau bentuk lain yang sesuai pesanan. Nyatakan ukuran yang diperlukan, cara atau titik pengukurannya, arah panjang, serta toleransi yang dirujuk oleh spesifikasi. [ISO 6362-4](https://www.iso.org/standard/76708.html) mencakup toleransi dimensi dan bentuk bagi profil ekstrusi aluminium; halaman publiknya tidak menggantikan teks standar lengkap maupun nilai penerimaan proyek.
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Daftar pertanyaan praktisnya begini:
 
-### Planned sibling articles
+- apa nama paduan, temper, dan bentuk produknya;
+- dimensi mana yang penting, bagaimana satuannya, dan dokumen apa yang menjadi rujukan toleransi;
+- apakah ada identitas kelompok produksi atau batch untuk menautkan barang dengan catatan material; dan
+- apakah sifat mekanis diperlukan untuk fungsi yang dimaksud, serta dari dokumen mana data itu dibaca.
 
-These are future routes. Do not link them as live until their HTML exists.
+Sobat Almini.id, jangan mengisi angka hanya karena pemasok menyebutnya “ukuran standar”. Angka, metode ukur, dan batas penerimaan harus cocok dengan rancangan yang sebenarnya. [NEEDS GATE-04: pastikan identitas material, bentuk, dimensi, permukaan, sambungan, dan kondisi produk yang akan dipasang.]
 
-- `ALM-02-A01` → `/artikel/bentuk-produk-aluminium.html` — Profil, Hollow, Plat, ACP, Honeycomb, dan Spandrel: Mengenali Bentuk Produk Aluminium
-- `ALM-02-A02` → `/artikel/cara-mengukur-produk-aluminium.html` — Cara Mengukur Ketebalan, Penampang, Kelurusan, dan Toleransi Produk Aluminium
-- `ALM-02-A04` → `/artikel/membaca-sertifikat-material-aluminium.html` — Cara Membaca Mill Certificate dan Menjaga Ketertelusuran Aluminium
-- `ALM-02-A05` → `/artikel/membandingkan-penawaran-aluminium.html` — Membandingkan Penawaran Aluminium Tanpa Terjebak Harga per Batang
+## Jelaskan permukaan akhir dan sambungan dengan bahan lain
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Permukaan akhir bukan cuma pilihan warna. Nyatakan jenis penyelesaian permukaan yang diminta, warna atau contoh yang disepakati bila ada, sisi yang terlihat, perlindungan selama pengiriman, serta kondisi yang tidak boleh diterima seperti kerusakan yang didefinisikan proyek. Jangan menulis “finishing bagus”; tulis bukti apa yang perlu diserahkan dan bagaimana contoh atau sampel dinilai.
 
-## Hasil akhir dan prasyarat
+Lalu daftar semua pertemuan material: aluminium dengan kaca, bahan perapat, pengikat, baja, dinding, atau lapisan lain. Setiap pertemuan dapat memerlukan gambar, bahan yang ditentukan, urutan fabrikasi, atau perlindungan khusus. Menyebut salah satu bahan tidak cukup untuk membuktikan perilaku susunan lengkapnya. Karena itu, minta gambar kerja, contoh, atau model uji bila dokumen proyek memang memerlukannya.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Pisahkan fabrikasi, pemeriksaan, dan pengujian
 
-## Langkah 1 — tetapkan scope
+Fabrikasi adalah pekerjaan membentuk atau merakit produk; pemeriksaan adalah kegiatan mencocokkan pekerjaan dengan dokumen; sedangkan pengujian memakai metode tertentu untuk melihat perilaku pada kondisi yang ditetapkan. Ketiganya tidak boleh diperlakukan sebagai satu kalimat “sesuai standar”.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam spesifikasi, tuliskan gambar kerja yang harus diajukan, contoh atau purwarupa bila diperlukan, catatan pabrik, pemeriksaan saat barang diterima, pemeriksaan pekerjaan yang nanti tertutup, dan daftar cacat yang perlu ditutup. Kerangka pengelolaan mutu [ISO 9001](https://www.iso.org/standard/62085.html) membantu membedakan kebutuhan proses dan rekaman, tetapi tidak membuktikan produk atau proyek Anda telah diterima.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Bila proyek mensyaratkan pengujian sistem, sebut objek uji, dokumen rujukan, pihak yang menyaksikan, serta catatan yang harus diserahkan; jangan menyalin metode atau angka tanpa dasar rancangan. Sebagai contoh, [ASTM E2357](https://www.astm.org/e2357-18.html) membahas evaluasi susunan penghalang udara, dan [ASTM E1105](https://www.astm.org/e1105-15r23.html) membahas pengujian lapangan ketahanan air pada jendela, pintu, skylight, dan curtain wall. Kedua halaman itu tidak membuktikan sistem yang Anda beli telah lulus. [NEEDS GATE-06: tetapkan dokumen yang disetujui, urutan pemeriksaan, saksi, kriteria penerimaan, serta catatan serah-terima untuk proyek yang tepat.]
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Tentukan dokumen yang harus mengikuti barang
 
-## Langkah 3 — jalankan urutan kerja
+Dokumen yang baik harus dapat dicocokkan dengan barang, bukan hanya dikumpulkan dalam satu folder. Buat kolom untuk identitas produk, nomor pesanan, kelompok produksi bila tersedia, gambar kerja yang disetujui, lembar data, sertifikat atau catatan material bila dipersyaratkan, sampel, catatan pemeriksaan, dan perubahan yang sudah disetujui.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jelaskan pula kapan setiap dokumen diserahkan: sebelum pembelian, sebelum pengiriman, saat penerimaan, atau ketika pekerjaan selesai. Pisahkan catatan pabrik dari catatan penerimaan lokasi, dan pisahkan gambar rencana dari gambar kondisi akhir pemasangan. Dengan begitu, ketika ada pertanyaan setelah pekerjaan berjalan, tim dapat mencari sumber yang tepat tanpa menebak.
 
-## Hold point dan kondisi berhenti
+## Atur penggantian produk sebelum terjadi
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Penggantian produk dapat muncul karena ketersediaan, jadwal, atau alasan lain. Yang berbahaya bukan perubahan itu sendiri, melainkan perubahan tanpa pembandingan yang jelas. Spesifikasi perlu meminta pemasok menjelaskan produk awal, produk usulan, perbedaan bentuk atau material, perubahan pada permukaan akhir dan antarmuka, dampak terhadap dokumen, serta persetujuan tertulis sebelum barang dibeli atau dipasang.
 
-## Verifikasi hasil dan handover
+Misalnya, tampilan dua profil boleh jadi mirip, tetapi paduan, temper, ukuran, atau cara pertemuannya dengan komponen lain dapat berbeda. Karena itu, jangan menerima kalimat “setara” tanpa data pembanding. Kawan Almini.id, tahan keputusan sampai pihak berwenang memeriksa perubahan terhadap kebutuhan awal dan seluruh dokumen yang ikut berubah.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Terima berdasarkan daftar, bukan kesan visual
 
-## Objection or shortcut to address
+Saat barang tiba, cocokkan label, kuantitas, kondisi kemasan, dokumen pengiriman, dan identitas produk dengan pesanan. Bila ada bagian yang belum dapat diperiksa karena akan tertutup, tetapkan kapan pemeriksaannya dilakukan dan siapa yang mencatat hasilnya. Foto dapat membantu rekaman, tetapi foto kemasan tidak menggantikan kecocokan dokumen dan barang.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Penerimaan akhir sebaiknya menghasilkan daftar terbuka dan daftar yang sudah ditutup: barang mana yang diterima, dokumen mana yang lengkap, perubahan apa yang disetujui, cacat apa yang perlu diperbaiki, serta catatan apa yang harus disimpan pemilik. Jangan menandatangani penerimaan sebagai bukti kinerja, kapasitas, atau kesesuaian penuh apabila bukti yang dibutuhkan belum tersedia.
 
-## Required conclusion
+Jalan pintas yang sering dipakai adalah mengambil satu katalog produk lalu menyalinnya menjadi spesifikasi. Katalog bisa berguna untuk memulai, tetapi biasanya tidak menjelaskan fungsi proyek, batas pekerjaan, antarmuka, penerimaan, dan penggantian yang spesifik. Jalan yang lebih kuat adalah memakai katalog sebagai data awal, lalu menguncinya dengan daftar periksa proyek dan bukti yang dapat ditelusuri.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Daftar periksa spesifikasi aluminium yang baik bergerak dari fungsi menuju identitas, dokumen, perubahan, lalu penerimaan. Sebelum mengirim permintaan penawaran, buat satu tabel dengan kolom kebutuhan, bukti yang diminta, waktu penyerahan, pemeriksa, dan kondisi penolakan. Aturan kerjanya sederhana: bila produk, dokumen, dan persetujuan tidak dapat dicocokkan, jangan anggap spesifikasinya sudah jelas.

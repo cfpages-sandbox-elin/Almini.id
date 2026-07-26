@@ -2,8 +2,9 @@
 article_id: ALM-01-A04
 title: "Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat"
 slug: "dari-bauksit-ke-profil-aluminium"
-description: "Trace mining, refining, smelting, alloying, casting, rolling, extrusion, finishing, fabrication, and recovery while distinguishing stages and evidence boundaries"
-status: outline
+description: "Memahami rantai umum pembuatan produk aluminium, dari bauksit hingga profil dan catatan produk, tanpa menyamakan proses umum dengan bukti asal produk tertentu."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,45 +16,13 @@ final_route: "/artikel/dari-bauksit-ke-profil-aluminium.html"
 technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/index/"
-  - "https://www.iso.org/sectors/building-construction"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
   - "https://www.iso.org/standard/85023.html"
   - "https://www.iso.org/committee/50126/x/catalogue/"
   - "https://www.iso.org/standard/76708.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat”
-- **Reader and situation:** General reader assessing origin and processing
-- **Reader outcome:** Trace mining, refining, smelting, alloying, casting, rolling, extrusion, finishing, fabrication, and recovery while distinguishing stages and evidence boundaries
-- **Primary intent:** Understand the aluminium production chain
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes calculating project carbon impact, owned by ALM-13-A01, and fabrication instructions, owned by ALM-03-A01
-- **Final public route:** `/artikel/dari-bauksit-ke-profil-aluminium.html`
-- **Appointed CMS date:** `2025-10-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -64,133 +33,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Profil Aluminium 2` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Almini.id!
 
-### KR-19
+Profil aluminium di rumah atau bangunan tidak muncul langsung dari bauksit. Secara garis besar, rantainya melewati penambangan bijih, pemurnian menjadi bahan antara, peleburan menjadi aluminium, pencampuran paduan, pencetakan, pembentukan seperti ekstrusi, penyelesaian permukaan, lalu fabrikasi menjadi komponen. Memahami urutan ini membantu kita bertanya lebih tepat ketika melihat label “aluminium”, tetapi urutan umum itu tidak membuktikan dari mana satu produk proyek berasal atau bagaimana dampaknya.
 
-- **Original sources:** [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/), [ISO building-construction standards](https://www.iso.org/sectors/building-construction).
-- **Purpose for this article:** Prevent façade materials from being compared by trade name alone.
-- **Safe grounded facts:** Material, processed product, coating/core, support/fixing, joints, interfaces, installation, and complete-system performance are separate evidence layers.
-- **Limits:** No equivalence, rating, durability, fire, structural, water, energy, acoustic, environmental, or warranty claim without exact identity and matched evidence.
+Yang perlu diingat: setiap tahap menghasilkan objek dan catatan yang berbeda. Produk akhir dapat memiliki bentuk, paduan, kondisi temper, ukuran, permukaan, serta kelompok produksi yang berbeda dari bahan sebelumnya. Karena itu, sebuah cerita tentang rantai produksi bukan pengganti dokumen identitas produk yang benar-benar dibeli. [NEEDS GATE-04: asal, komposisi, lapisan, dimensi, dan kondisi produk proyek harus ditautkan pada catatan produk yang spesifik.]
 
-### KR-21
+![Ilustrasi Profil Aluminium 2](/wp-content/uploads/2026/06/Profil-Aluminium-2.webp)
 
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-31
+## Rantai umum, bukan riwayat satu batang profil
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Bauksit adalah bijih yang menjadi titik awal salah satu jalur produksi aluminium primer. Bijih itu diproses untuk menghasilkan bahan antara, kemudian melalui peleburan untuk menghasilkan aluminium. Peleburan di sini berarti proses menghasilkan logam aluminium dari bahan antara; sesudahnya logam dapat dicampur dengan unsur lain untuk membentuk paduan yang diperlukan oleh produk tertentu.
 
-## Evidence gates
+Setelah paduan siap, logam cair dapat dicetak menjadi bentuk antara, misalnya billet untuk bahan ekstrusi atau bentuk lain untuk proses lanjutan. Pembentukan berikutnya menentukan apakah hasilnya menjadi profil, lembaran, atau produk lain. Pada ekstrusi, bahan didorong melalui cetakan untuk membentuk penampang profil. Setelah itu dapat ada perlakuan, pemotongan, penyelesaian permukaan, perakitan, dan pemeriksaan sesuai kebutuhan produk.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+Urutan ini memudahkan membaca istilah pemasok. Namun Kawan Almini.id, jangan melompat dari kata “bauksit” ke kesimpulan bahwa sebuah kusen tertentu memakai bahan dari lokasi tertentu, memiliki kandungan daur ulang tertentu, atau mempunyai hasil lingkungan tertentu. Itu memerlukan rantai dokumen yang cocok dengan produk tersebut, bukan pengetahuan proses secara umum.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Dari aluminium cair ke bentuk produk
 
-## Internal-link plan
+Tahap paduan dan pencetakan menjelaskan mengapa nama “aluminium” terlalu luas untuk dijadikan spesifikasi. Paduan adalah campuran aluminium dengan unsur lain untuk produk yang ditentukan. Kondisi temper adalah penandaan keadaan material setelah proses tertentu, dan bukan nama lain untuk paduan. [ISO 2107](https://www.iso.org/standard/85023.html) membahas penandaan temper pada aluminium dan paduannya.
 
-### Existing local routes
+Sesudah itu, bentuk produk perlu disebutkan sendiri. Profil ekstrusi, lembaran, pelat, dan komponen rakitan mempunyai jalur pembentukan serta kebutuhan pemeriksaan yang berbeda. Untuk profil ekstrusi, dimensi dan bentuk juga perlu dibaca bersama toleransi yang dirujuk spesifikasi; [ISO 6362-4](https://www.iso.org/standard/76708.html) adalah salah satu standar yang mencakup toleransi dimensi serta bentuk profil ekstrusi aluminium. Halaman publik tersebut tidak memberi angka penerimaan untuk pesanan Anda.
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Jadi, saat membaca informasi produk, pisahkan setidaknya lima hal: nama paduan, temper, bentuk produk, ukuran atau toleransi, dan kondisi permukaan. [Katalog ISO/TC 79 untuk aluminium tempa](https://www.iso.org/committee/50126/x/catalogue/) juga menunjukkan bahwa identitas produk aluminium dibahas melalui beberapa standar, bukan satu kata dagang saja.
 
-### Planned sibling articles
+## Penyelesaian permukaan dan fabrikasi adalah tahap baru
 
-These are future routes. Do not link them as live until their HTML exists.
+Setelah bentuk dasar terbentuk, produk dapat memperoleh penyelesaian permukaan, misalnya proses yang membentuk atau memberi lapisan pada permukaan. Produk juga dapat masuk ke fabrikasi: dipotong, dikerjakan, dirakit, atau dipasangkan dengan komponen lain. Di titik ini, profil mentah berubah menjadi bagian yang mungkin sudah memiliki lubang, pengikat, kaca, bahan perapat, atau pelapis elastis pada sambungan (gasket).
 
-- `ALM-01-A02` → `/artikel/seri-paduan-dan-temper-aluminium.html` — Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material
-- `ALM-01-A03` → `/artikel/aluminium-versus-baja-stainless-dan-kayu.html` — Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan
-- `ALM-01-A05` → `/artikel/sifat-aluminium-massa-kekuatan-kekakuan.html` — Ringan Bukan Berarti Lemah: Massa, Kekuatan, Kekakuan, dan Konduktivitas Aluminium
-- `ALM-01-A06` → `/artikel/glosarium-aluminium-untuk-proyek.html` — Glosarium Aluminium: Satuan, Dimensi, Toleransi, Sertifikat, dan Istilah Proyek
+Itulah sebabnya data bahan dasar tidak otomatis menjelaskan produk jadi. Nama aluminium tidak menjelaskan lapisan, bahan inti, pengikat, sambungan, atau dukungan yang dipakai dalam suatu susunan. Halaman [katalog SNI BSN](https://pesta.bsn.go.id/produk/index/) dapat membantu mencari keberadaan standar, tetapi tidak menetapkan kesetaraan atau penerimaan untuk sistem tertentu tanpa identitas dan bukti yang cocok.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Teman Almini.id, jika yang dinilai adalah produk terpasang, jangan berhenti pada nama profil. Tanyakan pula komponen apa yang menyertainya, gambar apa yang menjadi acuan, dan apakah rekaman fabrikasi serta penerimaan dapat ditautkan ke produk itu.
 
-## Jawaban singkat dan salah paham utama
+## Catatan yang seharusnya ikut berubah sepanjang proses
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Setiap perpindahan tahap idealnya meninggalkan informasi yang membantu tahap berikutnya mengenali produk. Dalam pengadaan, informasi itu dapat berupa nomor produk, nama paduan, temper, bentuk, ukuran, keadaan permukaan, kelompok produksi, serta penggunaan yang dimaksud. Tidak semua proyek meminta tingkat rekaman yang sama, tetapi tanpa identitas dasar, pemeriksaan perubahan menjadi lemah.
 
-## Definisi dan batas objek
+Bedakan juga catatan bahan, catatan proses, gambar produk, dan catatan penerimaan. Sebuah sertifikat atau lembar data mungkin menjelaskan satu bahan atau produk, tetapi belum tentu menjelaskan seluruh susunan yang terpasang. Begitu pula foto produk tidak dapat memastikan paduan, temper, lapisan yang tidak terlihat, atau mutu sambungan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan pertanyaan berikut saat meminta bukti:
 
-## Cara kerjanya
+- produk mana tepatnya yang dicakup dokumen ini;
+- apakah nama paduan, temper, bentuk, dan ukurannya cocok dengan pesanan;
+- apakah dokumen berlaku untuk kelompok produksi atau pengiriman yang diterima; dan
+- komponen atau tahap apa yang tidak dicakup dokumen tersebut.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jawaban yang belum jelas bukan berarti produk buruk; itu berarti klaimnya belum boleh diperluas. [NEEDS GATE-07: setiap angka kinerja, sertifikasi, atau hasil produk harus dipasangkan dengan laporan dan metode yang sesuai dengan produk atau sistem yang dinilai.]
 
-## Faktor yang mengubah hasil
+## Faktor yang membuat satu rantai menjadi banyak kemungkinan
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Satu produk aluminium dapat melewati variasi jalur: bahan awalnya bisa berbeda, paduannya dapat berbeda, bentuk antara dapat berbeda, dan tahap akhir dapat ditangani oleh pihak yang berbeda. Oleh sebab itu, rantai umum tidak boleh dipakai untuk menebak asal geografis, kandungan bahan daur ulang, konsumsi energi, emisi, atau sertifikasi satu produk.
 
-## Contoh keputusan praktis
+Kondisi pemakaian pun menambah lapisan pertanyaan. Lingkungan, penyelesaian permukaan, pertemuan dengan bahan lain, serta cara pemasangan dapat memengaruhi keputusan produk dan sistem. [ISO 12944-2](https://www.iso.org/standard/64834.html) memperlihatkan bahwa lingkungan korosi diklasifikasikan secara khusus; halaman itu tidak membuktikan ketahanan suatu profil atau sistem pada lokasi proyek tertentu.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sederhananya, proses membuat bahan dan bukti kecocokan produk adalah dua pekerjaan yang berbeda. Yang pertama memberi konteks; yang kedua menuntut dokumen, pemeriksaan, dan penilaian yang tepat untuk kasusnya.
 
-## Kesalahan umum dan cara memeriksanya
+## Contoh cara memakai pengetahuan rantai produksi
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan Anda melihat penawaran untuk profil aluminium dengan penyelesaian permukaan tertentu. Pengetahuan rantai produksi membantu Anda menyusun pertanyaan: apakah ini profil ekstrusi atau bentuk lain? Paduan dan temper apa yang dinyatakan? Ukuran mana yang dikendalikan? Apakah penyelesaian permukaan dilakukan sebelum atau sesudah pemotongan tertentu? Dokumen apa yang menghubungkan penawaran dengan barang yang akan diterima?
 
-## Objection or shortcut to address
+Pertanyaan itu tidak meminta pemasok membuka seluruh riwayat industri. Tujuannya adalah membuat kebutuhan dan bukti yang relevan menjadi jelas. Sobat Almini.id, bila jawabannya dipakai untuk menerima produk, mengubah rancangan, atau membuat klaim publik, minta pihak yang berwenang menilai kecocokan data terhadap spesifikasi proyek.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Kesalahan umum saat membaca asal aluminium
 
-## Required conclusion
+Kesalahan pertama adalah menganggap “dari bauksit ke profil” sebagai bukti asal satu produk. Perbaiki dengan meminta identitas dan catatan yang dapat ditelusuri. Kesalahan kedua adalah menyamakan aluminium bahan dengan sistem lengkap. Perbaiki dengan mendaftar lapisan, sambungan, dukungan, pengikat, serta komponen lain yang membuat sistem bekerja.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Kesalahan ketiga adalah menganggap satu sertifikat atau satu angka dapat menjelaskan seluruh rantai. Perbaiki dengan memeriksa produk yang dicakup, periode data, dasar perhitungan, dan batas dokumennya. Jangan mengubah informasi umum menjadi pernyataan tentang emisi, kandungan daur ulang, asal, atau hasil proyek tanpa bukti produk yang cocok.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Ringkasnya, aluminium dapat dipahami melalui rantai dari bauksit, pemurnian, peleburan, paduan, pencetakan, pembentukan, hingga produk jadi; tetapi rantai itu hanya peta proses umum. Langkah berikutnya adalah membuat daftar identitas produk yang akan dibeli—paduan, temper, bentuk, ukuran, permukaan, kelompok produksi, dan dokumennya. Aturan kerjanya: proses umum memberi konteks, sedangkan klaim tentang produk proyek harus berdiri di atas bukti produk yang spesifik.

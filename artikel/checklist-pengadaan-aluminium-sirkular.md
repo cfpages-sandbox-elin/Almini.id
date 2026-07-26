@@ -1,9 +1,10 @@
 ---
 article_id: ALM-13-A06
-title: "Checklist Pengadaan Aluminium Sirkular yang Dapat Diaudit"
+title: "Daftar Periksa Pengadaan Aluminium Sirkular yang Dapat Diaudit"
 slug: "checklist-pengadaan-aluminium-sirkular"
-description: "Turn durability, repair, replaceable parts, recycled-content evidence, responsible production, packaging, take-back, scrap recovery, declarations, data rights, and verification into tender questions"
-status: outline
+description: "Cara mengubah kebutuhan aluminium yang awet, dapat diperbaiki, memakai bahan daur ulang, dan dapat dipulihkan menjadi pertanyaan pengadaan serta bukti yang dapat ditelusuri."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,47 +15,14 @@ reader_address: "Teman Almini.id"
 final_route: "/artikel/checklist-pengadaan-aluminium-sirkular.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/104476/permen-"
   - "https://www.iso.org/standard/45798.html"
   - "https://www.iso.org/standard/83053.html"
   - "https://www.iso.org/standard/85023.html"
-  - "https://www.iso.org/committee/50126/x/catalogue/"
-  - "https://www.iso.org/standard/76708.html"
   - "https://www.iso.org/standard/14021"
   - "https://www.iso.org/standard/38131.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Checklist Pengadaan Aluminium Sirkular yang Dapat Diaudit
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Checklist Pengadaan Aluminium Sirkular yang Dapat Diaudit”
-- **Reader and situation:** Owner or buyer adding environmental requirements
-- **Reader outcome:** Turn durability, repair, replaceable parts, recycled-content evidence, responsible production, packaging, take-back, scrap recovery, declarations, data rights, and verification into tender questions
-- **Primary intent:** Procure measurable circular outcomes
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Teman Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Kawan Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes guaranteeing carbon reduction or vendor performance; ALM-02-A05 owns commercial quote comparison and ALM-11-A06 owns real case-study proof
-- **Final public route:** `/artikel/checklist-pengadaan-aluminium-sirkular.html`
-- **Appointed CMS date:** `2026-07-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Pengadaan Aluminium Sirkular yang Dapat Diaudit**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Almini.id`, `Sobat Almini.id`, or `Kawan Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -65,140 +33,80 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Daftar Periksa Pengadaan Aluminium Sirkular yang Dapat Diaudit
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Almini.id!
 
-### KR-17
+Pengadaan aluminium disebut sirkular bukan karena penawar menulis kata “hijau” atau “dapat didaur ulang”. Yang membuatnya dapat dipertanggungjawabkan adalah jejak keputusan: produk apa yang dibeli, bukti kandungan bahan daur ulangnya apa, bagaimana komponen dapat dirawat atau diganti, dan ke mana material diarahkan saat masa pakainya selesai. Semua itu perlu masuk ke permintaan penawaran, dokumen pemasok, serta pemeriksaan penerimaan.
 
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Support RFQs, scope normalization, cost-driver explanations, vendor comparison, and hidden-condition governance.
-- **Safe grounded facts:** Cleaning cost can change with area, contamination, access, frequency, hours, protection, water/logistics, and mobilization. Film cost can change with exact product, glazing compatibility, area/layout, waste, access, existing-film removal, attachment system, evidence, and warranty.
-- **Limits:** No public source here establishes a current project price, contractor capability, insurance, availability, tax, contract right, or change-order entitlement. Obtain dated quotations and project/legal review under GATE-09.
+Jadi, daftar periksanya harus memisahkan klaim dari bukti. Aluminium memang secara teknis dapat didaur ulang, tetapi hal itu sendiri tidak membuktikan kandungan daur ulang pada produk yang ditawarkan, tidak menjamin material bekas akan terkumpul kembali, dan tidak otomatis membuktikan dampak proyek lebih rendah. Klaim lingkungan yang dibuat sendiri maupun deklarasi lingkungan produk tetap perlu dibaca sesuai lingkup, dasar data, dan verifikasinya. [ISO 14021](https://www.iso.org/standard/14021) membahas klaim lingkungan yang dinyatakan sendiri, sedangkan [ISO 14025](https://www.iso.org/standard/38131.html) menjelaskan kerangka deklarasi lingkungan Tipe III.
 
-### KR-30
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [ISO 15686-1 service-life planning](https://www.iso.org/standard/45798.html), [ISO 55000:2024 asset-management vocabulary](https://www.iso.org/standard/83053.html).
-- **Purpose for this article:** Ground inspection/access, cleaning, defect triage, diagnosis, making-safe, planned maintenance, repair/replace/retrofit, records, and lifecycle decisions.
-- **Safe grounded facts:** Symptom, access/viewing limitation, baseline, test, root-cause hypothesis, consequence, temporary control, repair design, acceptance, and monitoring are separate.
-- **Limits:** No remote declaration of safety, cause, repair method, cleaner compatibility, remaining life, cost, warranty, or reuse/recycling outcome without condition evidence and competent review.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-31
+## Hasil yang dicari sebelum meminta penawaran
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Mulailah dengan hasil yang ingin dijaga sepanjang umur pakai, bukan dengan satu label bahan. Misalnya: kusen harus dapat dirawat, komponen aus tertentu dapat diganti, sisa potongan dapat dipisahkan, dan pemilik menerima catatan yang cukup untuk mengambil keputusan berikutnya. Tuliskan siapa yang berwenang menyetujui spesifikasi, siapa yang memeriksa dokumen, dan siapa yang menerima barang di lokasi.
 
-### KR-37
+Untuk setiap hasil, buat pertanyaan yang jawabannya bisa disimpan. Contohnya: “Bagian mana yang direncanakan bisa diganti tanpa mengganti seluruh sistem?” atau “Dokumen apa yang menghubungkan produk yang datang dengan bahan yang ditawarkan?” Ini lebih berguna daripada pertanyaan umum, “Apakah produk ini ramah lingkungan?”
 
-- **Original sources:** [ISO 14021:2026 self-declared environmental claims](https://www.iso.org/standard/14021) and [ISO 14025:2006 Type III environmental declarations](https://www.iso.org/standard/38131.html).
-- **Purpose for this article:** Ground recycled-content, recyclability, circularity, carbon, EPD, reuse, and lifecycle comparisons.
-- **Safe grounded facts:** Aluminium's technical recyclability does not prove collection, recovery yield, recycled content, lower project impact, reusable condition, or a product-specific carbon result.
-- **Limits:** Recheck the current declaration, operator, PCR, verification, geography, energy mix, allocation, transport, service life, and end-of-life assumptions before comparison. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `ALM-01` | KR-19, KR-21, KR-31 | Aluminium fundamentals, alloy/temper/form identity, and the boundary between material, processed product, and installed system. | GATE-01, GATE-04, GATE-07. | | `ALM-02` | KR-17, KR-29, KR-31 | Product forms, tolerances, delivery evidence, measurement, comparable scope, and traceable procurement. | GATE-01, GATE-04, GATE-06, GATE-09. | | `ALM-03` | KR-16, KR-29, KR-31, KR-32, KR-36 | Forming, machining, aluminium welding, fabrication QA, combustible-dust/process hazards, and controlled handover. | GATE-01, GATE-02, GATE-04, GATE-06, GATE-07. | | `ALM-04` | KR-21, KR-30, KR-31, KR-33 | Finish identity, anodizing scope, exposure, dissimilar-metal/water-path interfaces, diagnosis, and compatible care. | GATE-01, GATE-04, GATE-05, GATE-07, GATE-10. | | `ALM-05` | KR-02, KR-18, KR-25, KR-29, KR-31, KR-32 | Structural use and retrofit as project-specific load-path, connection, fabrication, condition, and approval questions. | GATE-01, GATE-02, GATE-04, GATE-06, GATE-07, GATE-10. | | `ALM-06` | KR-19, KR-21, KR-25, KR-26, KR-28, KR-29, KR-34 | ACP/ACM, honeycomb, curtain-wall, spandrel, support, water/air, fire, falling-object, and commissioning evidence at assembly level. | GATE-02, GATE-04, GATE-06, GATE-07, GATE-08, GATE-10. | | `ALM-07` | KR-05, KR-08, KR-16, KR-25, KR-29, KR-35 | Frames, doors, windows, partitions, glazing, hardware, perimeter interfaces, operation, testing, and handover. | GATE-04, GATE-06, GATE-07, GATE-08, GATE-10. | | `ALM-08` | KR-21, KR-25, KR-26, KR-29, KR-31, KR-33 | Canopies, roofs, gutters, drainage, movement, support, exposure, finish, fabrication, and access as an installed outdoor system. | GATE-02, GATE-03, GATE-04, GATE-06, GATE-07, GATE-08. | | `ALM-09` | KR-07, KR-08, KR-21, KR-29, KR-33, KR-35 | Wet-interior aluminium through exact product/finish, joints, moisture path, cleaning compatibility, support, hardware, and installation evidence. | GATE-04, GATE-05, GATE-06, GATE-07, GATE-10. | | `ALM-10` | KR-11, KR-21, KR-27, KR-28, KR-34, KR-35 | Thermal, moisture, acoustic, and fire claims as method- and complete-assembly-specific outcomes. | GATE-01, GATE-02, GATE-04, GATE-07, GATE-08, GATE-10. | | `ALM-11` | KR-09, KR-16, KR-17, KR-29, KR-30, KR-33 | Installation, traceability, inspection, compatible cleaning, defect diagnosis, repair/replace decisions, and documented handover. | GATE-04, GATE-05, GATE-06, GATE-07, GATE-09, GATE-10. | | `ALM-12` | KR-02, KR-03, KR-04, KR-29, KR-32, KR-36 | Indonesian K3 baseline plus aluminium-specific hot work, dust, fume, chemical, lifting, height, public, and emergency controls. | GATE-02, GATE-03, GATE-04, GATE-06, GATE-08. | | `ALM-13` | KR-17, KR-30, KR-31, KR-37 | Product-specific environmental declarations, substantiated claims, condition-led reuse, separation, recovery route, and lifecycle scope. | GATE-04, GATE-06, GATE-07, GATE-09, GATE-10. | Coverage result: **13/13 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank - A glass face, coating, laminate, heat treatment, cavity, frame, gasket, sealant, edge seal, film, and attachment system are distinct components; one component's data does not automatically describe the assembly. - Appearance can support triage but cannot reliably identify concealed glass construction, coating surface, edge quality, seal failure cause, or structural capacity. - A test method defines how a specimen/configuration is assessed. Passing evidence requires the actual current report and a match between the tested and proposed systems. - Center-of-glazing product values do not prove whole-window, room, HVAC, comfort, or building-energy outcomes. - Safety/security claims are threat- and configuration-specific; film alone must not inherit a complete-system result. - Cleaning compatibility is not established by pH alone. Exact substrate, contamination, chemical, tool, water, adjacent finish, and manufacturer instructions matter. - Access-method selection and safe operation are site decisions requiring competent people, current equipment/system evidence, public protection, weather controls, and rescue. - Applied-film appearance changes during cure; acceptance must use the actual product instructions, contract, timing, viewing conditions, and agreed criteria. - Maintenance intervals and prices are project facts, not universal editorial facts. - Foreign standards, NFRC certification, NGA/IWFA/IRATA guidance, and manufacturer bulletins are useful technical evidence but are not Indonesian law. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `GATE-01` Exact clauses, definitions, equations, classifications, tolerances, test conditions, and pass/fail language. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain the current licensed full text and relevant competent interpretation. | | `GATE-02` Indonesian/local legal, permit, competence, inspection, and project applicability. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Check current official sources and the exact building, employer, locality, method, and date. | | `GATE-03` Access method, equipment, anchors, fall protection, weather controls, exclusion zone, and rescue. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain site evidence and a competent-person plan with current records. | | `GATE-04` Exact material, processed product, core/coating/treatment, dimensions, support/fixing, joint, interface, damage, and installed condition. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain product and batch identity, complete system records, close inspection/testing, and competent material/façade review. | | `GATE-05` Cleaner, tool, water, process, runoff, and adjacent-material compatibility. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain current TDS/SDS, substrate instructions, protection plan, and controlled test patch. | | `GATE-06` Exact fabrication, substitution, installation, concealed interface, mock-up, test, acceptance, commissioning, and handover evidence. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain approved shop drawings/submittals, material traceability, ITP/hold-point records, witnessed results, defect closure, and as-builts. | | `GATE-07` Numeric performance, certification, test result, structural capacity, and building outcome. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Match a current report/certification and method to the exact system; model or measure project outcomes. | | `GATE-08` Fire spread, cavity/opening interface, falling object, impact/guard, maintenance access, emergency access, and occupied-work safety. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain complete-assembly fire/structural evidence, access and rescue plan, current law/authority review, and qualified safety/façade/structural approval. | | `GATE-09` Price, availability, schedule, scope, insurance, warranty remedy, liability, approvals, and change rights. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain dated project, quotation, contract, policy, warranty, and approval evidence. | | `GATE-10` Consequential structural, fire, water/air, thermal/solar, condensation, acoustic, forensic, repair, reuse, and lifecycle decisions. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Refer actual project evidence to the appropriate competent disciplines and commission defined calculations, mock-ups, tests, condition surveys, and approvals. | ## Source-refresh triggers - Recheck Indonesian official status immediately before publishing any legal, permit, competence, inspection, or K3 statement. - Recheck BSN/ISO/ASTM edition and status before naming a standard; obtain full text before using any exact clause or number. - Recheck NFRC directory entries, manufacturer bulletins, film-to-glass tables, installation instructions, and warranties for the exact product at publication and again at procurement. - Recheck IWFA, NGA, IRATA, and manufacturer documents when their revision date, URL, or technical scope changes. - Re-research the repository corpus if `TOPICAL_AUTHORITY.md`, `ARTICLE_CATALOG.md`, sitemap counts, commercial route ownership, products, or service claims change. - Treat every project survey, quotation, test report, certificate, warranty, and approval as dated evidence with a defined scope. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+Rencana umur pakai dan pengelolaan aset memang membedakan pemeriksaan kondisi, tindakan sementara, perbaikan, penggantian, penerimaan, serta pemantauan sebagai hal yang berbeda. Artinya, niat merawat tidak cukup bila produk dan dokumennya tidak memungkinkan identifikasi kemudian hari. Lihat konteks [perencanaan umur pakai ISO 15686-1](https://www.iso.org/standard/45798.html) dan kosakata [pengelolaan aset ISO 55000](https://www.iso.org/standard/83053.html). [NEEDS GATE-10: keputusan apakah suatu komponen layak dipakai ulang atau perlu diganti harus didasarkan pada kondisi nyata dan penilaian pihak yang kompeten.]
 
-## Evidence gates
+## Tetapkan objek pengadaan dengan tegas
 
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Sebelum bicara bahan daur ulang, kunci dulu identitas barang. “Aluminium” bisa berarti lembaran, profil ekstrusi, kusen lengkap, atau sistem terpasang dengan kaca, pelapis elastis pada sambungan (gasket), bahan perapat (sealant), pengikat, dan komponen lain. Data satu bagian tidak otomatis berlaku untuk seluruh susunan. Karena itu, ruang lingkup pengadaan perlu menyebut bentuk produk, fungsi, lokasi penggunaan, batas antarmuka, serta bagian yang sengaja tidak termasuk.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Daftar periksa identitas minimum dapat memuat:
 
-## Internal-link plan
+- nama paduan dan kondisi temper, yaitu penandaan kondisi material setelah proses tertentu;
+- bentuk produk, ukuran, toleransi yang dipersyaratkan, kondisi permukaan, dan penggunaan yang dimaksud;
+- identitas kelompok produksi (batch atau lot), bila tersedia;
+- gambar, daftar komponen, serta titik sambungan dengan pekerjaan lain; dan
+- aturan bila ada usulan penggantian produk atau perubahan pemasok.
 
-### Existing local routes
+[ISO 2107](https://www.iso.org/standard/85023.html) menunjukkan bahwa penandaan temper adalah bagian tersendiri dari identitas aluminium paduan tempa. Namun abstrak publik standar tidak memberi nilai penerimaan untuk proyek Anda. Sobat Almini.id, jangan menerima sertifikat atau lembar data yang hanya menyebut “aluminium” bila spesifikasi memerlukan identitas lebih rinci. [NEEDS GATE-04: cocokkan identitas bahan, lapisan, ukuran, sambungan, dan kondisi produk yang benar-benar akan dipasang.]
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Minta bukti untuk setiap klaim sirkular
 
-### Planned sibling articles
+Pisahkan daftar bukti menjadi enam kelompok agar pemasok tidak menjawab semua kebutuhan dengan satu brosur.
 
-These are future routes. Do not link them as live until their HTML exists.
+Pertama, **identitas produk**: nomor produk, bentuk, paduan, temper, dimensi, permukaan, kelompok produksi, dan penggunaan. Kedua, **kandungan bahan daur ulang**: pernyataan yang menyebut produk yang dimaksud, metode atau dasar perhitungannya, periode data, dan pihak penerbit. Jangan menganggap kemampuan aluminium untuk didaur ulang sebagai bukti kandungan daur ulang.
 
-- `ALM-13-A04` → `/artikel/desain-sirkular-sistem-aluminium.html` — Desain untuk Bongkar Pasang, Pakai Ulang, dan Daur Ulang Sistem Aluminium
-- `ALM-13-A05` → `/artikel/limbah-finishing-dan-pembersihan-aluminium.html` — Limbah Pretreatment, Coating, Sealant, dan Air Pencucian Aluminium
+Ketiga, **niat desain untuk pemulihan**: gambar atau uraian yang menunjukkan bagian yang dapat diakses, dilepas, diperbaiki, atau diganti. Ini adalah niat desain, bukan jaminan bahwa pembongkaran kelak aman, mudah, atau ekonomis. Keempat, **dokumen pemasok**: lembar data, deklarasi, catatan batch, instruksi perawatan, dan batas penggunaan yang relevan. Kelima, **rencana pemisahan dan pemulihan sisa**: jenis material yang dipisahkan, pihak penerima, serta catatan timbang atau tanda terima bila proyek memang mensyaratkannya. Keenam, **hak atas data**: siapa menyimpan dokumen, dalam format apa, dan kapan pemilik proyek menerimanya.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Biar tidak salah langkah, tambahkan kolom “dokumen diterima”, “cocok dengan barang”, “tanggal”, dan “pemeriksa” pada daftar periksa. Dokumen yang ada tetapi tidak dapat dihubungkan dengan produk yang datang belum cukup untuk audit sederhana. [NEEDS GATE-06: minta bukti pengajuan produk yang disetujui, ketertelusuran material, pemeriksaan, dan catatan serah-terima sesuai proyek.]
 
-## Hasil akhir dan prasyarat
+## Kendalikan penggantian sebelum pesanan dilepas
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pengadaan Aluminium Sirkular yang Dapat Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Usulan penggantian sering muncul ketika stok, jadwal, atau harga berubah. Itu bukan otomatis masalah, tetapi jangan biarkan penggantian memutus jejak bukti. Persyaratan awal perlu menyatakan bahwa pemasok harus mengajukan identitas produk pengganti, perbedaan terhadap spesifikasi, dampak pada komponen terkait, bukti klaim lingkungan yang baru, dan persetujuan tertulis sebelum pembelian atau pemasangan.
 
-## Langkah 1 — tetapkan scope
+Contohnya, profil dengan tampilan serupa belum tentu memiliki paduan, temper, ukuran, lapisan, atau sambungan yang sama. Begitu pula deklarasi lingkungan untuk satu produk tidak otomatis bisa dipindahkan ke produk pengganti. Teman Almini.id, anggap setiap perubahan sebagai pemeriksaan ulang terhadap rantai bukti, bukan sekadar revisi nama merek.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pengadaan Aluminium Sirkular yang Dapat Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tahan pelepasan pesanan bila identitas final, bukti klaim, atau batas tanggung jawab belum jelas. [NEEDS GATE-09: harga, ketersediaan, jadwal, jaminan, dan hak perubahan harus dibuktikan melalui penawaran serta dokumen kontrak proyek yang bertanggal.]
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Jalankan pemeriksaan dari penawaran sampai penerimaan
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pengadaan Aluminium Sirkular yang Dapat Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutannya sederhana: tetapkan kebutuhan, minta bukti, bandingkan bukti dengan spesifikasi, setujui hanya produk yang jelas, lalu periksa barang yang datang dan simpan rekamannya. Urutan ini membuat masalah terlihat sebelum barang terpasang, saat pilihan koreksi masih lebih terbuka.
 
-## Langkah 3 — jalankan urutan kerja
+Pada tahap penawaran, kirim daftar pertanyaan dan format jawaban yang sama kepada peserta. Pada tahap evaluasi, bandingkan jawaban per baris: apakah setiap klaim mempunyai dokumen, apakah dokumen menyebut produk yang sama, dan apakah ada asumsi yang belum disetujui. Pada tahap pemesanan, lampirkan spesifikasi dan daftar dokumen wajib. Saat penerimaan, periksa label, jumlah, kondisi yang tampak, serta kesesuaian dokumen dengan barang; jangan mengesahkan hasil hanya dari foto kemasan.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pengadaan Aluminium Sirkular yang Dapat Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika produk merupakan bagian dari sistem, pemeriksaan perlu mencakup hubungan antarbagian. Data profil tidak dengan sendirinya menerangkan hasil sistem terpasang. Singkatnya, catat apa yang diketahui, apa yang belum terbukti, dan keputusan siapa yang diperlukan untuk menutup kekosongan itu.
 
-## Hold point dan kondisi berhenti
+## Titik berhenti yang tidak boleh dilewati
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pengadaan Aluminium Sirkular yang Dapat Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada beberapa keadaan ketika proses perlu ditahan. Tahan evaluasi bila deklarasi tidak menyebut produk yang ditawarkan; tahan pemesanan bila barang pengganti belum disetujui; tahan penerimaan bila label atau dokumen tidak dapat dicocokkan; dan tahan klaim keberhasilan sirkular bila tidak ada catatan yang menunjukkan apa yang benar-benar terjadi pada material.
 
-## Verifikasi hasil dan handover
+Jangan pula menyimpulkan pengurangan karbon, keberhasilan pengambilan kembali, mutu pemasok, atau hasil daur ulang dari satu dokumen umum. Faktor seperti batas kajian, lokasi, bauran energi, transportasi, masa pakai, serta asumsi akhir masa pakai dapat mengubah arti perbandingan lingkungan. Kawan Almini.id, bila keputusan tersebut memengaruhi desain, biaya, penerimaan, atau pernyataan publik, mintalah pemeriksaan teknis dan proyek yang sesuai. [NEEDS GATE-07: laporan, sertifikasi, atau angka kinerja harus cocok dengan produk dan metode yang tepat.]
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Pengadaan Aluminium Sirkular yang Dapat Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Terima produk bersama catatan yang dapat dipakai lagi
 
-## Objection or shortcut to address
+Penerimaan akhir bukan hanya tanda tangan bahwa barang tiba. Paket serah-terima yang berguna setidaknya memuat daftar produk yang diterima, identitas dan batch bila ada, dokumen klaim yang dipakai, catatan perubahan, instruksi perawatan, komponen yang dapat diganti, serta lokasi penyimpanan data. Simpan juga daftar kekurangan dan siapa yang wajib menutupnya.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk sisa material, catat pemisahan yang direncanakan dan bukti pelaksanaannya bila memang menjadi persyaratan. Jangan menulis “akan didaur ulang” tanpa penerima, alur, atau catatan yang dapat diperiksa. Sama pentingnya, jangan mengubah catatan pengadaan menjadi klaim hasil lingkungan yang belum dihitung atau diverifikasi.
 
-## Required conclusion
+Jalan pintas yang sering menggoda adalah cukup meminta “sertifikat hijau”. Masalahnya, sertifikat atau deklarasi dapat berlaku untuk lingkup, produk, periode, dan dasar perhitungan tertentu. Jalan yang lebih aman adalah memasangkan setiap dokumen dengan identitas produk, kebutuhan proyek, dan pemeriksaan saat penerimaan. Itu memang sedikit lebih teliti, tetapi justru membuat data tetap berguna ketika ada penggantian, perbaikan, atau pembongkaran di masa depan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Daftar periksa pengadaan aluminium sirkular yang dapat diaudit berarti mengikat klaim pada produk, dokumen, perubahan, dan penerimaan yang nyata. Langkah berikutnya: buat satu matriks pengadaan berisi enam kelompok bukti di atas, lalu minta tim proyek menandai siapa pemilik setiap pemeriksaan sebelum permintaan penawaran dikirim. Aturan kerjanya sederhana: jika bukti tidak dapat dicocokkan dengan produk dan keputusan proyek, jangan naikkan klaimnya menjadi hasil.
