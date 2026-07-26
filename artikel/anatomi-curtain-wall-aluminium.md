@@ -2,8 +2,9 @@
 article_id: ALM-06-A02
 title: "Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal"
 slug: "anatomi-curtain-wall-aluminium"
-description: "Explain stick/unitized concepts, mullions, transoms, anchors, gaskets, pressure plates, caps, glazing, spandrels, compartments, drainage, and interfaces"
-status: outline
+description: "Kenali komponen curtain wall aluminium dan antarmuka beban, air, serta udara tanpa menyamakan nama komponen dengan performa sistem terpasang."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,53 +17,27 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/index/"
   - "https://www.iso.org/sectors/building-construction"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
-  - "https://www.iso.org/standard/74384.html"
   - "https://www.iso.org/standard/55718.html"
   - "https://www.astm.org/e1105-15r23.html"
-  - "https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008"
-  - "https://www.iso.org/sectors/building-construction/fire-safety"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
   - "https://www.iso.org/standard/62085.html"
   - "https://www.astm.org/e2357-18.html"
   - "https://www.iso.org/standard/27183.html"
   - "https://www.iso.org/standard/22928.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal
 
-## Assignment lock
+Halo, Sobat Almini.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal”
-- **Reader and situation:** Buyer or junior designer reading a façade section
-- **Reader outcome:** Explain stick/unitized concepts, mullions, transoms, anchors, gaskets, pressure plates, caps, glazing, spandrels, compartments, drainage, and interfaces
-- **Primary intent:** Understand curtain-wall components and water paths
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes system design loads and bespoke details, owned by ALM-06-A04 and qualified façade engineering
-- **Final public route:** `/artikel/anatomi-curtain-wall-aluminium.html`
-- **Appointed CMS date:** `2026-01-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Curtain wall bukan sekadar kumpulan kaca dan profil aluminium di muka bangunan. Ia adalah sistem dengan komponen yang memiliki peran berbeda: menahan panel, meneruskan gaya ke struktur, membentuk sambungan, mengelola air dan udara, serta menyediakan detail yang dapat diperiksa. Memahami namanya membantu membaca gambar, tetapi nama komponen tidak membuktikan performa sistem setelah dipasang.
 
-## Opening instructions
+Jadi, jangan menyimpulkan bahwa curtain wall pasti kuat, kedap air, tahan api, atau kedap suara hanya karena ada mullion, pressure plate, gasket, atau sealant. Hasilnya selalu bergantung pada susunan produk, detail, pemasangan, bukti uji yang cocok, dan kondisi proyek.
 
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Curtain wall 2](/wp-content/uploads/2026/06/Curtain-wall-2.jpg)
 
+_Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu._
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-007`
@@ -73,163 +48,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Curtain wall 2` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-19
-
-- **Original sources:** [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/), [ISO building-construction standards](https://www.iso.org/sectors/building-construction).
-- **Purpose for this article:** Prevent façade materials from being compared by trade name alone.
-- **Safe grounded facts:** Material, processed product, coating/core, support/fixing, joints, interfaces, installation, and complete-system performance are separate evidence layers.
-- **Limits:** No equivalence, rating, durability, fire, structural, water, energy, acoustic, environmental, or warranty claim without exact identity and matched evidence.
-
-### KR-21
-
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
-
-### KR-25
-
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
-
-### KR-26
-
-- **Original sources:** [ISO 9972:2015 building air permeability](https://www.iso.org/standard/55718.html), [ASTM E1105 field water-penetration test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground water shedding, drained cavities, pressure moderation, air barriers, flashing, openings, parapets, bases, penetrations, joints, sealants, and weeps.
-- **Safe grounded facts:** Laboratory specimen, field chamber, nozzle/spray, pressure, duration, boundary, observed leak, interior path, and root-cause investigation must be distinguished.
-- **Limits:** No “waterproof,” leakage cause, sealant, flashing, weep, test pressure, acceptance, or repair claim without actual details, conditions, and competent investigation.
-
-### KR-28
-
-- **Original sources:** [Permen PUPR No. 26/PRT/M/2008](https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008), [ISO fire-safety standards overview](https://www.iso.org/sectors/building-construction/fire-safety), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016).
-- **Purpose for this article:** Ground combustibility/spread, cavity/opening interfaces, falling panels/glass, impact/guard boundaries, access, rescue, and authority evidence.
-- **Safe grounded facts:** Material reaction, assembly fire test, cavity barrier, perimeter detail, fixing/load path, impact/guard function, access system, inspection, rescue, and authority approval are separate.
-- **Limits:** No fire classification, compliance, falling-object safety, guard, access, anchor, exclusion, work-at-height, or rescue claim without current consolidated law and complete-system evidence.
-
-### KR-29
-
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
-
-### KR-34
-
-- **Original sources:** [ISO 13785-1:2002 intermediate-scale façade fire test](https://www.iso.org/standard/27183.html) and [ISO 13785-2:2002 large-scale façade fire test](https://www.iso.org/standard/22928.html).
-- **Purpose for this article:** Bound ACP/ACM, honeycomb, spandrel, subframe, cavity, opening, and façade-fire claims.
-- **Safe grounded facts:** Aluminium skin, core, bond, cassette, subframe, insulation, cavity barrier, fixing, opening detail, and wall interface form one evidence chain.
-- **Limits:** Require the current Indonesian authority basis and a report whose specimen, scale, geometry, components, joints, openings, and field installation match the proposed system.
-
-## Evidence gates
-
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/acp-curtain-wall-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/acp-curtain-wall-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/acp-curtain-wall-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/acp-curtain-wall-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/acp-curtain-wall-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/acp-curtain-wall-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ALM-06-A01` → `/artikel/memilih-panel-aluminium-untuk-fasad.html` — ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?
-- `ALM-06-A03` → `/artikel/core-acp-dan-bukti-kebakaran.html` — Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk
-- `ALM-06-A04` → `/artikel/desain-kinerja-fasad-aluminium.html` — Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sederhananya, curtain wall adalah kulit bangunan yang umumnya disusun dari rangka aluminium, panel kaca atau panel lain, sambungan, pengikat, dan detail keliling. **Mullion** adalah elemen rangka yang biasanya memanjang vertikal. **Transom** adalah elemen rangka yang biasanya melintang. Keduanya dapat membentuk bidang tempat panel dan komponen lain dipasang.
+
+Katalog [SNI dari BSN](https://pesta.bsn.go.id/produk/index/) serta halaman [standar bangunan ISO](https://www.iso.org/sectors/building-construction) memperlihatkan bahwa material, produk olahan, penyangga atau pengikat, sambungan, pemasangan, dan performa sistem adalah lapisan berbeda. Nah, mengetahui nama mullion tidak berarti kita sudah tahu jalur beban atau performa air pada proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Selain mullion dan transom, Anda dapat menjumpai **anchor** atau pengikat ke struktur; **gasket**, yaitu elemen perapat; **pressure plate**, yaitu pelat penjepit panel; dan **cap**, penutup di bagian luar pressure plate. Ada pula glazing, yaitu susunan kaca; spandrel, istilah untuk bagian bidang bangunan yang perlu dibaca bersama susunan panelnya; serta rongga dan kompartemen yang menjadi bagian detail sistem.
 
-## Cara kerjanya
+Sistem bisa dibuat dengan pendekatan *stick*, yaitu komponen dirangkai di lokasi, atau *unitized*, yaitu unit yang dirakit sebagai modul sebelum dipasang. Perbedaan nama pendekatan ini belum menentukan kualitas atau performa. Artikel ini hanya mengenalkan anatomi dan pertanyaan detail; ia tidak merancang beban, pressure, drainase, kebakaran, atau penerimaan fasad.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Almini.id, jangan memaksa istilah ini menjadi spesifikasi. Komponen yang sama namanya dapat memiliki detail dan fungsi yang tidak sama pada sistem berbeda.
+
+## Cara komponen bekerja sebagai satu sistem
+
+Mullion dan transom membentuk rangka. Anchor dan pengikat menghubungkan rangka dengan struktur pendukung. Panel atau glazing mengisi bidang rangka. Pressure plate, gasket, cap, sealant, dan detail tepi membentuk antarmuka pada panel. Rongga serta jalur internal dapat menjadi bagian dari bagaimana air dikelola menurut detail yang dirancang.
+
+Untuk air dan udara, jangan cukup melihat ada sealant atau lubang kecil. Pertanyaan yang benar ialah: di mana air masuk sebagai kemungkinan, ke mana ia diarahkan, batas apa yang dipakai, dan bagaimana detail itu dipasang serta diperiksa? [ISO 9972:2015](https://www.iso.org/standard/55718.html) membahas permeabilitas udara bangunan, sementara [ASTM E1105](https://www.astm.org/e1105-15r23.html) membahas penetrasi air di lapangan. Cakupan itu membedakan kondisi uji, batas, hasil teramati, dan penyelidikan penyebab; tidak memberi jawaban otomatis untuk satu gambar atau proyek.
+
+Kawan Almini.id, istilah “drainase curtain wall” bukan janji kapasitas drainase. Ia mengajak Anda menelusuri jalur air pada detail yang disetujui.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Komponen atau antarmuka | Pertanyaan yang perlu diteruskan |
+| --- | --- |
+| Mullion dan transom | Panel apa yang ditahan, dan bagaimana rangka diteruskan ke tumpuan? |
+| Anchor dan pengikat | Struktur pendukung apa yang menerima gaya, serta bagaimana detailnya ditinjau? |
+| Gasket, pressure plate, cap | Panel apa yang dijepit, dan bagaimana detail tepi serta sambungannya? |
+| Sealant dan perimeter | Bahan apa yang bertemu, dan detail sistem apa yang berlaku? |
+| Rongga, drainase, weep | Ke mana air diarahkan dan bagaimana jalurnya dapat diperiksa? |
+| Panel kaca atau spandrel | Apa susunan panel, inti, pengikat, dan antarmuka dinding yang menyertainya? |
+
+Dalam sistem fasad, kulit aluminium, inti, bond, kaset, subframe, insulasi, cavity barrier, fixing, bukaan, dan antarmuka dinding membentuk rantai bukti. [ISO 13785-1](https://www.iso.org/standard/27183.html) dan [ISO 13785-2](https://www.iso.org/standard/22928.html) membahas pengujian fasad pada skala berbeda. Laporan tersebut tidak dapat dipindahkan ke semua curtain wall tanpa kecocokan komponen, geometri, sambungan, dan pemasangan.
+
+[NEEDS GATE-02: Urutan pemasangan, akses, pekerjaan sementara, dan pengendalian perubahan harus mengikuti rancangan serta prosedur sistem yang berlaku.]
+
+[NEEDS GATE-04: Mullion, transom, anchor, pengikat, gasket, pressure plate, sealant, rongga, panel, dan pertemuan dengan struktur perlu ditinjau sebagai satu sistem.]
+
+[NEEDS GATE-06: Sampel, mock-up, pemeriksaan penerimaan, pekerjaan tersembunyi, pengujian, dan penerimaan akhir harus mengikuti kriteria proyek yang disetujui.]
+
+[NEEDS GATE-07: Klaim air, udara, kebakaran, akustik, energi, struktur, atau ketahanan memerlukan bukti yang cocok dengan sistem dan pemasangan yang dimaksud.]
+
+[NEEDS GATE-08: Kondisi lokasi, perubahan detail, akses pemeriksaan, dan batas pengamatan perlu dicatat sebelum hasil atau masalah ditafsirkan.]
+
+[NEEDS GATE-10: Perbaikan, penggantian, penutupan detail, atau penerimaan fasad perlu dasar rancangan dan pihak berwenang yang sesuai.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalkan Anda melihat potongan curtain wall dan ingin tahu apakah sistemnya aman dari air. Jangan berhenti pada satu label “drainase”. Minta penjelasan panel yang dipakai, detail pressure plate dan gasket, jalur yang ditunjukkan pada gambar, pertemuan di perimeter, serta pemeriksaan atau bukti yang disyaratkan proyek.
+
+Begitu pula, jika panel spandrel disebut aluminium, tanyakan susunan panel dan antarmukanya. Aluminium skin tidak menjelaskan inti, subframe, rongga, atau detail dinding. Dalam pengendalian mutu, gambar kerja yang disetujui, sampel, catatan bahan, pemeriksaan penerimaan, pemeriksaan pekerjaan tersembunyi, pengujian, dan gambar kondisi akhir adalah bukti berbeda; lihat [ISO 9001:2015](https://www.iso.org/standard/62085.html) dan [ASTM E2357](https://www.astm.org/e2357-18.html).
+
+Untuk mengenali layanan awal, halaman [informasi ACP dan curtain wall](https://almini.id/acp-curtain-wall-yogyakarta.html) dapat menjadi titik awal. Ketika detail proyek dibahas, kembali ke gambar, sistem, dan bukti yang benar-benar berlaku.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap semua curtain wall sama karena sama-sama memakai aluminium. Kesalahan kedua ialah menganggap sealant adalah satu-satunya pengendali air. Kesalahan ketiga ialah membaca panel dari sisi luar saja dan melupakan anchor, rongga, subframe, serta perimeter. Kesalahan keempat adalah memakai hasil uji satu susunan sebagai jaminan untuk susunan lain yang detailnya berubah.
 
-## Objection or shortcut to address
+Jalan pintas “ada gasket berarti aman” tidak memberi bukti sistem. Lebih aman mencatat komponen, sambungan, jalur air, dan detail keliling, lalu minta pihak yang berwenang mencocokkannya dengan gambar serta bukti proyek.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Penutup: nama komponen membantu membaca, sistem lengkap yang menentukan bukti
 
-## Required conclusion
+Mullion, transom, anchor, pressure plate, gasket, cap, sealant, panel, drainase, dan rongga membantu Anda membaca anatomi curtain wall. Namun setiap istilah hanya salah satu bagian dari susunan yang harus dinilai bersama jalur beban, air, udara, kebakaran, dan pemasangan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sobat Almini.id, langkah berikutnya ialah tandai komponen dan antarmuka pada gambar, lalu tanyakan fungsi serta bukti untuk tiap titik penting. Aturan kerjanya: jangan menilai curtain wall dari nama bagiannya; periksa sistem lengkap yang akan dipasang.
