@@ -2,8 +2,9 @@
 article_id: ALM-11-A01
 title: "Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet"
 slug: "diagnosis-awal-sistem-aluminium"
-description: "Map symptoms to possible water, movement, hardware, connection, substrate, corrosion, finish, impact, thermal, or structural causes; define isolation and evidence collection"
-status: outline
+description: "Cara mencatat gejala, lokasi, riwayat, foto, dokumen, antarmuka, dan batas eskalasi sistem aluminium tanpa menetapkan penyebab atau perbaikan dari pengamatan awal."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,16 @@ final_route: "/artikel/diagnosis-awal-sistem-aluminium.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf"
   - "https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf"
   - "https://iwfa.com/inspection-guidelines/"
   - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
   - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/45798.html"
   - "https://www.iso.org/standard/83053.html"
   - "https://www.iso.org/standard/70156.html"
-  - "https://www.iso.org/standard/80119.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet”
-- **Reader and situation:** Owner or facility team deciding the next safe step
-- **Reader outcome:** Map symptoms to possible water, movement, hardware, connection, substrate, corrosion, finish, impact, thermal, or structural causes; define isolation and evidence collection
-- **Primary intent:** Triage installed-system symptoms
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Kawan Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes remote diagnosis or repair instructions for safety-critical systems; ALM-11-A05 owns repair decisions and ALM-05 owns structural review
-- **Final public route:** `/artikel/diagnosis-awal-sistem-aluminium.html`
-- **Appointed CMS date:** `2026-05-19` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Almini.id`, `Sobat Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,155 +36,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Almini.id!
 
-### KR-09
+Saat sistem aluminium bocor, longgar, berkorosi, retak, melendut, atau macet, langkah pertama bukan menebak penyebabnya dari satu foto. Gejala yang sama dapat muncul pada lokasi, riwayat cuaca, penggunaan, sambungan, pengikat, tumpuan, bahan perapat, pelapisan, atau komponen lain yang berbeda. Tujuan pemeriksaan awal adalah triase bukti: memilah apa yang terlihat, apa yang belum diketahui, dan kapan keadaan perlu segera dibawa ke pihak yang tepat.
 
-- **Original sources:** [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-), [official Permen PU 24/2008 PDF](https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf), [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf)
-- **Purpose for this article:** Ground cleaning frequency, inspection logs, vendor KPIs, and escalation as a managed program.
-- **Safe grounded facts:** Useful logs identify zones, dates, observations, products/methods, weather/site conditions, access used, exceptions, damage, photos, and follow-up. An appearance KPI alone can hide safety, damage, residue, access, and documentation failures.
-- **Limits:** Do not state a universal cleaning frequency or inspection interval. Project-specific schedules require exposure history, contract, manufacturer, building-management, and legal inputs under GATE-02 and GATE-09.
+Artikel ini bukan diagnosis jarak jauh atau petunjuk perbaikan. Catatan awal yang baik dapat mempercepat pemeriksaan berikutnya sekaligus mencegah kesimpulan terlalu cepat tentang kapasitas tersisa, penyebab, atau kelayakan pakai. [NEEDS GATE-10: penyebab, risiko, metode perbaikan, keputusan tetap memakai, dan hasil sistem harus dinilai dari kondisi nyata oleh pihak yang kompeten.]
 
-### KR-16
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf), [IWFA inspection-guideline overview](https://iwfa.com/inspection-guidelines/), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Define a defensible evidence chain from baseline through acceptance and operation.
-- **Safe grounded facts:** Useful records include zones, product/manufacturer, batch or traceability identifier where available, glass/configuration, dates, installer/vendor, access method, site conditions, photos, measurements where agreed, damage/exclusions, care instructions, warranty issuer, notice route, and open items.
-- **Limits:** Do not invent visual tolerances, measurement protocols, cure periods, remedies, or warranty coverage. Apply GATE-01, GATE-06, and GATE-09 to the actual contract and product.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-17
+## Catat gejala sebelum memberi nama masalah
 
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Support RFQs, scope normalization, cost-driver explanations, vendor comparison, and hidden-condition governance.
-- **Safe grounded facts:** Cleaning cost can change with area, contamination, access, frequency, hours, protection, water/logistics, and mobilization. Film cost can change with exact product, glazing compatibility, area/layout, waste, access, existing-film removal, attachment system, evidence, and warranty.
-- **Limits:** No public source here establishes a current project price, contractor capability, insurance, availability, tax, contract right, or change-order entitlement. Obtain dated quotations and project/legal review under GATE-09.
+Mulailah dengan fakta yang bisa diamati. Tulis apa yang terlihat atau terasa: air muncul di mana, bagian mana yang longgar, perubahan warna atau permukaan seperti apa, retak pada komponen mana, gerak yang tidak biasa, atau bagian mana yang macet. Hindari menulis “bocor karena sealant rusak” sebelum jalur air dan detailnya diperiksa. Lebih aman menulis “air terlihat di sisi dalam dekat sudut kanan bawah saat hujan” lalu melengkapi konteksnya.
 
-### KR-29
+Catat lokasi setepat mungkin, termasuk sisi bangunan, lantai, area dekat bukaan atau sambungan, dan hubungan dengan komponen lain. Tambahkan waktu mulai diketahui, apakah gejala bertambah atau berubah, cuaca atau penggunaan saat kejadian, serta pembatasan pengamatan. Teman Almini.id, foto perlu memberi konteks: ambil pandangan lebar untuk lokasi, lalu pandangan dekat untuk gejala, tanpa memaksa foto menjadi bukti sebab.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Catatan perawatan bangunan dan riwayat kejadian memang berguna untuk menata pemeriksaan. [Permen PU No. 24/PRT/M/2008](https://peraturan.bpk.go.id/Details/104476/permen-) merupakan pedoman resmi pemeliharaan dan perawatan bangunan; penerapannya tetap perlu disesuaikan dengan bangunan, pemilik, kontrak, dan ketentuan yang berlaku.
 
-### KR-30
+## Kumpulkan identitas dan riwayat yang bisa ditelusuri
 
-- **Original sources:** [ISO 15686-1 service-life planning](https://www.iso.org/standard/45798.html), [ISO 55000:2024 asset-management vocabulary](https://www.iso.org/standard/83053.html).
-- **Purpose for this article:** Ground inspection/access, cleaning, defect triage, diagnosis, making-safe, planned maintenance, repair/replace/retrofit, records, and lifecycle decisions.
-- **Safe grounded facts:** Symptom, access/viewing limitation, baseline, test, root-cause hypothesis, consequence, temporary control, repair design, acceptance, and monitoring are separate.
-- **Limits:** No remote declaration of safety, cause, repair method, cleaner compatibility, remaining life, cost, warranty, or reuse/recycling outcome without condition evidence and competent review.
+Setelah gejala tercatat, kumpulkan identitas sistem tanpa membongkar atau mengubah kondisi secara sembarangan. Cari gambar kondisi akhir, gambar kerja yang disetujui, catatan produk, daftar komponen, bukti perubahan, petunjuk perawatan, serta catatan pemeriksaan atau pekerjaan sebelumnya. Bila ada, catat nama produk, pembuat, kelompok produksi, jenis kaca atau panel, bahan perapat, perangkat keras, dan pihak pemasang.
 
-### KR-33
+Riwayat penggunaan sama pentingnya dengan identitas. Tanyakan apakah ada hujan atau angin tertentu, benturan, perubahan ruang, pekerjaan pihak lain, pembersihan dengan bahan atau alat baru, atau perubahan setelah pemasangan. Panduan [IWFA untuk inspeksi](https://iwfa.com/inspection-guidelines/) dan [GANA Glazing Manual](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf) sama-sama menunjukkan nilai catatan kondisi, konfigurasi, serta batas pemeriksaan. Keduanya bukan dasar untuk menetapkan penyebab masalah pada sistem Anda.
 
-- **Original sources:** [ISO 7599:2018 decorative/protective anodizing](https://www.iso.org/standard/70156.html) and [ISO 10074:2021 hard anodizing](https://www.iso.org/standard/80119.html).
-- **Purpose for this article:** Ground finish selection, appearance, durability, inspection, care, and substitution.
-- **Safe grounded facts:** Anodized appearance or nominal treatment name does not prove coating grade, sealing quality, abrasion behavior, corrosion result, electrical insulation, or service life.
-- **Limits:** Obtain the full invoked specification, applicator process record, approved physical sample, test report, exposure classification, and compatible-care guidance.
+Sobat Almini.id, bila identitas produk tidak tersedia, jangan menggantinya dengan tebakan berdasarkan warna, bentuk, atau nama dagang yang mirip. [NEEDS GATE-04: identitas bahan, produk, sambungan, lapisan, tumpuan, kerusakan, dan kondisi terpasang perlu diverifikasi sebelum kesimpulan dibuat.]
 
-## Evidence gates
+## Kenali batas pengamatan langsung
 
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Pengamatan tampak dapat menjadi awal yang baik, tetapi banyak hal penting berada di balik penutup, pada sambungan tersembunyi, di dalam rangka, atau di pertemuan dengan bangunan. Retak yang terlihat belum menerangkan kedalaman atau sebabnya. Noda belum menjelaskan jalur air. Pintu macet belum membuktikan masalah ada pada engsel, rangka, tumpuan, atau perubahan lain di sekitarnya.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pisahkan empat kolom dalam catatan: gejala yang terlihat, kondisi saat diamati, dokumen yang tersedia, dan pertanyaan yang belum terjawab. Ini menjaga tim agar tidak mencampur fakta dengan dugaan. Perencanaan umur pakai dan pengelolaan aset membedakan gejala, pemeriksaan, hipotesis penyebab, tindakan sementara, perbaikan, penerimaan, dan pemantauan sebagai tahap yang berbeda. Lihat [ISO 15686-1](https://www.iso.org/standard/45798.html) dan [ISO 55000](https://www.iso.org/standard/83053.html).
 
-## Internal-link plan
+## Saring kondisi yang tidak boleh ditangani sebagai keluhan biasa
 
-### Existing local routes
+Jika ada bagian yang dapat bergerak atau jatuh, kaca pecah, sambungan terbuka, deformasi yang berubah, pengikat tampak lepas, air berada dekat instalasi listrik, atau orang dapat terpapar bahaya, jangan memperlakukan keadaan itu sebagai pekerjaan kosmetik. Batasi akses bila dapat dilakukan tanpa menambah risiko, catat kondisi dari jarak aman, dan lakukan eskalasi sesuai prosedur pengelola bangunan serta pihak yang kompeten.
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Artikel ini tidak dapat menentukan tingkat bahaya suatu foto atau gejala. Namun batas eskalasi perlu lebih konservatif saat fungsi keselamatan, struktur, kaca, listrik, akses publik, atau pekerjaan di ketinggian mungkin terlibat. [NEEDS GATE-07: kapasitas, hasil pengujian, sertifikasi, dan kinerja sistem membutuhkan bukti yang cocok dengan susunan aktual.] [NEEDS GATE-06: pemeriksaan lanjutan, pekerjaan, pengujian, perubahan, dan penerimaan harus mengikuti dokumen proyek serta pihak berwenang.]
 
-### Planned sibling articles
+## Kelompokkan kemungkinan tanpa menyebutnya diagnosis
 
-These are future routes. Do not link them as live until their HTML exists.
+Untuk membantu memilih bukti berikutnya, kelompokkan kemungkinan mekanisme secara terbuka. Air dapat berhubungan dengan jalur permukaan, bukaan, sambungan, bahan perapat, detail pertemuan, atau sumber lain. Gerak atau kemacetan dapat berhubungan dengan perangkat, penyetelan, toleransi, rangka, tumpuan, atau objek yang menghalangi. Perubahan permukaan dapat berhubungan dengan paparan, pembersihan, lapisan, kontak dengan material lain, atau kerusakan mekanis.
 
-- `ALM-11-A02` → `/artikel/itp-pemasangan-aluminium.html` — ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan
-- `ALM-11-A03` → `/artikel/handover-sistem-aluminium.html` — Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi
+Pengelompokan ini adalah daftar pertanyaan, bukan jawaban. Tampilan anodisasi misalnya tidak membuktikan mutu lapisan, ketahanan korosi, atau penyebab perubahan permukaan. [ISO 7599](https://www.iso.org/standard/70156.html) membahas anodisasi dekoratif dan pelindung, tetapi pemeriksaan produk dan kondisi paparan tetap diperlukan. Kawan Almini.id, gunakan kata “perlu diperiksa” daripada “pasti disebabkan oleh”.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Urutkan pemeriksaan dari informasi yang aman
 
-## Mulai dari gejala, bukan tebakan penyebab
+Mulai dengan catatan, foto, riwayat, dan dokumen yang sudah ada. Setelah itu, pihak yang berwenang dapat menentukan apakah perlu pemeriksaan dekat, pengukuran yang disepakati, pembukaan terbatas, contoh bahan, atau pengujian. Urutan tersebut penting karena tindakan yang tampak kecil—membuka penutup, mengencangkan pengikat, menambah bahan perapat, atau membersihkan agresif—dapat mengubah bukti awal dan malah menambah masalah.
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika ada dugaan berkaitan dengan air, bedakan observasi lapangan dari pengujian. [ASTM E1105](https://www.astm.org/e1105-15r23.html) membahas pengujian penetrasi air lapangan pada jendela, pintu, skylight, dan dinding tirai. Standar ini tidak memberi tekanan, durasi, atau kriteria penerimaan untuk sistem Anda tanpa dokumen lengkap dan pengaturan proyek. [NEEDS GATE-05: bahan pembersih, alat, air, proses, limpasan, dan kompatibilitas dengan material sekitar perlu diperiksa terhadap produk yang benar.]
 
-## Saringan risiko langsung
+## Baca hasil sebagai bukti terbatas
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil pemeriksaan atau uji menjawab pertanyaan yang dibentuk oleh metode dan objeknya. Foto menjawab apa yang tampak pada waktu tertentu. Catatan cuaca menjelaskan kondisi yang tercatat. Laporan uji menjelaskan hasil pada benda, susunan, dan metode yang diuji. Tidak satu pun otomatis menjelaskan sebab akar, sisa umur pakai, atau penerimaan proyek.
 
-## Kemungkinan mekanisme
+[ISO 9001](https://www.iso.org/standard/62085.html) mendukung pentingnya rekaman proses yang terkendali, tetapi sertifikasi sistem mutu tidak membuktikan penyebab gejala atau kelayakan komponen tertentu. Saat menerima hasil, tanyakan: pertanyaan apa yang dijawab, bagian mana yang diuji, kondisi apa yang tidak dicakup, dan siapa yang berwenang memutuskan tindak lanjutnya?
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Pilih tindakan awal tanpa melompati bukti
 
-## Urutan pemeriksaan dan pengujian
+Tindakan awal dapat berupa mencatat, memantau, melindungi area, membatasi akses, atau meneruskan bukti kepada pihak yang tepat sesuai kondisi. Jangan menyebutnya perbaikan jika penyebab dan dampaknya belum dipahami. Pisahkan kontrol sementara dari perbaikan, dan pisahkan perbaikan dari penerimaan hasil perbaikan.
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang sering muncul adalah menambah bahan perapat pada titik air terlihat atau mengencangkan bagian yang terasa longgar. Cara itu dapat gagal karena titik terlihat bukan selalu sumber masalah, dan perubahan dapat menutup bukti atau memindahkan pengaruh ke komponen lain. Alternatif yang lebih andal adalah membekukan catatan kondisi, mengumpulkan dokumen, lalu menetapkan pemeriksaan lanjutan yang sesuai. [NEEDS GATE-09: biaya, jadwal, ruang lingkup, jaminan, tanggung jawab, dan hak perubahan memerlukan dokumen proyek atau kontrak yang bertanggal.]
 
-## Cara membaca hasil tanpa melompat ke kesimpulan
-
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan tindakan dan titik eskalasi
-
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Peta gejala sistem aluminium yang baik tidak menyebut penyebab terlalu dini. Langkah berikutnya adalah membuat satu lembar catatan berisi gejala, lokasi, waktu, riwayat cuaca atau penggunaan, foto, dokumen, antarmuka, serta pertanyaan yang belum terjawab. Aturan kerjanya sederhana: gejala memberi arah pengumpulan bukti, bukan izin untuk menetapkan sebab, kapasitas, atau perbaikan.

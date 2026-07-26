@@ -2,8 +2,9 @@
 article_id: ALM-06-A04
 title: "Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium"
 slug: "desain-kinerja-fasad-aluminium"
-description: "Show how wind, water paths, pressure, movement, support, joints, glass/panels, building drift, maintenance access, calculations, and testing interact"
-status: outline
+description: "Memahami bagaimana angin, jalur air, gerakan, sambungan, komponen fasad, pengujian, dan penerimaan harus dibuktikan sebagai satu sistem proyek."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,54 +16,17 @@ final_route: "/artikel/desain-kinerja-fasad-aluminium.html"
 technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/index/"
-  - "https://www.iso.org/sectors/building-construction"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
   - "https://www.iso.org/standard/74384.html"
   - "https://www.iso.org/standard/55718.html"
   - "https://www.astm.org/e1105-15r23.html"
-  - "https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008"
   - "https://www.iso.org/sectors/building-construction/fire-safety"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
   - "https://www.iso.org/standard/62085.html"
   - "https://www.astm.org/e2357-18.html"
   - "https://www.iso.org/standard/27183.html"
-  - "https://www.iso.org/standard/22928.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium”
-- **Reader and situation:** Architect or owner reviewing a façade proposal
-- **Reader outcome:** Show how wind, water paths, pressure, movement, support, joints, glass/panels, building drift, maintenance access, calculations, and testing interact
-- **Primary intent:** Understand façade performance inputs
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Kawan Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes project load values, member sizing, and acceptance; façade and structural engineers own them
-- **Final public route:** `/artikel/desain-kinerja-fasad-aluminium.html`
-- **Appointed CMS date:** `2026-02-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Almini.id`, `Sobat Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -73,164 +37,74 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Almini.id!
 
-### KR-19
+Fasad aluminium tidak bekerja seperti satu lembar bahan. Ia adalah susunan panel atau kaca, profil, sambungan, pengikat, tumpuan, bahan perapat, jalur air, dan pertemuan dengan bangunan. Karena itu, pertanyaan “apakah fasad ini tahan angin dan tidak bocor?” tidak dapat dijawab oleh brosur profil atau satu sertifikat komponen saja. Jawabannya harus datang dari kebutuhan proyek, detail sistem, perhitungan, contoh, pemeriksaan, dan bukti yang saling cocok.
 
-- **Original sources:** [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/), [ISO building-construction standards](https://www.iso.org/sectors/building-construction).
-- **Purpose for this article:** Prevent façade materials from being compared by trade name alone.
-- **Safe grounded facts:** Material, processed product, coating/core, support/fixing, joints, interfaces, installation, and complete-system performance are separate evidence layers.
-- **Limits:** No equivalence, rating, durability, fire, structural, water, energy, acoustic, environmental, or warranty claim without exact identity and matched evidence.
+Angin, air, gerakan termal, dan drainase saling memengaruhi. Gerakan dapat mengubah sambungan; sambungan mengarahkan air dan udara; tumpuan serta pengikat meneruskan gaya ke struktur; sedangkan panel, kaca, dan pelapis harus cocok dengan detail tersebut. Nilai kinerja, ukuran elemen, dan penerimaan tidak bersifat universal. [NEEDS GATE-04: identitas bahan, komponen, sambungan, tumpuan, kondisi lapangan, dan susunan yang diusulkan harus diverifikasi untuk proyek yang tepat.]
 
-### KR-21
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-25
+## Mulai dari kebutuhan fasad, bukan nama bahan
 
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
+Tentukan lebih dahulu apa yang harus dilakukan fasad: memisahkan ruang dalam dan luar, menahan pengaruh cuaca sesuai rancangan, mengakomodasi gerakan, mendukung panel atau kaca, menyediakan akses perawatan, serta memenuhi ketentuan lain yang berlaku. Tuliskan juga batas sistem: apakah yang dinilai hanya panel penutup, dinding tirai (*curtain wall*), kusen, area spandrel, atau seluruh pertemuan dengan dinding dan atap.
 
-### KR-26
+Nama bahan belum menerangkan sistem. Aluminium, panel komposit aluminium (ACP), baja berlapis seng, atau pelapis bubuk masing-masing bisa menjadi bagian dari fasad, tetapi tidak otomatis menjelaskan bahan inti, lapisan, rangka pendukung, pengikat, rongga, atau detail bukaan. [Katalog SNI BSN](https://pesta.bsn.go.id/produk/index/) membantu mengenali dokumen standar, bukan membuktikan kesetaraan atau kinerja sistem tertentu.
 
-- **Original sources:** [ISO 9972:2015 building air permeability](https://www.iso.org/standard/55718.html), [ASTM E1105 field water-penetration test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground water shedding, drained cavities, pressure moderation, air barriers, flashing, openings, parapets, bases, penetrations, joints, sealants, and weeps.
-- **Safe grounded facts:** Laboratory specimen, field chamber, nozzle/spray, pressure, duration, boundary, observed leak, interior path, and root-cause investigation must be distinguished.
-- **Limits:** No “waterproof,” leakage cause, sealant, flashing, weep, test pressure, acceptance, or repair claim without actual details, conditions, and competent investigation.
+Sobat Almini.id, buat daftar kebutuhan dengan kalimat yang dapat diperiksa: komponen mana yang harus ada, pertemuan mana yang perlu digambar, dokumen apa yang harus diajukan, dan siapa yang berwenang menyetujui perubahan. Jangan memakai satu istilah dagang sebagai pengganti uraian sistem.
 
-### KR-28
+## Angin, tumpuan, dan jalur gaya
 
-- **Original sources:** [Permen PUPR No. 26/PRT/M/2008](https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008), [ISO fire-safety standards overview](https://www.iso.org/sectors/building-construction/fire-safety), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016).
-- **Purpose for this article:** Ground combustibility/spread, cavity/opening interfaces, falling panels/glass, impact/guard boundaries, access, rescue, and authority evidence.
-- **Safe grounded facts:** Material reaction, assembly fire test, cavity barrier, perimeter detail, fixing/load path, impact/guard function, access system, inspection, rescue, and authority approval are separate.
-- **Limits:** No fire classification, compliance, falling-object safety, guard, access, anchor, exclusion, work-at-height, or rescue claim without current consolidated law and complete-system evidence.
+Angin dapat bekerja pada panel, kaca, profil, pengikat, dan akhirnya tumpuan bangunan. Jalur gaya adalah urutan bagaimana pengaruh tersebut diteruskan dari satu bagian ke bagian berikutnya. Maka kapasitas produk, kapasitas sambungan, kondisi substrat, hasil uji tarik pengikat, perhitungan, gambar kerja, dan pemeriksaan pemasangan adalah bukti yang berbeda.
 
-### KR-29
+Panjang elemen, bentuk penampang, jarak pengikat, kondisi pengekangan, toleransi pemasangan, serta gerakan bangunan dapat mengubah perilaku susunan. [ISO 4354](https://www.iso.org/standard/74384.html) menunjukkan bahwa tindakan angin adalah pokok bahasan standar tersendiri. Halaman publiknya tidak menetapkan tekanan angin, ukuran profil, atau jarak pengikat untuk fasad Anda.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Teman Almini.id, tahan keputusan desain bila jalur gaya berhenti pada kata “bracket standar” atau “pengikat sesuai kebutuhan”. [NEEDS GATE-07: perhitungan, laporan uji, sertifikasi, dan angka kinerja harus cocok dengan konfigurasi sistem yang diajukan.] [NEEDS GATE-10: keputusan yang memengaruhi struktur, air, udara, gerakan, atau perbaikan perlu ditinjau disiplin yang kompeten berdasarkan bukti proyek.]
 
-### KR-34
+## Air, udara, dan drainase perlu dibaca sebagai jalur
 
-- **Original sources:** [ISO 13785-1:2002 intermediate-scale façade fire test](https://www.iso.org/standard/27183.html) and [ISO 13785-2:2002 large-scale façade fire test](https://www.iso.org/standard/22928.html).
-- **Purpose for this article:** Bound ACP/ACM, honeycomb, spandrel, subframe, cavity, opening, and façade-fire claims.
-- **Safe grounded facts:** Aluminium skin, core, bond, cassette, subframe, insulation, cavity barrier, fixing, opening detail, and wall interface form one evidence chain.
-- **Limits:** Require the current Indonesian authority basis and a report whose specimen, scale, geometry, components, joints, openings, and field installation match the proposed system.
+Fasad tidak cukup dinilai dari ada atau tidaknya bahan perapat di satu garis sambungan. Air dapat tiba di permukaan, bertemu bukaan atau sambungan, masuk ke ruang tertentu, lalu perlu diarahkan kembali keluar melalui jalur yang memang dirancang. Udara, perbedaan tekanan, rongga terdrainase, lapisan penghambat udara, flashing atau lembar pengarah air, dan lubang pelepas air dapat menjadi bagian dari konsep sistem, sesuai detail yang dipilih proyek.
 
-## Evidence gates
+Karena itu, bedakan pengamatan kebocoran dari penyebabnya. Semburan air, ruang uji, tekanan, durasi, batas area, titik air terlihat di dalam, serta jalur masuk yang sebenarnya adalah informasi berlainan. [ASTM E1105](https://www.astm.org/e1105-15r23.html) menjelaskan lingkup pengujian penetrasi air di lapangan pada jendela, pintu, skylight, dan dinding tirai; standard tersebut tidak membuktikan fasad tertentu kedap air tanpa detail, kondisi, dan hasil uji yang cocok. [ISO 9972](https://www.iso.org/standard/55718.html) juga membahas permeabilitas udara bangunan, bukan jaminan satu sambungan fasad.
 
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Jadi, bila ada rembesan, jangan langsung menambah bahan perapat pada titik yang terlihat. Catat kondisi cuaca, lokasi, detail yang berdekatan, dan jalur yang mungkin; kemudian lakukan penelusuran sesuai sistem aktual. [NEEDS GATE-06: urutan pemeriksaan, pengujian, perbaikan, dan penerimaan harus mengikuti dokumen proyek serta pihak yang berwenang.]
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Gerakan termal dan pertemuan antarkomponen
 
-## Internal-link plan
+Gerakan termal adalah perubahan ukuran atau posisi akibat perubahan suhu. Dalam fasad, gerakan ini perlu dibaca bersama gerakan bangunan, toleransi, sambungan, tumpuan, kaca atau panel, dan bahan perapat. Detail yang tidak menyediakan cara gerak yang sesuai dapat memindahkan pengaruh ke bagian lain, tetapi dampaknya tidak boleh ditebak dari satu foto atau satu bahan saja.
 
-### Existing local routes
+Periksa pula pertemuan fasad dengan struktur, dinding, atap, bukaan, dan area transisi. Di sanalah jalur air, udara, api, gerakan, serta beban sering bertemu. Kondisi lingkungan juga relevan bagi keputusan material dan pelapisan; [ISO 12944-2](https://www.iso.org/standard/64834.html) membahas klasifikasi lingkungan korosi, bukan umur pakai atau kesesuaian suatu fasad pada lokasi tertentu.
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Api, akustik, dan akses adalah bukti susunan lengkap
 
-### Planned sibling articles
+Kinerja kebakaran, akustik, dan akses perawatan tidak boleh diwariskan dari satu kulit aluminium atau satu komponen. Untuk kebakaran, kulit, inti, perekat, rangka, insulasi, rongga, penghalang rongga, pengikat, bukaan, dan pertemuan dinding dapat membentuk satu rantai bukti. [Gambaran standar keselamatan kebakaran ISO](https://www.iso.org/sectors/building-construction/fire-safety) serta [ISO 13785-1](https://www.iso.org/standard/27183.html) menunjukkan bahwa penilaian kebakaran fasad memerlukan lingkup yang jelas; keduanya bukan persetujuan untuk sistem yang tidak sama dengan benda uji.
 
-These are future routes. Do not link them as live until their HTML exists.
+Untuk akustik, sumber bunyi, susunan lengkap, jalur samping, bukaan, serta kondisi pemasangan dapat mengubah hasil. Untuk akses perawatan, metode akses, titik tumpu, perlindungan orang di bawah, kondisi cuaca, dan rencana penyelamatan adalah pertanyaan proyek, bukan fitur otomatis fasad. [NEEDS GATE-08: keputusan tentang api, panel atau kaca jatuh, akses, pekerjaan di ketinggian, dan penyelamatan memerlukan bukti susunan lengkap serta dasar otoritas yang berlaku.] [NEEDS GATE-02: konfirmasi kewajiban hukum, persetujuan, dan penerapan setempat untuk bangunan serta metode kerja yang nyata.]
 
-- `ALM-06-A02` → `/artikel/anatomi-curtain-wall-aluminium.html` — Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal
-- `ALM-06-A03` → `/artikel/core-acp-dan-bukti-kebakaran.html` — Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk
-- `ALM-06-A05` → `/artikel/itp-pemasangan-fasad-aluminium.html` — ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant
-- `ALM-06-A06` → `/artikel/diagnosis-kerusakan-fasad-aluminium.html` — Fasad Bocor, Panel Bergelombang, Sealant Retak, atau Noda: Cara Menelusuri Penyebab
+## Dari contoh sampai penerimaan: apa yang harus dicocokkan
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Sebelum produksi atau pemasangan, proyek dapat memerlukan gambar kerja, contoh bahan, purwarupa (*mock-up*), daftar komponen, dan rencana pemeriksaan. Purwarupa berguna untuk memeriksa detail atau metode yang disepakati, tetapi hasilnya tidak otomatis berlaku bagi semua kondisi di lapangan. Begitu juga pengujian: metode, benda uji, batas, saksi, hasil, dan kecocokannya dengan sistem yang dipasang perlu dibaca satu per satu.
 
-## Jawaban singkat dan salah paham utama
+Pada saat pelaksanaan, pisahkan pemeriksaan penerimaan bahan, pemasangan awal, pekerjaan yang akan tertutup, sambungan, jalur drainase, serta catatan perubahan. [ISO 9001](https://www.iso.org/standard/62085.html) mendukung pentingnya proses dan rekaman mutu yang terkendali, tetapi sertifikasi sistem mutu tidak membuktikan fasad proyek telah memenuhi kinerja yang disyaratkan. [ASTM E2357](https://www.astm.org/e2357-18.html) pun membahas susunan penghalang udara; laporan yang relevan harus cocok dengan konfigurasi yang diklaim.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Almini.id, penerimaan yang kuat bukan tanda tangan setelah fasad tampak rapi. Penerimaan menghubungkan gambar yang disetujui, identitas material, catatan penggantian, hasil pemeriksaan, temuan yang ditutup, dan bukti pengujian yang memang dipersyaratkan.
 
-## Definisi dan batas objek
+## Contoh pertanyaan saat menilai usulan fasad
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saat menerima usulan fasad, gunakan urutan pertanyaan ini. Pertama, apa tepatnya susunannya: panel atau kaca, profil, pelapis, pengikat, tumpuan, sambungan, rongga, dan pertemuan bangunan? Kedua, kebutuhan mana yang harus dibuktikan untuk angin, air, udara, gerakan, api, akustik, dan akses? Ketiga, dokumen atau pengujian apa yang benar-benar sesuai dengan susunan itu? Keempat, bagaimana perubahan produk atau detail akan disetujui dan dicatat?
 
-## Cara kerjanya
+Misalnya, data panel bisa membantu mengenali panel, tetapi belum cukup untuk mengesahkan fasad. Bila subrangka, pengikat, sambungan, atau bukaan berubah, bukti sistem perlu diperiksa kembali. Hindari pernyataan “setara” tanpa daftar perbedaan dan penilaian pihak yang berwenang.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan umum yang membuat bukti fasad putus
 
-## Faktor yang mengubah hasil
+Kesalahan pertama adalah menyebut satu produk “tahan cuaca” lalu menganggap seluruh fasad aman dari air dan angin. Perbaiki dengan memeriksa jalur air, jalur gaya, sambungan, detail bukaan, dan bukti sistem. Kesalahan kedua adalah menyamakan hasil uji satu benda dengan hasil fasad proyek. Perbaiki dengan membandingkan konfigurasi, skala, komponen, sambungan, serta kondisi pemasangan.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah melakukan penambalan tanpa memahami jalur masuk air. Perbaiki dengan mengumpulkan fakta dan menelusuri detail aktual. Kesalahan keempat adalah menunda isu api, akses, atau panel jatuh sampai akhir. Perbaiki dengan memasukkannya sejak kebutuhan awal dan meminta dasar otoritas serta bukti susunan lengkap sebelum keputusan dibuat.
 
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Angin, air, gerakan termal, dan drainase dalam fasad aluminium harus dibaca sebagai kinerja satu sistem proyek. Langkah berikutnya: minta satu matriks yang memasangkan setiap kebutuhan dengan detail, komponen, dokumen, pemeriksaan, dan pihak penerimaannya. Aturan kerjanya sederhana: data komponen memberi informasi, tetapi hanya bukti sistem yang cocok yang dapat mendukung keputusan fasad.

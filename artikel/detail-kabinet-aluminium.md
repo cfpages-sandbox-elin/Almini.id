@@ -2,8 +2,9 @@
 article_id: ALM-09-A05
 title: "Detail Tepi, Sudut, Sambungan, dan Hardware pada Kabinet Aluminium"
 slug: "detail-kabinet-aluminium"
-description: "Show how edges, corners, doors/drawers, fasteners, panels, worktops, appliance clearances, cleaning gaps, replaceable hardware, and tolerances affect use"
-status: outline
+description: "Cara menilai panel, rangka, sambungan, pintu, perangkat, ventilasi, aliran air, akses, antarmuka listrik, dan bukti kabinet aluminium sebagai satu sistem."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,56 +16,14 @@ final_route: "/artikel/detail-kabinet-aluminium.html"
 technical_review: required
 sources:
   - "https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf"
-  - "https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf"
-  - "https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf"
-  - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
-  - "https://store.astm.org/standards/e331"
-  - "https://store.astm.org/standards/e2190"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
   - "https://pesta.bsn.go.id/produk/index/"
   - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
-  - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/70156.html"
-  - "https://www.iso.org/standard/80119.html"
   - "https://www.iso.org/standard/64996.html"
-  - "https://www.iso.org/standard/43385.html"
   - "https://www.iso.org/standard/79487.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Detail Tepi, Sudut, Sambungan, dan Hardware pada Kabinet Aluminium
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Detail Tepi, Sudut, Sambungan, dan Hardware pada Kabinet Aluminium”
-- **Reader and situation:** Buyer inspecting drawings or samples
-- **Reader outcome:** Show how edges, corners, doors/drawers, fasteners, panels, worktops, appliance clearances, cleaning gaps, replaceable hardware, and tolerances affect use
-- **Primary intent:** Review cabinet fabrication details
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Teman Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Kawan Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes structural shelving capacity and fabrication recipes; approved design/manufacturer data govern, while ALM-03 owns fabrication controls
-- **Final public route:** `/artikel/detail-kabinet-aluminium.html`
-- **Appointed CMS date:** `2026-04-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Detail Tepi, Sudut, Sambungan, dan Hardware pada Kabinet Aluminium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Almini.id`, `Sobat Almini.id`, or `Kawan Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -75,155 +34,74 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Detail Tepi, Sudut, Sambungan, dan Hardware pada Kabinet Aluminium
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Almini.id!
 
-### KR-07
+Kabinet aluminium yang tampak rapi dari depan belum tentu nyaman dipakai, mudah dibersihkan, atau siap dirawat. Pengalaman sehari-hari sering ditentukan oleh detail kecil: tepi panel, sudut, celah pintu, engsel dan rel, sambungan ke meja kerja, ruang untuk peralatan, jalur udara, serta akses ketika ada bagian yang perlu diperiksa. Karena itu, gambar dan contoh kabinet perlu dibaca sebagai satu sistem, bukan sekadar memilih warna aluminium dan model pintu.
 
-- **Original sources:** [NGA Proper Procedures for Cleaning Architectural Glass Products (2023)](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf), [NGA Heat-Treated Glass Surfaces Are Different (2023)](https://www.glass.org/sites/default/files/2023-10/FB02-02_2023_Heat-Treated_Glass_Surfaces_Different.pdf), [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf)
-- **Purpose for this article:** Ground test-patch, least-aggressive-method, rinse, runoff, and inspection advice.
-- **Safe grounded facts:** Scrapers, pads, abrasives, chemicals, pressure, water quality, dirty tools, and trapped particles can change risk. Construction debris and heat-treated glass need special caution. Runoff and overspray can affect adjacent façade materials.
-- **Limits:** Do not publish universal dilution, dwell time, pH range, scraper permission, pressure, water-purity number, or chemical compatibility. Obtain the exact product TDS/SDS and substrate instructions under GATE-05.
+Tidak ada satu ukuran, ketebalan, atau jenis perangkat yang cocok untuk semua kabinet. Keputusan perlu mengikuti fungsi ruang, produk yang benar-benar dipakai, kondisi pemasangan, beban yang dirancang, peralatan, serta dokumen dari perancang dan produsen. [NEEDS GATE-04: identitas panel, rangka, perangkat, lapisan, sambungan, antarmuka, dan kondisi lokasi harus dicocokkan dengan kabinet yang akan dibuat.]
 
-### KR-08
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM E331-00(2023) official scope](https://store.astm.org/standards/e331), [ASTM E2190-19 official scope](https://store.astm.org/standards/e2190), [ASTM E06.51 current window/façade standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651)
-- **Purpose for this article:** Prevent cleaning or film work from being confused with seal, drainage, façade, or insulating-glass diagnosis.
-- **Safe grounded facts:** Structural/weatherseal silicone work requires substrate, adhesion, joint-design, cleaning, compatibility, quality-control, and project records specific to the system. ASTM E331 addresses water penetration under controlled pressure difference. ASTM E2190 addresses insulating-glass unit durability.
-- **Limits:** Never advise field sealant repair, joint dimensions, adhesion acceptance, leak attribution, pressure, or pass/fail criteria from these abstracts. Resolve GATE-01, GATE-04, and GATE-10.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-21
+## Mulai dari fungsi setiap ruang kabinet
 
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
+Sebelum menilai detail, petakan fungsi. Apa yang akan disimpan? Bagian mana yang sering dibuka? Adakah peralatan yang menghasilkan panas, kelembapan, atau memerlukan ruang servis? Apakah kabinet berada dekat area cuci, meja kerja, atau jalur listrik? Jawaban ini menentukan panel, pintu, laci, bukaan ventilasi, jalur pembersihan, dan akses yang perlu ada.
 
-### KR-29
+Bedakan juga kabinet dari sekadar rangka aluminium. Sistem dapat terdiri dari panel, rangka, pengikat, pintu atau laci, engsel, rel, pegangan, meja kerja, kaki atau tumpuan, bahan perapat, serta perangkat yang berada di dalamnya. Data satu komponen tidak otomatis menjelaskan keseluruhan kabinet. [Katalog SNI BSN](https://pesta.bsn.go.id/produk/index/) dapat membantu mengenali dokumen standar, tetapi tidak menentukan kesesuaian atau daya dukung kabinet tertentu.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Kawan Almini.id, pertanyaan pembuka yang paling membantu adalah: “Bagian ini harus melakukan apa, dan bagaimana orang akan mengaksesnya saat dipakai, dibersihkan, atau diperbaiki?”
 
-### KR-33
+## Tepi, sudut, panel, dan rangka perlu bertemu dengan jelas
 
-- **Original sources:** [ISO 7599:2018 decorative/protective anodizing](https://www.iso.org/standard/70156.html) and [ISO 10074:2021 hard anodizing](https://www.iso.org/standard/80119.html).
-- **Purpose for this article:** Ground finish selection, appearance, durability, inspection, care, and substitution.
-- **Safe grounded facts:** Anodized appearance or nominal treatment name does not prove coating grade, sealing quality, abrasion behavior, corrosion result, electrical insulation, or service life.
-- **Limits:** Obtain the full invoked specification, applicator process record, approved physical sample, test report, exposure classification, and compatible-care guidance.
+Tepi dan sudut perlu dijelaskan pada gambar atau contoh yang disetujui: bagian mana yang terbuka, tertutup, diberi pelindung, atau bertemu panel lain. Detail tersebut memengaruhi rasa aman saat digunakan, kemudahan pembersihan, penampilan, dan cara komponen diganti. Jangan cukup menulis “finishing rapi”; sebutkan bagian yang terlihat, contoh yang menjadi acuan, dan kondisi penerimaan yang dibahas proyek.
 
-### KR-35
+Panel dan rangka juga punya peran berbeda. Panel dapat menutup ruang atau menjadi muka kabinet, sedangkan rangka serta tumpuan meneruskan pengaruh kerja ke bagian lain. Sambungan antara panel, rangka, dan meja kerja perlu menyisakan atau mengendalikan gerak sesuai rancangan, bukan dipaksa rapat hanya karena tampak lebih bersih. Bila ada kaca, lapisan, bahan perapat, atau bahan lain, masukkan semuanya ke dalam detail.
 
-- **Original sources:** [ISO 10077-1:2017 window/door thermal calculation](https://www.iso.org/standard/64996.html), [ISO 12567-1:2010 whole-window thermal test](https://www.iso.org/standard/43385.html), and [ISO 10140-2:2021 laboratory airborne-sound test](https://www.iso.org/standard/79487.html).
-- **Purpose for this article:** Ground frames, doors, windows, partitions, glazing, roofs, wet interiors, and performance comparisons.
-- **Safe grounded facts:** A frame-section property, center-panel value, laboratory specimen, or component certificate is not the installed opening/room/building result.
-- **Limits:** Obtain the exact current product/system report, geometry, hardware, perimeter detail, installation record, and project model or field measurement before stating a rating.
+Penyelesaian permukaan aluminium tidak boleh disimpulkan dari nama proses saja. [ISO 7599](https://www.iso.org/standard/70156.html) membahas anodisasi dekoratif dan pelindung, tetapi nama anodisasi tidak membuktikan mutu lapisan, perilaku abrasi, hasil korosi, atau umur pakai suatu kabinet. [NEEDS GATE-07: klaim kinerja permukaan atau produk harus didukung bukti yang cocok dengan produk dan kondisi pemakaiannya.]
 
-## Evidence gates
+## Pintu, laci, dan perangkat perlu dapat diakses
 
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Perangkat keras (*hardware*) adalah komponen seperti engsel, rel laci, pengunci, pegangan, dan penahan pintu. Detailnya perlu menyebut jenis, lokasi, cara pemasangan, batas gerak, dan cara menggantinya bila produk proyek memerlukannya. Jangan menganggap perangkat yang tampak serupa pasti memiliki fungsi atau kemampuan yang sama.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Periksa pula hubungan daun pintu atau laci dengan panel, pegangan, meja kerja, dinding, dan peralatan di dekatnya. Yang dicari bukan angka celah umum, melainkan bukti bahwa gerak dapat berlangsung sesuai gambar dan tidak berbenturan pada kondisi penggunaan yang direncanakan. Teman Almini.id, minta contoh bukaan atau purwarupa bila interaksi ini sulit dibayangkan dari gambar saja.
 
-## Internal-link plan
+Akses servis juga perlu nyata: apakah engsel, rel, pengikat, atau bagian yang mungkin aus dapat dicapai tanpa membongkar area yang tidak perlu? Catat komponen pengganti, cara mengenali modelnya, dan pihak yang menyimpan data produk. Ini membantu perawatan, tetapi tidak menjamin ketersediaan suku cadang atau jaminan layanan di masa depan.
 
-### Existing local routes
+## Ventilasi, aliran air, dan pembersihan bukan tambahan terakhir
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kabinet dekat area basah atau peralatan dapat memerlukan strategi untuk udara, air, dan pembersihan. Ventilasi berarti jalur pertukaran udara yang disengaja; aliran air berarti ke mana air dari tumpahan, kondensasi, atau pembersihan diarahkan menurut kondisi ruang. Keduanya perlu dipikirkan bersama panel, tepi, sambungan, dan akses pembersihan, bukan ditambahkan setelah kabinet selesai.
 
-### Planned sibling articles
+Jangan membuat klaim “kedap”, “tahan air”, atau tingkat perlindungan masuknya air tanpa detail dan bukti produk yang tepat. Tumpahan atau noda pada satu titik juga tidak dengan sendirinya membuktikan sebabnya berada pada sambungan kabinet. Catat lokasi, kondisi, material yang berdekatan, dan jalur yang mungkin sebelum menentukan tindakan. [NEEDS GATE-10: penyebab kerusakan, tindakan perbaikan, serta keputusan memakai kembali komponen harus ditentukan dari kondisi nyata dan penilaian yang sesuai.]
 
-These are future routes. Do not link them as live until their HTML exists.
+Untuk pembersihan, mulai dari instruksi produk dan cara paling ringan yang sesuai. Panduan [NGA tentang pembersihan kaca arsitektural](https://www.glass.org/sites/default/files/2023-12/FB01-00_2023_Proper_Procedures_Cleaning_Architectural_Glass_Products.pdf) mengingatkan bahwa alat, partikel, bahan kimia, air, dan limpasan dapat memengaruhi risiko pada material berdekatan. Jangan memindahkan panduan itu menjadi izin universal untuk semua panel atau pelapis kabinet. [NEEDS GATE-05: cocokkan bahan pembersih, alat, air, proses, dan material di sekitarnya dengan petunjuk produk yang sebenarnya.]
 
-- `ALM-09-A03` → `/artikel/aluminium-di-area-basah.html` — Aluminium di Area Basah: Korosi, Jamur Permukaan, Kebersihan, dan Ventilasi
-- `ALM-09-A04` → `/artikel/partisi-dan-furnitur-aluminium.html` — Partisi dan Furnitur Aluminium untuk Interior: Kapan Tepat Digunakan?
-- `ALM-09-A06` → `/artikel/perbaikan-sistem-aluminium-interior.html` — Kitchen Set atau Shower Box Rusak: Setel, Reseal, Perbaiki, atau Ganti?
+## Antarmuka listrik dan peralatan perlu diputuskan bersama ahlinya
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Bila kabinet berdekatan atau terhubung dengan peralatan listrik, gambarkan batas tanggung jawabnya. Tulis lokasi peralatan, ruang servis yang diperlukan, jalur kabel atau bukaan yang direncanakan, ventilasi yang dibutuhkan menurut data produsen, dan bagian kabinet yang tidak boleh menghalangi akses. Jangan merencanakan lubang, jalur, atau perubahan pada kabinet sebagai pengganti rancangan kelistrikan.
 
-## Jawaban singkat dan salah paham utama
+Peralatan dapat membawa kebutuhan sendiri terkait panas, ventilasi, sambungan, dan pembersihan. Informasi produk peralatan, rancangan listrik, dan kondisi lokasi perlu disatukan sebelum fabrikasi. [NEEDS GATE-06: gambar, perubahan, pemasangan, pemeriksaan, dan penerimaan antarmuka kabinet dengan peralatan atau listrik harus disetujui serta dicatat dalam proyek.] [NEEDS GATE-07: jangan menyatakan suhu, ketahanan api, tingkat perlindungan, atau kinerja peralatan tanpa laporan produk dan rancangan yang cocok.]
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Detail Tepi, Sudut, Sambungan, dan Hardware pada Kabinet Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Catatan dan pemeriksaan membuat detail dapat dipertanggungjawabkan
 
-## Definisi dan batas objek
+Sebelum fabrikasi, kumpulkan gambar kerja, daftar panel dan perangkat, contoh permukaan, batas antarmuka, serta daftar perubahan yang harus mendapat persetujuan. Saat penerimaan, bedakan pemeriksaan bahan, ukuran yang dirujuk gambar, kondisi permukaan, gerak pintu atau laci, akses servis, dan temuan yang harus ditutup. Catatan pabrik, contoh, dan hasil penerimaan adalah dokumen yang berbeda.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Detail Tepi, Sudut, Sambungan, dan Hardware pada Kabinet Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[ISO 9001](https://www.iso.org/standard/62085.html) menggarisbawahi peran proses dan rekaman mutu yang terkendali, tetapi sertifikasi sistem mutu tidak membuktikan kabinet tertentu sudah sesuai gambar atau siap dipakai. Begitu pula nilai termal suatu bagian rangka atau hasil uji akustik spesimen tidak otomatis menjadi hasil ruang terpasang; [ISO 10077-1](https://www.iso.org/standard/64996.html) membahas perhitungan termal jendela dan pintu, sedangkan [ISO 10140-2](https://www.iso.org/standard/79487.html) membahas uji laboratorium bunyi udara. Keduanya menegaskan perlunya mencocokkan objek bukti dengan klaimnya.
 
-## Cara kerjanya
+## Contoh keputusan yang lebih aman
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Detail Tepi, Sudut, Sambungan, dan Hardware pada Kabinet Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pembeli meminta kabinet di bawah meja kerja dengan peralatan di dalamnya. Daripada langsung memilih ketebalan panel atau jenis engsel dari kebiasaan, buat urutan pertanyaan: apa fungsi kompartemen, peralatan apa yang masuk, bagaimana akses servisnya, apakah ada kebutuhan ventilasi dari produsen, ke mana air pembersihan bisa bergerak, dan gambar apa yang menyatukan semuanya?
 
-## Faktor yang mengubah hasil
+Jika jawaban belum tersedia, tahan perubahan yang sulit dibalik. Minta gambar pertemuan, contoh gerak pintu atau laci, data peralatan, serta keputusan pihak perancang. Sobat Almini.id, langkah ini mungkin terasa lebih lambat di awal, tetapi mencegah detail saling bertabrakan saat kabinet sudah terpasang.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Detail Tepi, Sudut, Sambungan, dan Hardware pada Kabinet Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan umum saat menilai kabinet aluminium
 
-## Contoh keputusan praktis
+Kesalahan pertama adalah memilih panel dan warna lebih dulu, lalu baru memikirkan perangkat serta akses. Perbaiki dengan memulai dari fungsi dan urutan penggunaan. Kesalahan kedua adalah menyamakan satu detail rangka dengan kapasitas seluruh rak atau meja kerja. Perbaiki dengan meminta rancangan dan bukti yang sesuai untuk elemen yang memikul beban.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Detail Tepi, Sudut, Sambungan, dan Hardware pada Kabinet Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah menutup semua celah agar terlihat rapi tanpa mempertimbangkan pembersihan, ventilasi, gerak, atau akses servis. Perbaiki dengan menggambar kebutuhan tiap celah dan pertemuan. Kesalahan keempat adalah memperlakukan antarmuka listrik sebagai pekerjaan kabinet biasa. Perbaiki dengan menyatukan data produsen, rancangan listrik, dan detail kabinet sebelum pelaksanaan.
 
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Detail Tepi, Sudut, Sambungan, dan Hardware pada Kabinet Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Detail tepi, sudut, sambungan, dan perangkat pada kabinet aluminium perlu dibaca sebagai sistem penggunaan, perawatan, dan bukti. Langkah berikutnya: minta satu gambar atau matriks yang menyebut setiap panel, rangka, sambungan, perangkat, ruang servis, jalur udara atau air, serta antarmuka peralatan. Aturan kerjanya sederhana: apabila fungsi, akses, dan bukti tiap bagian belum dapat dicocokkan, detail kabinet belum siap disetujui.
