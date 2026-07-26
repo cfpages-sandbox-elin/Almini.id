@@ -1,9 +1,10 @@
 ---
 article_id: ALM-01-A03
-title: "Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan"
+title: "Aluminium Dibandingkan Baja, Stainless Steel, dan Kayu untuk Bangunan"
 slug: "aluminium-versus-baja-stainless-dan-kayu"
-description: "Compare density, stiffness, corrosion strategy, fabrication, finish, maintenance, fire evidence, repairability, and lifecycle without declaring one universal winner"
-status: outline
+description: "Bandingkan aluminium, baja, stainless steel, dan kayu dari kebutuhan keputusan proyek tanpa menganggap satu material selalu unggul."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,43 +18,23 @@ sources:
   - "https://pesta.bsn.go.id/produk/index/"
   - "https://www.iso.org/sectors/building-construction"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
   - "https://www.iso.org/standard/85023.html"
-  - "https://www.iso.org/committee/50126/x/catalogue/"
   - "https://www.iso.org/standard/76708.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Aluminium Dibandingkan Baja, Stainless Steel, dan Kayu untuk Bangunan
 
-# Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan
+Halo, Sobat Almini.id!
 
-## Assignment lock
+Tidak ada jawaban jujur bahwa aluminium, baja, stainless steel, atau kayu selalu paling baik untuk bangunan. Pilihan yang tepat bergantung pada bagian yang dibuat, fungsi, bentuk, cara menyambung, lingkungan pemakaian, tampilan yang diinginkan, akses perawatan, dan bukti yang tersedia. Jadi, jangan mulai dari pertanyaan “mana yang terbaik?”, tetapi dari “apa yang harus dilakukan bagian ini?”
 
-- **Writer task:** Expand this file into one complete article answering: “Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan”
-- **Reader and situation:** Owner or designer screening alternatives
-- **Reader outcome:** Compare density, stiffness, corrosion strategy, fabrication, finish, maintenance, fire evidence, repairability, and lifecycle without declaring one universal winner
-- **Primary intent:** Compare material families for a building decision
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes member sizing, owned by ALM-05-A03, and product quotations, owned by commercial routes
-- **Final public route:** `/artikel/aluminium-versus-baja-stainless-dan-kayu.html`
-- **Appointed CMS date:** `2025-09-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Nama material hanya titik awal. Sebuah profil aluminium, rangka baja, komponen stainless steel, atau elemen kayu masih perlu dibaca sebagai produk nyata yang menjadi bagian dari sistem. Lapisan, inti, pengikat, sambungan, pemasangan, dan pertemuan dengan bahan lain dapat menentukan hasil yang tidak bisa disimpulkan dari keluarga material saja.
 
-## Opening instructions
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+_Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu._
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -64,133 +45,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-19
-
-- **Original sources:** [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/), [ISO building-construction standards](https://www.iso.org/sectors/building-construction).
-- **Purpose for this article:** Prevent façade materials from being compared by trade name alone.
-- **Safe grounded facts:** Material, processed product, coating/core, support/fixing, joints, interfaces, installation, and complete-system performance are separate evidence layers.
-- **Limits:** No equivalence, rating, durability, fire, structural, water, energy, acoustic, environmental, or warranty claim without exact identity and matched evidence.
-
-### KR-21
-
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
-
-### KR-31
-
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/category/produk-material-aluminium/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ALM-01-A01` → `/artikel/aluminium-alumunium-dan-almini.html` — Aluminium, Alumunium, dan Almini: Istilah Mana yang Tepat?
-- `ALM-01-A02` → `/artikel/seri-paduan-dan-temper-aluminium.html` — Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material
-- `ALM-01-A04` → `/artikel/dari-bauksit-ke-profil-aluminium.html` — Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat
-- `ALM-01-A05` → `/artikel/sifat-aluminium-massa-kekuatan-kekakuan.html` — Ringan Bukan Berarti Lemah: Massa, Kekuatan, Kekakuan, dan Konduktivitas Aluminium
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Membandingkan bahan tidak sama dengan memilih pemenang. Aluminium, baja, stainless steel, dan kayu masing-masing hadir dalam banyak bentuk produk, mutu, lapisan, dan cara pemasangan. Bahkan dua produk dari keluarga bahan yang sama dapat berbeda karena bentuk, ukuran, kondisi permukaan, atau dokumen yang menyertainya.
+
+Katalog [SNI dari BSN](https://pesta.bsn.go.id/produk/index/) dan halaman [standar bangunan ISO](https://www.iso.org/sectors/building-construction) menunjukkan bahwa bahan, produk olahan, sistem pemasangan, serta kinerja susunan lengkap dibahas pada lapisan yang berbeda. Nah, membandingkan bahan dengan nama dagang atau satu sifat saja hampir selalu terlalu sederhana.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Di artikel ini, aluminium, baja, stainless steel, dan kayu dibahas sebagai keluarga material untuk membantu menyaring keputusan awal. Artikel ini tidak menentukan ukuran batang atau profil, tidak menghitung struktur, tidak menetapkan kelas kebakaran, dan tidak memberikan harga atau umur layanan.
 
-## Cara kerjanya
+Istilah **massa** membantu membahas seberapa berat suatu benda untuk ukuran tertentu. **Kekakuan** membahas seberapa mudah bagian berubah bentuk. **Kekuatan** membahas kemampuan menahan kondisi pembebanan tertentu. Ketiganya berbeda. Begitu pula strategi mengelola kondisi lingkungan, pilihan permukaan, cara fabrikasi, dan kemudahan perbaikan perlu ditinjau sesuai produk serta sistem yang dipakai.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Almini.id, jangan menilai bahan dari reputasinya saja. Periksa objek yang benar-benar akan dibeli atau dipasang.
 
-## Faktor yang mengubah hasil
+## Cara membandingkan tanpa menyamakan bahan dengan sistem
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari fungsi bagian bangunan. Apakah ia menjadi penutup, rangka, kusen, daun pintu, elemen tampilan, atau bagian lain? Lalu catat kondisi di sekitarnya: terpapar apa, bertemu bahan apa, perlu bergerak atau tetap, dan bagaimana akses pemeriksaannya. Dari situ, baru bandingkan produk yang benar-benar ditawarkan.
+
+Untuk aluminium, identitas paduan, temper, bentuk produk, ukuran/toleransi, kondisi permukaan, dan penggunaan yang dituju adalah fakta berbeda. Cakupan [ISO 2107:2023](https://www.iso.org/standard/85023.html) tentang temper serta [ISO 6362-4:2022](https://www.iso.org/standard/76708.html) tentang toleransi profil ekstrusi menegaskan perlunya membaca identitas itu sebagai rangkaian, bukan satu label singkat. Prinsip yang sama berguna saat membandingkan keluarga bahan lain: pastikan objek, bentuk, dan dokumennya sebanding sebelum membuat kesimpulan.
+
+Strategi menghadapi kondisi korosif juga tidak boleh diputuskan dari satu kata seperti “stainless”, “galvanis”, atau “berlapis serbuk”. [ISO 12944-2](https://www.iso.org/standard/64834.html) menunjukkan bahwa lingkungan korosif adalah topik tersendiri. Karena itu, nama lapisan atau nama material tidak cukup untuk menjanjikan ketahanan pada lokasi tertentu.
+
+## Faktor yang mengubah keputusan
+
+Gunakan pertanyaan berikut sebagai kerangka pembanding, bukan sebagai tabel pemenang.
+
+| Pertanyaan keputusan | Bukti atau informasi yang perlu dicari |
+| --- | --- |
+| Bagian ini harus melakukan apa? | Fungsi, gambar, dan batas penggunaan yang direncanakan |
+| Produk apa yang sedang dibandingkan? | Bentuk, ukuran, kondisi permukaan, dan identitas produk |
+| Apa yang ditemui di lokasi? | Lingkungan, antarmuka dengan bahan lain, sambungan, dan akses |
+| Bagaimana perawatannya akan dilakukan? | Akses pemeriksaan, instruksi perawatan, serta bagian yang dapat diganti |
+| Apa yang harus dibuktikan sebelum diterima? | Dokumen produk, sampel bila diperlukan, pemeriksaan, dan dasar rancangan |
+
+Kawan Almini.id, tabel ini sengaja tidak memberi angka nilai. Angka atau peringkat tanpa produk, bentuk, lingkungan, dan dasar pemeriksaan yang sama justru dapat membuat keputusan tampak pasti padahal belum.
+
+[NEEDS GATE-01: Untuk pilihan yang akan dipasang, cocokkan identitas produk dan kebutuhan bagian bangunan melalui peninjauan pihak yang berkompeten.]
+
+[NEEDS GATE-04: Pengikat, sambungan, lapisan, pertemuan bahan, dan pemasangan memerlukan bukti sistem yang sesuai dengan rancangan.]
+
+[NEEDS GATE-07: Klaim tentang kekuatan, kebakaran, air, energi, akustik, ketahanan lingkungan, atau jaminan perlu dasar produk dan sistem yang cocok sebelum dipakai untuk persetujuan.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pemilik ingin memilih bahan untuk satu bagian bangunan dan menerima empat penawaran dengan nama bahan berbeda. Jangan langsung menyusun urutan dari paling murah atau paling terkenal. Minta tiap penawaran menjawab pertanyaan yang sama: produk apa, bentuk dan ukuran apa, kondisi permukaan bagaimana, sambungan serta aksesori apa yang dipakai, dan bukti apa yang tersedia untuk penggunaan yang diminta.
+
+Setelah itu, pisahkan hal yang masih terbuka. Misalnya, jika gambar belum menetapkan antarmuka atau cara pemasangan, jangan menganggap perbandingan sudah selesai. Anda boleh memilih arah diskusi, tetapi persetujuan akhir menunggu informasi yang dapat dicocokkan.
+
+Untuk mengenali pilihan produk aluminium pada tahap awal, halaman [kategori produk dan material aluminium](/category/produk-material-aluminium/) dapat dipakai sebagai titik awal. Saat membandingkan alternatif nyata, kembali ke dokumen setiap produk dan kebutuhan bagian bangunan Anda.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan bahan dengan hasil pemasangan. Kesalahan kedua adalah menyamakan satu sifat dengan seluruh kinerja: ringan dianggap selalu lebih baik, kuat dianggap selalu lebih kaku, atau nama lapisan dianggap menjawab semua kondisi lingkungan. Kesalahan ketiga ialah membandingkan barang yang tidak sebanding, misalnya hanya nama bahan tanpa bentuk dan sambungan.
 
-## Objection or shortcut to address
+Jalan pintas “ambil bahan yang paling awet” terdengar praktis, tetapi awet untuk produk apa, di lingkungan apa, dengan pemasangan bagaimana, dan berdasarkan bukti apa? Lebih aman mengubahnya menjadi daftar periksa:
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+- tentukan fungsi dan batas bagian bangunan;
+- bandingkan produk dengan bentuk serta identitas yang jelas;
+- catat lingkungan, pertemuan bahan, dan akses perawatan;
+- minta dokumen yang membuktikan klaim yang penting; dan
+- tahan keputusan bila dasar perbandingan belum setara.
 
-## Required conclusion
+## Penutup: pilih kondisi yang tepat, bukan nama yang terdengar unggul
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Aluminium, baja, stainless steel, dan kayu tidak memiliki satu pemenang untuk semua bangunan. Yang dapat dibandingkan dengan jujur adalah produk tertentu dalam kondisi penggunaan tertentu, bersama sambungan, pemasangan, dan bukti yang menyertainya.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sobat Almini.id, langkah berikutnya ialah tulis fungsi bagian yang akan dibuat dan minta setiap opsi menjelaskan produk serta bukti yang sama. Aturan kerjanya: jangan putuskan dari nama material; putuskan dari kecocokan satu sistem yang dapat diperiksa.
