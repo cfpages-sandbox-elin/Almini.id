@@ -2,8 +2,9 @@
 article_id: ALM-12-A05
 title: "Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh"
 slug: "k3-pemasangan-aluminium-di-ketinggian"
-description: "Integrate access, fall prevention, rescue, lifting, panel sail area, wind/rain, sharp edges, dropped objects, exclusion zones, temporary stability, tools, and coordination"
-status: outline
+description: "Panduan membaca bahaya pemasangan aluminium di ketinggian dari akses, pengangkatan, cuaca, dan benda jatuh tanpa menggantikan rencana kerja proyek."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,56 +15,13 @@ reader_address: "Sobat Almini.id"
 final_route: "/artikel/k3-pemasangan-aluminium-di-ketinggian.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
   - "https://peraturan.bpk.go.id/Details/146109/permenaker-"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/51/35155.html"
   - "https://www.iso.org/standard/85161.html"
-  - "https://irata.org/uploads/documents/International_Code_of_Practice_%28ICOP%29_-_English_TC-102ENG.pdf"
   - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
-  - "https://www.astm.org/e1105-15r23.html"
-  - "https://www.iso.org/standard/30010.html"
-  - "https://www.iso.org/standard/64572.html"
-  - "https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf"
-  - "https://www.osha.gov/sites/default/files/enforcement/directives/CPL_03-00-008.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh”
-- **Reader and situation:** Site supervisor or installer
-- **Reader outcome:** Integrate access, fall prevention, rescue, lifting, panel sail area, wind/rain, sharp edges, dropped objects, exclusion zones, temporary stability, tools, and coordination
-- **Primary intent:** Plan elevated installation hazards
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes scaffold/rigging design, rescue-plan approval, or work authorization; competent site specialists own them
-- **Final public route:** `/artikel/k3-pemasangan-aluminium-di-ketinggian.html`
-- **Appointed CMS date:** `2026-06-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,155 +32,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Almini.id! Memasang rangka, jendela, atau panel aluminium di ketinggian bukan sekadar memindahkan pekerjaan bengkel ke tempat yang lebih tinggi. Akses pekerja, pengangkatan komponen, angin atau hujan, orang di bawah area kerja, dan kondisi sementara sebelum komponen terpasang penuh saling memengaruhi.
 
-### KR-02
+Jawaban singkatnya: rencana aman harus membaca sistem kerja lengkap, bukan hanya memilih alat akses. Perancah, platform kerja angkat bergerak, tali pengaman, titik tambat, dan alat angkat dapat menjadi bagian dari solusi, tetapi masing-masing hanya aman bila cocok dengan tugas, kondisi lokasi, orang yang menggunakannya, dan rencana tanggapnya. Artikel ini tidak menggantikan rancangan perancah, rencana pengangkatan, atau persetujuan kerja di ketinggian.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-), [official Permen PU 24/2008 PDF](https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf)
-- **Purpose for this article:** Anchor surveys, building operation, preventive maintenance, records, and escalation in Indonesian building-governance context.
-- **Safe grounded facts:** PP 16/2021 is the implementing regulation for Indonesia's building law. Permen PU 24/2008 is an official guideline for maintenance and care of buildings; its text distinguishes routine maintenance from restorative care and supports planned inspection, cleaning, records, equipment, and personnel rather than appearance-only cleaning.
-- **Limits:** Do not turn a national framework into a project permit list, maintenance frequency, inspection interval, or technical acceptance value. Confirm local government, building-function, ownership, and contract requirements under GATE-02.
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-### KR-03
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [Permenaker No. 9 Tahun 2016 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), [Permenaker No. 9 Tahun 2016 status — BPK](https://peraturan.bpk.go.id/Details/146109/permenaker-), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)
-- **Purpose for this article:** Control statements about elevated work, competence, planning, equipment, supervision, and rescue.
-- **Safe grounded facts:** The BPK status record marks Permenaker 9/2016 as in force with a partial revocation. The 2026 instrument governs labor-inspection procedures and makes the listed partial changes; it does not erase the rest of the work-at-height regulation.
-- **Limits:** Do not reproduce qualification categories, certificate rules, equipment numbers, anchor loads, weather thresholds, or rescue techniques from memory. Resolve GATE-01, GATE-02, and GATE-03 before precise claims.
+## Pisahkan akses pekerja, akses material, dan perlindungan orang lain
 
-### KR-04
+*Scaffolding* atau perancah adalah struktur akses kerja sementara. *MEWP* (*mobile elevating work platform*) adalah platform kerja angkat bergerak. Keduanya bukan pilihan yang dapat diputuskan dari foto fasad atau tinggi bangunan saja. Pertimbangkan ruang kerja, kondisi lantai, jalur keluar-masuk, pekerjaan yang dilakukan dari platform, orang di sekitar, serta cara komponen datang ke titik pemasangan.
 
-- **Original sources:** [Permenaker No. 8 Tahun 2020 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [ISO 22846-1:2003 official abstract, confirmed 2024](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/51/35155.html), [ISO 18893:2024 official abstract](https://www.iso.org/standard/85161.html), [IRATA International Code of Practice](https://irata.org/uploads/documents/International_Code_of_Practice_%28ICOP%29_-_English_TC-102ENG.pdf)
-- **Purpose for this article:** Support ground-based, MEWP, scaffold, gondola/BMU, and rope-access comparisons without selecting a site method remotely.
-- **Safe grounded facts:** Permenaker 8/2020 is the current Indonesian K3 instrument for lifting and transport machinery, subject to its actual scope and the partial 2026 changes recorded by BPK. ISO 22846-1 sets fundamental principles for rope-access work systems. ISO 18893 covers MEWP selection, inspection, training, maintenance, repair, and safe operation. IRATA ICOP is industry guidance, not Indonesian law or proof of a contractor's certification.
-- **Limits:** Do not assume every gondola, BMU, suspended platform, scaffold, or anchor falls under one cited instrument. Do not provide capacities, tie patterns, slopes, wind limits, or operating instructions without GATE-01 and GATE-03.
+Jalur pekerja tidak selalu sama dengan jalur material. Rangka atau panel perlu melalui proses *lifting* atau pengangkatan yang diperhitungkan terpisah. Jika benda dibawa melewati area yang masih digunakan pihak lain, pengendalian area dan koordinasi menjadi pertanyaan utama. Kawan Almini.id, jangan membuat satu rencana akses lalu menganggapnya sekaligus menjawab cara angkat dan perlindungan area bawah.
 
-### KR-29
+## Istilah tali keselamatan perlu dipahami dengan batasnya
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+*Lifeline* adalah jalur atau komponen sistem penahan jatuh yang dirancang untuk keterhubungan pengguna sesuai sistem yang berlaku. *Anchor point* atau titik tambat adalah titik yang ditetapkan untuk menghubungkan bagian sistem tersebut. Kedua istilah tidak membuktikan kekuatan, kecocokan, atau izin memakai suatu elemen bangunan sebagai titik sambung.
 
-### KR-32
+Jangan mengira rangka aluminium, pagar, kusen, atau bagian fasad otomatis dapat menjadi titik tambat hanya karena dekat dengan pekerja. Kondisi struktur, sistem lengkap, metode pemasangan, pemeriksaan, kompetensi, dan rencana penyelamatan harus ditentukan untuk lokasi sebenarnya. Catatan status [Permenaker 9/2016](https://peraturan.bpk.go.id/Details/146109/permenaker-) menunjukkan rujukan kerja di ketinggian perlu dibaca dengan status dan lingkupnya, bukan disederhanakan menjadi satu daftar aturan.
 
-- **Original sources:** [ISO/TR 17671-4 aluminium arc-welding guidance](https://www.iso.org/standard/30010.html) and [ISO 18273:2015 aluminium welding-consumable classification](https://www.iso.org/standard/64572.html).
-- **Purpose for this article:** Prevent steel-welding assumptions or filler trade names from being transferred to aluminium work.
-- **Safe grounded facts:** Filler classification is based on chemical composition; the welding guidance does not establish finished-joint mechanical properties or project acceptance by itself.
-- **Limits:** No procedure, filler selection, allowable property, distortion tolerance, defect acceptance, or structural conclusion without the application standard, qualified procedure/personnel, drawings, and inspection plan.
+[NEEDS GATE-03: Metode akses, sistem pencegahan jatuh, titik tambat, alat angkat, kondisi cuaca, zona perlindungan, dan rencana respons harus ditetapkan dari penilaian risiko lokasi oleh pihak yang kompeten.]
 
-### KR-36
+## Angin, hujan, dan bentuk komponen mengubah keputusan
 
-- **Original sources:** [OSHA combustible-dust technical manual](https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf), [OSHA combustible-dust emphasis directive](https://www.osha.gov/sites/default/files/enforcement/directives/CPL_03-00-008.pdf), and the Indonesian K3 sources already mapped in KR-02/KR-03.
-- **Purpose for this article:** Bound cutting, grinding, polishing, welding, finishing, housekeeping, ventilation, ignition, lifting, and site-installation guidance.
-- **Safe grounded facts:** Solid aluminium product behavior does not describe accumulated dust; generic housekeeping or PPE language is not a dust-hazard analysis or process control plan.
-- **Limits:** Do not prescribe collection equipment, ventilation, extinguishing, zoning, exposure limits, PPE, or hot-work procedures without current Indonesian requirements and a site/process-specific competent design.
+Panel lebar dapat memberi bidang tangkap angin; profil panjang dapat sulit dikendalikan; kaca dan tepi aluminium menambah pertanyaan penanganan. Cuaca bukan sekadar catatan harian. Ia dapat mengubah kestabilan orang, cara alat bekerja, gerak beban, kondisi permukaan, dan kemampuan melihat maupun berkomunikasi.
 
-## Evidence gates
+Tidak ada batas cuaca tunggal yang dapat ditulis untuk semua pemasangan. Hentikan kebiasaan menyalin angka dari proyek lain. Gunakan rencana kerja serta instruksi peralatan yang tepat untuk tugas itu, lalu tetapkan siapa yang menilai perubahan kondisi dan siapa yang memberi keputusan berhenti atau lanjut.
 
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Sobat Almini.id, kondisi sementara juga perlu diperlakukan serius. Komponen yang belum mencapai susunan akhir tidak boleh dianggap sudah memiliki kestabilan seperti sistem lengkap. Urutan pemasangan, penyangga sementara, pengikat, dan pemeriksaan merupakan keputusan proyek yang memerlukan gambar serta bukti yang sesuai.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Benda jatuh dan tepi tajam tidak selesai dengan kata “hati-hati”
 
-## Internal-link plan
+Perkakas kecil, pengikat, serpihan, dan komponen dapat menjadi bahaya bagi orang di bawah. Tentukan lebih dulu siapa yang boleh berada di area kerja, bagaimana informasi disampaikan, dan bagaimana pekerjaan lain dikoordinasikan. Begitu pula dengan tepi tajam: sarung tangan atau APD lain mungkin diperlukan menurut penilaian risiko, tetapi APD tidak menggantikan penataan material, cara penanganan, atau perbaikan kondisi kerja.
 
-### Existing local routes
+Jika akses memakai MEWP, [ISO 18893](https://www.iso.org/standard/85161.html) mencakup pemilihan, pemeriksaan, pelatihan, pemeliharaan, perbaikan, dan pengoperasian aman untuk jenis platform tersebut. Rujukan itu tidak memberikan izin memilih MEWP, menetapkan kapasitas, atau menjalankan alat di lokasi tanpa pemeriksaan dan otorisasi yang tepat. Untuk alat angkat dan angkut, [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020) perlu diterapkan sesuai lingkup aktualnya.
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Contoh pertanyaan sebelum panel dinaikkan
 
-### Planned sibling articles
+Bayangkan panel tiba saat perancah sudah berdiri, tetapi rute angkat melewati pintu masuk yang dipakai banyak orang. Jangan langsung menyimpulkan pekerjaan dapat dimulai karena akses pekerja tersedia. Tanyakan: apakah area bawah dapat dikendalikan, apakah panel telah diidentifikasi, apakah metode angkat sudah disetujui, apakah kondisi cuaca masih sesuai rencana, dan siapa yang memegang keputusan bila keadaan berubah?
 
-These are future routes. Do not link them as live until their HTML exists.
+Saat memeriksa lingkup produk sebelum hari pemasangan, halaman [produk aluminium Yogyakarta](/produk-aluminium-yogyakarta.html) dapat membantu pembaca mengenali konteks produk yang tersedia. Namun halaman produk bukan pengganti gambar pemasangan, data berat, rencana akses, atau bukti kelayakan metode angkat.
 
-- `ALM-12-A03` → `/artikel/k3-pengelasan-aluminium.html` — K3 Pengelasan Aluminium: Fume, Radiasi Busur, Listrik, Gas, dan Hot Work
-- `ALM-12-A04` → `/artikel/k3-bahan-kimia-finishing-aluminium.html` — K3 Anodizing, Pretreatment, Cat, Adhesive, dan Sealant
-- `ALM-12-A06` → `/artikel/k3-listrik-dan-darurat-aluminium.html` — Peralatan Listrik, Overheating, Kebakaran, dan Respons Darurat pada Pekerjaan Aluminium
+Untuk pembaca yang membandingkan kebutuhan di wilayah lain, [informasi produk aluminium Yalimo](/produk-aluminium-yalimo.html) juga hanya membantu pada tahap mengenali lingkup produk. Tetap minta dokumen aktual proyek sebelum memutuskan urutan pemasangan dan pengendalian di ketinggian.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Rekaman dan koordinasi menghindarkan tim dari asumsi lama
 
-## Jawaban singkat dan salah paham utama
+Rencana kerja, identitas komponen, gambar yang disetujui, pemeriksaan alat, catatan kondisi cuaca, temuan lapangan, dan perubahan metode adalah rekaman yang berbeda. Jangan menyebut semua itu “sudah dicek” tanpa mengetahui kapan dan untuk kondisi apa pemeriksaan dilakukan. [ISO 9001](https://www.iso.org/standard/62085.html) menyediakan kerangka umum untuk informasi terdokumentasi dan pengendalian proses, bukan bukti bahwa suatu pemasangan aman.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Koordinasi juga perlu memasukkan pekerjaan di sekelilingnya: pengguna bangunan, lalu lintas material, pekerjaan lain di fasad, dan kemungkinan perlunya penyelamatan. [NEEDS GATE-08: Perlindungan orang lain, kesiapan darurat, akses penyelamatan, serta wewenang menghentikan atau membuka kembali pekerjaan harus ditetapkan dari rencana lokasi.]
 
-## Definisi dan batas objek
+## Jalan pintas yang harus ditahan
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Perancah sudah ada” bukan alasan mulai bekerja. “Panelnya ringan” juga bukan bukti rute angkat, kondisi angin, atau kestabilan sementara dapat diterima. Jalan pintas ini hanya memindahkan keputusan penting ke detik-detik ketika orang dan material sudah berada di atas.
 
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Pemasangan Aluminium di Ketinggian: Akses, Angkat, Cuaca, dan Benda Jatuh”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Pemasangan aluminium di ketinggian perlu dibaca sebagai satu rangkaian akses, angkat, cuaca, benda jatuh, koordinasi, dan respons. Aturan kerjanya: bila rencana untuk satu bagian belum cocok dengan bagian lain, tahan pekerjaan sampai pihak yang kompeten menetapkannya.

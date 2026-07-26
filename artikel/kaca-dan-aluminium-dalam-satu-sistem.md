@@ -1,9 +1,10 @@
 ---
 article_id: ALM-07-A03
-title: "Pertemuan Kaca dan Aluminium: Setting Block, Gasket, Sealant, dan Tepi Kaca"
+title: "Pertemuan Kaca dan Aluminium: Penopang Kaca, Karet Penahan, Bahan Perapat, dan Tepi Kaca"
 slug: "kaca-dan-aluminium-dalam-satu-sistem"
-description: "Explain support, clearances, edge condition, blocks, gaskets, sealants, drainage, incompatible contact, movement, replacement, and required glass evidence"
-status: outline
+description: "Cara membaca pertemuan kaca dan aluminium sebagai satu sistem penopang, penahan, perapat, drainase, dan pergerakan tanpa mengklaim kompatibilitas atau kinerja tertentu."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,61 +15,18 @@ reader_address: "Teman Almini.id"
 final_route: "/artikel/kaca-dan-aluminium-dalam-satu-sistem.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026"
-  - "https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key="
   - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
   - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
   - "https://pesta.bsn.go.id/produk/detail/14858-sni92372023"
-  - "https://pesta.bsn.go.id/produk/detail/8964-sniiso12543-12011"
   - "https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf"
   - "https://store.astm.org/standards/e331"
-  - "https://store.astm.org/standards/e2190"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651"
   - "https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf"
-  - "https://iwfa.com/inspection-guidelines/"
-  - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
-  - "https://www.iso.org/standard/74384.html"
   - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
-  - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/64996.html"
   - "https://www.iso.org/standard/43385.html"
-  - "https://www.iso.org/standard/79487.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Pertemuan Kaca dan Aluminium: Setting Block, Gasket, Sealant, dan Tepi Kaca
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Pertemuan Kaca dan Aluminium: Setting Block, Gasket, Sealant, dan Tepi Kaca”
-- **Reader and situation:** Designer or installer reviewing frame-glass details
-- **Reader outcome:** Explain support, clearances, edge condition, blocks, gaskets, sealants, drainage, incompatible contact, movement, replacement, and required glass evidence
-- **Primary intent:** Specify safe glazing interfaces
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Teman Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Kawan Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes glass thickness/design and structural silicone approval; qualified glazing/façade specialists own them
-- **Final public route:** `/artikel/kaca-dan-aluminium-dalam-satu-sistem.html`
-- **Appointed CMS date:** `2026-02-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pertemuan Kaca dan Aluminium: Setting Block, Gasket, Sealant, dan Tepi Kaca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Almini.id`, `Sobat Almini.id`, or `Kawan Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -79,156 +37,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Partisi Aluminium Kaca 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Pertemuan Kaca dan Aluminium: Penopang Kaca, Karet Penahan, Bahan Perapat, dan Tepi Kaca
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Almini.id! Kaca yang masuk ke rangka aluminium sering tampak seperti satu langkah akhir: masukkan kaca, tekan karet, lalu tutup sambungan. Padahal pertemuan ini adalah satu sistem. Kaca perlu ditopang dan diberi ruang, rangka perlu menerima susunannya, karet dan bahan perapat perlu menjalankan fungsi yang direncanakan, sementara air dan gerak tetap harus memiliki jalur yang dipahami.
 
-### KR-05
+Jawaban singkatnya: jangan membaca kaca, rangka, *gasket*, dan *sealant* sebagai barang yang berdiri sendiri. Kaca berlapis, kaca temper, kaca berlapis pelindung, atau kaca berlapis film dapat memiliki atribut berbeda; tampilan permukaan saja tidak cukup untuk mengungkap susunan, tepi, perlakuan, atau lapisan yang tersembunyi. Katalog [SNI 9144-1](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), dan [SNI 9237](https://pesta.bsn.go.id/produk/detail/14858-sni92372023) membantu membedakan identitas kategori, bukan membuktikan kondisi kaca yang sudah terpasang.
 
-- **Original sources:** [SNI 47:2018 Konfirmasi 2026 — BSN](https://pesta.bsn.go.id/produk/detail/4720182026-sni47%3A2018konfirmasi2026), [SNI 6353:2024 heat-strengthened glass — BSN listing](https://pesta.bsn.go.id/produk/by_ics/4?ics_no=81&key=), [SNI 9144-1:2022 laminated safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022), [SNI 9237:2023 coated glass — BSN](https://pesta.bsn.go.id/produk/detail/14858-sni92372023), [SNI ISO 12543-1:2011 — BSN](https://pesta.bsn.go.id/produk/detail/8964-sniiso12543-12011)
-- **Purpose for this article:** Give writers a controlled vocabulary for substrate, strengthening, lamination, coating, and construction.
-- **Safe grounded facts:** “Tinted,” “coated,” “laminated,” “tempered,” “heat-strengthened,” and “filmed” describe different attributes. A glazing unit may combine several attributes, and the accessible surface may not reveal concealed coatings, interlayers, cavity construction, edge condition, or heat treatment.
-- **Limits:** BSN catalog pages establish identity and status, not every requirement or conformance of installed glass. Resolve GATE-01 and GATE-04 before exact classifications, defect limits, performance claims, or film approval.
+![Ilustrasi Jasa Partisi Aluminium Kaca 1](/wp-content/uploads/2026/06/Jasa-Partisi-Aluminium-Kaca-1.jpg)
 
-### KR-08
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [Dow Asia Structural Sealant Glazing Manual](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf), [ASTM E331-00(2023) official scope](https://store.astm.org/standards/e331), [ASTM E2190-19 official scope](https://store.astm.org/standards/e2190), [ASTM E06.51 current window/façade standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0651)
-- **Purpose for this article:** Prevent cleaning or film work from being confused with seal, drainage, façade, or insulating-glass diagnosis.
-- **Safe grounded facts:** Structural/weatherseal silicone work requires substrate, adhesion, joint-design, cleaning, compatibility, quality-control, and project records specific to the system. ASTM E331 addresses water penetration under controlled pressure difference. ASTM E2190 addresses insulating-glass unit durability.
-- **Limits:** Never advise field sealant repair, joint dimensions, adhesion acceptance, leak attribution, pressure, or pass/fail criteria from these abstracts. Resolve GATE-01, GATE-04, and GATE-10.
+## Mulai dari susunan yang lengkap
 
-### KR-16
+*Frame* berarti rangka aluminium yang menerima kaca atau panel. *Glazing* adalah susunan pemasangan kaca pada rangka. Dalam satu bukaan, susunan itu dapat mencakup kaca, rangka, penopang, bahan penahan, perapat sambungan, jalur drainase, pengikat, dan pertemuan dengan dinding. Menyebut “kaca aluminium” belum menjelaskan komponen mana yang digunakan atau bagaimana mereka bekerja bersama.
 
-- **Original sources:** [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf), [IWFA inspection-guideline overview](https://iwfa.com/inspection-guidelines/), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Define a defensible evidence chain from baseline through acceptance and operation.
-- **Safe grounded facts:** Useful records include zones, product/manufacturer, batch or traceability identifier where available, glass/configuration, dates, installer/vendor, access method, site conditions, photos, measurements where agreed, damage/exclusions, care instructions, warranty issuer, notice route, and open items.
-- **Limits:** Do not invent visual tolerances, measurement protocols, cure periods, remedies, or warranty coverage. Apply GATE-01, GATE-06, and GATE-09 to the actual contract and product.
+Tulis dulu objek yang sedang diperiksa: jenis kaca yang diketahui, ukuran dan posisi, profil rangka, komponen penahan, tepi kaca, bahan sambungan, serta kondisi di sekitar bukaan. Sobat Almini.id, foto dapat membantu mencatat kondisi tampak, tetapi tidak menggantikan informasi tentang konstruksi kaca atau bagian yang tertutup oleh profil.
 
-### KR-25
+## Ganjal penopang kaca bukan sekadar potongan karet
 
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
+*Setting block* adalah ganjal penopang yang ditempatkan untuk mendukung kaca dalam susunan tertentu. Fungsinya perlu dibaca bersama posisi, material, bentuk, dan rancangan sistem; jangan memilih atau memindahkannya hanya karena tampak seperti karet kecil. Perubahan pada komponen ini dapat memengaruhi cara beban, posisi, dan pertemuan kaca dengan rangka dibaca.
 
-### KR-29
+Begitu pula dengan ruang bebas dan kondisi tepi kaca. Kaca dan aluminium dapat mengalami gerak atau perubahan yang berbeda akibat kondisi penggunaan dan lingkungan. Ruang yang diperlukan, cara menahan kaca, dan detail tepi merupakan pertanyaan desain serta pemasangan, bukan ukuran yang dapat disalin dari artikel ini.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+[NEEDS GATE-04: Jenis dan susunan kaca, kondisi tepi, profil rangka, penopang, komponen penahan, sambungan, serta kondisi terpasang harus diverifikasi sebelum menilai detail bukaan tertentu.]
 
-### KR-35
+## Gasket dan sealant memiliki fungsi yang tidak sama
 
-- **Original sources:** [ISO 10077-1:2017 window/door thermal calculation](https://www.iso.org/standard/64996.html), [ISO 12567-1:2010 whole-window thermal test](https://www.iso.org/standard/43385.html), and [ISO 10140-2:2021 laboratory airborne-sound test](https://www.iso.org/standard/79487.html).
-- **Purpose for this article:** Ground frames, doors, windows, partitions, glazing, roofs, wet interiors, and performance comparisons.
-- **Safe grounded facts:** A frame-section property, center-panel value, laboratory specimen, or component certificate is not the installed opening/room/building result.
-- **Limits:** Obtain the exact current product/system report, geometry, hardware, perimeter detail, installation record, and project model or field measurement before stating a rating.
+*Gasket* adalah bahan lentur yang membantu menahan atau membentuk pertemuan antara kaca, rangka, atau komponen lain. *Sealant* adalah bahan perapat sambungan. Keduanya dapat terlihat mirip bagi pembaca awam, tetapi fungsi, bahan, lokasi, dan dasar pemakaiannya tidak otomatis sama. Jangan mengganti satu dengan yang lain atau menganggap bahan perapat baru selalu cocok dengan kaca, lapisan, rangka, dan bahan sisa yang ada.
 
-## Evidence gates
+Untuk pekerjaan silikon struktural atau perapat cuaca, manual [Dow](https://www.dow.com/documents/63/63-6132-01-structural-sealant-glazing-manual-asia.pdf) menekankan pentingnya substrat, adhesi, rancangan sambungan, pembersihan, kompatibilitas, pengendalian mutu, dan rekaman yang khusus untuk sistem. Ini bukan panduan melakukan perbaikan sambungan di lapangan atau dasar menyatakan suatu sealant cocok tanpa bukti produk dan proyek.
 
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Kawan Almini.id, bila ada retak, lepas, noda, atau air di sekitar sambungan, jangan langsung menambah sealant dari luar. Gejala yang sama dapat berkaitan dengan jalur air, susunan komponen, gerak, atau kondisi yang tidak tampak. Tahan kesimpulan sampai bukti sistem tersedia.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Drainase dan air perlu dibedakan dari klaim kedap
 
-## Internal-link plan
+Sebagian susunan kaca-rangka memiliki jalur untuk mengelola air yang masuk ke bagian tertentu dari sistem. Jangan menutup atau mengubah jalur tersebut tanpa memahami gambar dan rancangan yang relevan. Air yang tampak di lokasi tertentu juga tidak dengan sendirinya memberi tahu dari mana ia berasal atau komponen mana yang gagal.
 
-### Existing local routes
+Metode uji dan hasil sistem adalah hal berbeda. [ASTM E331](https://store.astm.org/standards/e331) membahas penetrasi air pada kondisi beda tekanan yang dikendalikan. Dokumen itu tidak membuktikan satu bukaan di lapangan kedap, tidak menentukan sumber bocor, dan tidak memberikan tekanan atau kriteria penerimaan untuk proyek ini.
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+[NEEDS GATE-10: Diagnosis air, perubahan detail, perbaikan perapat, atau keputusan penggantian memerlukan gambar sistem, pemeriksaan kondisi, bukti produk, dan peninjauan tenaga yang kompeten.]
 
-### Planned sibling articles
+## Jangan memindahkan nilai komponen ke sistem utuh
 
-These are future routes. Do not link them as live until their HTML exists.
+Nilai dari kaca di tengah bidang, profil rangka, atau laporan laboratorium tidak otomatis menggambarkan bukaan yang telah dipasang. Pertemuan tepi kaca, rangka, perangkat keras, sambungan keliling, serta pemasangan dapat mengubah hasil yang dirasakan atau diukur. [ISO 10077-1](https://www.iso.org/standard/64996.html) membahas perhitungan termal jendela dan pintu, sementara [ISO 12567-1](https://www.iso.org/standard/43385.html) membahas uji termal jendela atau pintu lengkap. Keduanya menunjukkan bahwa komponen dan susunan lengkap perlu dibedakan.
 
-- `ALM-07-A01` → `/artikel/memilih-sistem-kusen-pintu-jendela-partisi.html` — Memilih Sistem Kusen, Pintu, Jendela, dan Partisi Aluminium
-- `ALM-07-A02` → `/artikel/kinerja-jendela-aluminium.html` — Air, Air Hujan, Angin, dan Kondensasi pada Jendela Aluminium
-- `ALM-07-A04` → `/artikel/hardware-pintu-jendela-aluminium.html` — Hardware Pintu dan Jendela Aluminium: Beban, Siklus, Penyetelan, dan Penggantian
-- `ALM-07-A05` → `/artikel/survei-retrofit-kusen-aluminium.html` — Survei dan Retrofit Kusen Aluminium pada Bukaan Lama
+Jadi, Teman Almini.id, jangan menyatakan bukaan pasti kedap air, lebih nyaman, aman, atau memiliki nilai tertentu hanya dari satu bahan atau sertifikat komponen. Minta laporan yang cocok dengan susunan aktual atau lakukan pemeriksaan yang ditetapkan untuk proyek.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Contoh keputusan yang lebih rapi
 
-## Jawaban singkat dan salah paham utama
+Misalnya, sebuah kaca akan diganti karena pecah. Jangan gunakan ukuran panel lama sebagai satu-satunya data. Kumpulkan identitas kaca, foto tepi dan rangka, posisi setting block bila dapat didokumentasikan aman, komponen penahan, kondisi gasket, serta catatan alasan penggantian. Lalu cocokkan dengan gambar dan persetujuan yang berlaku sebelum memilih pengganti.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Pertemuan Kaca dan Aluminium: Setting Block, Gasket, Sealant, dan Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk memahami konteks sistem aluminium yang akan menerima kaca, pembaca dapat melihat [produk aluminium Yogyakarta](/produk-aluminium-yogyakarta.html). Halaman tersebut membantu mengenali lingkup produk, tetapi bukan bukti kaca tertentu cocok, kompatibel, atau berkinerja pada bukaan yang diperiksa.
 
-## Definisi dan batas objek
+Saat membandingkan kebutuhan produk di wilayah lain, [informasi produk aluminium Yalimo](/produk-aluminium-yalimo.html) juga hanya menjadi langkah awal mengenali lingkup. Keputusan kaca, gasket, sealant, dan setting block tetap memerlukan dokumen sistem aktual.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pertemuan Kaca dan Aluminium: Setting Block, Gasket, Sealant, dan Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Rekaman membuat penggantian berikutnya lebih aman dibaca
 
-## Cara kerjanya
+Simpan identitas kaca dan konfigurasi yang diketahui, gambar yang disetujui, catatan pemasok atau pemasang, foto kondisi awal, bahan sambungan, lokasi, tanggal, serta temuan terbuka. Catatan ini berguna ketika orang berikutnya harus membedakan penggantian kosmetik, gangguan sambungan, atau persoalan sistem. [NGA Glazing Manual](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf) dapat menjadi rujukan umum tentang praktik kaca, tetapi tidak menggantikan bukti detail dan persetujuan proyek.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Pertemuan Kaca dan Aluminium: Setting Block, Gasket, Sealant, dan Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam pengelolaan mutu, [ISO 9001](https://www.iso.org/standard/62085.html) membantu membedakan catatan produk, pemeriksaan, perubahan, dan penutupan temuan. Rujukan ini bukan jaminan kompatibilitas atau hasil kinerja pada satu bukaan.
 
-## Faktor yang mengubah hasil
+## Jalan pintas yang perlu dihentikan
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Pertemuan Kaca dan Aluminium: Setting Block, Gasket, Sealant, dan Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Semua kaca sama” dan “tambahkan sealant saja” adalah jalan pintas yang berisiko. Atribut kaca, kondisi tepi, penopang, gasket, drainase, serta susunan rangka dapat berbeda walau tampilannya mirip. Menambah bahan tanpa memahami fungsi sambungan dapat menutup gejala tanpa memahami mekanismenya.
 
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Pertemuan Kaca dan Aluminium: Setting Block, Gasket, Sealant, dan Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Pertemuan Kaca dan Aluminium: Setting Block, Gasket, Sealant, dan Tepi Kaca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Pertemuan kaca dan aluminium perlu diperlakukan sebagai satu sistem penopang, penahan, perapat, drainase, dan gerak. Aturan kerjanya: bila susunan dan bukti produknya belum jelas, jangan menebak kompatibilitas atau memperbaiki sambungan; tahan keputusan dan minta peninjauan yang kompeten.
