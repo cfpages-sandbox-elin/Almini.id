@@ -2,8 +2,9 @@
 article_id: ALM-11-A04
 title: "Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko"
 slug: "jadwal-perawatan-sistem-aluminium"
-description: "Segment asset, exposure, consequence, access, manufacturer requirements, condition baseline, triggers, cleaning, hardware, drainage, seals, finish, fasteners, and records"
-status: outline
+description: "Cara menyusun perawatan sistem aluminium berdasarkan aset, paparan, konsekuensi, akses, kondisi, petunjuk produk, catatan, dan pemicu pemeriksaan ulang tanpa interval universal."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,7 +16,6 @@ final_route: "/artikel/jadwal-perawatan-sistem-aluminium.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf"
   - "https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf"
   - "https://iwfa.com/inspection-guidelines/"
   - "https://www.iso.org/standard/62085.html"
@@ -24,40 +24,9 @@ sources:
   - "https://www.iso.org/standard/45798.html"
   - "https://www.iso.org/standard/83053.html"
   - "https://www.iso.org/standard/70156.html"
-  - "https://www.iso.org/standard/80119.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko”
-- **Reader and situation:** Facility team managing multiple aluminium assets
-- **Reader outcome:** Segment asset, exposure, consequence, access, manufacturer requirements, condition baseline, triggers, cleaning, hardware, drainage, seals, finish, fasteners, and records
-- **Primary intent:** Create a risk-based maintenance plan
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes fixed universal intervals or hazardous access; ALM-12-A05 owns site access and manufacturer/project evidence governs frequency
-- **Final public route:** `/artikel/jadwal-perawatan-sistem-aluminium.html`
-- **Appointed CMS date:** `2026-05-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,157 +37,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Almini.id!
 
-### KR-09
+Jadwal perawatan sistem aluminium tidak seharusnya hanya berisi kalender. Perawatan, atau *maintenance*, yang berguna memulai dari aset apa yang dikelola, kondisi yang dihadapi, akibat bila ada masalah, akses pemeriksaan, petunjuk produk, dan bukti kondisi sebelumnya. Sistem yang sama nama bahannya belum tentu punya paparan, risiko, atau kebutuhan pemeriksaan yang sama.
 
-- **Original sources:** [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-), [official Permen PU 24/2008 PDF](https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf), [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf)
-- **Purpose for this article:** Ground cleaning frequency, inspection logs, vendor KPIs, and escalation as a managed program.
-- **Safe grounded facts:** Useful logs identify zones, dates, observations, products/methods, weather/site conditions, access used, exceptions, damage, photos, and follow-up. An appearance KPI alone can hide safety, damage, residue, access, and documentation failures.
-- **Limits:** Do not state a universal cleaning frequency or inspection interval. Project-specific schedules require exposure history, contract, manufacturer, building-management, and legal inputs under GATE-02 and GATE-09.
+Jadi, gunakan jadwal sebagai rencana berbasis risiko dan pemicu kondisi, bukan angka yang disalin untuk semua lokasi. Artikel ini tidak menetapkan interval, metode produk, jaminan, atau hasil sistem tertentu. [NEEDS GATE-10: keputusan perawatan, perbaikan, penggunaan lanjutan, dan penggantian harus didasarkan pada kondisi nyata serta penilaian yang sesuai.]
 
-### KR-16
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf), [IWFA inspection-guideline overview](https://iwfa.com/inspection-guidelines/), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Define a defensible evidence chain from baseline through acceptance and operation.
-- **Safe grounded facts:** Useful records include zones, product/manufacturer, batch or traceability identifier where available, glass/configuration, dates, installer/vendor, access method, site conditions, photos, measurements where agreed, damage/exclusions, care instructions, warranty issuer, notice route, and open items.
-- **Limits:** Do not invent visual tolerances, measurement protocols, cure periods, remedies, or warranty coverage. Apply GATE-01, GATE-06, and GATE-09 to the actual contract and product.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-17
+## Kelompokkan aset sebelum menyusun jadwal
 
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Support RFQs, scope normalization, cost-driver explanations, vendor comparison, and hidden-condition governance.
-- **Safe grounded facts:** Cleaning cost can change with area, contamination, access, frequency, hours, protection, water/logistics, and mobilization. Film cost can change with exact product, glazing compatibility, area/layout, waste, access, existing-film removal, attachment system, evidence, and warranty.
-- **Limits:** No public source here establishes a current project price, contractor capability, insurance, availability, tax, contract right, or change-order entitlement. Obtain dated quotations and project/legal review under GATE-09.
+Mulailah dengan daftar aset dan komponennya. Pisahkan, misalnya, kusen, pintu, jendela, panel fasad, kanopi, partisi, perangkat keras, sealant—bahan perapat—gasket, pengikat, drainase, dan lapisan permukaan. Catat lokasi, fungsi, bagian yang sulit diakses, serta dokumen yang tersedia. Dengan begitu, tim tidak memperlakukan seluruh aluminium di bangunan sebagai satu benda.
 
-### KR-29
+Setiap kelompok aset membutuhkan pertanyaan berbeda. Pintu serta jendela memiliki operasi dan hardware. Fasad memiliki panel, sambungan, jalur air, dan akses. Kanopi menghadapi cuaca, drainase, serta paparan di luar ruang. Teman Almini.id, nama “aluminium” tidak menjelaskan semua detail, komponen, atau bukti yang perlu diperiksa. [NEEDS GATE-04: identitas produk, komponen, sambungan, pelapis, pengikat, tumpuan, dan kondisi terpasang perlu diverifikasi untuk aset yang dikelola.]
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+## Nilai paparan, konsekuensi, dan akses bersama-sama
 
-### KR-30
+Paparan mencakup kondisi yang relevan bagi aset: cuaca, air, kotoran, penggunaan, benturan, pekerjaan di sekitar, atau kontak dengan material lain. Konsekuensi berarti apa yang perlu dipertimbangkan bila kondisi memburuk, termasuk fungsi ruang, orang di sekitar, dan komponen yang terhubung. Akses berarti bagaimana pemeriksaan dapat dilakukan dengan aman dan apakah bagian penting dapat benar-benar dilihat.
 
-- **Original sources:** [ISO 15686-1 service-life planning](https://www.iso.org/standard/45798.html), [ISO 55000:2024 asset-management vocabulary](https://www.iso.org/standard/83053.html).
-- **Purpose for this article:** Ground inspection/access, cleaning, defect triage, diagnosis, making-safe, planned maintenance, repair/replace/retrofit, records, and lifecycle decisions.
-- **Safe grounded facts:** Symptom, access/viewing limitation, baseline, test, root-cause hypothesis, consequence, temporary control, repair design, acceptance, and monitoring are separate.
-- **Limits:** No remote declaration of safety, cause, repair method, cleaner compatibility, remaining life, cost, warranty, or reuse/recycling outcome without condition evidence and competent review.
+Tiga hal ini membantu memilih prioritas tanpa membuat interval seragam. Aset yang sulit diakses atau mempunyai konsekuensi lebih besar mungkin memerlukan rencana pemeriksaan khusus, bukan pemeriksaan tergesa-gesa dari posisi berisiko. Kawan Almini.id, jangan menyamakan tampilan bersih dengan kondisi sistem yang sudah dipahami.
 
-### KR-33
+## Gunakan kondisi awal dan pemicu pemeriksaan ulang
 
-- **Original sources:** [ISO 7599:2018 decorative/protective anodizing](https://www.iso.org/standard/70156.html) and [ISO 10074:2021 hard anodizing](https://www.iso.org/standard/80119.html).
-- **Purpose for this article:** Ground finish selection, appearance, durability, inspection, care, and substitution.
-- **Safe grounded facts:** Anodized appearance or nominal treatment name does not prove coating grade, sealing quality, abrasion behavior, corrosion result, electrical insulation, or service life.
-- **Limits:** Obtain the full invoked specification, applicator process record, approved physical sample, test report, exposure classification, and compatible-care guidance.
+Catatan kondisi awal adalah rekaman kondisi yang diketahui saat aset mulai dikelola: foto, zona, produk bila diketahui, sambungan, kondisi permukaan, temuan, keterbatasan pengamatan, dan pekerjaan yang masih terbuka. Catatan ini bukan vonis bahwa sistem aman atau bebas cacat; ia menjadi pembanding saat ada perubahan.
 
-## Evidence gates
+Pemicu pemeriksaan ulang dapat berupa keluhan operasi, cuaca atau peristiwa tertentu, perubahan tampilan, kebocoran, pekerjaan pihak lain, benturan, perubahan akses, atau temuan sebelumnya yang belum ditutup. Tuliskan pemicu sesuai aset, bukan sebagai daftar yang dipaksakan untuk semua bangunan.
 
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+[ISO 15686-1](https://www.iso.org/standard/45798.html) dan [ISO 55000](https://www.iso.org/standard/83053.html) membedakan pemeriksaan, gejala, tindakan sementara, perbaikan, penerimaan, serta pemantauan. Pemisahan ini penting agar catatan kondisi tidak berubah menjadi diagnosis atau resep perbaikan dari jauh.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Periksa operasi, air, permukaan, dan pengikat dengan batas yang jelas
 
-## Internal-link plan
+Untuk pintu atau jendela, catat kelancaran operasi, kondisi perangkat, sambungan, dan gejala air bila terlihat. Untuk fasad atau kanopi, catat panel, tepi, sambungan, drainase, noda, dan perubahan yang dapat dilihat dari akses yang aman. Untuk lapisan, catat tampilan dan riwayat pembersihan tanpa langsung menyebut penyebab atau umur lapisan.
 
-### Existing local routes
+Nama anodisasi tidak membuktikan mutu lapisan, ketahanan korosi, atau bahan pembersih yang sesuai. [ISO 7599](https://www.iso.org/standard/70156.html) membahas anodisasi dekoratif serta pelindung, tetapi tidak memberi metode perawatan untuk produk dan lokasi tertentu. [NEEDS GATE-05: alat, bahan pembersih, air, proses, limpasan, dan material di sekitar perlu dicocokkan dengan instruksi produk yang tepat.]
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Sobat Almini.id, bila ada komponen longgar, retak, deformasi, air dekat listrik, panel atau kaca yang berisiko, jangan menganggapnya tugas perawatan rutin. Catat kondisi dari aman lalu eskalasi sesuai pihak yang tepat.
 
-### Planned sibling articles
+## Rekaman membuat pemeriksaan dapat dipakai lagi
 
-These are future routes. Do not link them as live until their HTML exists.
+Rekaman pemeriksaan sebaiknya memuat zona, tanggal, pengamat, akses yang dipakai, cuaca atau kondisi penggunaan, apa yang terlihat, foto, metode atau produk yang digunakan bila ada pembersihan, pengecualian, dan tindak lanjut. [Permen PU No. 24/PRT/M/2008](https://peraturan.bpk.go.id/Details/104476/permen-) merupakan pedoman resmi pemeliharaan serta perawatan bangunan; penerapannya tetap perlu disesuaikan dengan bangunan, kontrak, serta ketentuan yang berlaku. [ISO 9001](https://www.iso.org/standard/62085.html) juga memberi konteks tentang proses dan rekaman mutu yang terkendali, bukan bukti bahwa aset tertentu telah diterima.
 
-- `ALM-11-A02` → `/artikel/itp-pemasangan-aluminium.html` — ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan
-- `ALM-11-A03` → `/artikel/handover-sistem-aluminium.html` — Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi
-- `ALM-11-A05` → `/artikel/perbaiki-atau-ganti-sistem-aluminium.html` — Perbaiki, Perkuat, Reseal, atau Ganti Sistem Aluminium?
-- `ALM-11-A06` → `/artikel/studi-kasus-proyek-aluminium-yang-dapat-diverifikasi.html` — Cara Menulis Studi Kasus Proyek Aluminium Tanpa Mengarang Keberhasilan
+[GANA Glazing Manual](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf) dan [panduan inspeksi IWFA](https://iwfa.com/inspection-guidelines/) menunjukkan kegunaan catatan kondisi, akses, konfigurasi, foto, serta tindak lanjut. Jangan menjadikan keduanya jadwal wajib atau bukti penerimaan proyek.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Bedakan pemantauan, pembersihan, perbaikan, dan penerimaan
 
-## Tentukan objek, kondisi, dan tahap siklus hidup
+Pemantauan berarti mengumpulkan bukti kondisi. Pembersihan berarti tindakan yang harus cocok dengan petunjuk produk serta material sekitar. Perbaikan berarti tindakan pada bagian yang penyebab dan dampaknya perlu dipahami. Penerimaan adalah keputusan proyek atas pekerjaan atau hasil yang dipersyaratkan. Keempatnya tidak dapat saling menggantikan.
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika proyek mensyaratkan pengujian air atau udara, simpan metode, sistem, batas area, kondisi, dan hasilnya. [ASTM E1105](https://www.astm.org/e1105-15r23.html) membahas pengujian penetrasi air lapangan pada sistem tertentu; [ASTM E2357](https://www.astm.org/e2357-18.html) membahas susunan penghalang udara. Kedua sumber tidak membuktikan satu aset telah lulus tanpa laporan yang cocok dengan susunan aktual.
 
-## Mekanisme perubahan atau penurunan kinerja
+[NEEDS GATE-07: hasil uji, sertifikasi, kapasitas, dan klaim kinerja harus cocok dengan produk atau sistem yang benar-benar dinilai.] [NEEDS GATE-06: perubahan, pemeriksaan, perbaikan, pengujian, dan penerimaan harus mengikuti dokumen proyek serta pihak berwenang.]
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Tentukan prioritas dan eskalasi dengan jujur
 
-## Inspeksi dan data yang perlu dicatat
+Prioritas dapat dilihat dari perubahan kondisi, konsekuensi bila masalah memburuk, paparan orang, kemampuan akses, dan keterbatasan bukti. Jangan menggunakan biaya perkiraan atau janji garansi sebagai pengganti catatan kondisi dan keputusan kontrak. Jika akses berisiko, bagian tidak dapat diperiksa, atau gejala menyentuh fungsi keselamatan, tahan tindakan yang dapat memperburuk keadaan dan minta penilaian yang sesuai.
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang umum adalah membuat checklist lalu menandai semua aset “normal” tanpa foto, kondisi, atau batas pengamatan. Alternatif yang lebih kuat adalah membuat daftar per aset dengan bukti yang cukup untuk keputusan berikutnya. [NEEDS GATE-09: biaya, jadwal, jaminan, tanggung jawab, dan hak perubahan memerlukan kontrak serta dokumen bertanggal.]
 
-## Pilihan perawatan atau intervensi
-
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jadwal inspeksi dan perawatan sistem aluminium berbasis risiko berarti mengelola aset berdasarkan kondisi, paparan, konsekuensi, akses, dan rekaman. Langkah berikutnya: buat tabel aset dengan kolom lokasi, komponen, catatan kondisi awal, pemicu pemeriksaan ulang, akses, bukti yang harus dicatat, dan pihak eskalasi. Aturan kerjanya sederhana: jika kondisi atau bukti belum cukup, jangan mengubah kalender perawatan menjadi klaim bahwa sistem aman, bergaransi, atau telah diterima.

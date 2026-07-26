@@ -2,8 +2,9 @@
 article_id: ALM-05-A02
 title: "Jalur Beban dan Sambungan Struktur Aluminium"
 slug: "jalur-beban-dan-sambungan-aluminium"
-description: "Show bearing, tension, shear, eccentricity, local failure, fastener/weld/adhesive interfaces, movement, corrosion, redundancy, and inspectability"
-status: outline
+description: "Memahami bagaimana gaya melewati elemen, rangka, bracket, anchor, fastener, sambungan, dan tumpuan aluminium tanpa menentukan kapasitas atau detail proyek."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,18 +16,9 @@ final_route: "/artikel/jalur-beban-dan-sambungan-aluminium.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://store.astm.org/e1300-24.html"
-  - "https://pesta.bsn.go.id/produk/detail/13242-sni63892020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
   - "https://www.iso.org/standard/74384.html"
   - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
-  - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/85023.html"
   - "https://www.iso.org/committee/50126/x/catalogue/"
   - "https://www.iso.org/standard/76708.html"
@@ -34,37 +26,7 @@ sources:
   - "https://www.iso.org/standard/64572.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Jalur Beban dan Sambungan Struktur Aluminium
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Jalur Beban dan Sambungan Struktur Aluminium”
-- **Reader and situation:** Designer, buyer, or inspector reviewing a concept
-- **Reader outcome:** Show bearing, tension, shear, eccentricity, local failure, fastener/weld/adhesive interfaces, movement, corrosion, redundancy, and inspectability
-- **Primary intent:** Understand how loads cross joints
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Kawan Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes connection capacity or fastener schedule; project engineering owns calculations and ALM-03-A05 owns process comparison
-- **Final public route:** `/artikel/jalur-beban-dan-sambungan-aluminium.html`
-- **Appointed CMS date:** `2026-01-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Jalur Beban dan Sambungan Struktur Aluminium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Almini.id`, `Sobat Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -75,156 +37,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Jalur Beban dan Sambungan Struktur Aluminium
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Almini.id!
 
-### KR-02
+Sebuah profil aluminium yang terlihat kuat belum menjelaskan bagaimana gaya sampai ke bangunan. Gaya harus melewati jalur beban: dari panel, daun, atau elemen yang menerima pengaruh, menuju frame atau rangka, sambungan, bracket, anchor, dan akhirnya tumpuan atau struktur. Jika satu bagian dari jalur ini tidak jelas, menyebut produk “kuat” belum menjawab pertanyaan struktur yang sebenarnya.
 
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-), [official Permen PU 24/2008 PDF](https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf)
-- **Purpose for this article:** Anchor surveys, building operation, preventive maintenance, records, and escalation in Indonesian building-governance context.
-- **Safe grounded facts:** PP 16/2021 is the implementing regulation for Indonesia's building law. Permen PU 24/2008 is an official guideline for maintenance and care of buildings; its text distinguishes routine maintenance from restorative care and supports planned inspection, cleaning, records, equipment, and personnel rather than appearance-only cleaning.
-- **Limits:** Do not turn a national framework into a project permit list, maintenance frequency, inspection interval, or technical acceptance value. Confirm local government, building-function, ownership, and contract requirements under GATE-02.
+Artikel ini membantu pembaca membaca konsep jalur beban dan sambungan dengan lebih kritis. Ia tidak memberi kapasitas sambungan, jadwal fastener, ukuran anchor, atau putusan struktur proyek. [NEEDS GATE-07: kapasitas, perhitungan, hasil uji, sertifikasi, dan kinerja struktur harus sesuai dengan sistem serta kondisi proyek yang nyata.]
 
-### KR-18
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [ASTM E1300-24 official scope](https://store.astm.org/e1300-24.html), [SNI 6389:2020 — BSN](https://pesta.bsn.go.id/produk/detail/13242-sni63892020), [Permenaker No. 9 Tahun 2016 — Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016)
-- **Purpose for this article:** Teach document roles and stop standards names, logos, or test-method citations from becoming unsupported compliance claims.
-- **Safe grounded facts:** A standards catalog establishes document identity/status; a full standard controls its technical requirements. A certificate must be checked for issuer, holder, scope, status, date, and relevance. A test report must match the claimed material or system configuration. A logo or “ISO/K3/rope access” phrase is not sufficient evidence.
-- **Limits:** Do not quote structural loads, glass capacity, safety factors, acceptance criteria, certificate validity, or permit conclusions without GATE-01, GATE-02, GATE-03, and GATE-07.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-25
+## Jalur beban berarti cerita gaya dari awal sampai tumpuan
 
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
+Jalur beban adalah urutan bagaimana gaya diterima lalu diteruskan melalui komponen sampai ke bagian yang menahannya. Untuk membaca suatu konsep, tanyakan: gaya datang dari mana, elemen mana yang pertama menerimanya, sambungan apa yang dilaluinya, ke mana bracket meneruskannya, dan bagian bangunan mana yang menjadi tumpuan terakhir.
 
-### KR-29
+Frame adalah rangka yang mengikat atau menopang bagian lain. Bracket adalah komponen penumpu atau penghubung. Anchor adalah pengikat yang menghubungkan sistem dengan substrat atau struktur. Fastener adalah pengikat mekanis dalam sambungan. Istilah ini membantu menunjuk peran, tetapi tidak membuktikan jenis, posisi, bahan, kondisi substrat, atau kapasitasnya.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Teman Almini.id, bila gambar hanya menunjukkan profil dan panel tanpa menjelaskan tumpuan serta pengikatnya, jalur bebannya belum dapat dibaca lengkap. [NEEDS GATE-04: identitas elemen, sambungan, bracket, anchor, fastener, substrat, tumpuan, dan kondisi terpasang perlu diverifikasi.]
 
-### KR-31
+## Gaya tidak selalu bekerja lurus dan sederhana
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Komponen dapat mengalami gaya tekan, tarik, geser, lentur, atau gabungan kondisi lain tergantung sistemnya. Tekan berarti komponen didorong; tarik berarti ditarik; geser berarti bagian cenderung bergeser terhadap bagian lain. Eksentrisitas berarti garis kerja gaya tidak tepat melalui pusat bagian yang diharapkan, sehingga dapat menambah pertanyaan pada sambungan dan elemen.
 
-### KR-32
+Istilah ini berguna untuk membentuk pertanyaan, bukan untuk menghitung dari perkiraan. Bentuk penampang, posisi sambungan, panjang bebas, tumpuan, gerakan, kondisi pemasangan, dan bahan yang bertemu dapat mengubah perilaku. [ISO 4354](https://www.iso.org/standard/74384.html) menunjukkan bahwa tindakan angin merupakan ranah khusus; halaman publiknya tidak memberi nilai beban atau keputusan sambungan untuk proyek Anda.
 
-- **Original sources:** [ISO/TR 17671-4 aluminium arc-welding guidance](https://www.iso.org/standard/30010.html) and [ISO 18273:2015 aluminium welding-consumable classification](https://www.iso.org/standard/64572.html).
-- **Purpose for this article:** Prevent steel-welding assumptions or filler trade names from being transferred to aluminium work.
-- **Safe grounded facts:** Filler classification is based on chemical composition; the welding guidance does not establish finished-joint mechanical properties or project acceptance by itself.
-- **Limits:** No procedure, filler selection, allowable property, distortion tolerance, defect acceptance, or structural conclusion without the application standard, qualified procedure/personnel, drawings, and inspection plan.
+Sobat Almini.id, jangan mengganti perhitungan dengan kesan bahwa profil “tebal” atau pengikat “banyak”. Kedua hal itu belum memberi jalur beban atau kapasitas yang lengkap.
 
-## Evidence gates
+## Sambungan harus dibaca sebagai pertemuan beberapa bagian
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Sambungan dapat memakai fastener, las, perekat, atau gabungan beberapa metode. Namun cara menyambung bukan satu-satunya pertanyaan. Periksa juga elemen yang bertemu, jarak dan posisi sambungan pada gambar, kondisi permukaan, penguat, arah gaya, ruang gerak, serta akses inspeksi. Sambungan yang tampak sama dari luar dapat bekerja pada kondisi yang berbeda.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Untuk las aluminium, jangan memindahkan asumsi material lain. [ISO/TR 17671-4](https://www.iso.org/standard/30010.html) membahas panduan pengelasan busur aluminium dan [ISO 18273](https://www.iso.org/standard/64572.html) berkaitan dengan klasifikasi bahan tambah aluminium. Kedua dokumen tidak membuktikan prosedur, mutu sambungan jadi, atau kapasitas proyek tanpa gambar, prosedur, personel, pemeriksaan, serta acuan yang sesuai.
 
-## Internal-link plan
+Kawan Almini.id, bila ada perubahan metode sambungan, perubahan itu perlu dibaca kembali terhadap jalur beban dan bukti sistem, bukan hanya terhadap kemudahan fabrikasi. [NEEDS GATE-06: gambar, prosedur, perubahan, pemasangan, pemeriksaan, dan penerimaan sambungan harus mengikuti dokumen proyek serta pihak berwenang.]
 
-### Existing local routes
+## Gerakan, korosi, dan kondisi lokal dapat mengubah pertanyaan
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Sambungan tidak selalu hanya memindahkan gaya diam. Suhu, angin, penggunaan, toleransi, gerakan bangunan, air, serta pertemuan material dapat memengaruhi detail yang perlu diperiksa. Karena itu, detail yang menahan satu arah gerak mungkin juga perlu memberi ruang untuk gerak lain sesuai rancangan. Jangan menyimpulkan bahwa satu celah atau satu sambungan adalah bukti masalah tanpa menelusuri gambar dan kondisi nyata.
 
-### Planned sibling articles
+Identitas aluminium juga penting karena nama paduan, temper—penandaan kondisi material setelah proses tertentu—bentuk produk, dimensi, dan keadaan permukaan adalah fakta terpisah. [ISO 2107](https://www.iso.org/standard/85023.html), [katalog ISO/TC 79](https://www.iso.org/committee/50126/x/catalogue/), dan [ISO 6362-4](https://www.iso.org/standard/76708.html) membantu memahami ranah identitas serta toleransi profil ekstrusi. Halaman publik tidak memberi nilai penerimaan atau kesimpulan kondisi struktur.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Redundansi dan kemudahan inspeksi bukan klaim otomatis
 
-- `ALM-05-A01` → `/artikel/aluminium-untuk-struktur.html` — Kapan Aluminium Boleh Menjadi Struktur dan Kapan Wajib Ditinjau Engineer
-- `ALM-05-A03` → `/artikel/defleksi-buckling-dan-getaran-aluminium.html` — Kuat Belum Tentu Kaku: Defleksi, Buckling, dan Getaran pada Aluminium
-- `ALM-05-A04` → `/artikel/merancang-profil-ekstrusi-aluminium.html` — Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan
+Redundansi adalah adanya lebih dari satu jalur atau elemen yang dapat berperan dalam suatu sistem, tetapi istilah itu tidak boleh digunakan sebagai jaminan keselamatan tanpa rancangan dan bukti yang tepat. Demikian pula, sambungan yang mudah dilihat belum tentu mudah diperiksa secara lengkap, dan sambungan tersembunyi tidak otomatis buruk. Pertanyaannya adalah apa yang harus diperiksa, kapan, dengan akses apa, dan rekaman apa yang harus tersedia.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Catatan yang berguna dapat mencakup gambar kerja, identitas bahan atau produk, detail sambungan, catatan pemasangan, inspeksi pekerjaan tersembunyi, perubahan, serta hasil uji jika memang dipersyaratkan. [ISO 9001](https://www.iso.org/standard/62085.html) mendukung pentingnya proses dan rekaman mutu terkendali, tetapi sertifikasi sistem mutu tidak membuktikan satu jalur beban telah diterima.
 
-## Jawaban singkat dan salah paham utama
+## Contoh cara membaca konsep tanpa menentukan kapasitas
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dan Sambungan Struktur Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan panel dipasang pada frame, lalu frame pada bracket, dan bracket pada anchor di dinding. Sebelum bertanya “berapa anchor yang cukup?”, uraikan dulu jalurnya: panel ke frame, frame ke bracket, bracket ke anchor, anchor ke substrat. Setelah itu, kumpulkan gambar, identitas komponen, kondisi substrat, detail pengikat, perubahan yang pernah terjadi, dan dasar perhitungan yang relevan.
 
-## Definisi dan batas objek
+Contoh ini tidak menentukan apakah sistem tersebut aman atau tidak. Ia menunjukkan mengapa data satu profil atau satu anchor tidak dapat mewakili seluruh jalur. [SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020) adalah catatan standar pembebanan minimum untuk perancangan bangunan dan struktur lain; halaman katalog tidak menggantikan teks lengkap atau rancangan proyek.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dan Sambungan Struktur Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan umum saat membahas sambungan aluminium
 
-## Cara kerjanya
+Kesalahan pertama adalah menganggap ukuran profil saja sudah menjelaskan struktur. Perbaiki dengan menggambar jalur sampai tumpuan. Kesalahan kedua adalah menganggap fastener atau anchor yang tampak kuat otomatis cocok dengan substrat. Perbaiki dengan meminta detail, bukti produk, kondisi substrat, dan dasar rancangan. Kesalahan ketiga adalah menilai sambungan dari tampilan akhir. Perbaiki dengan menyimpan pemeriksaan, gambar, dan perubahan sebelum detail tertutup.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dan Sambungan Struktur Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+PP No. 16 Tahun 2021 adalah peraturan pelaksana undang-undang bangunan gedung. [PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) bukan daftar izin atau kriteria penerimaan sambungan proyek; penerapannya tetap perlu ditinjau menurut bangunan, lokasi, serta ketentuan yang berlaku. [NEEDS GATE-02: kewajiban, otoritas, kompetensi, dan penerapan setempat harus dikonfirmasi untuk pekerjaan nyata.]
 
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dan Sambungan Struktur Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dan Sambungan Struktur Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Jalur Beban dan Sambungan Struktur Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalur beban dan sambungan struktur aluminium harus dapat dibaca dari komponen menuju tumpuan, bukan hanya dari nama profil atau pengikat. Langkah berikutnya: buat sketsa jalur beban dan daftar bukti untuk tiap pertemuan, lalu serahkan penetapan kapasitas serta detail kepada engineer proyek. Aturan kerjanya sederhana: jika satu perpindahan gaya atau kondisi tumpuan belum jelas, jangan menyatakan sambungan cukup atau aman.

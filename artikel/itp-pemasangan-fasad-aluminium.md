@@ -1,9 +1,10 @@
 ---
 article_id: ALM-06-A05
-title: "ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant"
+title: "ITP Pemasangan Fasad Aluminium: Titik Tahan dari Bracket hingga Sealant"
 slug: "itp-pemasangan-fasad-aluminium"
-description: "Define receiving, survey, anchors/brackets, rails, panels/glass, joints, drainage, sealant, protection, cleaning, testing, records, and hold points"
-status: outline
+description: "Cara menyusun rencana inspeksi dan pengujian fasad aluminium dari penerimaan, survei, bracket, anchor, panel, sambungan, drainase, perlindungan, pengujian, hingga rekaman."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,11 +16,7 @@ final_route: "/artikel/itp-pemasangan-fasad-aluminium.html"
 technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/index/"
-  - "https://www.iso.org/sectors/building-construction"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
   - "https://www.iso.org/standard/74384.html"
   - "https://www.iso.org/standard/55718.html"
   - "https://www.astm.org/e1105-15r23.html"
@@ -29,40 +26,9 @@ sources:
   - "https://www.iso.org/standard/62085.html"
   - "https://www.astm.org/e2357-18.html"
   - "https://www.iso.org/standard/27183.html"
-  - "https://www.iso.org/standard/22928.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant”
-- **Reader and situation:** Site QA or owner monitoring installation
-- **Reader outcome:** Define receiving, survey, anchors/brackets, rails, panels/glass, joints, drainage, sealant, protection, cleaning, testing, records, and hold points
-- **Primary intent:** Plan façade installation quality control
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Teman Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Kawan Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes approving concealed defects or access methods; ALM-12-A05 owns site K3 and qualified façade personnel own acceptance
-- **Final public route:** `/artikel/itp-pemasangan-fasad-aluminium.html`
-- **Appointed CMS date:** `2026-02-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Almini.id`, `Sobat Almini.id`, or `Kawan Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -73,163 +39,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Spesialis Jasa Produk Aluminium untuk Rumah hingga Proyek Besar 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# ITP Pemasangan Fasad Aluminium: Titik Tahan dari Bracket hingga Sealant
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Almini.id!
 
-### KR-19
+Fasad aluminium dapat tampak selesai sebelum bukti pentingnya selesai diperiksa. Bracket, anchor, rangka, rongga, pengikat, jalur air, panel atau kaca, dan sambungan sering tertutup oleh tahap berikutnya. Karena itu, ITP—rencana inspeksi dan pengujian (*inspection and test plan*)—perlu memandu kapan setiap detail diperiksa, rekaman apa yang dibuat, dan kapan pekerjaan tidak diteruskan sampai bukti tersedia.
 
-- **Original sources:** [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/), [ISO building-construction standards](https://www.iso.org/sectors/building-construction).
-- **Purpose for this article:** Prevent façade materials from being compared by trade name alone.
-- **Safe grounded facts:** Material, processed product, coating/core, support/fixing, joints, interfaces, installation, and complete-system performance are separate evidence layers.
-- **Limits:** No equivalence, rating, durability, fire, structural, water, energy, acoustic, environmental, or warranty claim without exact identity and matched evidence.
+ITP fasad bukan daftar angka baku atau surat persetujuan. Toleransi, kapasitas anchor, metode uji, kriteria penerimaan, dan kepatuhan hukum tetap merupakan pertanyaan proyek, sistem, dan otoritas yang tepat. [NEEDS GATE-04: panel, inti atau lapisan, bracket, anchor, rangka, sambungan, rongga, penghalang, bukaan, dan kondisi terpasang perlu diverifikasi untuk sistem yang diajukan.]
 
-### KR-21
+![Ilustrasi Spesialis Jasa Produk Aluminium untuk Rumah hingga Proyek Besar 1](/wp-content/uploads/2026/05/Spesialis-Jasa-Produk-Aluminium-untuk-Rumah-hingga-Proyek-Besar-1.avif)
 
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-25
+## Tentukan sistem, dokumen, dan pihak pemeriksa
 
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
+Mulailah dengan batas fasad yang diperiksa: panel atau kaca, profil, bracket—komponen penumpu atau penghubung—anchor atau pengikat ke struktur, rangka, sambungan, jalur air, dan pertemuan dinding. Sebutkan gambar serta revisi yang berlaku, daftar produk yang disetujui, dokumen metode kerja, pihak pemasang, pihak pemeriksa, dan rekaman yang harus disimpan.
 
-### KR-26
+Nama bahan tidak cukup untuk menjelaskan sistem. Aluminium, ACP, kaca, baja berlapis, atau bahan perapat dapat menjadi bagian fasad, tetapi tidak otomatis membuktikan inti, rangka, pengikat, rongga, atau pemasangannya. [Katalog SNI BSN](https://pesta.bsn.go.id/produk/index/) membantu mengenali dokumen standar, bukan mengesahkan fasad tertentu. Kawan Almini.id, ITP yang baik menyebut objek yang diperiksa, bukan hanya nama merek atau kata “sesuai standar”.
 
-- **Original sources:** [ISO 9972:2015 building air permeability](https://www.iso.org/standard/55718.html), [ASTM E1105 field water-penetration test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground water shedding, drained cavities, pressure moderation, air barriers, flashing, openings, parapets, bases, penetrations, joints, sealants, and weeps.
-- **Safe grounded facts:** Laboratory specimen, field chamber, nozzle/spray, pressure, duration, boundary, observed leak, interior path, and root-cause investigation must be distinguished.
-- **Limits:** No “waterproof,” leakage cause, sealant, flashing, weep, test pressure, acceptance, or repair claim without actual details, conditions, and competent investigation.
+## Terima material dan lakukan survei sebelum pengikat dipasang
 
-### KR-28
+Saat material datang, cocokkan identitas produk, jumlah, kondisi kemasan, kondisi permukaan yang terlihat, dan dokumen pengiriman dengan daftar yang disetujui. Catat kekurangan atau kerusakan sebagai temuan agar tidak berubah menjadi perdebatan setelah barang terpasang. Penyimpanan serta perlindungan perlu sesuai produk; jangan menganggap semua panel, kaca, dan profil dapat ditangani dengan cara sama.
 
-- **Original sources:** [Permen PUPR No. 26/PRT/M/2008](https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008), [ISO fire-safety standards overview](https://www.iso.org/sectors/building-construction/fire-safety), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016).
-- **Purpose for this article:** Ground combustibility/spread, cavity/opening interfaces, falling panels/glass, impact/guard boundaries, access, rescue, and authority evidence.
-- **Safe grounded facts:** Material reaction, assembly fire test, cavity barrier, perimeter detail, fixing/load path, impact/guard function, access system, inspection, rescue, and authority approval are separate.
-- **Limits:** No fire classification, compliance, falling-object safety, guard, access, anchor, exclusion, work-at-height, or rescue claim without current consolidated law and complete-system evidence.
+Survei lokasi lalu memeriksa kondisi aktual yang berhubungan dengan gambar: posisi struktur, area pemasangan, bukaan, permukaan tumpuan, pertemuan dengan pekerjaan lain, serta keterbatasan akses. Survei tidak membuktikan kapasitas anchor atau struktur, tetapi dapat menemukan kondisi yang berbeda dari gambar sebelum detail tertutup. Bila ada perbedaan, tahan keputusan yang mengubah posisi bracket, anchor, atau detail fasad. [ISO 4354](https://www.iso.org/standard/74384.html) menunjukkan bahwa tindakan angin merupakan topik tersendiri; halaman publiknya tidak memberi kapasitas anchor atau detail fasad proyek. [NEEDS GATE-07: kapasitas struktur, substrat, anchor, pengikat, perhitungan, dan hasil uji perlu bukti yang sesuai dengan kondisi lokasi serta sistem aktual.]
 
-### KR-29
+## Gunakan titik tahan pada pekerjaan yang akan tertutup
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Titik tahan adalah saat pekerjaan dihentikan sementara sampai pemeriksaan atau persetujuan yang dipersyaratkan tersedia. Pada fasad, titik ini lazim dipertimbangkan sebelum bracket dan anchor tertutup, sebelum rangka tidak lagi terlihat, sebelum rongga atau penghalang selesai ditutup, sebelum panel atau kaca dipasang, dan sebelum sambungan akhir menyembunyikan detailnya. Titik yang tepat bergantung pada sistem dan dokumen proyek.
 
-### KR-34
+Untuk setiap titik tahan, tulis apa yang diperiksa, gambar acuannya, siapa yang menyaksikan, rekaman yang dibuat, dan tindakan bila hasil belum jelas. Jangan mengubahnya menjadi tanda tangan otomatis. Sobat Almini.id, foto dapat membantu catatan, tetapi foto bukan pengganti pengukuran, laporan, atau penilaian kompeten yang memang diperlukan.
 
-- **Original sources:** [ISO 13785-1:2002 intermediate-scale façade fire test](https://www.iso.org/standard/27183.html) and [ISO 13785-2:2002 large-scale façade fire test](https://www.iso.org/standard/22928.html).
-- **Purpose for this article:** Bound ACP/ACM, honeycomb, spandrel, subframe, cavity, opening, and façade-fire claims.
-- **Safe grounded facts:** Aluminium skin, core, bond, cassette, subframe, insulation, cavity barrier, fixing, opening detail, and wall interface form one evidence chain.
-- **Limits:** Require the current Indonesian authority basis and a report whose specimen, scale, geometry, components, joints, openings, and field installation match the proposed system.
+## Periksa rangka, panel, kaca, dan sambungan sebagai satu susunan
 
-## Evidence gates
+Rangka, panel atau kaca, pengikat, gasket—pelapis elastis pada sambungan—dan bahan perapat (sealant) bekerja dalam satu susunan. Pemasangan satu bagian dapat mengubah posisi, jalur air, atau perilaku bagian lain. Karena itu, ITP perlu menghubungkan detail pemasangan dengan gambar, identitas produk, pemeriksaan komponen tersembunyi, serta catatan perubahan.
 
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Jangan menyatakan sambungan telah diterima hanya karena tampak rapi. Substrat, kondisi permukaan, geometri sambungan, bahan yang bertemu, urutan pemasangan, dan instruksi produk dapat menentukan pertanyaan pemeriksaannya. [ISO 12944-2](https://www.iso.org/standard/64834.html) membahas klasifikasi lingkungan korosi, bukan kesesuaian sambungan atau umur suatu fasad proyek.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Drainase, udara, dan perlindungan permukaan perlu diperiksa sebelum terlambat
 
-## Internal-link plan
+Untuk sistem yang mempunyai rongga, bukaan pelepas air, flashing atau pengarah air, dan pertemuan dinding, catat detail yang harus diperiksa sebelum tertutup. Air, udara, tekanan, dan jalur keluar perlu dibaca sebagai susunan, bukan sebagai satu garis bahan perapat. [ASTM E1105](https://www.astm.org/e1105-15r23.html) membahas pengujian penetrasi air lapangan pada sistem tertentu, dan [ISO 9972](https://www.iso.org/standard/55718.html) membahas permeabilitas udara bangunan. Keduanya bukan bukti bahwa fasad proyek kedap air atau telah memenuhi kriteria tanpa laporan yang cocok.
 
-### Existing local routes
+Perlindungan permukaan juga perlu dijaga sepanjang pekerjaan. Catat kondisi panel, kaca, profil, dan lapisan saat diterima serta sebelum diserahkan. Jangan menggunakan bahan pembersih atau mengubah perlindungan hanya karena tampak praktis. [NEEDS GATE-06: urutan pemasangan, pemeriksaan, pengujian, perubahan, perlindungan, dan penerimaan harus mengikuti dokumen proyek serta pihak yang berwenang.]
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Bedakan pengujian, ketidaksesuaian, dan penerimaan
 
-### Planned sibling articles
+Jika proyek mensyaratkan pengujian, ITP perlu menyebut objek uji, susunan, metode, pihak yang menyaksikan, rekaman, dan tindak lanjutnya. Laporan uji menjawab pertanyaan pada sistem serta metode yang diuji, bukan untuk setiap fasad yang namanya mirip. [ASTM E2357](https://www.astm.org/e2357-18.html) membahas susunan penghalang udara; laporan yang dipakai harus cocok dengan konfigurasi klaim.
 
-These are future routes. Do not link them as live until their HTML exists.
+Ketidaksesuaian adalah kondisi ketika pekerjaan atau bukti tidak dapat dicocokkan dengan acuan yang berlaku. Catat lokasi, fakta yang dilihat, gambar atau dokumen acuan, tindakan penahanan, pihak peninjau, dan status tindak lanjut. Jangan menutup, mengganti, atau mengerjakan ulang detail bila itu menghapus bukti atau mengubah sistem tanpa keputusan yang tepat.
 
-- `ALM-06-A03` → `/artikel/core-acp-dan-bukti-kebakaran.html` — Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk
-- `ALM-06-A04` → `/artikel/desain-kinerja-fasad-aluminium.html` — Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium
-- `ALM-06-A06` → `/artikel/diagnosis-kerusakan-fasad-aluminium.html` — Fasad Bocor, Panel Bergelombang, Sealant Retak, atau Noda: Cara Menelusuri Penyebab
+Teman Almini.id, penerimaan akhir bukan hanya fasad terlihat rapi. Ia menghubungkan identitas material, gambar, komponen tersembunyi, pemeriksaan, hasil pengujian bila ada, perubahan, temuan yang ditutup, serta pihak yang berwenang menerima. [ISO 9001](https://www.iso.org/standard/62085.html) mendukung pentingnya proses dan rekaman mutu terkendali, tetapi sertifikasi sistem mutu tidak menyatakan satu fasad telah diterima.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Api, akses, dan perubahan bukan pekerjaan akhir
 
-## Jawaban singkat dan salah paham utama
+Detail api tidak boleh diselesaikan dengan nama panel atau satu sertifikat komponen. Kulit, inti, rangka, pengikat, rongga, penghalang rongga, bukaan, dan pertemuan dinding dapat menjadi satu rantai bukti. [ISO 13785-1](https://www.iso.org/standard/27183.html) dan [gambaran standar keselamatan kebakaran ISO](https://www.iso.org/sectors/building-construction/fire-safety) menunjukkan perlunya lingkup susunan yang jelas; keduanya bukan klasifikasi atau persetujuan untuk fasad proyek.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Akses pemeriksaan dan pekerjaan di ketinggian juga bukan penambahan di akhir. [Permen PUPR No. 26/PRT/M/2008](https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008) serta [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016) relevan sebagai sumber resmi konteks kebakaran serta keselamatan kerja, tetapi penerapannya perlu diperiksa terhadap bangunan, pekerjaan, lokasi, dan ketentuan yang berlaku. [NEEDS GATE-08: akses, panel atau kaca jatuh, perlindungan area, pekerjaan di ketinggian, dan penyelamatan memerlukan bukti sistem serta rencana keselamatan yang sesuai.]
 
-## Definisi dan batas objek
+Jalan pintas yang umum adalah membuat ITP setelah panel dipasang. Cara itu kehilangan kesempatan memeriksa bracket, anchor, sambungan, serta detail drainase ketika masih terlihat. Alternatif yang lebih kuat adalah membuat ITP mengikuti urutan pekerjaan dan menahan setiap tahap sampai bukti yang tepat tersedia.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+ITP pemasangan fasad aluminium membuat penerimaan material, survei, bracket, anchor, panel, sambungan, drainase, perlindungan, dan rekaman menjadi satu alur bukti. Langkah berikutnya: buat tabel per tahap dengan kolom objek, gambar acuan, pemeriksaan, rekaman, titik tahan, pihak pemeriksa, dan tindakan bila ada ketidaksesuaian. Aturan kerjanya sederhana: jika detail yang akan tertutup atau bukti sistem belum cocok, jangan lanjutkan atau menyatakan fasad telah diterima.
