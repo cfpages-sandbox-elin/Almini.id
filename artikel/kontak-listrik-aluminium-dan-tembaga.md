@@ -2,8 +2,9 @@
 article_id: ALM-04-A04
 title: "Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi"
 slug: "kontak-listrik-aluminium-dan-tembaga"
-description: "Explain oxide/contact resistance, thermal cycling, compatible listed terminals, preparation/compound only when instructed, torque evidence, inspection, and overheating escalation"
-status: outline
+description: "Cara membaca sambungan listrik aluminium dan tembaga melalui identitas konduktor, terminal, kondisi sambungan, bukti pemasangan, dan tanda panas tanpa merancang koneksi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,8 +16,6 @@ final_route: "/artikel/kontak-listrik-aluminium-dan-tembaga.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
-  - "https://pesta.bsn.go.id/produk/index/"
   - "https://www.iso.org/standard/45798.html"
   - "https://www.iso.org/standard/83053.html"
   - "https://www.iso.org/standard/85023.html"
@@ -26,37 +25,7 @@ sources:
   - "https://www.iso.org/standard/80119.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi”
-- **Reader and situation:** Facility or project team encountering aluminium conductors/terminals
-- **Reader outcome:** Explain oxide/contact resistance, thermal cycling, compatible listed terminals, preparation/compound only when instructed, torque evidence, inspection, and overheating escalation
-- **Primary intent:** Recognize evidence and safety needs for electrical contacts
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Kawan Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes live work, conductor sizing, improvised adapters, or universal compounds; authorized electrical personnel and equipment instructions own execution
-- **Final public route:** `/artikel/kontak-listrik-aluminium-dan-tembaga.html`
-- **Appointed CMS date:** `2025-12-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Almini.id`, `Sobat Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,142 +36,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Almini.id! Pertemuan aluminium dan tembaga pada sambungan listrik sering memancing solusi cepat: tambah bahan oles, kencangkan lagi, atau pasang penghubung yang terlihat mirip. Itu berisiko karena sambungan listrik adalah sistem yang harus cocok antara konduktor, terminal, cara pemasangan, kondisi lingkungan, dan bukti bahwa komponennya memang ditetapkan untuk dipakai bersama.
 
-### KR-21
+Jawaban singkatnya: jangan menilai sambungan aluminium-tembaga dari warna logam atau kondisi tampak saja. Lapisan pada permukaan, kondisi tekan kontak, panas saat beroperasi, perubahan suhu berulang, kelembapan, dan identitas terminal dapat memengaruhi pertanyaan yang perlu dijawab. Pekerjaan pada sambungan listrik, terlebih yang bertegangan, harus dilakukan oleh personel berwenang sesuai instruksi peralatan dan prosedur lokasi.
 
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-### KR-30
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [ISO 15686-1 service-life planning](https://www.iso.org/standard/45798.html), [ISO 55000:2024 asset-management vocabulary](https://www.iso.org/standard/83053.html).
-- **Purpose for this article:** Ground inspection/access, cleaning, defect triage, diagnosis, making-safe, planned maintenance, repair/replace/retrofit, records, and lifecycle decisions.
-- **Safe grounded facts:** Symptom, access/viewing limitation, baseline, test, root-cause hypothesis, consequence, temporary control, repair design, acceptance, and monitoring are separate.
-- **Limits:** No remote declaration of safety, cause, repair method, cleaner compatibility, remaining life, cost, warranty, or reuse/recycling outcome without condition evidence and competent review.
+## Mulai dari identitas, bukan dari sebutan aluminium atau tembaga
 
-### KR-31
+Konduktor adalah bagian yang menghantarkan arus. Terminal adalah komponen yang dirancang untuk menerima atau menghubungkan konduktor. Keduanya perlu dikenali secara spesifik, termasuk penandaan, produsen, tipe, dan dokumen yang menyertainya. Menyebut “kabel aluminium” atau “terminal tembaga” belum menjelaskan apakah keduanya cocok satu sama lain dalam susunan tertentu.
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Identitas aluminium sendiri dapat mencakup paduan, kondisi pengerasan, bentuk produk, dimensi, kondisi permukaan, dan batch. [ISO 2107](https://www.iso.org/standard/85023.html), [katalog ISO/TC 79/SC 6](https://www.iso.org/committee/50126/x/catalogue/), serta [ISO 6362-4](https://www.iso.org/standard/76708.html) menunjukkan bahwa istilah material perlu dipisahkan ke fakta yang lebih jelas. Rujukan tersebut tidak menentukan ukuran konduktor, jenis terminal, atau penerimaan sambungan listrik proyek.
 
-### KR-33
+Sobat Almini.id, bila label terminal atau identitas konduktor tidak terbaca, jangan menggantinya dengan tebakan berdasarkan warna. Catat temuan, amankan akses sesuai prosedur, lalu minta pemeriksaan oleh pihak yang berwenang.
 
-- **Original sources:** [ISO 7599:2018 decorative/protective anodizing](https://www.iso.org/standard/70156.html) and [ISO 10074:2021 hard anodizing](https://www.iso.org/standard/80119.html).
-- **Purpose for this article:** Ground finish selection, appearance, durability, inspection, care, and substitution.
-- **Safe grounded facts:** Anodized appearance or nominal treatment name does not prove coating grade, sealing quality, abrasion behavior, corrosion result, electrical insulation, or service life.
-- **Limits:** Obtain the full invoked specification, applicator process record, approved physical sample, test report, exposure classification, and compatible-care guidance.
+## Oksidasi dan tahanan kontak perlu dibaca sebagai kondisi sambungan
 
-## Evidence gates
+Lapisan oksida dan kondisi permukaan merupakan salah satu alasan sambungan listrik tidak boleh diperlakukan sebagai pertemuan dua logam biasa. *Tahanan kontak* adalah hambatan pada area pertemuan listrik; nilainya tidak dapat diketahui dari artikel atau foto. Panas pada sambungan juga bukan diagnosis tunggal: ia memerlukan pemeriksaan terhadap komponen, pemasangan, kondisi operasi, dan bukti yang relevan.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Kondisi lingkungan dapat ikut berperan. [ISO 12944-2](https://www.iso.org/standard/64834.html) membahas lingkungan korosi; dokumen ini tidak membuktikan adanya korosi pada satu terminal atau menetapkan umur layanan sambungan listrik. Begitu pula tampilan anodized tidak dengan sendirinya membuktikan tingkat perlindungan, isolasi listrik, atau kecocokan pada koneksi; batas itu juga tercermin pada [ISO 7599](https://www.iso.org/standard/70156.html) dan [ISO 10074](https://www.iso.org/standard/80119.html).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+[NEEDS GATE-04: Identitas konduktor, terminal, penandaan kesesuaian, kondisi permukaan, lingkungan, cara pemasangan, dan kondisi operasi harus diverifikasi sebelum menyimpulkan penyebab atau tindakan.]
 
-## Internal-link plan
+## Torsi, bahan oles, dan terminal bukan bahan improvisasi
 
-### Existing local routes
+Torsi adalah gaya putar yang digunakan pada pengencang, tetapi angka serta cara penerapannya harus datang dari instruksi terminal dan sistem yang benar. Tidak aman menyalin nilai dari terminal lain, dari pengalaman sebelumnya, atau dari artikel umum. Bukti bahwa torsi diterapkan menurut instruksi juga berbeda dari dugaan bahwa sambungan “sudah cukup kencang”.
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Bahan oles untuk sambungan hanya boleh digunakan bila dinyatakan oleh instruksi produk atau sistem yang tepat. Jangan menganggap semua bahan oles dapat dipertukarkan atau mampu menyelesaikan ketidakcocokan terminal. Demikian juga, jangan membuat adaptor sendiri untuk menyambungkan aluminium dan tembaga. Kawan Almini.id, bila terminal yang terpasang tidak dapat dibuktikan sesuai, langkah yang aman bukan mencari jalan pintas, melainkan menghentikan penggunaan sampai dinilai personel listrik berwenang.
 
-### Planned sibling articles
+## Perubahan suhu dan tanda panas harus memicu eskalasi
 
-These are future routes. Do not link them as live until their HTML exists.
+Saat sistem bekerja, temperatur dapat berubah. Perubahan berulang dapat menjadi salah satu kondisi yang perlu dipertimbangkan ketika menilai sambungan; artikel ini tidak menetapkan besarnya perubahan atau batas aman. Tanda seperti panas tidak biasa, bau, perubahan warna, kerusakan isolasi, bunyi, atau gangguan operasi perlu dilaporkan dan ditangani melalui prosedur lokasi, bukan diuji dengan menyentuh, mengencangkan, atau membuka sambungan bertegangan.
 
-- `ALM-04-A02` → `/artikel/korosi-galvanik-aluminium.html` — Korosi Galvanik Aluminium saat Bertemu Baja, Stainless, dan Tembaga
-- `ALM-04-A03` → `/artikel/anodizing-powder-coating-dan-cat-aluminium.html` — Anodizing, Powder Coating, dan Cat Cair untuk Aluminium
-- `ALM-04-A05` → `/artikel/membersihkan-aluminium-berlapis.html` — Cara Membersihkan Aluminium Berlapis Tanpa Mempercepat Kerusakan
-- `ALM-04-A06` → `/artikel/diagnosis-kerusakan-permukaan-aluminium.html` — Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium
+Teman Almini.id, bedakan gejala dari penyebab. Gejala memberi alasan untuk menghentikan atau membatasi penggunaan sesuai otoritas, tetapi tidak memberi izin untuk mendiagnosis dan memperbaiki sendiri. [NEEDS GATE-07: Penilaian panas, tahanan, kapasitas, keselamatan, atau hasil operasi memerlukan pengukuran dan peninjauan yang cocok untuk sambungan serta instalasi aktual.]
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Rekaman memberi dasar pemeriksaan berikutnya
 
-## Jawaban singkat dan salah paham utama
+Rekaman yang berguna mencakup identitas konduktor dan terminal, instruksi yang berlaku, tanggal pemasangan atau pemeriksaan, pihak yang mengerjakan, kondisi yang diamati, perubahan yang disetujui, dan tindakan setelah temuan. Perencanaan umur layanan serta pengelolaan aset membedakan pemeriksaan, hipotesis penyebab, tindakan sementara, desain perbaikan, penerimaan, dan pemantauan. [ISO 15686-1](https://www.iso.org/standard/45798.html) dan [ISO 55000](https://www.iso.org/standard/83053.html) membantu menjaga pemisahan ini, tetapi tidak memberikan desain sambungan listrik.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan menyamakan catatan inspeksi dengan bukti bahwa sistem siap dioperasikan. Tanpa penandaan dan rekaman yang cukup, pemeriksa berikutnya tidak dapat membedakan sambungan asli, penggantian, atau perubahan sementara.
 
-## Definisi dan batas objek
+## Contoh pertanyaan sebelum memilih komponen aluminium
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saat menilai produk aluminium yang mungkin terkait dengan pekerjaan proyek, halaman [produk aluminium Yogyakarta](/produk-aluminium-yogyakarta.html) dapat membantu pembaca mengenali konteks produk. Namun halaman produk bukan bukti bahwa suatu aluminium dapat dipakai sebagai konduktor, terminal, atau bagian dari sambungan listrik.
 
-## Cara kerjanya
+Untuk pembaca yang sedang membandingkan kebutuhan di wilayah lain, [informasi produk aluminium Yalimo](/produk-aluminium-yalimo.html) juga hanya menjadi langkah awal untuk memahami lingkup produk. Keputusan koneksi listrik tetap memerlukan penandaan peralatan, dokumen produsen, serta pemeriksaan yang berwenang.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang perlu dihentikan
 
-## Faktor yang mengubah hasil
+“Logamnya sama-sama bersih” tidak membuktikan sambungan cocok. “Sudah dipakai lama” juga tidak membuktikan panas, torsi, atau kondisi terminal hari ini dapat diterima. Mengoles bahan tanpa instruksi atau mengubah sambungan sambil sistem aktif dapat memperbesar ketidakpastian sekaligus bahaya.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[NEEDS GATE-10: Keputusan perbaikan, penggantian, pembatasan operasi, atau pembukaan sambungan memerlukan bukti instalasi dan penetapan dari personel listrik yang berwenang.]
 
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kontak listrik aluminium dan tembaga perlu diperlakukan sebagai sambungan yang dibuktikan, bukan percobaan bahan. Aturan kerjanya: bila identitas terminal, instruksi, kondisi, atau otoritas kerja belum jelas, jangan mengubah sambungan—catat dan eskalasi kepada pihak yang kompeten.
