@@ -2,8 +2,9 @@
 article_id: ALM-02-A02
 title: "Cara Mengukur Ketebalan, Penampang, Kelurusan, dan Toleransi Produk Aluminium"
 slug: "cara-mengukur-produk-aluminium"
-description: "Provide a measurement plan for thickness, width, wall, diagonal, straightness, flatness, and coating while identifying instrument and sampling limits"
-status: outline
+description: "Susun rencana pengukuran produk aluminium dengan titik acuan, alat yang sesuai, catatan hasil, dan batas bukti sebelum menyimpulkan kesesuaian."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,7 +15,6 @@ reader_address: "Kawan Almini.id"
 final_route: "/artikel/cara-mengukur-produk-aluminium.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/104476/permen-"
   - "https://www.iso.org/standard/62085.html"
   - "https://www.astm.org/e2357-18.html"
   - "https://www.astm.org/e1105-15r23.html"
@@ -23,37 +23,19 @@ sources:
   - "https://www.iso.org/standard/76708.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Cara Mengukur Ketebalan, Penampang, Kelurusan, dan Toleransi Produk Aluminium
 
-## Assignment lock
+Halo, Kawan Almini.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Mengukur Ketebalan, Penampang, Kelurusan, dan Toleransi Produk Aluminium”
-- **Reader and situation:** Receiver, inspector, or fabricator checking delivered material
-- **Reader outcome:** Provide a measurement plan for thickness, width, wall, diagonal, straightness, flatness, and coating while identifying instrument and sampling limits
-- **Primary intent:** Verify product dimensions
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Kawan Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes universal acceptance tolerances, owned by the purchase specification in ALM-02-A03, and fabrication QC, owned by ALM-03-A06
-- **Final public route:** `/artikel/cara-mengukur-produk-aluminium.html`
-- **Appointed CMS date:** `2025-10-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mengukur aluminium bukan sekadar menempelkan alat ukur lalu membaca angka. Anda perlu tahu barang apa yang diperiksa, ukuran mana yang diminta, titik mana yang dijadikan acuan, alat apa yang cocok, dan dokumen apa yang menjadi pembanding. Tanpa itu, angka yang terlihat teliti bisa tidak menjawab pertanyaan penerimaan barang.
 
-## Opening instructions
+Mulailah dari gambar, pesanan, atau spesifikasi yang berlaku. Tentukan apakah yang diperiksa adalah ketebalan, lebar, tinggi penampang, jarak antarbagian, diagonal, kelurusan, kerataan, atau kondisi lapisan. Lalu catat hasil bersama lokasi ukur dan kondisi barang. Pengukuran membantu menemukan fakta; ia tidak dengan sendirinya menetapkan barang diterima atau ditolak.
 
-- Open with the exact short salutation: **“Halo, Kawan Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Mengukur Ketebalan, Penampang, Kelurusan, dan Toleransi Produk Aluminium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Almini.id`, `Sobat Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
+_Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu._
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -64,133 +46,69 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Hasil yang perlu dicapai sebelum mulai mengukur
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Hasil yang baik bukan daftar angka panjang. Hasil yang baik menjawab: barang apa yang diukur, dokumen acuan apa yang dipakai, titik ukur mana yang digunakan, alat ukur apa yang dipakai, kapan pengukuran dilakukan, dan bagaimana hasilnya dilaporkan. Dengan catatan itu, orang lain masih dapat menelusuri pengukuran tanpa menebak maksudnya.
 
-### KR-17
+Siapkan tiga hal sebelum memegang alat. Pertama, identitas produk: bentuk, paduan dan temper bila tercantum, kondisi permukaan, serta identitas kelompok produksi bila tersedia. Kedua, dokumen yang menyebut ukuran atau toleransi. Ketiga, alat ukur yang sesuai dengan geometri dan rentang pengukuran. Jangan memaksa satu alat menjawab semua bentuk.
 
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Support RFQs, scope normalization, cost-driver explanations, vendor comparison, and hidden-condition governance.
-- **Safe grounded facts:** Cleaning cost can change with area, contamination, access, frequency, hours, protection, water/logistics, and mobilization. Film cost can change with exact product, glazing compatibility, area/layout, waste, access, existing-film removal, attachment system, evidence, and warranty.
-- **Limits:** No public source here establishes a current project price, contractor capability, insurance, availability, tax, contract right, or change-order entitlement. Obtain dated quotations and project/legal review under GATE-09.
+Teman Almini.id, **datum** atau titik acuan adalah titik, bidang, tepi, atau garis yang disepakati sebagai awal pengukuran. Tanpa titik acuan yang sama, dua orang dapat mengukur barang yang sama tetapi menghasilkan angka yang tidak bisa dibandingkan.
 
-### KR-29
+## Tetapkan objek dan batas pemeriksaan
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Sebutkan dulu objeknya dengan jelas: profil, hollow, plat, panel, atau bentuk lain. Ketebalan dinding profil tidak sama dengan lebar penampang. Diagonal tidak sama dengan kelurusan. Kerataan bidang tidak sama dengan kondisi lapisan. Setiap pertanyaan memerlukan titik ukur dan cara catat yang berbeda.
 
-### KR-31
+Artikel ini tidak memberi angka toleransi universal. Toleransi adalah batas yang harus kembali ke spesifikasi pembelian, standar produk yang dipanggil, atau dokumen proyek. [ISO 6362-4:2022](https://www.iso.org/standard/76708.html) membahas toleransi profil ekstrusi, tetapi cakupan publiknya bukan izin untuk mengambil angka penerimaan bagi setiap produk atau pekerjaan.
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Paduan, temper, bentuk produk, ukuran/toleransi, kondisi permukaan, dan penggunaan yang dituju adalah fakta terpisah. Cakupan [ISO 2107:2023](https://www.iso.org/standard/85023.html) tentang temper serta katalog [ISO/TC 79/SC 6](https://www.iso.org/committee/50126/x/catalogue/) untuk aluminium tempa menguatkan perlunya mencatat identitas tersebut sebelum hasil ukuran diberi makna.
 
-## Evidence gates
+## Kumpulkan dan cocokkan bukti
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
+Bandingkan barang dengan dokumen yang benar-benar berlaku, bukan dengan ingatan atau contoh dari produk lain. Periksa nomor pesanan, revisi gambar, penandaan pada barang bila ada, serta catatan penerimaan. Bila barang terdiri dari beberapa bagian, tentukan apakah semuanya akan diukur atau diambil sampel sesuai rencana pemeriksaan yang disetujui.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pilih alat ukur berdasarkan pertanyaan. Jangka sorong dapat membantu membaca dimensi tertentu; mikrometer dapat digunakan untuk pemeriksaan yang membutuhkan kontak ukur lebih khusus; penggaris lurus, siku, atau alat pembanding lain dapat dipakai bila sesuai bentuk dan acuan. Sebelum dipakai, pastikan kondisi alat, identifikasi alat, dan kecocokannya terhadap pekerjaan dapat diketahui. Artikel ini tidak menetapkan ketelitian alat atau jumlah titik sampel karena hal itu bergantung pada dokumen yang berlaku.
 
-## Internal-link plan
+Sobat Almini.id, hasil ukur yang baik selalu mencantumkan batasnya: bagian mana yang tidak dapat dijangkau, apakah permukaan tertutup pelapis, apakah barang melengkung, atau apakah datum harus diputuskan oleh pihak yang berwenang.
 
-### Existing local routes
+## Urutan pengukuran yang dapat diikuti
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Berikut urutan sederhana agar pengukuran dapat diulang dan ditinjau:
 
-### Planned sibling articles
+1. Cocokkan barang dengan identitas dan dokumen acuan.
+2. Tulis ukuran yang ingin dijawab, beserta datum atau titik acuan.
+3. Pilih alat ukur yang sesuai, lalu catat identitas dan kondisi penggunaannya bila diperlukan.
+4. Tentukan lokasi pengukuran sebelum membaca angka, terutama untuk profil, bidang lebar, atau barang yang tidak seragam.
+5. Catat hasil, satuan, lokasi, tanggal, dan pihak yang mengukur.
+6. Bandingkan dengan kriteria yang benar-benar tertulis; bila belum ada kriteria, laporkan fakta tanpa membuat keputusan penerimaan sendiri.
 
-These are future routes. Do not link them as live until their HTML exists.
+Contoh: sebuah profil datang dan Anda ingin memeriksa penampangnya. Jangan hanya mengukur satu bagian yang mudah dijangkau lalu menyebut seluruh profil sesuai. Catat penampang mana yang diukur, dari titik acuan mana, alat apa yang dipakai, serta dokumen ukuran yang dijadikan pembanding. Begini cara membedakan pemeriksaan dari sekadar melihat angka.
 
-- `ALM-02-A01` → `/artikel/bentuk-produk-aluminium.html` — Profil, Hollow, Plat, ACP, Honeycomb, dan Spandrel: Mengenali Bentuk Produk Aluminium
-- `ALM-02-A03` → `/artikel/checklist-spesifikasi-aluminium.html` — Checklist Spesifikasi Aluminium: Dari Fungsi hingga Bukti yang Harus Diminta
-- `ALM-02-A04` → `/artikel/membaca-sertifikat-material-aluminium.html` — Cara Membaca Mill Certificate dan Menjaga Ketertelusuran Aluminium
+## Kapan pengukuran harus dihentikan dan ditinjau
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Hentikan keputusan bila dokumen tidak cocok, datum tidak jelas, alat tidak sesuai, kondisi permukaan mengganggu pembacaan, atau hasil tidak bisa dibandingkan dengan kriteria yang disetujui. Jangan “membulatkan” angka agar cocok dan jangan mengganti barang dengan sampel lain hanya karena lebih mudah diukur.
 
-## Hasil akhir dan prasyarat
+[NEEDS GATE-01: Cocokkan identitas produk, gambar, spesifikasi pembelian, dan kebutuhan pemeriksaan dengan pihak yang berkompeten sebelum hasil dipakai untuk keputusan.]
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Ketebalan, Penampang, Kelurusan, dan Toleransi Produk Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[NEEDS GATE-04: Pengukuran komponen tidak membuktikan rangka, sambungan, pengikat, atau kinerja sistem yang sudah terpasang.]
 
-## Langkah 1 — tetapkan scope
+[NEEDS GATE-06: Rencana sampel, alat ukur, datum, metode, kriteria penerimaan, dan otoritas keputusan harus mengikuti dokumen proyek atau pembelian yang berlaku.]
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Ketebalan, Penampang, Kelurusan, dan Toleransi Produk Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[NEEDS GATE-09: Jangan memakai hasil ukur umum untuk menyatakan kelayakan komersial, penggantian, kewajiban pemasok, atau klaim kontrak tanpa dokumen yang berlaku.]
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Verifikasi catatan dan serah-terima informasi
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Ketebalan, Penampang, Kelurusan, dan Toleransi Produk Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum hasil diteruskan, periksa apakah catatan menjawab pertanyaan awal. Setidaknya, pastikan ada identitas barang, dokumen acuan, ukuran yang diperiksa, datum, alat, lokasi ukur, hasil, kondisi pembacaan, dan bagian yang belum diperiksa. Lampirkan foto bila membantu menunjukkan lokasi atau bentuk, tetapi jangan jadikan foto sebagai pengganti data ukur.
 
-## Langkah 3 — jalankan urutan kerja
+Dalam pengendalian mutu, gambar kerja yang disetujui, catatan penerimaan, pemeriksaan pekerjaan tersembunyi, pengujian, daftar perbaikan, dan gambar kondisi akhir adalah bukti yang berbeda. Hal itu tercermin pada cakupan [ISO 9001:2015](https://www.iso.org/standard/62085.html), [ASTM E2357](https://www.astm.org/e2357-18.html), serta [ASTM E1105](https://www.astm.org/e1105-15r23.html). Kawan Almini.id, jangan mengubah satu hasil ukur menjadi bukti semua tahap pekerjaan.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Ketebalan, Penampang, Kelurusan, dan Toleransi Produk Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang sering muncul adalah “ukur yang terlihat saja.” Itu boleh menjadi catatan pengamatan awal, tetapi bukan dasar untuk menyimpulkan bagian tersembunyi atau seluruh pengiriman. Jika cakupan sampel belum disetujui, laporkan keterbatasannya dan minta arahan, bukan mengisinya dengan asumsi.
 
-## Hold point dan kondisi berhenti
+Untuk tahap awal mengenali produk, halaman [informasi produk aluminium](https://almini.id/produk-aluminium-yogyakarta.html) dapat membantu. Setelah barang datang, gunakan dokumen pembelian dan rencana pengukuran yang jelas sebagai dasar pemeriksaannya.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Ketebalan, Penampang, Kelurusan, dan Toleransi Produk Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Penutup: angka baru bermakna bila titik acuannya jelas
 
-## Verifikasi hasil dan handover
+Mengukur ketebalan, penampang, kelurusan, dan toleransi aluminium dimulai dari pertanyaan yang benar: produk apa, ukuran apa, dari titik mana, dengan alat apa, dan dibandingkan dengan dokumen apa. Angka tanpa konteks hanya catatan; angka dengan datum dan bukti dapat ditinjau.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur Ketebalan, Penampang, Kelurusan, dan Toleransi Produk Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Almini.id, sebelum mengukur, tulis dahulu objek, datum, alat, lokasi, dan dokumen pembanding. Aturan kerjanya: jangan kejar angka lebih dulu; pastikan pertanyaan yang harus dijawab sudah jelas.

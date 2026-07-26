@@ -2,8 +2,9 @@
 article_id: ALM-08-A03
 title: "Aluminium di Pantai dan Luar Ruang: Detail untuk Garam, Hujan, dan Polusi"
 slug: "aluminium-luar-ruang-dan-pantai"
-description: "Translate salt, wet-dry cycles, deposits, crevices, fasteners, drainage, finish, cleaning access, inspection, and evidence into durable detailing questions"
-status: outline
+description: "Susun pertanyaan detail aluminium luar ruang dari paparan garam, air, endapan, sambungan, lapisan, akses pembersihan, dan bukti sistem."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,53 +16,28 @@ final_route: "/artikel/aluminium-luar-ruang-dan-pantai.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
-  - "https://pesta.bsn.go.id/produk/index/"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
-  - "https://www.iso.org/standard/74384.html"
   - "https://www.iso.org/standard/55718.html"
   - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/62085.html"
   - "https://www.astm.org/e2357-18.html"
   - "https://www.iso.org/standard/85023.html"
-  - "https://www.iso.org/committee/50126/x/catalogue/"
   - "https://www.iso.org/standard/76708.html"
   - "https://www.iso.org/standard/70156.html"
-  - "https://www.iso.org/standard/80119.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Aluminium di Pantai dan Luar Ruang: Detail untuk Garam, Hujan, dan Polusi
 
-## Assignment lock
+Halo, Sobat Almini.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Aluminium di Pantai dan Luar Ruang: Detail untuk Garam, Hujan, dan Polusi”
-- **Reader and situation:** Coastal or industrial-site owner
-- **Reader outcome:** Translate salt, wet-dry cycles, deposits, crevices, fasteners, drainage, finish, cleaning access, inspection, and evidence into durable detailing questions
-- **Primary intent:** Design for severe exposure
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes a city-specific page or guaranteed service life; ALM-04-A01 owns corrosion mechanisms and project evidence governs
-- **Final public route:** `/artikel/aluminium-luar-ruang-dan-pantai.html`
-- **Appointed CMS date:** `2026-03-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Aluminium di luar ruang, terutama di lokasi dengan paparan garam, hujan, dan polusi, tidak cukup dipilih dari nama bahan atau warna lapisan. Detail yang perlu dipikirkan meliputi bagaimana air mengenai permukaan, tempat endapan dapat tertahan, jalur drainase, celah dan sambungan, pertemuan dengan bahan lain, akses pembersihan, serta bukti produk dan sistem yang dipakai.
 
-## Opening instructions
+Tidak ada jarak dari pantai, nama lapisan, atau satu jenis profil yang otomatis menjamin hasil. Paparan di satu lokasi dapat berbeda dari lokasi lain. Jadi, gunakan kondisi nyata sebagai dasar pertanyaan, lalu cocokkan dengan produk, gambar, dan peninjauan yang sesuai sebelum mengambil keputusan.
 
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Aluminium di Pantai dan Luar Ruang: Detail untuk Garam, Hujan, dan Polusi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
+_Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu._
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -72,157 +48,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-21
-
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
-
-### KR-25
-
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
-
-### KR-26
-
-- **Original sources:** [ISO 9972:2015 building air permeability](https://www.iso.org/standard/55718.html), [ASTM E1105 field water-penetration test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground water shedding, drained cavities, pressure moderation, air barriers, flashing, openings, parapets, bases, penetrations, joints, sealants, and weeps.
-- **Safe grounded facts:** Laboratory specimen, field chamber, nozzle/spray, pressure, duration, boundary, observed leak, interior path, and root-cause investigation must be distinguished.
-- **Limits:** No “waterproof,” leakage cause, sealant, flashing, weep, test pressure, acceptance, or repair claim without actual details, conditions, and competent investigation.
-
-### KR-29
-
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
-
-### KR-31
-
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
-
-### KR-33
-
-- **Original sources:** [ISO 7599:2018 decorative/protective anodizing](https://www.iso.org/standard/70156.html) and [ISO 10074:2021 hard anodizing](https://www.iso.org/standard/80119.html).
-- **Purpose for this article:** Ground finish selection, appearance, durability, inspection, care, and substitution.
-- **Safe grounded facts:** Anodized appearance or nominal treatment name does not prove coating grade, sealing quality, abrasion behavior, corrosion result, electrical insulation, or service life.
-- **Limits:** Obtain the full invoked specification, applicator process record, approved physical sample, test report, exposure classification, and compatible-care guidance.
-
-## Evidence gates
-
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ALM-08-A01` → `/artikel/memilih-kanopi-aluminium.html` — Memilih Kanopi Aluminium: Penutup, Rangka, Drainase, dan Bukti Desain
-- `ALM-08-A02` → `/artikel/drainase-kanopi-aluminium.html` — Talang, Kemiringan, Limpasan, dan Ponding pada Kanopi Aluminium
-- `ALM-08-A04` → `/artikel/sambungan-dan-anchor-kanopi-aluminium.html` — Anchor, Sambungan, dan Gerakan pada Kanopi Aluminium
-- `ALM-08-A05` → `/artikel/inspeksi-dan-perawatan-kanopi-aluminium.html` — Jadwal Inspeksi dan Pembersihan Kanopi Aluminium
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium di Pantai dan Luar Ruang: Detail untuk Garam, Hujan, dan Polusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Di pantai dan luar ruang, pertanyaan yang tepat bukan “apakah aluminium tahan korosi?”, melainkan “produk aluminium yang mana, di paparan seperti apa, dengan detail sambungan bagaimana, dan bukti apa yang mendukungnya?” Nama aluminium, anodized, powder-coated, galvanis, atau stainless tidak menggantikan spesifikasi lengkap maupun bukti sistem.
+
+[ISO 12944-2](https://www.iso.org/standard/64834.html) menunjukkan bahwa lingkungan korosif merupakan pokok bahasan sendiri. Artinya, kondisi paparan tidak boleh disederhanakan menjadi satu label material. Lapisan oksida atau lapisan akhir bisa relevan, tetapi tidak menjadi janji bahwa semua tepi, sambungan, pengikat, dan bagian tersembunyi akan berperilaku sama.
+
+Kawan Almini.id, detail yang mudah dibersihkan dan mudah diperiksa sering lebih berguna daripada klaim umum yang tidak menjelaskan jalur air atau endapan.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium di Pantai dan Luar Ruang: Detail untuk Garam, Hujan, dan Polusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Paparan** berarti kondisi yang benar-benar mengenai bagian: air hujan, kabut garam, endapan, debu, siklus basah-kering, dan kondisi setempat lainnya. **Water trap** atau titik perangkap air adalah detail yang membuat air atau kotoran berpotensi menetap. **Antarmuka** adalah tempat aluminium bertemu pengikat, sealant, gasket, rangka, atau bahan lain.
 
-## Cara kerjanya
+Artikel ini menerjemahkan istilah tersebut menjadi pertanyaan detail. Ia tidak memberi jarak aman dari pantai, ketebalan lapisan, jadwal perawatan, umur layanan, atau persetujuan desain. Keputusan terkait beban, anchor, sambungan, dan penerimaan sistem tetap memerlukan rancangan serta peninjauan yang kompeten.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium di Pantai dan Luar Ruang: Detail untuk Garam, Hujan, dan Polusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Cara detail memengaruhi hasil
 
-## Faktor yang mengubah hasil
+Air yang datang ke satu permukaan perlu punya jalan untuk keluar; endapan yang masuk ke celah perlu dapat dilihat atau dibersihkan; dan sambungan perlu dipahami sebagai bagian sistem, bukan garis kosmetik. Bila detail membuat air atau kotoran sulit keluar, pemeriksaan serta pemeliharaan berikutnya juga menjadi lebih sulit. Ini bukan kesimpulan bahwa suatu detail pasti gagal, melainkan alasan untuk memeriksa jalur air dan akses sejak awal.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium di Pantai dan Luar Ruang: Detail untuk Garam, Hujan, dan Polusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk bukaan, rongga, flashing, sambungan, dan area bertekanan, metode uji atau hasil satu spesimen tidak dapat langsung dipindahkan ke semua pemasangan. [ISO 9972:2015](https://www.iso.org/standard/55718.html) membahas permeabilitas udara bangunan, sedangkan [ASTM E1105](https://www.astm.org/e1105-15r23.html) membahas uji penetrasi air di lapangan. Keduanya membedakan batas uji, kondisi, serta hasil yang diamati dari penyebab dan penerimaan proyek.
+
+Teman Almini.id, hindari kesimpulan seperti “sealant saja cukup” atau “tinggal tambah lubang drainase”. Fungsi sambungan, jalur air, profil, dan kondisi pemasangan harus dibaca bersama detail yang berlaku.
+
+## Faktor yang mengubah keputusan
+
+| Pertanyaan | Mengapa perlu diperiksa |
+| --- | --- |
+| Air dan endapan datang dari arah mana? | Paparan tidak selalu sama pada semua sisi dan bagian |
+| Di mana air atau kotoran mungkin tertahan? | Titik yang sulit keluar atau dibersihkan perlu dikenali |
+| Bahan apa yang saling bertemu? | Antarmuka memerlukan bukti kompatibilitas dan detail sistem |
+| Bagaimana sambungan serta pengikatnya? | Komponen tersebut berbeda dari profil aluminium itu sendiri |
+| Apakah bagian dapat dijangkau untuk inspeksi dan pembersihan? | Akses menentukan apakah kondisi dapat diperiksa tanpa menebak |
+| Dokumen apa yang tersedia? | Produk, sampel, gambar, catatan penerimaan, dan sistem terpasang membuktikan hal berbeda |
+
+Identitas produk aluminium juga tidak boleh hilang dari pembahasan paparan. Paduan, temper, bentuk produk, ukuran/toleransi, kondisi permukaan, serta penggunaan yang direncanakan adalah fakta terpisah. Lihat cakupan [ISO 2107:2023](https://www.iso.org/standard/85023.html) dan [ISO 6362-4:2022](https://www.iso.org/standard/76708.html). Jika anodisasi disebut, [ISO 7599:2018](https://www.iso.org/standard/70156.html) menunjukkan bahwa nama perlakuannya tidak sendiri membuktikan mutu, hasil korosi, atau masa pakai.
+
+[NEEDS GATE-02: Parameter perancangan, urutan pemasangan, dan pengendalian pekerjaan luar ruang harus mengikuti rancangan serta prosedur yang berlaku untuk lokasi dan sistem tersebut.]
+
+[NEEDS GATE-03: Beban, angin, gempa, gerakan, anchor, sambungan, dan jalur beban memerlukan persetujuan perencana yang berkompeten.]
+
+[NEEDS GATE-04: Drainase, sambungan, sealant, gasket, pengikat, dan pertemuan dengan bahan lain harus ditinjau sebagai satu sistem.]
+
+[NEEDS GATE-06: Sampel, pengujian, inspeksi, dan penerimaan harus memakai kriteria proyek serta pihak berwenang yang berlaku.]
+
+[NEEDS GATE-07: Jangan mengklaim ketahanan korosi, kebocoran, kelas lapisan, atau kinerja luar ruang tanpa bukti produk dan sistem yang cocok.]
+
+[NEEDS GATE-08: Kondisi lingkungan setempat, penumpukan endapan, akses pembersihan, dan riwayat paparan perlu diperiksa sebelum keputusan detail atau perawatan ditetapkan.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium di Pantai dan Luar Ruang: Detail untuk Garam, Hujan, dan Polusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan Anda memilih aluminium untuk kanopi atau elemen luar ruang dekat pantai. Daripada meminta “yang paling tahan garam”, tuliskan kebutuhan yang dapat dijawab: bagian mana yang terpapar, bagaimana air ditangani, di mana sambungan dan pengikat berada, bagian mana yang dapat dibersihkan, serta dokumen produk apa yang dibutuhkan. Dari sini, pihak perencana atau pemasok dapat memberi tanggapan yang lebih dapat diperiksa.
+
+Bandingkan juga barang yang benar-benar sama jenisnya. Profil yang berbeda bentuk atau panel dengan susunan berbeda tidak dapat dibandingkan dari warna lapisan saja. Dalam pengendalian mutu, gambar kerja yang disetujui, sampel, catatan bahan, pemeriksaan penerimaan, pekerjaan tersembunyi, uji, dan gambar kondisi akhir adalah bukti berbeda—lihat [ISO 9001:2015](https://www.iso.org/standard/62085.html) dan [ASTM E2357](https://www.astm.org/e2357-18.html).
+
+Untuk tahap awal mencari produk aluminium, halaman [informasi produk aluminium](https://almini.id/produk-aluminium-yogyakarta.html) dapat digunakan sebagai titik awal. Setelah itu, detail luar ruang harus kembali ke gambar, produk, dan bukti pada proyek Anda.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Aluminium di Pantai dan Luar Ruang: Detail untuk Garam, Hujan, dan Polusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih hanya berdasarkan nama lapisan. Kesalahan kedua adalah fokus pada bidang yang terlihat, tetapi mengabaikan tepi, celah, sambungan, dan pengikat. Kesalahan ketiga ialah menutup semua celah tanpa memahami jalur drainase atau akses pemeriksaan. Kesalahan keempat adalah menunggu masalah terlihat besar baru mencari rekaman produk dan detail pemasangan.
 
-## Objection or shortcut to address
+Jalan pintas “bilas saja nanti bersih” juga belum merupakan rencana. Cara pembersihan, akses, jenis endapan, produk lapisan, dan bahan di sekitarnya perlu dicocokkan dengan petunjuk yang tepat. Biar tidak salah langkah, catat paparan dan detailnya dahulu, kemudian minta arahan yang sesuai untuk produk serta lokasi tersebut.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Penutup: detail dan bukti lebih penting daripada nama bahan
 
-## Required conclusion
+Aluminium di pantai dan luar ruang perlu dibaca bersama garam, hujan, polusi, endapan, water trap, sambungan, pengikat, lapisan, dan akses pembersihan. Tidak ada satu nama produk atau lapisan yang dapat menggantikan pemeriksaan terhadap seluruh susunan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sobat Almini.id, langkah berikutnya adalah tandai jalur air, titik endapan, antarmuka bahan, dan akses inspeksi pada gambar atau lokasi, lalu cocokkan dengan produk serta bukti yang tersedia. Aturan kerjanya: jangan membeli janji ketahanan; periksa detail yang akan menghadapi paparan nyata.
