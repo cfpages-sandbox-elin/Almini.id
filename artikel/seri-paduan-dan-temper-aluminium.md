@@ -2,8 +2,9 @@
 article_id: ALM-01-A02
 title: "Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material"
 slug: "seri-paduan-dan-temper-aluminium"
-description: "Explain alloy families, wrought versus cast material, temper logic, property variation, and why designation must travel with product form and certificate"
-status: outline
+description: "Pahami seri paduan dan temper aluminium sebagai bagian dari identitas material, lalu cocokkan dengan bentuk produk dan dokumen yang menyertainya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,44 +17,24 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/index/"
   - "https://www.iso.org/sectors/building-construction"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
   - "https://www.iso.org/standard/85023.html"
   - "https://www.iso.org/committee/50126/x/catalogue/"
   - "https://www.iso.org/standard/76708.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material
 
-## Assignment lock
+Halo, Teman Almini.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material”
-- **Reader and situation:** Buyer, designer, or fabricator reading a specification
-- **Reader outcome:** Explain alloy families, wrought versus cast material, temper logic, property variation, and why designation must travel with product form and certificate
-- **Primary intent:** Decode alloy and temper designations
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Teman Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Kawan Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes choosing a profile or plate size, owned by ALM-02-A01, and excludes project structural approval, owned by ALM-05-A01
-- **Final public route:** `/artikel/seri-paduan-dan-temper-aluminium.html`
-- **Appointed CMS date:** `2025-09-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Kode seri paduan dan temper pada aluminium bukan hiasan di brosur. Keduanya membantu mengenali material, tetapi belum cukup untuk menyatakan suatu profil atau lembaran pasti cocok untuk pekerjaan tertentu. Identitas yang dapat diperiksa selalu perlu berjalan bersama bentuk produk, ukuran, kondisi permukaan, dokumen produk, dan tujuan penggunaannya.
 
-## Opening instructions
+Cara membacanya sederhana: seri paduan memberi petunjuk keluarga material, sedangkan temper memberi petunjuk kondisi pengolahan yang ditandai. Jangan langsung menerjemahkan kode itu menjadi “paling kuat”, “pasti awet”, atau “aman dipakai”. Arti praktisnya masih bergantung pada produk nyata dan rancangan pekerjaan yang sedang dibahas.
 
-- Open with the exact short salutation: **“Halo, Teman Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Almini.id`, `Sobat Almini.id`, or `Kawan Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
+_Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu._
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -64,132 +45,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Hasil yang perlu dicapai sebelum membaca kode
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Tujuan membaca seri dan temper bukan mencari kode yang terdengar paling bagus. Tujuannya adalah memastikan semua pihak sedang membicarakan material yang sama. Hasil yang baik ialah catatan identitas yang dapat ditelusuri: nama paduan, temper bila dicantumkan, bentuk produk, ukuran dan toleransi, kondisi permukaan, identitas kelompok produksi, serta penggunaan yang direncanakan.
 
-### KR-19
+Hal ini penting karena bahan dasar, produk hasil proses, lapisan atau inti, rangka pendukung, pengikat, sambungan, dan pemasangan adalah lapisan bukti yang berbeda. Halaman [standar bangunan ISO](https://www.iso.org/sectors/building-construction) dan katalog [SNI dari BSN](https://pesta.bsn.go.id/produk/index/) menunjukkan bahwa objek-objek tersebut tidak diperlakukan sebagai satu klaim tunggal.
 
-- **Original sources:** [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/), [ISO building-construction standards](https://www.iso.org/sectors/building-construction).
-- **Purpose for this article:** Prevent façade materials from being compared by trade name alone.
-- **Safe grounded facts:** Material, processed product, coating/core, support/fixing, joints, interfaces, installation, and complete-system performance are separate evidence layers.
-- **Limits:** No equivalence, rating, durability, fire, structural, water, energy, acoustic, environmental, or warranty claim without exact identity and matched evidence.
+Sobat Almini.id, sebelum memeriksa angka atau huruf pada label, tanyakan dulu: “Kode ini melekat pada produk berbentuk apa, untuk pekerjaan apa, dan didukung dokumen apa?” Tiga pertanyaan itu mencegah kode material dipakai di luar konteksnya.
 
-### KR-21
+## Tetapkan objek yang sedang dibahas
 
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
+Paduan adalah aluminium yang dicampur dengan unsur lain untuk membentuk keluarga material tertentu. **Seri paduan** adalah cara mengelompokkan atau menandai keluarga tersebut. Sementara **temper** adalah penandaan kondisi pengolahan material. Keduanya adalah bagian dari identitas, bukan ringkasan seluruh kinerja produk.
 
-### KR-31
+Anda juga dapat menjumpai pembedaan antara bahan aluminium tempa (*wrought*) dan bahan cor (*cast*). Bahan tempa adalah bahan yang dibentuk melalui proses pengerjaan, sedangkan bahan cor dibentuk melalui penuangan. Perbedaan proses tersebut membuat bentuk produk dan rujukan dokumennya perlu dibaca dalam konteks masing-masing. Katalog [ISO/TC 79/SC 6](https://www.iso.org/committee/50126/x/catalogue/) mencakup standar untuk aluminium tempa; itu bukan alasan untuk menyamakan setiap produk aluminium dengan produk tempa tertentu.
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Batas artikel ini jelas: artikel ini tidak memilih ukuran profil atau pelat dan tidak memberi persetujuan struktur untuk proyek nyata. Bila keputusan Anda sudah menyangkut ukuran, beban, sambungan, atau penerimaan pekerjaan, seri serta temper hanya menjadi salah satu data yang harus dibawa ke peninjauan berikutnya.
 
-## Evidence gates
+## Kumpulkan dan cocokkan bukti identitas
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
+Mulailah dengan dokumen yang menyertai barang, bukan dengan dugaan dari nama dagang. Catat penandaan yang ada, lalu cocokkan dengan deskripsi produk dan dokumen pemesanan. Jika temper disebut, pastikan temper itu memang berkaitan dengan produk yang ditawarkan, bukan sekadar informasi umum tentang aluminium.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Dokumen yang dapat diminta bergantung pada transaksi dan kebutuhan pekerjaan, tetapi pertanyaan dasarnya tetap sama: apakah nama paduan, temper, bentuk produk, ukuran/toleransi, kondisi permukaan, dan penggunaan yang dituju berbicara tentang barang yang sama? [ISO 2107:2023](https://www.iso.org/standard/85023.html) membahas penandaan temper, sedangkan [ISO 6362-4:2022](https://www.iso.org/standard/76708.html) membahas toleransi profil hasil ekstrusi. Kedua cakupan itu mengingatkan bahwa temper dan toleransi bukan satu informasi yang bisa saling menggantikan.
 
-## Internal-link plan
+Kawan Almini.id, jangan mengisi bagian yang kosong dengan asumsi. Jika sertifikat atau catatan pemeriksaan tidak dapat dicocokkan dengan barang dan penggunaannya, tahan keputusan yang bergantung pada kecocokan tersebut.
 
-### Existing local routes
+## Urutan praktis membaca seri dan temper
 
-- `/category/produk-material-aluminium/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Gunakan urutan singkat berikut ketika menerima spesifikasi atau penawaran:
 
-### Planned sibling articles
+1. Kenali produknya lebih dahulu: profil, lembaran, atau bentuk lain.
+2. Salin seri paduan dan temper persis seperti yang tertulis; jangan mengganti dengan tafsiran sendiri.
+3. Cocokkan kode itu dengan ukuran, toleransi, kondisi permukaan, dan identitas kelompok produksi yang disebutkan.
+4. Hubungkan catatan tadi dengan penggunaan yang direncanakan, bukan dengan klaim umum.
+5. Bila keputusan membawa akibat teknis, minta dasar rancangan, dokumen pesanan, dan catatan pemeriksaan yang relevan.
 
-These are future routes. Do not link them as live until their HTML exists.
+Contoh sederhana: sebuah penawaran mencantumkan kode paduan dan temper, tetapi tidak menjelaskan apakah barangnya profil ekstrusi, lembaran, atau produk lain. Kode itu belum membuat perbandingan dengan penawaran lain menjadi adil. Anda perlu meminta bentuk serta ukuran produk terlebih dahulu. Begini cara menjaga diskusi tetap pada identitas yang bisa diperiksa, bukan pada kata-kata yang terdengar meyakinkan.
 
-- `ALM-01-A01` → `/artikel/aluminium-alumunium-dan-almini.html` — Aluminium, Alumunium, dan Almini: Istilah Mana yang Tepat?
-- `ALM-01-A03` → `/artikel/aluminium-versus-baja-stainless-dan-kayu.html` — Aluminium versus Baja, Stainless Steel, dan Kayu untuk Bangunan
-- `ALM-01-A04` → `/artikel/dari-bauksit-ke-profil-aluminium.html` — Dari Bauksit ke Profil: Bagaimana Produk Aluminium Dibuat
+## Saat pembacaan harus dihentikan dan diperiksa lagi
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jangan teruskan persetujuan hanya karena kode tampak lengkap. Hentikan dan minta penjelasan bila kode tidak cocok dengan dokumen produk, bentuk produk tidak jelas, ukuran atau toleransi tidak disebut, atau pihak yang menawarkan tidak dapat menunjukkan dasar penggunaan yang diklaim.
 
-## Hasil akhir dan prasyarat
+[NEEDS GATE-01: Untuk barang yang akan dipasang, cocokkan identitas paduan, temper, dan produk dengan kebutuhan pekerjaan melalui peninjauan pihak yang berkompeten.]
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[NEEDS GATE-04: Keputusan tentang pengikat, sambungan, tumpuan, dan pertemuan antarbagian memerlukan bukti sistem untuk pekerjaan yang sedang ditangani.]
 
-## Langkah 1 — tetapkan scope
+[NEEDS GATE-07: Bila kode material dipakai untuk mendukung klaim kinerja tertentu, minta dasar rancangan serta catatan pemeriksaan yang sesuai sebelum pekerjaan disetujui.]
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Almini.id, ini bukan ajakan mempersulit transaksi. Ini cara memisahkan identitas barang dari kesimpulan tentang hasil akhirnya. Satu kode dapat berguna, tetapi tidak dapat menggantikan bukti produk dan sistem.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Periksa hasil catatan dan serahkan informasi yang lengkap
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum informasi diteruskan ke pembeli, perencana, pelaksana, atau pemeriksa, cek kembali catatan berikut:
 
-## Langkah 3 — jalankan urutan kerja
+- nama dan bentuk produk sudah jelas;
+- seri paduan serta temper dicatat sebagaimana dokumen menyatakannya;
+- ukuran, toleransi, dan kondisi permukaan yang relevan ikut dicatat;
+- identitas kelompok produksi atau dokumen terkait dapat ditelusuri bila dibutuhkan; dan
+- penggunaan yang direncanakan tidak ditukar dengan klaim kinerja yang belum dibuktikan.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang sering muncul adalah memilih dari seri saja: “Yang penting serinya ini.” Masalahnya, seri tidak menjelaskan seluruh produk, dan temper pun tidak menggantikan ukuran, bentuk, sambungan, atau pemasangan. Alternatif yang lebih aman ialah membawa satu paket informasi yang konsisten ke tahap peninjauan.
 
-## Hold point dan kondisi berhenti
+Jika Anda masih berada pada tahap mengenali pilihan layanan atau produk, halaman [kategori produk dan material aluminium](/category/produk-material-aluminium/) dapat menjadi titik awal. Untuk keputusan nyata, jangan menggantikan dokumen produk dan peninjauan yang diperlukan dengan artikel umum.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Penutup: kode adalah identitas, bukan vonis kinerja
 
-## Verifikasi hasil dan handover
+Seri paduan dan temper membantu Anda membaca identitas aluminium secara lebih rapi. Namun keduanya baru berguna bila berjalan bersama bentuk produk, ukuran, toleransi, kondisi permukaan, dokumen, dan penggunaan yang direncanakan.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Seri Paduan dan Temper Aluminium: Cara Membaca Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sobat Almini.id, langkah berikutnya adalah salin kode persis dari dokumen, minta identitas produk yang lengkap, lalu cocokkan sebelum menyetujui apa pun yang berdampak teknis. Aturan kerjanya sederhana: jangan pilih berdasarkan kode saja; periksa satu rangkaian bukti untuk satu barang yang nyata.
