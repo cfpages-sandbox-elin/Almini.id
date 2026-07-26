@@ -2,8 +2,9 @@
 article_id: ALM-08-A05
 title: "Jadwal Inspeksi dan Pembersihan Kanopi Aluminium"
 slug: "inspeksi-dan-perawatan-kanopi-aluminium"
-description: "Provide risk-based checks for drainage, debris, sealants, fasteners, movement, coating, corrosion, deformation, nearby work, storm events, and records"
-status: outline
+description: "Cara merencanakan pemeriksaan dan perawatan kanopi aluminium berdasarkan akses, cuaca, drainase, komponen, kondisi, catatan, perubahan, dan batas eskalasi tanpa interval universal."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,53 +16,17 @@ final_route: "/artikel/inspeksi-dan-perawatan-kanopi-aluminium.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
   - "https://pesta.bsn.go.id/produk/index/"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
   - "https://www.iso.org/standard/74384.html"
   - "https://www.iso.org/standard/55718.html"
   - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
   - "https://www.iso.org/standard/85023.html"
   - "https://www.iso.org/committee/50126/x/catalogue/"
-  - "https://www.iso.org/standard/76708.html"
   - "https://www.iso.org/standard/70156.html"
-  - "https://www.iso.org/standard/80119.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Jadwal Inspeksi dan Pembersihan Kanopi Aluminium
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Jadwal Inspeksi dan Pembersihan Kanopi Aluminium”
-- **Reader and situation:** Facility or homeowner planning routine care
-- **Reader outcome:** Provide risk-based checks for drainage, debris, sealants, fasteners, movement, coating, corrosion, deformation, nearby work, storm events, and records
-- **Primary intent:** Maintain an outdoor canopy
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Kawan Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes walking on roofs or height work without authorization; ALM-12-A05 owns access K3 and ALM-08-A06 owns storm damage triage
-- **Final public route:** `/artikel/inspeksi-dan-perawatan-kanopi-aluminium.html`
-- **Appointed CMS date:** `2026-03-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Jadwal Inspeksi dan Pembersihan Kanopi Aluminium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Almini.id`, `Sobat Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-012`
@@ -72,156 +37,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Kanopi Aluminium 2` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-012]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Jadwal Inspeksi dan Pembersihan Kanopi Aluminium
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Almini.id!
 
-### KR-21
+Jadwal inspeksi kanopi aluminium tidak seharusnya berupa angka yang disalin untuk semua bangunan. Kanopi di lokasi, bentuk, akses, paparan cuaca, dan cara penggunaan yang berbeda membutuhkan rencana pemeriksaan yang berbeda pula. Rencana yang baik menjawab apa yang diperiksa, dari mana pemeriksaan dilakukan dengan aman, data apa yang dicatat, perubahan apa yang menjadi pemicu pemeriksaan ulang, dan kapan temuan perlu dinaikkan ke pihak yang tepat.
 
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
+Pembersihan juga bukan sekadar membuat permukaan terlihat rapi. Air, kotoran, jalur drainase, sambungan, panel, elemen pendukung, pengikat, pelapisan, dan pekerjaan di sekitar kanopi saling terkait. Artikel ini tidak menetapkan frekuensi, batas penerimaan, kapasitas, metode perbaikan, atau jaminan untuk kanopi tertentu. [NEEDS GATE-04: identitas produk, detail kanopi, sambungan, pengikat, tumpuan, jalur air, dan kondisi terpasang harus diverifikasi sebelum rencana dibuat.]
 
-### KR-25
+![Ilustrasi Kanopi Aluminium 2](/wp-content/uploads/2026/06/Kanopi-Aluminium-2.jpg)
 
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-26
+## Tetapkan objek yang dikelola dan batas pemeriksaannya
 
-- **Original sources:** [ISO 9972:2015 building air permeability](https://www.iso.org/standard/55718.html), [ASTM E1105 field water-penetration test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground water shedding, drained cavities, pressure moderation, air barriers, flashing, openings, parapets, bases, penetrations, joints, sealants, and weeps.
-- **Safe grounded facts:** Laboratory specimen, field chamber, nozzle/spray, pressure, duration, boundary, observed leak, interior path, and root-cause investigation must be distinguished.
-- **Limits:** No “waterproof,” leakage cause, sealant, flashing, weep, test pressure, acceptance, or repair claim without actual details, conditions, and competent investigation.
+Mulailah dengan peta kanopi: penutup atap, profil atau elemen pendukung, rangka, sambungan, pengikat, tumpuan, pertemuan dinding, talang, jalur pembuangan air, serta perangkat bila ada. Catat bagian mana yang dapat dilihat dari tanah, bagian mana yang membutuhkan akses khusus, dan bagian mana yang tidak boleh diperiksa oleh pengguna biasa.
 
-### KR-29
+Nama “kanopi aluminium” belum menjelaskan seluruh susunan. Penutup dapat terdiri dari beberapa bahan; pengikat, rangka, lapisan, dan tumpuan dapat berbeda. [Katalog SNI BSN](https://pesta.bsn.go.id/produk/index/) membantu mengenali dokumen standar, bukan membuktikan kapasitas, umur pakai, atau penerimaan sistem kanopi tertentu.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Teman Almini.id, jangan memulai jadwal dengan “setiap sekian bulan”. Mulailah dengan pertanyaan: apa risiko kondisi ini, bagaimana aksesnya, dan catatan apa yang sudah ada? Dari sana tim dapat menentukan pemicu dan jenis pemeriksaan yang relevan.
 
-### KR-31
+## Gunakan cuaca, drainase, dan pekerjaan sekitar sebagai pemicu
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Pemeriksaan ulang dapat diperlukan setelah perubahan kondisi, bukan hanya karena kalender. Contohnya: cuaca ekstrem, hujan berulang, angin kuat, pekerjaan di dekat kanopi, perubahan jalur air, benturan, keluhan getaran, atau gejala yang sebelumnya belum ada. Catat peristiwa tersebut bersama lokasi serta perubahan yang terlihat agar pemeriksaan berikutnya mempunyai konteks.
 
-### KR-33
+Drainase perlu dibaca sebagai jalur. Periksa dari posisi aman apakah ada kotoran yang tampak mengganggu aliran, perubahan pada tepi atau sambungan, noda di bawah jalur buangan, atau air yang terlihat di tempat yang tidak diharapkan. Jangan menyebutkan penyebab kebocoran hanya dari titik air terlihat. [ASTM E1105](https://www.astm.org/e1105-15r23.html) membahas uji penetrasi air lapangan pada sistem tertentu, sedangkan [ISO 9972](https://www.iso.org/standard/55718.html) membahas permeabilitas udara bangunan; keduanya tidak memberi diagnosis atau metode uji untuk kanopi proyek tanpa dokumen yang tepat.
 
-- **Original sources:** [ISO 7599:2018 decorative/protective anodizing](https://www.iso.org/standard/70156.html) and [ISO 10074:2021 hard anodizing](https://www.iso.org/standard/80119.html).
-- **Purpose for this article:** Ground finish selection, appearance, durability, inspection, care, and substitution.
-- **Safe grounded facts:** Anodized appearance or nominal treatment name does not prove coating grade, sealing quality, abrasion behavior, corrosion result, electrical insulation, or service life.
-- **Limits:** Obtain the full invoked specification, applicator process record, approved physical sample, test report, exposure classification, and compatible-care guidance.
+## Periksa komponen secara sistematis tanpa mengubah kondisi
 
-## Evidence gates
+Buat daftar pengamatan per zona. Untuk penutup dan panel, catat perubahan yang terlihat, sambungan yang terbuka, noda, atau bagian yang tidak pada posisi biasanya. Untuk elemen dan rangka, catat deformasi yang tampak, bunyi, atau hubungan yang berubah di pertemuan. Untuk pengikat dan sambungan, catat apa yang dapat dilihat tanpa membongkar. Untuk tumpuan dan area dinding, catat retak, celah, air, atau perubahan sekitar tanpa menyimpulkan sebabnya.
 
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Pemeriksaan permukaan juga perlu konteks. Nama anodisasi atau pelapisan bukan bukti kondisi lapisan pada lokasi tertentu. [ISO 7599](https://www.iso.org/standard/70156.html) membahas anodisasi dekoratif dan pelindung, tetapi tidak membuktikan mutu lapisan, hasil korosi, atau cara perawatan sebuah kanopi. [ISO 12944-2](https://www.iso.org/standard/64834.html) membahas lingkungan korosi, bukan umur lapisan atau tindakan perbaikan pada kasus tertentu.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Sobat Almini.id, jangan naik ke penutup atap, menarik panel, mengencangkan pengikat, atau membuka detail untuk melengkapi daftar periksa. Tindakan itu dapat mengubah kondisi serta menambah risiko. [NEEDS GATE-03: akses, peralatan, perlindungan jatuh, cuaca, zona larangan, dan rencana penyelamatan memerlukan rencana lokasi serta orang yang kompeten.]
 
-## Internal-link plan
+## Catat identitas, kondisi, dan perubahan yang benar-benar diketahui
 
-### Existing local routes
+Catatan awal yang berguna memuat zona, tanggal, cuaca, akses yang dipakai, pengamat, komponen yang terlihat, foto, perubahan dibanding catatan sebelumnya, keterbatasan pengamatan, dan tindakan lanjut. Bila tersedia, hubungkan dengan gambar kondisi akhir, daftar produk, riwayat pemasangan, serta perubahan yang sudah disetujui.
 
-- `/kanopi-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Untuk aluminium, nama paduan, temper—penandaan kondisi material setelah proses tertentu—bentuk produk, dimensi, keadaan permukaan, dan kelompok produksi bila ada merupakan fakta yang berbeda. [ISO 2107](https://www.iso.org/standard/85023.html) membahas penandaan temper, sedangkan [katalog ISO/TC 79](https://www.iso.org/committee/50126/x/catalogue/) menunjukkan bahwa identitas aluminium tempa tidak berhenti pada nama dagang. Data tersebut membantu penelusuran, tetapi tidak memberi putusan kondisi struktur.
 
-### Planned sibling articles
+## Bedakan pembersihan, pemantauan, dan eskalasi
 
-These are future routes. Do not link them as live until their HTML exists.
+Pembersihan yang disetujui dapat menjadi bagian dari perawatan, tetapi bahan, alat, air, limpasan, dan material di sekitarnya perlu cocok dengan petunjuk produk. Pembersihan bukan diagnosis, dan tampilan bersih bukan bukti bahwa sambungan, tumpuan, atau drainase sudah benar. Bila terdapat kondisi yang berubah, bagian yang tampak longgar, deformasi, kerusakan panel, air dekat listrik, atau risiko bagi orang, jangan menyamakan tindakan kosmetik dengan penanganan masalah.
 
-- `ALM-08-A03` → `/artikel/aluminium-luar-ruang-dan-pantai.html` — Aluminium di Pantai dan Luar Ruang: Detail untuk Garam, Hujan, dan Polusi
-- `ALM-08-A04` → `/artikel/sambungan-dan-anchor-kanopi-aluminium.html` — Anchor, Sambungan, dan Gerakan pada Kanopi Aluminium
-- `ALM-08-A06` → `/artikel/diagnosis-kerusakan-kanopi-aluminium.html` — Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai
+Pemantauan berarti mengumpulkan catatan kondisi dari waktu ke waktu bila keadaan dapat dipantau dengan aman. Eskalasi berarti menyerahkan temuan kepada pihak yang tepat untuk menentukan pemeriksaan atau tindakan berikutnya. Keduanya berbeda dari perbaikan dan penerimaan perbaikan. [NEEDS GATE-07: angka kinerja, hasil pengujian, kapasitas, dan kesimpulan keselamatan harus didukung bukti yang cocok dengan kanopi aktual.] [NEEDS GATE-08: panel jatuh, akses, pekerjaan di ketinggian, perlindungan orang di bawah, dan tindakan darurat memerlukan bukti sistem serta rencana keselamatan.]
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Tentukan prioritas dari konsekuensi dan akses
 
-## Tentukan objek, kondisi, dan tahap siklus hidup
+Prioritas tidak selalu berarti bagian yang tampak paling kotor. Nilai konsekuensi jika kondisi memburuk, siapa yang dapat terpapar, apakah akses pemeriksaan aman, apakah ada perubahan cepat, dan dokumen apa yang belum tersedia. Temuan yang tidak dapat diperiksa dari aman mungkin memerlukan rencana akses terlebih dulu, bukan pemeriksaan tergesa-gesa.
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Pembersihan Kanopi Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[ISO 4354](https://www.iso.org/standard/74384.html) menunjukkan bahwa tindakan angin merupakan topik tersendiri. Halaman publik tidak memberi batas lendutan, jarak pengikat, atau keputusan kapasitas kanopi. Karena itu, jangan memakai pemeriksaan visual sebagai persetujuan bahwa kanopi kuat setelah cuaca buruk. [NEEDS GATE-02: ketentuan, kewenangan, dan penerapan setempat perlu dikonfirmasi untuk kondisi bangunan serta metode kerja yang nyata.]
 
-## Mekanisme perubahan atau penurunan kinerja
+## Simpan rekaman agar keputusan berikutnya tidak dimulai dari nol
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Pembersihan Kanopi Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Simpan daftar pemeriksaan, foto, lokasi, riwayat cuaca, perubahan, dokumen produk, dan tindak lanjut dalam satu rekaman yang dapat dicari. Hubungkan catatan dengan gambar kondisi akhir serta daftar pekerjaan terbuka bila ada. [ISO 9001](https://www.iso.org/standard/62085.html) mendukung pengendalian proses serta rekaman mutu, tetapi sertifikasi sistem mutu tidak membuktikan kanopi tertentu telah diterima atau aman.
 
-## Inspeksi dan data yang perlu dicatat
+Jalan pintas yang umum adalah membersihkan kanopi saat terlihat kotor lalu melupakan apa yang terjadi sebelumnya. Cara itu dapat menghapus konteks penting, terutama setelah cuaca atau pekerjaan di sekitarnya berubah. Alternatif yang lebih kuat adalah mencatat kondisi sebelum dan sesudah tindakan yang disetujui, kemudian menetapkan pemicu pemeriksaan ulang berdasarkan keadaan nyata.
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Pembersihan Kanopi Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan perawatan atau intervensi
-
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Pembersihan Kanopi Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Pembersihan Kanopi Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Jadwal Inspeksi dan Pembersihan Kanopi Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jadwal inspeksi dan pembersihan kanopi aluminium yang baik adalah rencana berbasis kondisi, akses, bukti, dan perubahan. Langkah berikutnya: buat daftar per zona yang mencatat komponen, kondisi yang dilihat, batas akses, foto, pemicu pemeriksaan ulang, dan pihak eskalasi. Aturan kerjanya sederhana: bila risiko, akses, atau kondisi sistem belum jelas, jangan mengganti pemeriksaan yang tepat dengan interval atau pembersihan semata.

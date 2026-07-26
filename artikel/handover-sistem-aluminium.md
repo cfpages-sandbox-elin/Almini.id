@@ -1,9 +1,10 @@
 ---
 article_id: ALM-11-A03
-title: "Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi"
+title: "Dokumen Serah-Terima Aluminium: Gambar Kondisi Akhir, Garansi, Manual, dan Catatan Kondisi"
 slug: "handover-sistem-aluminium"
-description: "List approved/as-built drawings, certificates, test/inspection records, substitutions, warranties, finish/system manuals, spares, cleaning, inspection intervals, contacts, and defect baseline"
-status: outline
+description: "Cara menyusun paket bukti serah-terima sistem aluminium, dari gambar kondisi akhir dan identitas produk hingga catatan pemeriksaan, operasi, garansi, akses, serta pekerjaan terbuka."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,7 +16,6 @@ final_route: "/artikel/handover-sistem-aluminium.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf"
   - "https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf"
   - "https://iwfa.com/inspection-guidelines/"
   - "https://www.iso.org/standard/62085.html"
@@ -24,40 +24,9 @@ sources:
   - "https://www.iso.org/standard/45798.html"
   - "https://www.iso.org/standard/83053.html"
   - "https://www.iso.org/standard/70156.html"
-  - "https://www.iso.org/standard/80119.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi”
-- **Reader and situation:** Owner receiving completed work
-- **Reader outcome:** List approved/as-built drawings, certificates, test/inspection records, substitutions, warranties, finish/system manuals, spares, cleaning, inspection intervals, contacts, and defect baseline
-- **Primary intent:** Build a useful handover package
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes inventing warranty terms or accepting incomplete work; contract and qualified project team own acceptance
-- **Final public route:** `/artikel/handover-sistem-aluminium.html`
-- **Appointed CMS date:** `2026-05-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,157 +37,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Dokumen Serah-Terima Aluminium: Gambar Kondisi Akhir, Garansi, Manual, dan Catatan Kondisi
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Almini.id!
 
-### KR-09
+Serah-terima sistem aluminium bukan satu map berisi sertifikat dan tanda tangan. Paket serah-terima yang berguna adalah paket bukti: menjelaskan apa yang terpasang, bagaimana ia diperiksa, apa yang berubah dari rencana, bagaimana mengoperasikan serta merawatnya, dan hal apa yang masih terbuka. Tanpa pemisahan ini, pemilik akan sulit membedakan gambar rencana dari kondisi nyata, data produk dari hasil uji, atau janji garansi dari kewajiban yang benar-benar berlaku.
 
-- **Original sources:** [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-), [official Permen PU 24/2008 PDF](https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf), [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf)
-- **Purpose for this article:** Ground cleaning frequency, inspection logs, vendor KPIs, and escalation as a managed program.
-- **Safe grounded facts:** Useful logs identify zones, dates, observations, products/methods, weather/site conditions, access used, exceptions, damage, photos, and follow-up. An appearance KPI alone can hide safety, damage, residue, access, and documentation failures.
-- **Limits:** Do not state a universal cleaning frequency or inspection interval. Project-specific schedules require exposure history, contract, manufacturer, building-management, and legal inputs under GATE-02 and GATE-09.
+Tujuan paket ini bukan menyatakan pekerjaan otomatis lengkap atau telah diterima. Tujuannya membuat pemilik, tim operasi, dan pihak proyek dapat menelusuri bukti yang tepat ketika perlu memeriksa, merawat, menyampaikan keluhan, atau menutup pekerjaan terbuka. [NEEDS GATE-06: kelengkapan, pemeriksaan, perubahan, serah-terima, dan penerimaan harus dinilai terhadap dokumen proyek serta pihak yang berwenang.]
 
-### KR-16
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf), [IWFA inspection-guideline overview](https://iwfa.com/inspection-guidelines/), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Define a defensible evidence chain from baseline through acceptance and operation.
-- **Safe grounded facts:** Useful records include zones, product/manufacturer, batch or traceability identifier where available, glass/configuration, dates, installer/vendor, access method, site conditions, photos, measurements where agreed, damage/exclusions, care instructions, warranty issuer, notice route, and open items.
-- **Limits:** Do not invent visual tolerances, measurement protocols, cure periods, remedies, or warranty coverage. Apply GATE-01, GATE-06, and GATE-09 to the actual contract and product.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-17
+## Mulai dengan daftar paket, pemilik data, dan tujuan pakainya
 
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Support RFQs, scope normalization, cost-driver explanations, vendor comparison, and hidden-condition governance.
-- **Safe grounded facts:** Cleaning cost can change with area, contamination, access, frequency, hours, protection, water/logistics, and mobilization. Film cost can change with exact product, glazing compatibility, area/layout, waste, access, existing-film removal, attachment system, evidence, and warranty.
-- **Limits:** No public source here establishes a current project price, contractor capability, insurance, availability, tax, contract right, or change-order entitlement. Obtain dated quotations and project/legal review under GATE-09.
+Tentukan siapa penerima paket, siapa yang menyimpan salinan resmi, format berkasnya, dan kapan setiap dokumen harus tersedia. Buat daftar induk yang mencatat nama dokumen, versi atau tanggal, bagian sistem yang dicakup, sumbernya, status pemeriksaan, dan lokasi penyimpanan. Langkah ini mencegah dokumen penting tercecer sebagai lampiran email tanpa kaitan dengan produk terpasang.
 
-### KR-29
+Bedakan pula kebutuhan operasi dari kebutuhan penerimaan proyek. Tim operasi mungkin memerlukan manual, kontak, suku cadang, dan catatan kondisi awal. Tim proyek mungkin memerlukan gambar, perubahan, hasil pemeriksaan, daftar pekerjaan terbuka, dan dasar penerimaan. Kawan Almini.id, kedua kebutuhan itu saling terkait tetapi bukan dokumen yang sama.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Perencanaan umur pakai dan pengelolaan aset membedakan pemeriksaan, tindakan sementara, perbaikan, penerimaan, serta pemantauan. [ISO 15686-1](https://www.iso.org/standard/45798.html) dan [ISO 55000](https://www.iso.org/standard/83053.html) memberi konteks untuk menyimpan catatan agar keputusan berikutnya tidak hanya bergantung pada ingatan.
 
-### KR-30
+## Gambar kondisi akhir menjelaskan apa yang benar-benar terpasang
 
-- **Original sources:** [ISO 15686-1 service-life planning](https://www.iso.org/standard/45798.html), [ISO 55000:2024 asset-management vocabulary](https://www.iso.org/standard/83053.html).
-- **Purpose for this article:** Ground inspection/access, cleaning, defect triage, diagnosis, making-safe, planned maintenance, repair/replace/retrofit, records, and lifecycle decisions.
-- **Safe grounded facts:** Symptom, access/viewing limitation, baseline, test, root-cause hypothesis, consequence, temporary control, repair design, acceptance, and monitoring are separate.
-- **Limits:** No remote declaration of safety, cause, repair method, cleaner compatibility, remaining life, cost, warranty, or reuse/recycling outcome without condition evidence and competent review.
+Gambar kondisi akhir, sering disebut *as-built*, adalah rekaman gambar yang menunjukkan sistem setelah pekerjaan selesai sejauh yang disyaratkan proyek. Gambar ini tidak sama dengan gambar rencana awal, gambar kerja yang disetujui, atau catatan perubahan informal. Paket yang baik menghubungkan gambar kondisi akhir dengan lokasi, komponen, sambungan penting, pertemuan sistem, dan perubahan yang telah disetujui.
 
-### KR-33
+Sertakan daftar perubahan yang menunjukkan apa yang berubah, kapan, alasan atau rujukannya, serta pihak yang menyetujui sesuai kontrak. Jangan menyamakan gambar kondisi akhir dengan bukti kapasitas, uji, atau penerimaan. Ia menjelaskan susunan yang dicatat; pertanyaan lain memerlukan rekaman lain.
 
-- **Original sources:** [ISO 7599:2018 decorative/protective anodizing](https://www.iso.org/standard/70156.html) and [ISO 10074:2021 hard anodizing](https://www.iso.org/standard/80119.html).
-- **Purpose for this article:** Ground finish selection, appearance, durability, inspection, care, and substitution.
-- **Safe grounded facts:** Anodized appearance or nominal treatment name does not prove coating grade, sealing quality, abrasion behavior, corrosion result, electrical insulation, or service life.
-- **Limits:** Obtain the full invoked specification, applicator process record, approved physical sample, test report, exposure classification, and compatible-care guidance.
+Sobat Almini.id, bila sistem memiliki bagian yang akan tertutup atau sulit diakses kemudian, pastikan catatan serta foto yang diperlukan dikumpulkan saat pemeriksaan yang disetujui. [NEEDS GATE-04: identitas material, produk, sambungan, lapisan, pengikat, dan kondisi terpasang perlu dicocokkan sebelum dinyatakan sebagai rekaman kondisi akhir.]
 
-## Evidence gates
+## Identitas produk dan dokumen teknis perlu disatukan
 
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Simpan daftar produk yang benar-benar digunakan: nama produk, pembuat, kode atau identitas produk, warna atau penyelesaian permukaan bila relevan, kelompok produksi bila tersedia, lokasi pemakaian, dan dokumen pendukungnya. Bila ada kaca, panel, perangkat keras, bahan perapat, pengikat, atau komponen lain, catat sebagai komponen terpisah; satu lembar data profil aluminium tidak menjelaskan seluruh sistem.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kumpulkan pula lembar data, sertifikat yang dipersyaratkan, laporan pengujian, catatan pabrik, dan instruksi dari produsen. Masing-masing punya fungsi berbeda. Sertifikat perlu diperiksa penerbit, pemegang, ruang lingkup, status, dan tanggalnya. Laporan uji perlu cocok dengan produk atau susunan yang diklaim. Data produk tidak otomatis menjadi bukti kinerja terpasang.
 
-## Internal-link plan
+[ISO 9001](https://www.iso.org/standard/62085.html) mendukung pentingnya proses dan rekaman mutu yang terkendali, tetapi sertifikasi sistem mutu tidak membuktikan produk atau proyek tertentu sudah diterima. [NEEDS GATE-07: hasil uji, sertifikasi, perhitungan, dan klaim kinerja harus cocok dengan sistem, metode, serta kondisi yang dinilai.]
 
-### Existing local routes
+## Catatan pemeriksaan dan pengujian menjawab pertanyaan yang berbeda
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Daftar pemeriksaan penerimaan bahan, pemeriksaan pekerjaan yang akan tertutup, pemeriksaan pemasangan, temuan, hasil pengujian, dan daftar pekerjaan terbuka perlu disimpan dengan statusnya masing-masing. Jangan mengganti hasil pemeriksaan dengan foto, atau mengganti laporan uji dengan sertifikat produk. Setiap rekaman harus menunjukkan apa yang diperiksa atau diuji, kapan, pada bagian mana, oleh siapa, serta apa tindak lanjut yang dicatat.
 
-### Planned sibling articles
+Jika proyek mensyaratkan pengujian air atau udara, simpan metode, susunan yang diuji, batas area, kondisi, hasil, dan hubungan dengan sistem terpasang. [ASTM E1105](https://www.astm.org/e1105-15r23.html) membahas pengujian penetrasi air lapangan pada sistem tertentu, dan [ASTM E2357](https://www.astm.org/e2357-18.html) membahas susunan penghalang udara. Keduanya tidak membuktikan sistem Anda telah diterima tanpa laporan yang cocok dengan proyek.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Manual operasi dan perawatan harus dapat dipakai di lapangan
 
-- `ALM-11-A01` → `/artikel/diagnosis-awal-sistem-aluminium.html` — Peta Gejala Sistem Aluminium: Bocor, Longgar, Korosi, Retak, Melendut, atau Macet
-- `ALM-11-A02` → `/artikel/itp-pemasangan-aluminium.html` — ITP Pemasangan Aluminium: Penerimaan, Survei, Hold Point, dan Perlindungan
-- `ALM-11-A04` → `/artikel/jadwal-perawatan-sistem-aluminium.html` — Jadwal Inspeksi dan Perawatan Sistem Aluminium Berbasis Risiko
-- `ALM-11-A05` → `/artikel/perbaiki-atau-ganti-sistem-aluminium.html` — Perbaiki, Perkuat, Reseal, atau Ganti Sistem Aluminium?
+Manual operasi dan pemeliharaan sebaiknya menyebut komponen yang dicakup, cara mengidentifikasinya, kondisi yang perlu dilaporkan, batas tindakan pengguna, petunjuk perawatan dari produsen, dan rute eskalasi. [Permen PU No. 24/PRT/M/2008](https://peraturan.bpk.go.id/Details/104476/permen-) merupakan pedoman resmi pemeliharaan serta perawatan bangunan; penerapannya tetap perlu disesuaikan dengan bangunan, pemilik, kontrak, dan ketentuan yang berlaku. Tambahkan jadwal pemeriksaan hanya jika didukung kontrak, produsen, kondisi paparan, dan penilaian pihak yang tepat; jangan menyalin interval umum sebagai kewajiban universal.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Untuk permukaan beranodisasi atau berlapis, simpan petunjuk perawatan yang cocok dengan produk. [ISO 7599](https://www.iso.org/standard/70156.html) membahas anodisasi dekoratif dan pelindung, tetapi nama proses tidak membuktikan mutu lapisan, umur pakai, atau bahan pembersih yang cocok untuk proyek tertentu. [NEEDS GATE-05: bahan pembersih, alat, air, proses, dan material di sekitarnya perlu dicocokkan dengan petunjuk produk yang tepat.]
 
-## Definisikan kebutuhan sebelum meminta harga
+Panduan [GANA Glazing Manual](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf) dan [IWFA](https://iwfa.com/inspection-guidelines/) menunjukkan kegunaan catatan zona, kondisi, akses, foto, pengecualian, serta tindak lanjut. Jangan mengubahnya menjadi jadwal wajib atau syarat penerimaan tanpa dasar proyek.
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Garansi, akses, suku cadang, dan pelatihan perlu dicatat terpisah
 
-## Buat penawaran benar-benar sebanding
+Garansi harus disimpan bersama penerbit, penerima, ruang lingkup, masa berlaku, syarat pemberitahuan, pengecualian, dan jalur pengajuan yang tertulis. Jangan menulis “bergaransi” hanya karena ada brosur atau kartu produk. Ketersediaan suku cadang juga perlu dicatat sebagai daftar komponen, identitas, jumlah bila memang diserahkan, lokasi penyimpanan, dan kontak; jangan dianggap tersedia selamanya.
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Catat pula kebutuhan akses perawatan, batas pengguna, dan pelatihan yang telah atau belum diserahkan. Pelatihan perlu mempunyai peserta, tanggal, materi, dan batas tanggung jawab yang jelas. Semua ini mendukung operasi, tetapi tidak menggantikan pemeriksaan teknis atau penerimaan kontraktual. [NEEDS GATE-09: ketentuan garansi, suku cadang, biaya, waktu layanan, tanggung jawab, dan hak perubahan perlu dibuktikan melalui kontrak serta dokumen bertanggal.]
 
-## Dokumen yang membuktikan hal berbeda
+## Daftar pekerjaan terbuka dan penerimaan akhir jangan dicampur
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Daftar pekerjaan terbuka mencatat hal yang belum ditutup: lokasi, uraian, bukti pendukung, pihak penanggung jawab, status, dan tindakan berikutnya. Daftar ini berbeda dari penerimaan akhir yang ditandatangani. Paket serah-terima yang jujur tidak menyembunyikan pekerjaan terbuka di balik kumpulan dokumen yang tampak lengkap.
 
-## Pertanyaan wajib kepada penyedia
+Sebelum penandatanganan, cocokkan daftar dokumen dengan sistem yang benar-benar ada, periksa perubahan, tinjau hasil pemeriksaan yang dipersyaratkan, dan pisahkan kekurangan yang belum selesai. Teman Almini.id, jangan menyatakan dokumen lengkap, pekerjaan diterima, atau kewajiban garansi berjalan bila kontrak dan pihak yang berwenang belum menentukannya.
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang sering muncul adalah menyerahkan satu folder tanpa daftar isi, status, atau hubungan antarberkas. Alternatif yang kuat adalah matriks bukti: gambar kondisi akhir, identitas produk, catatan pemeriksaan, laporan uji, manual, garansi, akses, suku cadang, pelatihan, pekerjaan terbuka, dan penerimaan ditulis sebagai baris berbeda dengan pemilik serta statusnya.
 
-## Red flag dan biaya yang sering tersembunyi
-
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Penerimaan, serah terima, dan keputusan akhir
-
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Dokumen Handover Aluminium: As-Built, Garansi, Manual, dan Baseline Kondisi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Dokumen serah-terima aluminium yang baik adalah paket bukti yang dapat dipakai untuk operasi dan keputusan proyek, bukan tumpukan lampiran. Langkah berikutnya: buat daftar induk dan minta setiap baris menunjuk dokumen, sistem yang dicakup, status, pemilik data, serta kekurangan yang masih terbuka. Aturan kerjanya sederhana: rekaman yang berbeda membuktikan hal berbeda; jangan mengubah paket dokumen menjadi klaim persetujuan, kepatuhan, atau garansi tanpa dasar yang tepat.

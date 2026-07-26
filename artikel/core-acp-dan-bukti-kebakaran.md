@@ -1,9 +1,10 @@
 ---
 article_id: ALM-06-A03
-title: "Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk"
+title: "Inti ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk"
 slug: "core-acp-dan-bukti-kebakaran"
-description: "Explain panel/core distinctions, identification, test specimen and assembly scope, classification limits, substitutions, traceability, installation interfaces, and red flags"
-status: outline
+description: "Cara membedakan label ACP, identitas inti, dokumen produk, susunan yang diuji, pemasangan, penggantian produk, dan penerimaan otoritas tanpa mengklaim kinerja kebakaran."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,9 +18,6 @@ sources:
   - "https://pesta.bsn.go.id/produk/index/"
   - "https://www.iso.org/sectors/building-construction"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
   - "https://www.iso.org/standard/74384.html"
   - "https://www.iso.org/standard/55718.html"
   - "https://www.astm.org/e1105-15r23.html"
@@ -27,42 +25,11 @@ sources:
   - "https://www.iso.org/sectors/building-construction/fire-safety"
   - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
   - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
   - "https://www.iso.org/standard/27183.html"
   - "https://www.iso.org/standard/22928.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk”
-- **Reader and situation:** Specifier or buyer comparing ACP documents
-- **Reader outcome:** Explain panel/core distinctions, identification, test specimen and assembly scope, classification limits, substitutions, traceability, installation interfaces, and red flags
-- **Primary intent:** Evaluate ACP fire evidence
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes assigning a building fire rating or approving substitution; ALM-10-A04 owns general fire interpretation and fire professionals own compliance
-- **Final public route:** `/artikel/core-acp-dan-bukti-kebakaran.html`
-- **Appointed CMS date:** `2026-02-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -73,164 +40,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Inti ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Almini.id!
 
-### KR-19
+Label ACP, singkatan dari panel komposit aluminium, tidak cukup untuk menjawab pertanyaan kebakaran pada fasad. ACP adalah nama kategori panel; panel yang ditawarkan masih perlu diidentifikasi inti, kulit, ikatan antarbagian, bentuk fabrikasi, rangka pendukung, pengikat, rongga, penghalang rongga, bukaan, dan pertemuan dindingnya. Klaim pada brosur atau sertifikat satu produk tidak otomatis berlaku untuk susunan yang akan dipasang di bangunan.
 
-- **Original sources:** [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/), [ISO building-construction standards](https://www.iso.org/sectors/building-construction).
-- **Purpose for this article:** Prevent façade materials from being compared by trade name alone.
-- **Safe grounded facts:** Material, processed product, coating/core, support/fixing, joints, interfaces, installation, and complete-system performance are separate evidence layers.
-- **Limits:** No equivalence, rating, durability, fire, structural, water, energy, acoustic, environmental, or warranty claim without exact identity and matched evidence.
+Cara membaca bukti yang aman adalah memasangkan setiap klaim dengan produk tepatnya, dokumen tepatnya, susunan yang diuji, dan detail pemasangan yang diusulkan. Artikel ini tidak memberi peringkat kebakaran, tidak menyatakan komposisi inti, dan tidak menyetujui penggantian produk. [NEEDS GATE-07: klasifikasi, laporan uji, sertifikasi, dan hasil kinerja harus cocok dengan produk atau susunan yang benar-benar dinilai.]
 
-### KR-21
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-25
+## Mulai dari objek yang ingin dibuktikan
 
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
+Tentukan dulu apakah yang sedang dibandingkan adalah panel lepas, kaset panel, bagian fasad, atau seluruh susunan fasad. Ini mengubah dokumen yang diperlukan. Panel sebagai produk berbeda dari panel setelah dibentuk, dipasang pada subrangka, bertemu insulasi atau rongga, disambungkan pada dinding, dan berada di sekitar bukaan.
 
-### KR-26
+Nama pemasaran, warna, atau tampilan kulit aluminium tidak cukup untuk menyamakan dua panel. Material, produk olahan, lapisan, inti, dukungan, pengikat, sambungan, antarmuka, pemasangan, dan kinerja sistem adalah lapisan bukti yang berbeda. [Katalog SNI BSN](https://pesta.bsn.go.id/produk/index/) dan [halaman standar konstruksi ISO](https://www.iso.org/sectors/building-construction) membantu mengenali ranah dokumen, tetapi tidak mengesahkan produk atau fasad tertentu.
 
-- **Original sources:** [ISO 9972:2015 building air permeability](https://www.iso.org/standard/55718.html), [ASTM E1105 field water-penetration test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground water shedding, drained cavities, pressure moderation, air barriers, flashing, openings, parapets, bases, penetrations, joints, sealants, and weeps.
-- **Safe grounded facts:** Laboratory specimen, field chamber, nozzle/spray, pressure, duration, boundary, observed leak, interior path, and root-cause investigation must be distinguished.
-- **Limits:** No “waterproof,” leakage cause, sealant, flashing, weep, test pressure, acceptance, or repair claim without actual details, conditions, and competent investigation.
+Kawan Almini.id, tulis objek dengan jelas sebelum meminta dokumen: “panel yang ditawarkan” atau “susunan fasad yang akan dipasang”, bukan hanya “ACP tahan api”. Bahasa yang jelas mencegah bukti produk digunakan untuk menjawab pertanyaan sistem.
 
-### KR-28
+## Identitas inti dan panel harus dapat ditelusuri
 
-- **Original sources:** [Permen PUPR No. 26/PRT/M/2008](https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008), [ISO fire-safety standards overview](https://www.iso.org/sectors/building-construction/fire-safety), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016).
-- **Purpose for this article:** Ground combustibility/spread, cavity/opening interfaces, falling panels/glass, impact/guard boundaries, access, rescue, and authority evidence.
-- **Safe grounded facts:** Material reaction, assembly fire test, cavity barrier, perimeter detail, fixing/load path, impact/guard function, access system, inspection, rescue, and authority approval are separate.
-- **Limits:** No fire classification, compliance, falling-object safety, guard, access, anchor, exclusion, work-at-height, or rescue claim without current consolidated law and complete-system evidence.
+Minta identitas produk yang cukup untuk menghubungkan penawaran, contoh, dokumen, pengiriman, dan barang yang dipasang. Identitas dapat mencakup nama produk, pembuat, kode produk, versi dokumen, ukuran atau bentuk, permukaan, catatan produksi atau kelompok produk bila tersedia, serta uraian inti yang benar-benar diberikan pemasok. Jangan mengisi atau menebak komposisi inti dari nama dagang.
 
-### KR-29
+Produk dengan nama mirip dapat berbeda pada bagian yang tidak terlihat. Begitu pula “aluminium”, “ACP”, atau “panel berlapis” tidak menjelaskan sendiri inti, lapisan, rangka, atau pengikat. [ISO 12944-2](https://www.iso.org/standard/64834.html) membahas klasifikasi lingkungan korosi; halaman itu tidak memberi identitas inti, kelas kebakaran, atau kesesuaian fasad untuk produk tertentu.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Sobat Almini.id, jika dokumen tidak menyebut produk yang ditawarkan dengan cukup jelas, perlakukan itu sebagai kekosongan bukti. [NEEDS GATE-04: identitas inti, kulit, ikatan, bentuk kaset, rangka, pengikat, rongga, penghalang, bukaan, dan kondisi pemasangan perlu diverifikasi.]
 
-### KR-34
+## Laporan uji perlu dibaca bersama susunannya
 
-- **Original sources:** [ISO 13785-1:2002 intermediate-scale façade fire test](https://www.iso.org/standard/27183.html) and [ISO 13785-2:2002 large-scale façade fire test](https://www.iso.org/standard/22928.html).
-- **Purpose for this article:** Bound ACP/ACM, honeycomb, spandrel, subframe, cavity, opening, and façade-fire claims.
-- **Safe grounded facts:** Aluminium skin, core, bond, cassette, subframe, insulation, cavity barrier, fixing, opening detail, and wall interface form one evidence chain.
-- **Limits:** Require the current Indonesian authority basis and a report whose specimen, scale, geometry, components, joints, openings, and field installation match the proposed system.
+Laporan uji bukan stempel yang berpindah dari satu panel ke semua fasad. Pertama, periksa apa yang diuji: produk atau susunan? Kedua, lihat skala, geometri, komponen, sambungan, bukaan, rangka, rongga, insulasi, pengikat, dan pertemuan dinding yang dicakup. Ketiga, periksa tanggal, penerbit, metode, status, serta apakah produk yang diajukan sama dengan benda uji atau mempunyai perbedaan yang sudah dinilai oleh pihak berwenang.
 
-## Evidence gates
+[ISO 13785-1](https://www.iso.org/standard/27183.html) dan [ISO 13785-2](https://www.iso.org/standard/22928.html) menunjukkan bahwa pengujian kebakaran fasad dapat memiliki skala serta ruang lingkup yang berbeda. Halaman standar tersebut tidak membuktikan susunan fasad proyek telah lulus. [Gambaran standar keselamatan kebakaran ISO](https://www.iso.org/sectors/building-construction/fire-safety) juga menempatkan kebakaran bangunan sebagai ranah bukti dan penerapan yang spesifik.
 
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Jangan mengubah kata “tested”, “certified”, atau logo pada brosur menjadi kesimpulan bahwa proyek memenuhi ketentuan. [NEEDS GATE-02: dasar hukum, otoritas, klasifikasi yang diperlukan, dan penerapan pada bangunan harus dikonfirmasi untuk lokasi serta proyek nyata.]
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Pemasangan dapat mengubah pertanyaan produk menjadi pertanyaan sistem
 
-## Internal-link plan
+Panel yang sama dapat menjadi bagian dari susunan yang berbeda saat dipasang. Bentuk kaset, orientasi, sambungan, pengikat, subrangka, rongga, penghalang rongga, bukaan, detail perimeter, dan pertemuan dinding perlu dibaca bersama. Detail pemasangan juga memengaruhi jalur air, udara, gerak, dan beban; perubahan pada salah satunya dapat memutus kecocokan dengan bukti yang sebelumnya tersedia.
 
-### Existing local routes
+Untuk air dan udara, data panel saja tidak menjelaskan jalur pada susunan lengkap. [ASTM E1105](https://www.astm.org/e1105-15r23.html) membahas uji penetrasi air lapangan untuk sistem tertentu, dan [ISO 9972](https://www.iso.org/standard/55718.html) membahas permeabilitas udara bangunan. Keduanya bukan bukti bahwa satu panel atau satu detail fasad otomatis kedap.
 
-- `/produk/acp-panel` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk/acp-panel/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Demikian pula, [ISO 4354](https://www.iso.org/standard/74384.html) menunjukkan bahwa tindakan angin merupakan topik tersendiri. Halaman publik tidak memberi ukuran pengikat, kapasitas, atau konfigurasi fasad proyek. [NEEDS GATE-10: keputusan tentang struktur, api, air, udara, atau perubahan detail memerlukan penilaian sistem berdasarkan bukti proyek.]
 
-### Planned sibling articles
+## Kendalikan penggantian sebelum barang dibeli atau dipasang
 
-These are future routes. Do not link them as live until their HTML exists.
+Penggantian produk bukan sekadar perubahan merek. Bila ada usulan pengganti, minta pemasok menyatakan produk awal dan usulan, perbedaan identitas, dampak pada inti dan komponen lain, dokumen yang berubah, serta bukti yang masih relevan. Jangan menerima kata “setara” tanpa matriks perbandingan dan penilaian pihak yang berwenang.
 
-- `ALM-06-A01` → `/artikel/memilih-panel-aluminium-untuk-fasad.html` — ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?
-- `ALM-06-A02` → `/artikel/anatomi-curtain-wall-aluminium.html` — Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal
-- `ALM-06-A04` → `/artikel/desain-kinerja-fasad-aluminium.html` — Angin, Air, Gerakan Termal, dan Drainase dalam Desain Fasad Aluminium
-- `ALM-06-A05` → `/artikel/itp-pemasangan-fasad-aluminium.html` — ITP Pemasangan Fasad Aluminium: Hold Point dari Bracket hingga Sealant
+Tahan pemesanan atau pemasangan bila identitas final, dokumen uji, detail sistem, atau dasar penerimaan belum jelas. Catat setiap perubahan pada gambar, daftar produk, dan catatan penerimaan. [NEEDS GATE-06: gambar, pengajuan produk, penggantian, pemasangan, inspeksi, pengujian, serta serah-terima harus disetujui dan direkam sesuai proyek.]
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Catatan penerimaan harus menghubungkan barang dengan bukti
 
-## Hasil akhir dan prasyarat
+Saat barang tiba, cocokkan label, jumlah, kondisi pengiriman, identitas produk, dan dokumen dengan pesanan yang disetujui. Saat pemasangan, pisahkan catatan pemeriksaan bahan, detail yang akan tertutup, sambungan, pengikat, pertemuan sistem, temuan terbuka, serta hasil pengujian bila dipersyaratkan. Catatan pabrik, contoh, laporan uji, pemeriksaan lokasi, dan penerimaan akhir bukan dokumen yang saling menggantikan.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[ISO 9001](https://www.iso.org/standard/62085.html) mendukung pentingnya proses dan rekaman mutu yang terkendali. Sertifikasi sistem mutu tidak membuktikan inti panel, kinerja kebakaran, atau penerimaan fasad tertentu. Teman Almini.id, penerimaan yang baik selalu dapat menjawab: barang mana yang dipasang, dokumen mana yang mendukungnya, dan perubahan apa yang pernah terjadi.
 
-## Langkah 1 — tetapkan scope
+## Tanda peringatan saat membaca klaim ACP
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Waspadai dokumen yang tidak menyebut produk atau versi yang jelas, laporan yang tidak menjelaskan susunan benda uji, klaim sistem yang hanya didukung data panel, atau penggantian yang dibahas setelah keputusan dibuat. Waspadai pula klaim kebakaran yang mengabaikan inti, rangka, rongga, pengikat, bukaan, serta pertemuan dinding.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Jalan pintasnya adalah memilih berdasarkan label pemasaran atau satu sertifikat. Alternatif yang kuat adalah meminta rantai bukti dari identitas produk hingga susunan terpasang, lalu menyerahkan penerimaan ketentuan kebakaran kepada otoritas dan profesional yang tepat. [Permen PUPR No. 26/PRT/M/2008](https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008) dan [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016) merupakan sumber resmi terkait konteks proteksi kebakaran dan keselamatan kerja; keduanya tetap memerlukan penerapan yang sesuai kondisi bangunan serta pekerjaan.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Inti ACP dan bukti kebakaran perlu dibaca dari produk menuju susunan, bukan dari label menuju kesimpulan. Langkah berikutnya: buat matriks yang menghubungkan produk final, inti yang didokumentasikan, komponen susunan, laporan uji, perbedaan terhadap benda uji, serta pihak penerimaannya. Aturan kerjanya sederhana: tanpa kecocokan antara produk, susunan, pemasangan, dan otoritas, klaim kebakaran belum siap menjadi keputusan proyek.
