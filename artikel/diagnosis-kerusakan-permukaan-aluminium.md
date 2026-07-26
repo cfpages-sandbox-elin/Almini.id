@@ -2,8 +2,9 @@
 article_id: ALM-04-A06
 title: "Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium"
 slug: "diagnosis-kerusakan-permukaan-aluminium"
-description: "Distinguish deposits, staining, filiform/galvanic attack, pitting, pretreatment failure, chalking, fading, mechanical damage, evidence collection, and repair escalation"
-status: outline
+description: "Cara mencatat perubahan warna, noda, tanda korosi, goresan, gelembung, endapan, riwayat pembersihan, lingkungan, dan identitas produk tanpa menetapkan penyebab dari jauh."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,48 +16,16 @@ final_route: "/artikel/diagnosis-kerusakan-permukaan-aluminium.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
   - "https://pesta.bsn.go.id/produk/index/"
   - "https://www.iso.org/standard/45798.html"
   - "https://www.iso.org/standard/83053.html"
   - "https://www.iso.org/standard/85023.html"
   - "https://www.iso.org/committee/50126/x/catalogue/"
-  - "https://www.iso.org/standard/76708.html"
   - "https://www.iso.org/standard/70156.html"
   - "https://www.iso.org/standard/80119.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium”
-- **Reader and situation:** Owner or inspector seeing surface change
-- **Reader outcome:** Distinguish deposits, staining, filiform/galvanic attack, pitting, pretreatment failure, chalking, fading, mechanical damage, evidence collection, and repair escalation
-- **Primary intent:** Diagnose finish and corrosion symptoms
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes declaring structural safety from appearance; ALM-11-A05 owns repair-versus-replace and ALM-05-A01 owns engineering
-- **Final public route:** `/artikel/diagnosis-kerusakan-permukaan-aluminium.html`
-- **Appointed CMS date:** `2025-12-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,140 +36,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Almini.id!
 
-### KR-21
+Bercak putih, cat mengelupas, warna memudar, atau korosi berbentuk titik atau cekungan (*pitting*) pada aluminium memang mengundang pertanyaan, “Ini akibat apa?” Jawaban yang bertanggung jawab tidak bisa diambil dari tampilannya saja. Endapan, noda, goresan, perubahan lapisan, kontak dengan bahan lain, riwayat pembersihan, dan kondisi lingkungan dapat menghasilkan tampilan yang mirip tetapi memerlukan bukti yang berbeda.
 
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
+Langkah awalnya adalah triase bukti: catat gejala, lokasi, waktu, riwayat, identitas produk, dan kondisi sekitar tanpa mengklaim penyebab, umur lapisan, metode perbaikan, atau penerimaan. Tampilan permukaan tidak dapat dipakai untuk menyatakan kapasitas struktur atau sisa umur pakai suatu sistem. [NEEDS GATE-10: penyebab, dampak, tindakan perbaikan, dan keputusan penggunaan perlu didasarkan pada pemeriksaan kondisi serta penilaian yang kompeten.]
 
-### KR-30
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-- **Original sources:** [ISO 15686-1 service-life planning](https://www.iso.org/standard/45798.html), [ISO 55000:2024 asset-management vocabulary](https://www.iso.org/standard/83053.html).
-- **Purpose for this article:** Ground inspection/access, cleaning, defect triage, diagnosis, making-safe, planned maintenance, repair/replace/retrofit, records, and lifecycle decisions.
-- **Safe grounded facts:** Symptom, access/viewing limitation, baseline, test, root-cause hypothesis, consequence, temporary control, repair design, acceptance, and monitoring are separate.
-- **Limits:** No remote declaration of safety, cause, repair method, cleaner compatibility, remaining life, cost, warranty, or reuse/recycling outcome without condition evidence and competent review.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-31
+## Catat apa yang terlihat, bukan apa yang diduga
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Mulailah dengan uraian yang dapat diamati. Apakah perubahan berupa serbuk atau endapan, garis noda, area pudar, gelembung di bawah lapisan, pengelupasan, goresan, atau titik cekung? Sebutkan warna, pola, batas area, tekstur yang terlihat, dan apakah gejala berada di permukaan datar, tepi, sambungan, area ternaungi, atau dekat material lain. Jangan menulis “korosi galvanik” atau “gagal pretreatment” bila bukti awal hanya berupa bercak.
 
-### KR-33
+Ambil foto pandangan lebar untuk menunjukkan lokasi pada sistem, kemudian foto dekat yang mempunyai skala atau penanda lokasi bila memungkinkan. Catat tanggal, kondisi cuaca, paparan air, posisi terhadap aliran air, dan apakah gejala berubah dari catatan sebelumnya. Kawan Almini.id, foto perlu diperlakukan sebagai rekaman tampilan pada suatu waktu; foto tidak membuktikan jenis lapisan, ketebalan, ikatan lapisan, atau sebab yang berada di bawah permukaan.
 
-- **Original sources:** [ISO 7599:2018 decorative/protective anodizing](https://www.iso.org/standard/70156.html) and [ISO 10074:2021 hard anodizing](https://www.iso.org/standard/80119.html).
-- **Purpose for this article:** Ground finish selection, appearance, durability, inspection, care, and substitution.
-- **Safe grounded facts:** Anodized appearance or nominal treatment name does not prove coating grade, sealing quality, abrasion behavior, corrosion result, electrical insulation, or service life.
-- **Limits:** Obtain the full invoked specification, applicator process record, approved physical sample, test report, exposure classification, and compatible-care guidance.
+Pisahkan fakta dari istilah. “Pitting” adalah istilah untuk korosi yang tampak sebagai titik atau cekungan; istilah ini tidak boleh dipakai sebagai diagnosis sebelum material, kondisi, dan pemeriksaan yang cukup tersedia.
 
-## Evidence gates
+## Identitas produk dan penyelesaian permukaan menentukan pertanyaan berikutnya
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
+Sebelum membandingkan gejala, cari identitas produk: apakah aluminium polos, beranodisasi, dicat, diberi pelapis lain, atau menjadi bagian dari susunan yang lebih kompleks. Catat nama produk, paduan, temper—penandaan kondisi material setelah proses tertentu—bentuk produk, lokasi pemasangan, serta dokumen atau contoh yang disetujui bila tersedia.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+[ISO 2107](https://www.iso.org/standard/85023.html) membahas penandaan temper, sementara [katalog ISO/TC 79](https://www.iso.org/committee/50126/x/catalogue/) menunjukkan bahwa aluminium tempa memiliki beberapa aspek identitas standar. Identitas ini membantu menyusun pertanyaan, tetapi tidak membuktikan penyebab gejala pada proyek tertentu.
 
-## Internal-link plan
+Penyelesaian permukaan juga perlu dicatat sebagai fakta, bukan diperkirakan dari warna. [ISO 7599](https://www.iso.org/standard/70156.html) membahas anodisasi dekoratif dan pelindung, sedangkan [ISO 10074](https://www.iso.org/standard/80119.html) membahas anodisasi keras. Nama proses tidak membuktikan mutu lapisan, kualitas penyegelan, ketahanan abrasi, hasil korosi, atau masa layan produk yang sedang diperiksa. [NEEDS GATE-04: identitas produk, paduan, lapisan, kondisi permukaan, sambungan, dan paparan aktual perlu diverifikasi.]
 
-### Existing local routes
+## Riwayat pembersihan dan paparan dapat mengubah makna gejala
 
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Tanyakan apa yang terjadi sebelum perubahan terlihat. Apakah ada pembersihan baru, pekerjaan pengecatan, pemotongan, penggunaan bahan kimia, genangan, limpasan dari bahan lain, perubahan ventilasi, atau pekerjaan di dekat permukaan? Catat produk pembersih, alat, air, metode, dan waktu jika diketahui. Jangan menganggap bahan yang terasa “ringan” pasti cocok dengan semua pelapis atau material berdekatan.
 
-### Planned sibling articles
+Lingkungan juga perlu dideskripsikan, bukan disimpulkan. Catat apakah permukaan sering basah, dekat tepi atau sambungan, ternaungi, terkena air buangan, atau bersentuhan dengan material lain. [ISO 12944-2](https://www.iso.org/standard/64834.html) membahas klasifikasi lingkungan korosi, tetapi halaman publik itu tidak menetapkan penyebab bercak, umur lapisan, atau tindakan untuk aluminium pada satu lokasi.
 
-These are future routes. Do not link them as live until their HTML exists.
+Teman Almini.id, bila ada bukti yang mungkin cepat hilang—misalnya residu atau kondisi setelah pembersihan—dokumentasikan lebih dulu sebelum mencoba membersihkan, menggosok, atau melapisi ulang. [NEEDS GATE-05: kompatibilitas bahan pembersih, alat, air, waktu kontak, limpasan, dan material sekitar harus diperiksa terhadap instruksi produk yang tepat.]
 
-- `ALM-04-A04` → `/artikel/kontak-listrik-aluminium-dan-tembaga.html` — Kontak Listrik Aluminium dan Tembaga: Risiko Sambungan, Panas, dan Oksidasi
-- `ALM-04-A05` → `/artikel/membersihkan-aluminium-berlapis.html` — Cara Membersihkan Aluminium Berlapis Tanpa Mempercepat Kerusakan
+## Kelompokkan kemungkinan tanpa menjadikannya vonis
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Untuk memilih bukti berikutnya, Anda dapat mengelompokkan kemungkinan secara terbuka. Endapan atau noda dapat terkait dengan air dan material lain. Goresan dapat terkait dengan kontak mekanis atau pembersihan. Gelembung atau pengelupasan dapat membuat pihak pemeriksa melihat identitas lapisan, persiapan permukaan, paparan, dan kondisi pemasangan. Perubahan warna dapat memerlukan perbandingan dengan contoh atau area lain yang mempunyai riwayat berbeda.
 
-## Mulai dari gejala, bukan tebakan penyebab
+Kelompok tersebut adalah peta pertanyaan, bukan daftar penyebab yang dapat dipilih sesuka hati. Gejala yang tampak mirip dapat memerlukan pemeriksaan bahan, laboratorium, atau evaluasi sistem yang berbeda. Jangan menyebut perubahan warna sebagai “pudar normal”, dan jangan menyebut titik kecil sebagai “hanya kosmetik”, sebelum arti perubahan itu dinilai dalam konteks produk serta fungsinya.
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Urutkan pemeriksaan dari yang tidak mengubah bukti
 
-## Saringan risiko langsung
+Mulai dari catatan gejala, foto, identitas produk, contoh yang disetujui, riwayat pembersihan, dan paparan lingkungan. Berikutnya, pihak yang sesuai dapat menentukan apakah perlu inspeksi dekat, perbandingan area, pengukuran yang disetujui, contoh, atau analisis laboratorium. Jangan mengikis, mengecat, mengamplas, menggunakan bahan kimia, atau melepas komponen hanya untuk menguji dugaan tanpa rencana.
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Perencanaan umur pakai dan pengelolaan aset membedakan gejala, pemeriksaan, hipotesis penyebab, tindakan sementara, perbaikan, penerimaan, dan pemantauan. [ISO 15686-1](https://www.iso.org/standard/45798.html) dan [ISO 55000](https://www.iso.org/standard/83053.html) memberi konteks pada pemisahan tahap tersebut. Keduanya tidak menetapkan resep kimia perbaikan atau hasil untuk satu lapisan proyek.
 
-## Kemungkinan mekanisme
+## Baca hasil uji sesuai batasnya
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil inspeksi menjawab apa yang dapat dilihat atau diukur pada waktu itu. Hasil laboratorium menjawab pertanyaan pada contoh dan metode yang dipakai. Data produk menjelaskan produk atau lapisan yang dicakupnya. Tidak satu pun secara otomatis membuktikan sebab, sisa umur, penerimaan, atau jaminan untuk seluruh susunan terpasang.
 
-## Urutan pemeriksaan dan pengujian
+[Katalog SNI BSN](https://pesta.bsn.go.id/produk/index/) membantu mengenali dokumen standar, tetapi katalog tidak menggantikan standar lengkap, metode, atau kriteria penerimaan proyek. [NEEDS GATE-01: definisi, metode, klasifikasi, angka, dan kriteria lulus harus berasal dari dokumen lengkap serta interpretasi yang sesuai.] [NEEDS GATE-07: hasil uji, sertifikasi, dan klaim kinerja harus cocok dengan produk, lapisan, metode, serta kondisi yang dinilai.]
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Pilih eskalasi, bukan resep perbaikan cepat
 
-## Cara membaca hasil tanpa melompat ke kesimpulan
+Eskalasi perlu dipercepat bila perubahan permukaan disertai komponen longgar, retak, deformasi, air pada antarmuka penting, atau kondisi lain yang dapat melibatkan fungsi sistem dan keselamatan. Dalam keadaan itu, tampilan permukaan bukan satu-satunya pertanyaan; jangan mencoba menyimpulkan bahwa bagian tersebut aman atau tidak aman hanya dari lapisannya.
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang umum adalah menggosok bercak, memakai bahan kimia lebih kuat, atau mengecat ulang untuk menutup gejala. Cara ini dapat menghilangkan bukti, memperburuk permukaan, atau menghalangi pemeriksaan. Alternatif yang lebih kuat adalah membekukan catatan kondisi, menelusuri identitas dan riwayat, lalu meminta metode pemeriksaan atau penanganan yang sesuai dari pihak produk, laboratorium, engineer, atau proyek.
 
-## Pilihan tindakan dan titik eskalasi
-
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Bercak Putih, Cat Mengelupas, Pudar, atau Pitting: Diagnosis Permukaan Aluminium”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Bercak putih, pengelupasan, pudar, atau korosi berbentuk titik adalah alasan untuk mengumpulkan bukti permukaan secara tertib, bukan diagnosis jarak jauh. Langkah berikutnya: buat catatan berisi lokasi, tampilan, foto, identitas produk dan lapisan, riwayat pembersihan, paparan, serta dokumen yang tersedia. Aturan kerjanya sederhana: bila penyebab belum dibuktikan, jangan memilih bahan kimia, metode perbaikan, atau klaim umur lapisan dari penampilan saja.

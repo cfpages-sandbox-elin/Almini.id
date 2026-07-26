@@ -2,8 +2,9 @@
 article_id: ALM-08-A06
 title: "Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai"
 slug: "diagnosis-kerusakan-kanopi-aluminium"
-description: "Identify isolation triggers, evidence to photograph, drainage versus seal failures, loose panels, anchor/substrate movement, deformation, corrosion, temporary exclusion, and professional assessment"
-status: outline
+description: "Cara mengumpulkan bukti gejala kanopi dari air, gerak, elemen, sambungan, pengikat, penutup atap, drainase, angin, catatan, dan batas eskalasi tanpa diagnosis dari jauh."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,53 +16,17 @@ final_route: "/artikel/diagnosis-kerusakan-kanopi-aluminium.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
   - "https://pesta.bsn.go.id/produk/index/"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
   - "https://www.iso.org/standard/74384.html"
   - "https://www.iso.org/standard/55718.html"
   - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
   - "https://www.iso.org/standard/85023.html"
   - "https://www.iso.org/committee/50126/x/catalogue/"
-  - "https://www.iso.org/standard/76708.html"
   - "https://www.iso.org/standard/70156.html"
-  - "https://www.iso.org/standard/80119.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai”
-- **Reader and situation:** Owner after a storm or progressive defect
-- **Reader outcome:** Identify isolation triggers, evidence to photograph, drainage versus seal failures, loose panels, anchor/substrate movement, deformation, corrosion, temporary exclusion, and professional assessment
-- **Primary intent:** Triage canopy damage
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Kawan Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes climbing, shoring, reuse, or structural clearance; engineer owns safety and ALM-11-A05 owns repair-versus-replace
-- **Final public route:** `/artikel/diagnosis-kerusakan-kanopi-aluminium.html`
-- **Appointed CMS date:** `2026-03-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Almini.id`, `Sobat Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-012`
@@ -72,155 +37,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Kanopi Aluminium 2` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-012]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Almini.id!
 
-### KR-21
+Kanopi yang melendut, bergetar, bocor, atau berubah setelah badai perlu diperlakukan sebagai tanda untuk mengumpulkan bukti, bukan sebagai undangan naik ke atap dan mencoba perbaikan. Gejala yang tampak dapat berhubungan dengan penutup atap, jalur air, gerakan, elemen pendukung, sambungan, pengikat, tumpuan, atau kondisi bangunan di belakangnya. Satu gejala tidak cukup untuk menentukan sebab, kapasitas tersisa, atau apakah kanopi aman digunakan.
 
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
+Langkah awal yang berguna adalah mencatat kondisi dari tempat aman, membatasi akses bila ada potensi bahaya, mengumpulkan gambar serta riwayat, lalu meneruskan bukti kepada pihak yang tepat. Artikel ini adalah triase bukti, bukan diagnosis jarak jauh dan bukan petunjuk memanjat, menyangga, atau membongkar kanopi. [NEEDS GATE-08: risiko panel jatuh, akses, pekerjaan di ketinggian, perlindungan orang di bawah, dan penyelamatan harus ditangani dengan rencana serta orang yang kompeten.]
 
-### KR-25
+![Ilustrasi Kanopi Aluminium 2](/wp-content/uploads/2026/06/Kanopi-Aluminium-2.jpg)
 
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
+Ilustrasi umum dari aset lokal Almini.id; bukan dokumentasi proyek tertentu.
 
-### KR-26
+## Catat gejala dan kondisi badai sebelum menebak penyebab
 
-- **Original sources:** [ISO 9972:2015 building air permeability](https://www.iso.org/standard/55718.html), [ASTM E1105 field water-penetration test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground water shedding, drained cavities, pressure moderation, air barriers, flashing, openings, parapets, bases, penetrations, joints, sealants, and weeps.
-- **Safe grounded facts:** Laboratory specimen, field chamber, nozzle/spray, pressure, duration, boundary, observed leak, interior path, and root-cause investigation must be distinguished.
-- **Limits:** No “waterproof,” leakage cause, sealant, flashing, weep, test pressure, acceptance, or repair claim without actual details, conditions, and competent investigation.
+Tulis gejala dalam bahasa pengamatan: bagian mana yang tampak berubah bentuk, kapan getaran dirasakan, di mana air terlihat, atau komponen apa yang tampak longgar. Sertakan lokasi tepatnya, sisi bangunan, ketinggian yang dapat diketahui, arah hujan atau angin yang dilaporkan, waktu kejadian, dan apakah kondisi berubah setelah cuaca membaik. Hindari kalimat seperti “anchor lepas” bila yang sebenarnya terlihat hanya celah atau gerak di satu sambungan.
 
-### KR-29
+Foto perlu memperlihatkan konteks. Ambil pandangan lebar yang menunjukkan posisi kanopi terhadap bangunan, lalu pandangan lebih dekat pada gejala yang terlihat dari tempat aman. Catat pula jika foto tidak dapat memperlihatkan bagian tertentu. Sobat Almini.id, keterbatasan ini penting: foto tidak dapat membuktikan kondisi pengikat tersembunyi, substrat, jalur gaya, atau bagian di balik penutup atap.
 
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
+Jika Anda mencari gambaran produk dan layanan setempat setelah kondisi sudah ditinjau dengan benar, lihat [informasi kanopi aluminium di Yogyakarta](/kanopi-aluminium-yogyakarta.html). Halaman tersebut bukan bukti kapasitas, ketersediaan, atau kesesuaian untuk kanopi yang sedang mengalami gejala.
 
-### KR-31
+## Saring kondisi yang memerlukan eskalasi segera
 
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
+Jangan memperlakukan semua keluhan sebagai pekerjaan tampilan. Bagian yang tampak bergerak atau jatuh, penutup yang terlepas, deformasi yang bertambah, pengikat yang terlihat tidak utuh, kaca atau panel rusak, air dekat instalasi listrik, atau area yang berisiko dilalui orang adalah alasan untuk menghentikan tindakan yang dapat memperburuk keadaan dan segera mengeskalasi sesuai pengelola bangunan.
 
-### KR-33
+Pembatasan akses yang aman dapat lebih tepat daripada pemeriksaan dekat tanpa persiapan. Jangan naik, memijak, menarik panel, mengencangkan pengikat, atau menambah penyangga sendiri untuk “mencoba”. Tindakan itu bisa mengubah kondisi, menghilangkan bukti, dan menambah risiko. [NEEDS GATE-03: metode akses, peralatan, perlindungan jatuh, cuaca, zona larangan, dan rencana penyelamatan memerlukan bukti lokasi serta rencana orang yang kompeten.] [NEEDS GATE-07: kapasitas, hasil uji, dan kesimpulan keselamatan memerlukan bukti yang cocok dengan kanopi aktual.]
 
-- **Original sources:** [ISO 7599:2018 decorative/protective anodizing](https://www.iso.org/standard/70156.html) and [ISO 10074:2021 hard anodizing](https://www.iso.org/standard/80119.html).
-- **Purpose for this article:** Ground finish selection, appearance, durability, inspection, care, and substitution.
-- **Safe grounded facts:** Anodized appearance or nominal treatment name does not prove coating grade, sealing quality, abrasion behavior, corrosion result, electrical insulation, or service life.
-- **Limits:** Obtain the full invoked specification, applicator process record, approved physical sample, test report, exposure classification, and compatible-care guidance.
+## Baca kanopi sebagai susunan, bukan lembar atap saja
 
-## Evidence gates
+Kanopi dapat memuat penutup atap, profil atau elemen pendukung, rangka, sambungan, pengikat, tumpuan, talang atau jalur drainase, pertemuan dinding, dan lapisan permukaan. Nama “aluminium” atau “kanopi” tidak menjelaskan seluruh susunan. [Katalog SNI BSN](https://pesta.bsn.go.id/produk/index/) dapat membantu mengenali dokumen standar, tetapi tidak membuktikan bahwa suatu detail atau sistem sesuai untuk kondisi kanopi tertentu.
 
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
+Kumpulkan gambar kerja, gambar kondisi akhir, catatan produk, perubahan yang pernah disetujui, catatan pemasangan, serta riwayat inspeksi bila ada. Untuk elemen aluminium, nama paduan, temper—penandaan kondisi material setelah proses tertentu—bentuk produk, dimensi, dan keadaan permukaan adalah fakta yang berbeda. [ISO 2107](https://www.iso.org/standard/85023.html) membahas penandaan temper, sedangkan [katalog ISO/TC 79](https://www.iso.org/committee/50126/x/catalogue/) menunjukkan cakupan standar aluminium tempa. Keduanya bukan diagnosis untuk kanopi proyek.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Telusuri air sebagai jalur, bukan titik noda
 
-## Internal-link plan
+Air yang terlihat di bawah kanopi belum tentu masuk dari titik tepat di atasnya. Catat lokasi tetesan atau noda, arah hujan, kondisi angin, sambungan dan tepi di sekitarnya, talang atau jalur buangan yang terlihat, serta perubahan setelah hujan berhenti. Hal ini membantu pihak pemeriksa membedakan jalur air, sambungan, detail pertemuan, limpasan, dan kemungkinan lain tanpa menyatakan sebab terlalu cepat.
 
-### Existing local routes
+Bedakan pengamatan dari pengujian. [ASTM E1105](https://www.astm.org/e1105-15r23.html) menjelaskan lingkup uji penetrasi air lapangan pada sistem bukaan tertentu; metode, area uji, tekanan, durasi, susunan, dan kriteria proyek tidak boleh dipindahkan begitu saja ke kanopi. [ISO 9972](https://www.iso.org/standard/55718.html) membahas permeabilitas udara bangunan, bukan jaminan bahwa kanopi tertentu kedap atau bocor.
 
-- `/kanopi-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kanopi-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kawan Almini.id, jangan menambah bahan perapat pada titik yang tampak basah sebagai percobaan. Itu dapat mengubah jalur air dan menyulitkan penelusuran berikutnya. [NEEDS GATE-06: pemeriksaan, pembukaan terbatas, pengujian, perubahan detail, dan penerimaan harus mengikuti dokumen proyek serta pihak yang berwenang.]
 
-### Planned sibling articles
+## Gerakan, elemen, sambungan, dan pengikat perlu dibaca bersama
 
-These are future routes. Do not link them as live until their HTML exists.
+Lendutan yang terlihat, getaran, bunyi, atau sambungan yang membuka dapat menjadi informasi penting, tetapi bukan diagnosis. Bentuk elemen, panjang bebas, pengekangan, tumpuan, sambungan, pengikat, kondisi substrat, gerakan bangunan, dan pengaruh angin dapat saling berkaitan. Pengikat yang terlihat tidak membuktikan apa yang terjadi di belakang permukaan atau di titik tumpuannya.
 
-- `ALM-08-A04` → `/artikel/sambungan-dan-anchor-kanopi-aluminium.html` — Anchor, Sambungan, dan Gerakan pada Kanopi Aluminium
-- `ALM-08-A05` → `/artikel/inspeksi-dan-perawatan-kanopi-aluminium.html` — Jadwal Inspeksi dan Pembersihan Kanopi Aluminium
+[ISO 4354](https://www.iso.org/standard/74384.html) menunjukkan bahwa tindakan angin merupakan pokok bahasan standar tersendiri. Halaman publik tidak memberi beban angin, jarak pengikat, atau kapasitas kanopi yang sedang diperiksa. Karena itu, jangan menyimpulkan kanopi “masih kuat” hanya karena belum runtuh, atau “pasti gagal” hanya dari satu foto lendutan. [NEEDS GATE-04: identitas elemen, sambungan, pengikat, tumpuan, substrat, kerusakan, dan kondisi terpasang harus diverifikasi.]
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Noda dan perubahan permukaan memerlukan riwayat paparan
 
-## Mulai dari gejala, bukan tebakan penyebab
+Perubahan warna, noda, atau permukaan yang tampak berbeda dapat terkait dengan air, debu, kontak bahan lain, pembersihan, pelapisan, atau paparan lingkungan. Catat posisinya terhadap tepi, sambungan, area buangan air, serta material yang berdekatan. Bila ada riwayat pembersihan atau pekerjaan lain, simpan juga alat dan bahan yang diketahui digunakan.
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Nama penyelesaian permukaan tidak membuktikan hasilnya pada lokasi nyata. [ISO 7599](https://www.iso.org/standard/70156.html) membahas anodisasi dekoratif dan pelindung, tetapi nama proses tidak membuktikan mutu lapisan, ketahanan korosi, atau penyebab noda pada kanopi tertentu. [ISO 12944-2](https://www.iso.org/standard/64834.html) membahas klasifikasi lingkungan korosi, bukan putusan umur pakai atau tindakan perbaikan untuk kasus Anda.
 
-## Saringan risiko langsung
+## Urutkan bukti sebelum memilih tindakan
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan catatan gejala, foto, cuaca, dan dokumen yang ada. Berikutnya, pihak yang tepat dapat menentukan kebutuhan peninjauan dekat, pengukuran yang disepakati, pemeriksaan sambungan, atau pengujian lain. Jangan membuat lubang, melepas penutup, atau memindahkan komponen hanya untuk mencari jawaban cepat tanpa rencana dan persetujuan yang sesuai.
 
-## Kemungkinan mekanisme
+[ISO 9001](https://www.iso.org/standard/62085.html) mendukung pentingnya rekaman proses yang terkendali, tetapi sertifikasi mutu tidak membuktikan sebab kerusakan atau kapasitas kanopi tertentu. Catatan pemeriksaan, gambar, perubahan, hasil uji, dan penerimaan juga merupakan bukti yang berbeda; jangan menggantikan satu dengan yang lain.
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Hindari jalan pintas setelah badai
 
-## Urutan pemeriksaan dan pengujian
+Jalan pintas paling umum adalah naik ke kanopi untuk melihat lebih dekat, mengencangkan bagian yang tampak longgar, atau menambal titik air terlihat. Cara ini berisiko karena akses, penutup, sambungan, dan tumpuan mungkin tidak berada pada kondisi yang diperkirakan. Alternatif yang lebih andal adalah memotret dari aman, menutup atau membatasi area bila perlu, mengumpulkan dokumen, dan meminta penilaian sesuai tingkat risiko.
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara membaca hasil tanpa melompat ke kesimpulan
-
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan tindakan dan titik eskalasi
-
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Kanopi Melendut, Bergetar, Bocor, atau Rusak Setelah Badai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kanopi melendut, bergetar, bocor, atau rusak setelah badai adalah alasan untuk menyusun bukti dan eskalasi, bukan untuk menentukan penyebab atau perbaikan sendiri. Langkah berikutnya: buat catatan satu halaman berisi gejala, lokasi, waktu, cuaca, foto, komponen yang terlihat, dokumen yang ada, dan potensi paparan orang. Aturan kerjanya sederhana: bila akses, sambungan, pengikat, atau keselamatan belum terverifikasi, jangan ubah kondisi kanopi sebelum pihak yang tepat menilainya.
