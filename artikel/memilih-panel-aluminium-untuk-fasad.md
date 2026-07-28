@@ -2,8 +2,9 @@
 article_id: ALM-06-A01
 title: "ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?"
 slug: "memilih-panel-aluminium-untuk-fasad"
-description: "Compare construction, mass, stiffness, flatness, joints, finish, impact, fire evidence, repairability, support, and procurement questions"
-status: outline
+description: "Bandingkan panel fasad aluminium: ACP, plat solid, honeycomb, dan spandrel. Kenali konstruksi, massa, kekakuan, kerataan, sambungan, pelapisan akhir, dampak, bukti kebakaran, perbaikan, penopang, dan pertanyaan pengadaan."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-01-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,58 +14,18 @@ reader_community: "Almini.id"
 reader_address: "Sobat Almini.id"
 final_route: "/artikel/memilih-panel-aluminium-untuk-fasad.html"
 technical_review: required
-sources:
-  - "https://pesta.bsn.go.id/produk/index/"
-  - "https://www.iso.org/sectors/building-construction"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
-  - "https://www.iso.org/standard/74384.html"
-  - "https://www.iso.org/standard/55718.html"
-  - "https://www.astm.org/e1105-15r23.html"
-  - "https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008"
-  - "https://www.iso.org/sectors/building-construction/fire-safety"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
-  - "https://www.iso.org/standard/27183.html"
-  - "https://www.iso.org/standard/22928.html"
+sources: []
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?
 
-## Assignment lock
+Halo, Sobat Almini.id!
 
-- **Writer task:** Expand this file into one complete article answering: “ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?”
-- **Reader and situation:** Architect, owner, or buyer choosing a panel concept
-- **Reader outcome:** Compare construction, mass, stiffness, flatness, joints, finish, impact, fire evidence, repairability, support, and procurement questions
-- **Primary intent:** Compare façade panel families
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes choosing by color/price alone, structural sizing owned by ALM-05, and quotations owned by façade service/product routes
-- **Final public route:** `/artikel/memilih-panel-aluminium-untuk-fasad.html`
-- **Appointed CMS date:** `2026-01-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Panel fasad tidak dipilih dari warna dan harga saja, Sobat Almini.id. Pertama tentukan bagian bangunan mana yang akan ditutup, bagaimana panel ditahan, apa yang berada di belakangnya, dan bukti apa yang diminta proyek untuk kebakaran maupun kinerja sistem. Setelah itu barulah keluarga panel dapat dibandingkan secara adil.
 
-## Opening instructions
+ACP, plat solid, honeycomb, dan spandrel bukan empat nama yang saling menggantikan. Ada yang menggambarkan susunan panel, ada yang menggambarkan panel lembaran tunggal, dan ada pula yang menyebut fungsi lokasi pada fasad. Untuk melihat konteks produk, buka [halaman ACP panel](/produk/acp-panel), tetapi jangan menganggap halaman produk sebagai pengganti rancangan dan bukti proyek.
 
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-006`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -73,162 +34,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa ACP Aluminium Composite Panel 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-006]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa ACP Aluminium Composite Panel 1](/wp-content/uploads/2026/06/Jasa-ACP-Aluminium-Composite-Panel-1.webp)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-19
-
-- **Original sources:** [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/), [ISO building-construction standards](https://www.iso.org/sectors/building-construction).
-- **Purpose for this article:** Prevent façade materials from being compared by trade name alone.
-- **Safe grounded facts:** Material, processed product, coating/core, support/fixing, joints, interfaces, installation, and complete-system performance are separate evidence layers.
-- **Limits:** No equivalence, rating, durability, fire, structural, water, energy, acoustic, environmental, or warranty claim without exact identity and matched evidence.
-
-### KR-21
-
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
-
-### KR-25
-
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
-
-### KR-26
-
-- **Original sources:** [ISO 9972:2015 building air permeability](https://www.iso.org/standard/55718.html), [ASTM E1105 field water-penetration test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground water shedding, drained cavities, pressure moderation, air barriers, flashing, openings, parapets, bases, penetrations, joints, sealants, and weeps.
-- **Safe grounded facts:** Laboratory specimen, field chamber, nozzle/spray, pressure, duration, boundary, observed leak, interior path, and root-cause investigation must be distinguished.
-- **Limits:** No “waterproof,” leakage cause, sealant, flashing, weep, test pressure, acceptance, or repair claim without actual details, conditions, and competent investigation.
-
-### KR-28
-
-- **Original sources:** [Permen PUPR No. 26/PRT/M/2008](https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008), [ISO fire-safety standards overview](https://www.iso.org/sectors/building-construction/fire-safety), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016).
-- **Purpose for this article:** Ground combustibility/spread, cavity/opening interfaces, falling panels/glass, impact/guard boundaries, access, rescue, and authority evidence.
-- **Safe grounded facts:** Material reaction, assembly fire test, cavity barrier, perimeter detail, fixing/load path, impact/guard function, access system, inspection, rescue, and authority approval are separate.
-- **Limits:** No fire classification, compliance, falling-object safety, guard, access, anchor, exclusion, work-at-height, or rescue claim without current consolidated law and complete-system evidence.
-
-### KR-29
-
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
-
-### KR-34
-
-- **Original sources:** [ISO 13785-1:2002 intermediate-scale façade fire test](https://www.iso.org/standard/27183.html) and [ISO 13785-2:2002 large-scale façade fire test](https://www.iso.org/standard/22928.html).
-- **Purpose for this article:** Bound ACP/ACM, honeycomb, spandrel, subframe, cavity, opening, and façade-fire claims.
-- **Safe grounded facts:** Aluminium skin, core, bond, cassette, subframe, insulation, cavity barrier, fixing, opening detail, and wall interface form one evidence chain.
-- **Limits:** Require the current Indonesian authority basis and a report whose specimen, scale, geometry, components, joints, openings, and field installation match the proposed system.
-
-## Evidence gates
-
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/produk/acp-panel` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk/acp-panel/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ALM-06-A02` → `/artikel/anatomi-curtain-wall-aluminium.html` — Anatomi Curtain Wall Aluminium: Mullion, Transom, Pressure Plate, Drainase, dan Seal
-- `ALM-06-A03` → `/artikel/core-acp-dan-bukti-kebakaran.html` — Core ACP dan Bukti Kebakaran: Cara Membaca Klaim Produk
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+ Gambar ini bukan dokumentasi proyek tertentu; hanya ilustrasi umum tentang panel ACP aluminium.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Salah paham yang umum ialah semua panel berlapis aluminium pasti memberi jawaban yang sama. Padahal yang menentukan keputusan adalah susunan nyata, cara pemasangan, detail sambungan, dan dokumen yang menyertai produk yang ditawarkan. Nama dagang atau foto proyek tidak cukup untuk membuktikan semua itu.
+
+Keberatan yang sering muncul: "bukankah teknisi nanti yang mengatur?" Ya, tetapi pilihan panel membatasi pilihan detail teknisi. Karena itu minta identitas produk, gambar pemasangan, dan ruang lingkup pekerjaan dibaca bersama sebelum bahan dipesan; lihat juga [daftar produk aluminium](/produk-aluminium-yogyakarta.html) untuk mengenali keluarga produk tanpa menyamakannya.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membantu menyusun pertanyaan saat membandingkan keluarga panel: susunan, berat yang perlu diperhitungkan, kerataan tampak, sambungan, finishing, kemungkinan penggantian, dan bukti kebakaran. Artikel ini tidak menggantikan perhitungan struktur, rancangan fasad, atau penilaian kepatuhan suatu bangunan.
+
+Jika keputusan menyangkut bangunan bertingkat, area publik, perubahan sistem penopang, atau persyaratan kebakaran, berhenti di tahap daftar pertanyaan. Minta arsitek/insinyur serta pihak yang bertanggung jawab atas rancangan menilai paket sistemnya, bukan satu lembar panel secara terpisah.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Setiap jenis panel fasad memiliki konstruksi dan karakteristik yang berbeda:
+
+ACP adalah panel komposit: dua kulit aluminium dengan inti di antaranya. Karena inti adalah bagian penting, jangan puas dengan sebutan singkat seperti "FR" atau "aman". Minta dokumen produk dan bukti yang tepat untuk susunan yang benar-benar ditawarkan, lalu cocokkan dengan persyaratan proyek.
+
+Plat solid adalah lembar aluminium tanpa inti komposit. Itu tidak otomatis membuatnya tepat untuk semua bidang; bentuk, ketebalan, ukuran panel, pengaku, dan penahan tetap perlu dirancang sebagai satu sistem. Sederhananya, bahan lembarannya hanya salah satu bagian dari jalur beban dan tampilan akhir.
+
+Honeycomb lazim dipakai untuk menyebut panel berkulit dengan inti berbentuk sarang lebah. Orang sering hanya mendengar kata "ringan", padahal yang perlu ditanyakan berikutnya ialah bagaimana tepi, titik pengikat, pemotongan, dan penggantian panelnya ditangani. Jika jawaban hanya berupa klaim umum, simpan sebagai hal yang perlu ditinjau teknis.
+
+Spandrel umumnya menunjuk area panel yang menutup bagian tepi lantai atau area di depan elemen bangunan, bukan selalu satu bahan tertentu. Karena fungsi dan posisinya berbeda, jangan meminjam spesifikasi spandrel untuk seluruh fasad tanpa gambar yang menunjukkan batasnya. Kawan Almini.id, nama lokasi tidak dapat menggantikan spesifikasi panel.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa faktor menentukan seberapa baik panel fasad berkinerja:
+
+Paparan matahari, hujan, angin, debu, dan kondisi lingkungan adalah masukan rancangan, bukan daftar slogan untuk brosur. Bawa foto lokasi, arah bidang, ukuran panel yang diusulkan, dan detail pertemuan ke perancang. Dari situ baru bisa dibahas bagian mana yang perlu perhatian khusus.
+
+Untuk kebakaran, pisahkan dua pertanyaan: bukti apa yang dimiliki produk, dan apakah bukti itu relevan dengan sistem serta ketentuan proyek. Sertifikat atau laporan untuk produk lain tidak boleh dipindahkan begitu saja. Bila rantai bukti tidak jelas, jangan gantikan dengan kesimpulan "pasti aman".
+
+Panel dan penopang harus dibaca sebagai pasangan. Sebuah panel dapat tampak rata di sampel kecil, tetapi perilaku bidang lengkap bergantung pada ukuran, sambungan, pengaku, serta kondisi pemasangan. Konsekuensinya jelas: minta detail lengkap sebelum memutuskan, dan rencanakan cara melepas satu panel bila perbaikan kelak diperlukan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk membantu Anda membuat keputusan yang lebih baik dalam memilih panel fasad, berikut beberapa skenario praktis:
+
+Contoh praktisnya begini: pemilik proyek ingin bidang depan terlihat mulus dan mudah diganti bila tergores. Jangan langsung memilih satu keluarga panel. Minta dua usulan dengan ukuran panel, arah sambungan, cara penahan, akses penggantian, dan dokumen kebakaran yang sama-sama jelas; baru bandingkan dampaknya pada tampilan, pekerjaan, dan anggaran.
+
+Untuk proyek yang menuntut keputusan kebakaran, jangan memilih berdasarkan cerita "dipakai juga di gedung lain". Tanyakan produk persisnya, susunannya, dokumen yang disediakan, dan siapa yang menilai kecocokannya. Itu mungkin terasa lebih lambat, tetapi mencegah keputusan besar dibuat dari nama material saja.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “ACP, Plat Solid, Honeycomb, dan Spandrel: Panel Mana untuk Fasad?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berikut beberapa kesalahan yang sering terjadi dalam pemilihan panel fasad dan cara memeriksanya:
 
-## Objection or shortcut to address
+Kesalahan paling umum adalah membandingkan harga per meter tanpa membandingkan isi paket. Periksa apakah harga mencakup panel, rangka/penahan, potongan, sambungan, sealant bila ada, pekerjaan akses, dan penggantian panel rusak. Jika masing-masing penawaran menyebutkan hal berbeda, belum ada dasar untuk menyebut satu lebih murah.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan kedua ialah menganggap contoh kecil mewakili fasad lengkap. Minta mock-up atau tinjauan teknis bila skala dan risiko proyek membutuhkannya, lalu catat keputusan dan perubahan yang lahir dari tinjauan tersebut. Jangan gunakan artikel ini untuk mengesahkan keputusan struktur atau kebakaran.
 
-## Required conclusion
+Saat rapat pengadaan, jangan biarkan istilah teknis membuat pembicaraan berhenti. Tunjuk satu bidang pada gambar dan tanyakan, "panel ini jenis apa, ditahan oleh apa, dan dokumen apa yang menjelaskan susunannya?" Pertanyaan yang sama dapat diulang pada tiap zona fasad; dari sana perbedaan antara penawaran akan terlihat tanpa harus menebak dari brosur.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Mitos yang sering menyesatkan
 
-## Draft completion checklist
+Mitosnya, "semua ACP sama." Yang bisa dibandingkan adalah produk dan sistem dengan identitas, susunan, bukti, dan ruang lingkup yang sama jelasnya. Harga termurah tetap dapat dipilih, tetapi hanya setelah Anda tahu apa yang memang dibeli dan risiko mana yang masih harus ditangani.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dengan langkah konkret
+
+Sebelum menyetujui panel fasad, buat satu lembar pembanding: identitas produk, susunan panel, gambar penopang, detail sambungan, rencana penggantian, dokumen kebakaran yang relevan, dan pengecualian harga. Bila salah satu kolom kosong, itu bukan detail kecil; itu pertanyaan yang belum selesai.
+
+Sobat Almini.id, keputusan yang baik dimulai dari membedakan nama produk, fungsi lokasi, dan bukti sistem. Tahan keputusan sampai ketiganya bisa dibaca dalam satu paket yang dapat diperiksa.

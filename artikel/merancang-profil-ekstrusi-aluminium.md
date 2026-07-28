@@ -2,8 +2,9 @@
 article_id: ALM-05-A04
 title: "Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan"
 slug: "merancang-profil-ekstrusi-aluminium"
-description: "Explain wall transitions, cavities, tolerances, dies, screw ports, drainage, joining, finish access, inspection, thermal movement, replaceability, and prototyping"
-status: outline
+description: "Pelajari cara merancang profil ekstrusi aluminium: transisi dinding, rongga, toleransi, dies, screw port, drainase, sambungan, akses finishing, inspeksi, gerak termal, kemudahan penggantian, dan prototyping."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-01-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,59 +15,19 @@ reader_address: "Sobat Almini.id"
 final_route: "/artikel/merancang-profil-ekstrusi-aluminium.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://store.astm.org/e1300-24.html"
-  - "https://pesta.bsn.go.id/produk/detail/13242-sni63892020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://pesta.bsn.go.id/produk/detail/13554-sni17272020"
-  - "https://pesta.bsn.go.id/produk/detail/12239-sni17262019"
-  - "https://www.iso.org/standard/74384.html"
-  - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
-  - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/85023.html"
-  - "https://www.iso.org/committee/50126/x/catalogue/"
   - "https://www.iso.org/standard/76708.html"
-  - "https://www.iso.org/standard/30010.html"
-  - "https://www.iso.org/standard/64572.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan
 
-## Assignment lock
+Halo, Sobat Almini.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan”
-- **Reader and situation:** Product designer planning a custom section
-- **Reader outcome:** Explain wall transitions, cavities, tolerances, dies, screw ports, drainage, joining, finish access, inspection, thermal movement, replaceability, and prototyping
-- **Primary intent:** Review an extrusion concept
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes die/vendor quotation and structural approval; `/produk/profil/` owns supply and ALM-05-A01 owns safety
-- **Final public route:** `/artikel/merancang-profil-ekstrusi-aluminium.html`
-- **Appointed CMS date:** `2026-01-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Merancang profil ekstrusi aluminium berarti merancang rangkaian kerja, bukan hanya bentuk penampang yang tampak bagus di layar. Bentuk itu harus bisa diekstrusi, dipotong, diberi finishing, disambung, dipasang, dibersihkan, dan bila perlu diganti. Kewajiban proyek tertentu tetap harus ditetapkan dari aturan, gambar, dan penanggung jawab proyek yang berlaku; halaman regulasi bukan pengganti telaah desain.
 
-## Opening instructions
+Mulailah dari fungsi yang harus dilakukan profil, lalu gambarkan jalur dari pabrik sampai perawatan. Setelah itu baru uji apakah dinding, rongga, lubang sekrup, drainase, sambungan, toleransi, dan akses alat saling mendukung. Temper material dan toleransi dimensi adalah dua input berbeda; ISO 2107 membahas penamaan temper, sedangkan ISO 6362-4 membahas toleransi bentuk serta dimensi profil ekstrusi tertentu ([ISO 2107:2023](https://www.iso.org/standard/85023.html); [ISO 6362-4:2022](https://www.iso.org/standard/76708.html)). Keduanya tetap bukan desain siap pakai, jadi konsep perlu diuji dan ditinjau sebelum menjadi spesifikasi produksi.
 
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-005`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -75,157 +36,84 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Profil Aluminium 3` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Profil Aluminium 3](/wp-content/uploads/2026/06/Profil-Aluminium-3.webp)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-), [official Permen PU 24/2008 PDF](https://peraturan.bpk.go.id/Download/95204/PermenPU24-2008.pdf)
-- **Purpose for this article:** Anchor surveys, building operation, preventive maintenance, records, and escalation in Indonesian building-governance context.
-- **Safe grounded facts:** PP 16/2021 is the implementing regulation for Indonesia's building law. Permen PU 24/2008 is an official guideline for maintenance and care of buildings; its text distinguishes routine maintenance from restorative care and supports planned inspection, cleaning, records, equipment, and personnel rather than appearance-only cleaning.
-- **Limits:** Do not turn a national framework into a project permit list, maintenance frequency, inspection interval, or technical acceptance value. Confirm local government, building-function, ownership, and contract requirements under GATE-02.
-
-### KR-18
-
-- **Original sources:** [SNI 1727:2020 — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [ASTM E1300-24 official scope](https://store.astm.org/e1300-24.html), [SNI 6389:2020 — BSN](https://pesta.bsn.go.id/produk/detail/13242-sni63892020), [Permenaker No. 9 Tahun 2016 — Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016)
-- **Purpose for this article:** Teach document roles and stop standards names, logos, or test-method citations from becoming unsupported compliance claims.
-- **Safe grounded facts:** A standards catalog establishes document identity/status; a full standard controls its technical requirements. A certificate must be checked for issuer, holder, scope, status, date, and relevance. A test report must match the claimed material or system configuration. A logo or “ISO/K3/rope access” phrase is not sufficient evidence.
-- **Limits:** Do not quote structural loads, glass capacity, safety factors, acceptance criteria, certificate validity, or permit conclusions without GATE-01, GATE-02, GATE-03, and GATE-07.
-
-### KR-25
-
-- **Original sources:** [SNI 1727:2020 catalogue search](https://pesta.bsn.go.id/produk/detail/13554-sni17272020), [SNI 1726:2019 catalogue search](https://pesta.bsn.go.id/produk/detail/12239-sni17262019), [ISO 4354 wind actions](https://www.iso.org/standard/74384.html).
-- **Purpose for this article:** Ground dead, wind, seismic, impact, thermal, moisture, drift, tolerance, support, and temporary-state interfaces.
-- **Safe grounded facts:** Product capacity, connection capacity, substrate condition, pull-out result, calculation, shop drawing, installation inspection, and completed load path prove different things.
-- **Limits:** No load, pressure, anchor, spacing, pull-out, deflection, movement joint, tolerance, temporary support, or safety conclusion without project design and competent engineer approval.
-
-### KR-29
-
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
-
-### KR-31
-
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
-
-### KR-32
-
-- **Original sources:** [ISO/TR 17671-4 aluminium arc-welding guidance](https://www.iso.org/standard/30010.html) and [ISO 18273:2015 aluminium welding-consumable classification](https://www.iso.org/standard/64572.html).
-- **Purpose for this article:** Prevent steel-welding assumptions or filler trade names from being transferred to aluminium work.
-- **Safe grounded facts:** Filler classification is based on chemical composition; the welding guidance does not establish finished-joint mechanical properties or project acceptance by itself.
-- **Limits:** No procedure, filler selection, allowable property, distortion tolerance, defect acceptance, or structural conclusion without the application standard, qualified procedure/personnel, drawings, and inspection plan.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ALM-05-A02` → `/artikel/jalur-beban-dan-sambungan-aluminium.html` — Jalur Beban dan Sambungan Struktur Aluminium
-- `ALM-05-A03` → `/artikel/defleksi-buckling-dan-getaran-aluminium.html` — Kuat Belum Tentu Kaku: Defleksi, Buckling, dan Getaran pada Aluminium
-- `ALM-05-A05` → `/artikel/retrofit-aluminium-bangunan-lama.html` — Retrofit Aluminium pada Bangunan Lama: Substrat, Anchor, Gerakan, dan Ketidakpastian
-- `ALM-05-A06` → `/artikel/bukti-penerimaan-struktur-aluminium.html` — Bukti Penerimaan Struktur Aluminium: Gambar, Sertifikat, Inspeksi, dan As-Built
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+ Gambar ini bukan dokumentasi proyek tertentu; hanya ilustrasi umum tentang profil aluminium.
 
 ## Tentukan objek, kondisi, dan tahap siklus hidup
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum mulai merancang profil ekstrusi aluminium, Anda perlu menentukan dengan jelas objek yang akan dikelola: fungsi profil, kondisi lingkungan tempat akan digunakan, dan tahap siklus hidup yang diharapkan. Apakah profil ini untuk penggunaan dalam ruangan atau luar ruangan? Apakah akan terkena paparan cuaca ekstrem?
+
+Catat kondisi yang benar-benar diketahui: di dalam atau luar ruang, kemungkinan air tertahan, akses pembersihan, dan beban atau gerak yang sudah ditentukan. Kondisi seperti kelembapan tinggi, garam, atau getaran tidak otomatis memberi satu jawaban desain, tetapi menjadi alasan untuk meminta data lingkungan dan telaah teknis. Untuk melihat konteks penerapan yang lebih spesifik, kunjungi [halaman produk aluminium Yogyakarta](/produk-aluminium-yogyakarta-2.html).
 
 ## Mekanisme perubahan atau penurunan kinerja
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Profil ekstrusi aluminium bisa mengalami perubahan atau penurunan kinerja seiring waktu akibat beberapa faktor:
+
+**Paparan cuaca.** Catat hujan, angin, sinar matahari, garam, polutan, dan akses pembersihan sebagai kondisi desain. Pengaruh akhirnya terhadap permukaan dan sistem perlu ditentukan dari material, finishing, detail, serta data yang benar-benar dipilih.
+
+**Beban mekanis.** Beban berulang atau bentang tertentu dapat menjadi alasan untuk memeriksa defleksi, detail sambungan, dan metode perhitungan. Apakah sebuah profil aman tidak dapat disimpulkan dari bentuk penampang saja.
+
+**Gerak termal.** Perubahan suhu menjadi alasan untuk memeriksa panjang komponen, titik penahan, ruang gerak, sambungan, dan material yang bersebelahan. Besar gerak serta detailnya harus dihitung dari kondisi dan sistem proyek.
+
+**Air dan sambungan material.** Area yang menahan air, sulit dibersihkan, atau mempertemukan material berbeda perlu diperiksa sebagai detail khusus. Jangan menetapkan mekanisme korosi atau solusinya hanya dari bentuk profil.
 
 ## Inspeksi dan data yang perlu dicatat
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk memantau kondisi profil ekstrusi aluminium, Anda perlu membuat baseline dan indikator yang bisa diukur:
+
+**Baseline dimensi.** Catat dimensi awal profil sebagai referensi untuk perbandingan di masa mendatang. Gunakan metode dan alat ukur yang sesuai dengan ketelitian yang diperlukan.
+
+**Indikator visual.** Perhatikan perubahan warna, permukaan, atau bentuk yang bisa menandakan masalah. Dokumentasikan perubahan yang terlihat.
+
+**Pengukuran periodik.** Lakukan pengukuran berkala untuk melacak perubahan dimensi atau posisi. Bandingkan dengan baseline awal.
+
+**Riwayat perawatan.** Dokumentasikan setiap perawatan atau perbaikan yang dilakukan pada profil. Sertakan tanggal, jenis perawatan, hasil yang dicapai, dan pihak yang menyetujui perubahan.
 
 ## Pilihan perawatan atau intervensi
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berdasarkan hasil inspeksi, Anda bisa memilih beberapa opsi perawatan atau intervensi:
+
+**Pemantauan rutin.** Untuk kondisi yang belum menunjukkan masalah penting, pemantauan dapat menjadi pilihan. Tetapkan interval berdasarkan fungsi, akses, kondisi lingkungan, dan petunjuk sistem yang dipakai.
+
+**Perawatan preventif.** Rancang akses agar pembersihan, inspeksi, atau penggantian komponen bisa dilakukan tanpa membongkar bagian yang tidak perlu. Jadwal dan cara perawatan harus mengikuti sistem yang benar-benar dipilih serta petunjuk produsennya.
+
+**Perbaikan.** Jika ditemukan masalah yang perlu diperbaiki, lakukan perbaikan sebelum masalah menjadi lebih serius. Pastikan perbaikan dilakukan oleh tenaga yang kompeten.
+
+**Penguatan atau penggantian.** Bila fungsi, dimensi, sambungan, atau material tidak lagi memenuhi kebutuhan, pihak yang kompeten perlu menentukan apakah konsep diperbaiki, diperkuat, atau diganti. Keputusan itu harus kembali ke desain dan bukti proyek, bukan daftar standar campuran.
 
 ## Cara menentukan prioritas
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Prioritas perawatan atau intervensi bisa ditentukan berdasarkan beberapa faktor:
 
-## Rekaman, handover, dan pemicu pemeriksaan ulang
+**Konsekuensi.** Seberapa besar dampak jika masalah tidak ditangani? Komponen yang memengaruhi keselamatan atau fungsi utama perlu dibedakan dari komponen dekoratif; urutan tindakannya harus mengikuti penilaian proyek.
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Merancang Profil Ekstrusi Aluminium untuk Fungsi, Fabrikasi, dan Perawatan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Urgensi.** Seberapa cepat masalah harus ditangani? Masalah yang bisa menyebabkan kegagalan segera memiliki prioritas lebih tinggi. Jangan tunda penanganan masalah kritis.
 
-## Objection or shortcut to address
+**Akses.** Seberapa mudah akses ke komponen untuk perawatan atau perbaikan? Pertimbangkan kemudahan akses saat merancang profil. Pastikan ada ruang yang cukup untuk perawatan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Biaya siklus hidup.** Pertimbangkan biaya jangka panjang, bukan hanya biaya awal. Profil yang murah di awal mungkin mahal untuk perawatan jangka panjang.
 
-## Required conclusion
+## Rekaman, serah terima, dan pemicu pemeriksaan ulang
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Pastikan semua rekaman perawatan dan inspeksi tersimpan dengan baik dan bisa diakses oleh pihak yang berwenang. Rekaman ini penting untuk:
 
-## Draft completion checklist
+**Serah terima.** Ketika tanggung jawab berpindah ke pihak lain, rekaman yang lengkap akan membantu proses serah terima. Pastikan semua dokumen terorganisir dengan baik dan mudah diakses.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+**Pemicu pemeriksaan ulang.** Tetapkan pemicu yang jelas untuk pemeriksaan ulang, misalnya setelah perubahan kondisi lingkungan, kerusakan akibat cuaca, atau interval waktu tertentu.
+
+## Mitos yang sering menyesatkan
+
+"Profil aluminium tidak memerlukan perawatan karena tahan karat." Pemikiran ini salah karena meskipun aluminium memiliki ketahanan korosi yang baik, profil tetap membutuhkan perawatan rutin untuk menjaga kinerja dan umur pakai. Pembersihan, pengecekan baut, dan pemantauan kondisi tetap diperlukan.
+
+Pilihan yang lebih aman adalah menentukan akses dan metode perawatan berdasarkan sistem yang benar-benar dipilih, lalu menyimpan rekamannya. Kawan Almini.id, pertimbangkan juga [pilihan produk aluminium untuk kebutuhan berbeda](/produk-aluminium-yogyakarta.html) sejak awal perancangan.
+
+## Kesimpulan dengan langkah konkret
+
+Merancang profil ekstrusi aluminium membutuhkan pertimbangan yang cermat antara fungsi, fabrikasi, dan perawatan. Mulailah dengan menentukan objek dan kondisi, pahami mekanisme perubahan, buat sistem inspeksi, dan pilih opsi perawatan yang sesuai. Jangan lupa untuk mendokumentasikan semua temuan dan menetapkan pemicu pemeriksaan ulang.
+
+Langkah konkret yang bisa Anda ambil sekarang adalah membuat checklist perancangan profil ekstrusi yang mencakup semua aspek penting: fungsi, fabrikasi, perawatan, inspeksi, dan dokumentasi. Gunakan checklist ini sebagai panduan saat merancang profil untuk proyek Anda.
+
+Sobat Almini.id, profil yang baik mempertimbangkan bukan hanya fungsi saat ini, tetapi juga kemudahan fabrikasi, pemasangan, dan perawatan di masa mendatang. Mulai dari kebutuhan serta kondisi yang benar-benar diketahui, lalu bangun keputusan dari bukti, bukan asumsi.

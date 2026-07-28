@@ -2,8 +2,9 @@
 article_id: ALM-03-A03
 title: "Menekuk Aluminium: Radius, Springback, Retak, dan Arah Material"
 slug: "menekuk-aluminium"
-description: "Explain alloy/temper/form effects, bend direction, inside radius, springback, tooling, trials, surface protection, dimensional verification, and stop conditions"
-status: outline
+description: "Pelajari cara menekuk aluminium: pengaruh paduan/temper/bentuk, arah tekuk, radius dalam, springback, tooling, uji coba, perlindungan permukaan, verifikasi dimensi, dan kondisi berhenti."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2025-11-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,54 +15,18 @@ reader_address: "Sobat Almini.id"
 final_route: "/artikel/menekuk-aluminium.html"
 technical_review: required
 sources:
-  - "https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf"
-  - "https://iwfa.com/inspection-guidelines/"
-  - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://www.iso.org/standard/62085.html"
-  - "https://www.astm.org/e2357-18.html"
-  - "https://www.astm.org/e1105-15r23.html"
   - "https://www.iso.org/standard/85023.html"
-  - "https://www.iso.org/committee/50126/x/catalogue/"
-  - "https://www.iso.org/standard/76708.html"
-  - "https://www.iso.org/standard/30010.html"
-  - "https://www.iso.org/standard/64572.html"
-  - "https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf"
-  - "https://www.osha.gov/sites/default/files/enforcement/directives/CPL_03-00-008.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Menekuk Aluminium: Radius, Springback, Retak, dan Arah Material
 
-## Assignment lock
+Halo, Sobat Almini.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Menekuk Aluminium: Radius, Springback, Retak, dan Arah Material”
-- **Reader and situation:** Designer or fabricator preparing bends
-- **Reader outcome:** Explain alloy/temper/form effects, bend direction, inside radius, springback, tooling, trials, surface protection, dimensional verification, and stop conditions
-- **Primary intent:** Plan forming without cracking or distortion
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Sobat Almini.id`
-- **Natural variants:** `Kawan Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes giving one universal minimum radius; product data and qualified procedure govern, while ALM-05 owns structural adequacy
-- **Final public route:** `/artikel/menekuk-aluminium.html`
-- **Appointed CMS date:** `2025-11-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Menekuk aluminium bukan pekerjaan “tekan lalu jadi”. Setelah tekanan dilepas, bentuk dapat kembali sebagian; gejala ini biasa disebut *springback*. Retak, sudut meleset, atau permukaan terjepit menjadi alasan untuk memeriksa paduan, temper, arah bahan, radius, alat, dan setelan satu per satu. Temper sendiri mempunyai sistem penamaan khusus ([ISO 2107:2023](https://www.iso.org/standard/85023.html)), tetapi kode temper bukan resep parameter penekukan.
 
-## Opening instructions
+Sederhananya, catat paduan, temper, bentuk, arah bahan, alat, radius target, dan kriteria hasil sebelum mencoba setelan. Tanpa data itu, retak atau sudut meleset hanya akan menghasilkan tebakan baru.
 
-- Open with the exact short salutation: **“Halo, Sobat Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menekuk Aluminium: Radius, Springback, Retak, dan Arah Material**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Almini.id`, `Kawan Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -70,149 +35,85 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-16
-
-- **Original sources:** [NGA/GANA Glazing Manual, 2022 IYOG edition](https://www.glass.org/sites/default/files/2023-01/GANA_Glazing_Manual_2022_pw.pdf), [IWFA inspection-guideline overview](https://iwfa.com/inspection-guidelines/), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Define a defensible evidence chain from baseline through acceptance and operation.
-- **Safe grounded facts:** Useful records include zones, product/manufacturer, batch or traceability identifier where available, glass/configuration, dates, installer/vendor, access method, site conditions, photos, measurements where agreed, damage/exclusions, care instructions, warranty issuer, notice route, and open items.
-- **Limits:** Do not invent visual tolerances, measurement protocols, cure periods, remedies, or warranty coverage. Apply GATE-01, GATE-06, and GATE-09 to the actual contract and product.
-
-### KR-29
-
-- **Original sources:** [ISO 9001:2015 quality management](https://www.iso.org/standard/62085.html), [ASTM E2357 air-barrier assemblies](https://www.astm.org/e2357-18.html), [ASTM E1105 field water test](https://www.astm.org/e1105-15r23.html).
-- **Purpose for this article:** Ground design freeze, submittals, samples/mock-ups, factory/site QA, logistics, tolerances, installation, tests, defects, as-builts, and warranty.
-- **Safe grounded facts:** Approved shop drawing, material batch, sample, mock-up, factory record, receiving check, setting-out record, concealed-work inspection, test, punch list, and as-built differ.
-- **Limits:** No fabrication tolerance, installation sequence, test method/pressure, sample acceptance, repair, commissioning, or warranty claim without project-approved documents and competent witnesses.
-
-### KR-31
-
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
-
-### KR-32
-
-- **Original sources:** [ISO/TR 17671-4 aluminium arc-welding guidance](https://www.iso.org/standard/30010.html) and [ISO 18273:2015 aluminium welding-consumable classification](https://www.iso.org/standard/64572.html).
-- **Purpose for this article:** Prevent steel-welding assumptions or filler trade names from being transferred to aluminium work.
-- **Safe grounded facts:** Filler classification is based on chemical composition; the welding guidance does not establish finished-joint mechanical properties or project acceptance by itself.
-- **Limits:** No procedure, filler selection, allowable property, distortion tolerance, defect acceptance, or structural conclusion without the application standard, qualified procedure/personnel, drawings, and inspection plan.
-
-### KR-36
-
-- **Original sources:** [OSHA combustible-dust technical manual](https://www.osha.gov/sites/default/files/otm_secIV_chap6.pdf), [OSHA combustible-dust emphasis directive](https://www.osha.gov/sites/default/files/enforcement/directives/CPL_03-00-008.pdf), and the Indonesian K3 sources already mapped in KR-02/KR-03.
-- **Purpose for this article:** Bound cutting, grinding, polishing, welding, finishing, housekeeping, ventilation, ignition, lifting, and site-installation guidance.
-- **Safe grounded facts:** Solid aluminium product behavior does not describe accumulated dust; generic housekeeping or PPE language is not a dust-hazard analysis or process control plan.
-- **Limits:** Do not prescribe collection equipment, ventilation, extinguishing, zoning, exposure limits, PPE, or hot-work procedures without current Indonesian requirements and a site/process-specific competent design.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/category/produk-material-aluminium/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ALM-03-A01` → `/artikel/alur-fabrikasi-aluminium.html` — Alur Fabrikasi Aluminium: Dari Gambar hingga Inspeksi Akhir
-- `ALM-03-A02` → `/artikel/memotong-dan-memesin-aluminium.html` — Memotong, Mengebor, dan Memesin Aluminium Tanpa Merusak Tepi
-- `ALM-03-A04` → `/artikel/pengelasan-aluminium-dan-buktinya.html` — Pengelasan Aluminium: Kapan Diperlukan dan Bukti Apa yang Harus Ada
-- `ALM-03-A05` → `/artikel/metode-sambungan-aluminium.html` — Baut, Rivet, Adhesive, atau Las: Memilih Metode Sambungan Aluminium
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+ Gambar ini bukan dokumentasi proyek tertentu; hanya ilustrasi umum tentang jasa pintu jendela aluminium.
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Menekuk Aluminium: Radius, Springback, Retak, dan Arah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika Anda mendapati aluminium retak, bengkok tidak akurat, atau permukaan rusak setelah ditekuk, langkah pertama adalah mencatat gejala secara jelas: jenis keretakan, lokasi, jenis aluminium yang digunakan, dan parameter penekukan yang diterapkan. Dengan mencatat gejala terlebih dahulu, Anda menghindari tebakan yang bisa mengarah ke perbaikan yang salah.
+
+Kondisi material juga menentukan cara uji. Jangan menilai “terlalu keras” hanya dari rasa atau tampilan; cocokkan identitas material dan periksa cacat, kotoran, serta kerusakan permukaan yang terlihat. Teman Almini.id, setelan untuk satu paduan, temper, bentuk, dan arah tidak boleh dipindahkan ke material lain tanpa verifikasi. Untuk memahami lebih lanjut tentang produk aluminium, kunjungi [daftar produk aluminium untuk berbagai kebutuhan](/produk-aluminium-yogyakarta.html).
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Menekuk Aluminium: Radius, Springback, Retak, dan Arah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada situasi yang perlu ditahan atau dibatasi aksesnya ketika ditemukan masalah dalam proses penekukan:
+
+**Ketika aluminium mulai retak.** Jika terlihat atau terdengar tanda retak saat menekuk, tahan proses bila aman dilakukan. Catat lokasi dan kondisi sampel; retak perlu dinilai sebelum komponen dipakai atau proses diteruskan.
+
+**Ketika dimensi menyimpang jauh.** Jika dimensi hasil penekukan menyimpang jauh dari target, tahan proses dan periksa parameter, tooling, atau kondisi material sebelum mengulangnya.
+
+**Ketika permukaan rusak.** Jika permukaan aluminium tergores, terbaret, atau berubah warna akibat proses penekukan, tahan proses dan periksa kondisi tooling serta perlindungan permukaan yang dipakai.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Menekuk Aluminium: Radius, Springback, Retak, dan Arah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Masalah dalam penekukan aluminium bisa terjadi melalui beberapa mekanisme:
+
+**Radius terlalu kecil.** Radius yang terlalu rapat untuk material dan bentuk tertentu dapat meningkatkan risiko retak pada garis tekuk. Nilai radius yang boleh dipakai harus kembali ke data pemasok atau hasil uji sampel; artikel ini tidak menetapkan angka minimum universal.
+
+**Springback tidak diperhitungkan.** Aluminium memiliki kecenderungan untuk kembali ke posisi semula setelah ditekuk (springback). Jika springback tidak diperhitungkan, dimensi akhir akan menyimpang dari yang diharapkan.
+
+**Arah bahan tidak dicatat.** Arah proses sebelumnya dapat memengaruhi hasil tekuk pada material tertentu. Karena pengaruhnya bergantung pada produk dan temper, tandai arah pada sampel lalu bandingkan hasil uji, alih-alih menganggap satu arah selalu aman.
+
+**Tooling tidak sesuai.** Bila alat aus, rusak, atau bentuknya tidak cocok dengan pekerjaan, hasil dan permukaan dapat berubah. Hentikan uji, dokumentasikan alat serta sampel, lalu ubah satu variabel pada satu waktu agar penyebabnya dapat ditelusuri.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Menekuk Aluminium: Radius, Springback, Retak, dan Arah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan pemeriksaan yang terstruktur akan membantu Anda mendapatkan data yang berguna tanpa terburu-buru mengambil kesimpulan:
+
+1. **Pemeriksaan visual.** Periksa aluminium setelah proses penekukan: apakah ada retakan, goresan, atau perubahan warna. Catat jenis dan lokasi kerusakan.
+
+2. **Pengukuran dimensi.** Ukur dimensi hasil penekukan dan bandingkan dengan gambar teknik. Perhatikan toleransi yang diizinkan.
+
+3. **Uji sampel.** Buat sampel perwakilan dengan material, arah, dan tooling yang sama. Tujuannya di tahap ini adalah memeriksa retak, permukaan, dan sudut hasil; pengujian kekuatan atau penerimaan formal memerlukan metode serta kriteria yang ditetapkan pihak berwenang.
+
+4. **Dokumentasi.** Catat semua temuan dalam dokumen yang bisa diaudit. Sertakan parameter penekukan, jenis tooling, dan kondisi material.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menekuk Aluminium: Radius, Springback, Retak, dan Arah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Setelah pemeriksaan selesai, pisahkan antara fakta temuan, kondisi kerja yang terbatas, dan asumsi yang masih perlu diverifikasi. Dengan memisahkan ini, Anda menghindari kesalahan interpretasi yang bisa mengarah ke perbaikan yang salah.
+
+Contoh pemisahan yang berguna:
+
+- Fakta: Aluminium menunjukkan retakan kecil pada sudut 90 derajat. Kondisi kerja: Radius tekuk 2mm.
+- Asumsi: Radius mungkin terlalu kecil untuk jenis aluminium ini, tapi masih perlu verifikasi dengan data spesifikasi.
+
+Ketika hasil pemeriksaan belum cukup untuk menentukan penyebab masalah, pertahankan pencatatan data dan konsultasikan dengan tenaga kompeten sebelum mengambil keputusan perbaikan. Pastikan setiap langkah perbaikan didokumentasikan dan diverifikasi sebelum diterapkan secara menyeluruh.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Menekuk Aluminium: Radius, Springback, Retak, dan Arah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tindakan yang tersedia bisa dikategorikan dalam beberapa kelompok berdasarkan tingkat keparahan:
 
-## Objection or shortcut to address
+**Penyesuaian parameter.** Ubah radius, sudut awal, atau kecepatan secara terpisah pada sampel. Catat hasil setelah *springback* agar keputusan tidak didasarkan pada bentuk yang terlihat saat masih berada di mesin.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Penggantian tooling.** Jika tooling sudah aus atau tidak sesuai, penggantian mungkin diperlukan. Cocokkan alat pengganti dengan pekerjaan dan petunjuk peralatannya.
 
-## Required conclusion
+**Uji coba sebelum produksi.** Untuk memastikan parameter yang benar, lakukan uji coba pada sampel perwakilan sebelum memproduksi komponen dalam jumlah besar.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+**Eskalasi profesional.** Jika retak, perubahan bentuk, atau kerusakan permukaan terus berulang, minta pihak yang memahami pembentukan aluminium meninjau identitas material, arah, alat, setelan, dan kriteria penerimaan. Untuk komponen penting, tahan penggunaan sampai hasilnya dinilai sesuai kebutuhan proyek.
 
-## Draft completion checklist
+## Mitos yang sering menyesatkan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+“Semua aluminium dapat ditekuk dengan cara yang sama.” Pemikiran ini keliru karena paduan, temper, bentuk, arah, radius, alat, dan kondisi permukaan dapat mengubah hasil. Jangan mengubahnya menjadi aturan tunggal bahwa satu temper selalu lebih mudah atau lebih rentan retak; gunakan data pemasok dan sampel yang mewakili pekerjaan.
+
+Pilihan yang lebih aman adalah selalu memahami karakteristik aluminium yang akan ditekuk, memilih parameter yang sesuai, dan melakukan uji coba sebelum produksi. Jika ragu, konsultasikan dengan tenaga kompeten atau produsen aluminium. Untuk informasi lebih lanjut tentang produk aluminium, kunjungi [halaman produk aluminium Yogyakarta](/produk-aluminium-yogyakarta-2.html).
+
+## Kesimpulan dengan langkah konkret
+
+Menekuk aluminium membutuhkan pemahaman yang baik tentang karakteristik material dan parameter proses. Mulailah dengan mencatat gejala, periksa risiko, pahami mekanisme yang mungkin terjadi, dan dokumentasikan setiap langkah. Jika ada masalah, jangan ragu untuk berkonsultasi dengan tenaga kompeten.
+
+Langkah konkret yang bisa Anda ambil sekarang adalah membuat catatan hasil uji untuk setiap kombinasi material, bentuk, arah, alat, dan pekerjaan. Isi radius, setelan, perlindungan permukaan, hasil ukur, serta cacat yang terlihat, tetapi jangan memakai catatan itu untuk paduan atau bentuk lain tanpa verifikasi ulang.
+
+Sobat Almini.id, tekukan yang baik dimulai dari sampel yang mewakili pekerjaan nyata, bukan dari keyakinan bahwa semua aluminium bereaksi sama. Simpan catatan material, arah, tooling, dan hasil ukur. Dengan begitu, ketika hasil berubah, tim punya titik awal yang bisa diperiksa.

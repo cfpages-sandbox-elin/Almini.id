@@ -2,8 +2,9 @@
 article_id: ALM-04-A01
 title: "Mengapa Aluminium Bisa Korosi: Oksida, Pitting, Celah, dan Lingkungan Indonesia"
 slug: "mengapa-aluminium-bisa-korosi"
-description: "Explain protective oxide limits, pitting, crevice conditions, deposits, drainage, humidity, salt, pollutants, alloy/finish effects, inspection, and prevention"
-status: outline
+description: "Pelajari mengapa aluminium bisa korosi: batas pelindung oksida, pitting, kondisi celah, endapan, drainase, kelembapan, garam, polutan, pengaruh paduan/finishing, inspeksi, dan pencegahan."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2025-12-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,51 +15,19 @@ reader_address: "Kawan Almini.id"
 final_route: "/artikel/mengapa-aluminium-bisa-korosi.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/72238.html"
-  - "https://pesta.bsn.go.id/produk/index/"
-  - "https://www.iso.org/standard/45798.html"
-  - "https://www.iso.org/standard/83053.html"
-  - "https://www.iso.org/standard/85023.html"
-  - "https://www.iso.org/committee/50126/x/catalogue/"
-  - "https://www.iso.org/standard/76708.html"
   - "https://www.iso.org/standard/70156.html"
   - "https://www.iso.org/standard/80119.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Mengapa Aluminium Bisa Korosi: Oksida, Pitting, Celah, dan Lingkungan Indonesia
 
-## Assignment lock
+Halo, Kawan Almini.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Mengapa Aluminium Bisa Korosi: Oksida, Pitting, Celah, dan Lingkungan Indonesia”
-- **Reader and situation:** Owner, designer, or maintainer seeing deterioration
-- **Reader outcome:** Explain protective oxide limits, pitting, crevice conditions, deposits, drainage, humidity, salt, pollutants, alloy/finish effects, inspection, and prevention
-- **Primary intent:** Understand and prevent corrosion mechanisms
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Kawan Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Teman Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes diagnosing electrical contact damage, owned by ALM-04-A04, and repair selection, owned by ALM-04-A06
-- **Final public route:** `/artikel/mengapa-aluminium-bisa-korosi.html`
-- **Appointed CMS date:** `2025-12-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Aluminium bukan baja, jadi perubahan permukaannya tidak perlu langsung disebut “karat” dengan mekanisme yang sama. Aluminium membentuk lapisan oksida alami, tetapi satu noda, titik, atau perubahan warna tetap perlu dibaca bersama air, endapan, finishing, sambungan, dan material yang menyentuhnya.
 
-## Opening instructions
+Jadi, jangan berhenti di pertanyaan “aluminium bisa korosi atau tidak?”. Pertanyaan yang lebih berguna ialah: di mana air atau kotoran tertahan, apa yang menyentuh permukaan, dan apakah finishing serta drainasenya masih bekerja. *Pitting* berarti korosi berbentuk titik atau lubang kecil; penyebab pastinya pada suatu lokasi perlu diperiksa, bukan ditebak dari foto saja.
 
-- Open with the exact short salutation: **“Halo, Kawan Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengapa Aluminium Bisa Korosi: Oksida, Pitting, Celah, dan Lingkungan Indonesia**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Almini.id`, `Sobat Almini.id`, or `Teman Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -67,140 +36,85 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-21
-
-- **Original sources:** [ISO 12944-2 corrosion environments](https://www.iso.org/standard/64834.html), [ISO 14713-1 zinc-coating guidance](https://www.iso.org/standard/72238.html), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
-- **Purpose for this article:** Ground aluminium, steel, ACP/ACM, solid sheet, cassette, subframe, coatings, corrosion, fabrication, fire, and replacement boundaries.
-- **Safe grounded facts:** “ACP,” “aluminium,” “galvanized,” “powder-coated,” or “stainless” is not a complete product or system specification.
-- **Limits:** No grade, core, coating life, fire class, fixing, oil-canning, corrosion, substitution, or system-performance claim without matched evidence.
-
-### KR-30
-
-- **Original sources:** [ISO 15686-1 service-life planning](https://www.iso.org/standard/45798.html), [ISO 55000:2024 asset-management vocabulary](https://www.iso.org/standard/83053.html).
-- **Purpose for this article:** Ground inspection/access, cleaning, defect triage, diagnosis, making-safe, planned maintenance, repair/replace/retrofit, records, and lifecycle decisions.
-- **Safe grounded facts:** Symptom, access/viewing limitation, baseline, test, root-cause hypothesis, consequence, temporary control, repair design, acceptance, and monitoring are separate.
-- **Limits:** No remote declaration of safety, cause, repair method, cleaner compatibility, remaining life, cost, warranty, or reuse/recycling outcome without condition evidence and competent review.
-
-### KR-31
-
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
-
-### KR-33
-
-- **Original sources:** [ISO 7599:2018 decorative/protective anodizing](https://www.iso.org/standard/70156.html) and [ISO 10074:2021 hard anodizing](https://www.iso.org/standard/80119.html).
-- **Purpose for this article:** Ground finish selection, appearance, durability, inspection, care, and substitution.
-- **Safe grounded facts:** Anodized appearance or nominal treatment name does not prove coating grade, sealing quality, abrasion behavior, corrosion result, electrical insulation, or service life.
-- **Limits:** Obtain the full invoked specification, applicator process record, approved physical sample, test report, exposure classification, and compatible-care guidance.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ALM-04-A02` → `/artikel/korosi-galvanik-aluminium.html` — Korosi Galvanik Aluminium saat Bertemu Baja, Stainless, dan Tembaga
-- `ALM-04-A03` → `/artikel/anodizing-powder-coating-dan-cat-aluminium.html` — Anodizing, Powder Coating, dan Cat Cair untuk Aluminium
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+ Gambar ini bukan dokumentasi proyek tertentu; hanya ilustrasi umum tentang jasa pintu jendela aluminium.
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Aluminium Bisa Korosi: Oksida, Pitting, Celah, dan Lingkungan Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika Anda mendapati aluminium mulai menunjukkan tanda-tanda korosi seperti bercak putih, lubang kecil (pitting), atau permukaan yang berubah warna, langkah pertama adalah mencatat gejala secara jelas: jenis kerusakan, lokasi, ukuran, dan kondisi lingkungan sekitar. Dengan mencatat gejala terlebih dahulu, Anda menghindari tebakan yang bisa mengarah ke penanganan yang salah.
+
+Kondisi akses juga menentukan batas pengamatan. Jika bagian belakang profil, celah, atau sambungan tertutup, catat bahwa penyebab dan luas perubahan belum dapat dipastikan. Kawan Almini.id, foto permukaan yang terlihat tidak boleh menggantikan pemeriksaan area tersembunyi. Untuk memahami lebih lanjut tentang produk aluminium, kunjungi [daftar produk aluminium untuk berbagai kebutuhan](/produk-aluminium-yogyakarta.html).
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Aluminium Bisa Korosi: Oksida, Pitting, Celah, dan Lingkungan Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada situasi yang harus segera dihentikan atau dibatasi aksesnya ketika ditemukan tanda-tanda korosi pada aluminium:
+
+**Ketika korosi mengenai komponen struktural.** Jika korosi mengenai komponen yang menahan beban atau bagian penting dari struktur, segera hentikan penggunaan dan minta pemeriksaan dari tenaga kompeten.
+
+**Ketika ada lubang atau kehilangan penampang pada bagian penting.** Jangan menilai kedalaman hanya dengan mata. Batasi penggunaan bila keselamatan dipertanyakan, dokumentasikan lokasi, lalu minta pemeriksaan dan pengukuran yang sesuai sebelum memutuskan perbaikan atau penggantian.
+
+**Ketika korosi merambat luas.** Jika korosi sudah merambat ke area yang luas, penanganan yang lebih serius mungkin diperlukan. Minta review dari tenaga kompeten sebelum mengambil keputusan.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Aluminium Bisa Korosi: Oksida, Pitting, Celah, dan Lingkungan Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Korosi pada aluminium bisa terjadi melalui beberapa mekanisme:
+
+**Pitting korosi.** Pitting adalah korosi setempat berbentuk titik atau lubang kecil. Garam dan kontaminan dapat menjadi faktor yang perlu diperiksa, tetapi artikel ini tidak dapat menetapkan penyebab kimia suatu titik tanpa pemeriksaan lokasi dan, bila diperlukan, analisis lebih lanjut.
+
+**Korosi celah (crevice corrosion).** Air yang terjebak dalam celah sempit antara aluminium dan material lain bisa menciptakan kondisi yang mendukung korosi. Celah ini sulit dibersihkan dan bisa mengakumulasi kontaminan.
+
+**Area di bawah endapan.** Kotoran atau material lain dapat menahan kelembapan dan menutup kondisi permukaan. Ikuti petunjuk perawatan finishing saat membersihkan, lalu periksa apakah perubahan tetap ada; jangan menggosok agresif hanya untuk membuktikan dugaan korosi.
+
+**Korosi galvanik.** Kontak antara logam berbeda dalam keadaan basah perlu diperiksa sebagai satu kemungkinan mekanisme. Nilai risikonya bergantung pada pasangan material, area, elektrolit, dan detail sambungan; jangan menyatakan penyebabnya pasti hanya karena dua logam berdekatan.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Aluminium Bisa Korosi: Oksida, Pitting, Celah, dan Lingkungan Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan pemeriksaan yang terstruktur akan membantu Anda mendapatkan data yang berguna tanpa terburu-buru mengambil kesimpulan:
+
+1. **Pemeriksaan visual.** Periksa seluruh permukaan aluminium untuk mengetahui jenis dan distribusi korosi. Catat warna, ukuran, dan lokasi kerusakan.
+
+2. **Pengukuran ketebalan.** Ukur ketebalan aluminium di area yang terkorosi untuk menentukan seberapa dalam pengikisan sudah terjadi.
+
+3. **Pemeriksaan kondisi lingkungan.** Periksa kondisi lingkungan sekitar: kelembapan, paparan garam, polutan, dan drainase.
+
+4. **Dokumentasi.** Catat semua temuan dalam dokumen yang bisa diaudit. Sertakan foto dan pengukuran sebagai bukti.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Aluminium Bisa Korosi: Oksida, Pitting, Celah, dan Lingkungan Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Setelah pemeriksaan selesai, pisahkan antara fakta temuan, kondisi akses yang terbatas, dan asumsi yang masih perlu diverifikasi. Dengan memisahkan ini, Anda menghindari kesalahan interpretasi yang bisa mengarah ke penanganan yang salah.
+
+Contoh pemisahan yang berguna:
+
+- Fakta: Ada titik berlubang pada permukaan aluminium dan area itu terkena hujan langsung.
+- Dugaan yang perlu diuji: endapan, garam, detail celah, atau kondisi lain mungkin ikut berperan. Kedalaman dan penyebabnya belum boleh dipastikan tanpa pengukuran serta pemeriksaan yang memadai.
+
+Ketika hasil pemeriksaan belum cukup untuk menentukan penyebab korosi, pertahankan pencatatan data dan konsultasikan dengan tenaga kompeten sebelum mengambil keputusan perbaikan. Pastikan setiap langkah perbaikan didokumentasikan dan diverifikasi sebelum diterapkan secara menyeluruh.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Aluminium Bisa Korosi: Oksida, Pitting, Celah, dan Lingkungan Indonesia”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tindakan yang tersedia bisa dikategorikan dalam beberapa kelompok berdasarkan tingkat keparahan:
 
-## Objection or shortcut to address
+**Pencegahan.** Tentukan tindakan dari hasil pemeriksaan: kondisi finishing, drainase, endapan, dan paparan lingkungan perlu dibaca sebagai satu sistem. Jangan menetapkan perbaikan sebelum penyebab serta batas aksesnya cukup jelas.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Pembersihan rutin.** Bersihkan aluminium secara rutin untuk menghilangkan endapan dan kontaminan yang bisa mendukung korosi. Gunakan pembersih yang sesuai dengan jenis finishing aluminium.
 
-## Required conclusion
+**Perbaikan atau penggantian.** Jika korosi sudah signifikan, perbaikan atau penggantian komponen mungkin diperlukan. Pastikan penggantian dilakukan dengan material yang sesuai.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+**Eskalasi profesional.** Jika ada kehilangan material, retak, perubahan bentuk, sambungan longgar, area yang terus basah, atau komponen mempunyai fungsi penting, minta penilaian dari pihak yang kompeten dalam sistem aluminium dan korosi.
 
-## Draft completion checklist
+## Mitos yang sering menyesatkan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+"Aluminium tidak bisa berkarat seperti baja, jadi tidak perlu dirawat." Pemikiran ini salah karena aluminium juga bisa mengalami korosi dalam kondisi tertentu. Lapisan oksida alami memang memberikan perlindungan, tapi perlindungan ini bisa dilampaui oleh lingkungan yang agresif.
+
+Finishing juga bukan satu kategori tunggal. ISO 7599 membahas anodizing dekoratif/protektif, sedangkan ISO 10074 membahas hard anodizing ([ISO 7599:2018](https://www.iso.org/standard/70156.html); [ISO 10074:2021](https://www.iso.org/standard/80119.html)). Karena itu, identifikasi sistem permukaan dan ikuti petunjuk perawatannya; jangan memindahkan metode dari satu jenis lapisan ke jenis lain. Untuk informasi lebih lanjut, kunjungi [halaman produk aluminium Yogyakarta](/produk-aluminium-yogyakarta-2.html).
+
+## Kesimpulan dengan langkah konkret
+
+Aluminium dapat mengalami perubahan permukaan atau korosi ketika kondisi lokasi, air yang tertahan, endapan, finishing, sambungan, dan material di sekitarnya perlu diperiksa bersama. Mulailah dengan mencatat gejala, periksa risiko, pahami mekanisme yang mungkin terjadi, dan dokumentasikan setiap langkah.
+
+Langkah konkret yang bisa Anda ambil sekarang adalah melakukan audit kondisi aluminium di fasilitas Anda: identifikasi area yang berisiko tinggi, pastikan drainase dan finishing memadai, dan buat jadwal pembersihan rutin. Gunakan audit ini sebagai dasar untuk program pemeliharaan yang lebih terstruktur. Pastikan setiap temuan didokumentasikan dan ditindaklanjuti secara berkala.
+
+Kawan Almini.id, mulai dari satu putaran inspeksi sederhana: cari air yang tertahan, endapan, finishing yang rusak, dan sambungan yang sulit dibersihkan. Catat temuan sebelum membersihkan atau memperbaiki. Catatan itu membuat pemeriksaan berikutnya lebih berguna daripada sekadar menebak.

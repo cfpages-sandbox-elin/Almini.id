@@ -2,8 +2,9 @@
 article_id: ALM-13-A02
 title: "Memilah Scrap Aluminium agar Nilai dan Kemungkinan Daur Ulang Tidak Hilang"
 slug: "memilah-scrap-aluminium"
-description: "Define source segregation, alloy/form/finish knowledge, contamination, fasteners/glass/sealants, swarf/fines, storage, safety, weighing, chain of custody, and recycler questions"
-status: outline
+description: "Pelajari cara memilah scrap aluminium agar nilai dan kemungkinan daur ulang tidak hilang. Kenali segregasi sumber, pengetahuan paduan, kontaminasi, fastener, kaca, sealant, swarf, penyimpanan, keamanan, penimbunan, rantai tindanan, dan pertanyaan kepada daur ulang."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-07-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,50 +14,18 @@ reader_community: "Almini.id"
 reader_address: "Teman Almini.id"
 final_route: "/artikel/memilah-scrap-aluminium.html"
 technical_review: required
-sources:
-  - "https://peraturan.bpk.go.id/Details/104476/permen-"
-  - "https://www.iso.org/standard/45798.html"
-  - "https://www.iso.org/standard/83053.html"
-  - "https://www.iso.org/standard/85023.html"
-  - "https://www.iso.org/committee/50126/x/catalogue/"
-  - "https://www.iso.org/standard/76708.html"
-  - "https://www.iso.org/standard/14021"
-  - "https://www.iso.org/standard/38131.html"
+sources: []
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Memilah Scrap Aluminium agar Nilai dan Kemungkinan Daur Ulang Tidak Hilang
 
-## Assignment lock
+Halo, Teman Almini.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Memilah Scrap Aluminium agar Nilai dan Kemungkinan Daur Ulang Tidak Hilang”
-- **Reader and situation:** Workshop, project, or facility team generating scrap
-- **Reader outcome:** Define source segregation, alloy/form/finish knowledge, contamination, fasteners/glass/sealants, swarf/fines, storage, safety, weighing, chain of custody, and recycler questions
-- **Primary intent:** Manage aluminium scrap streams
-- **Reader community:** `Almini.id`
-- **Primary friendly address:** `Teman Almini.id`
-- **Natural variants:** `Sobat Almini.id` and `Kawan Almini.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes scrap prices, hazardous-waste classification, or recycler endorsement; ALM-12 owns K3 and authorized waste channels govern disposal
-- **Final public route:** `/artikel/memilah-scrap-aluminium.html`
-- **Appointed CMS date:** `2026-07-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Scrap aluminium yang dicampur tanpa asal-usul dan kondisi yang jelas dapat lebih sulit dinilai atau diterima oleh pengolah. Banyak workshop mencampur semua potongan tanpa mencatat jenis bahan, bentuk, atau kontaminan yang terlihat.
 
-## Opening instructions
+Mulailah dengan memisahkan aluminium berdasarkan sumber, bentuk, dan tingkat kontaminasi yang benar-benar diketahui. Kriteria penerimaan akhirnya perlu ditanyakan kepada pihak penerima scrap.
 
-- Open with the exact short salutation: **“Halo, Teman Almini.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilah Scrap Aluminium agar Nilai dan Kemungkinan Daur Ulang Tidak Hilang**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Almini.id`, `Sobat Almini.id`, or `Kawan Almini.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -65,141 +34,96 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Pintu Jendela Aluminium` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Pintu Jendela Aluminium](/wp-content/uploads/2026/05/Jasa-Pintu-Jendela-Aluminium.jpeg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-17
-
-- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), [Permen PU No. 24/PRT/M/2008 — BPK](https://peraturan.bpk.go.id/Details/104476/permen-)
-- **Purpose for this article:** Support RFQs, scope normalization, cost-driver explanations, vendor comparison, and hidden-condition governance.
-- **Safe grounded facts:** Cleaning cost can change with area, contamination, access, frequency, hours, protection, water/logistics, and mobilization. Film cost can change with exact product, glazing compatibility, area/layout, waste, access, existing-film removal, attachment system, evidence, and warranty.
-- **Limits:** No public source here establishes a current project price, contractor capability, insurance, availability, tax, contract right, or change-order entitlement. Obtain dated quotations and project/legal review under GATE-09.
-
-### KR-30
-
-- **Original sources:** [ISO 15686-1 service-life planning](https://www.iso.org/standard/45798.html), [ISO 55000:2024 asset-management vocabulary](https://www.iso.org/standard/83053.html).
-- **Purpose for this article:** Ground inspection/access, cleaning, defect triage, diagnosis, making-safe, planned maintenance, repair/replace/retrofit, records, and lifecycle decisions.
-- **Safe grounded facts:** Symptom, access/viewing limitation, baseline, test, root-cause hypothesis, consequence, temporary control, repair design, acceptance, and monitoring are separate.
-- **Limits:** No remote declaration of safety, cause, repair method, cleaner compatibility, remaining life, cost, warranty, or reuse/recycling outcome without condition evidence and competent review.
-
-### KR-31
-
-- **Original sources:** [ISO 2107:2023 temper designations](https://www.iso.org/standard/85023.html), [ISO/TC 79/SC 6 wrought-aluminium catalogue](https://www.iso.org/committee/50126/x/catalogue/), and [ISO 6362-4:2022 extruded-profile tolerances](https://www.iso.org/standard/76708.html).
-- **Purpose for this article:** Replace generic “aluminium” labels with a defensible product-identity chain.
-- **Safe grounded facts:** Alloy name, temper, product form, dimensions/tolerances, mechanical-property record, surface condition, batch identity, and intended application are separate facts.
-- **Limits:** The public abstracts do not provide clauses or project acceptance values. Obtain the current full product standard, order specification, inspection record, and competent design basis.
-
-### KR-37
-
-- **Original sources:** [ISO 14021:2026 self-declared environmental claims](https://www.iso.org/standard/14021) and [ISO 14025:2006 Type III environmental declarations](https://www.iso.org/standard/38131.html).
-- **Purpose for this article:** Ground recycled-content, recyclability, circularity, carbon, EPD, reuse, and lifecycle comparisons.
-- **Safe grounded facts:** Aluminium's technical recyclability does not prove collection, recovery yield, recycled content, lower project impact, reusable condition, or a product-specific carbon result.
-- **Limits:** Recheck the current declaration, operator, PCR, verification, geography, energy mix, allocation, transport, service life, and end-of-life assumptions before comparison. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `ALM-01` | KR-19, KR-21, KR-31 | Aluminium fundamentals, alloy/temper/form identity, and the boundary between material, processed product, and installed system. | GATE-01, GATE-04, GATE-07. | | `ALM-02` | KR-17, KR-29, KR-31 | Product forms, tolerances, delivery evidence, measurement, comparable scope, and traceable procurement. | GATE-01, GATE-04, GATE-06, GATE-09. | | `ALM-03` | KR-16, KR-29, KR-31, KR-32, KR-36 | Forming, machining, aluminium welding, fabrication QA, combustible-dust/process hazards, and controlled handover. | GATE-01, GATE-02, GATE-04, GATE-06, GATE-07. | | `ALM-04` | KR-21, KR-30, KR-31, KR-33 | Finish identity, anodizing scope, exposure, dissimilar-metal/water-path interfaces, diagnosis, and compatible care. | GATE-01, GATE-04, GATE-05, GATE-07, GATE-10. | | `ALM-05` | KR-02, KR-18, KR-25, KR-29, KR-31, KR-32 | Structural use and retrofit as project-specific load-path, connection, fabrication, condition, and approval questions. | GATE-01, GATE-02, GATE-04, GATE-06, GATE-07, GATE-10. | | `ALM-06` | KR-19, KR-21, KR-25, KR-26, KR-28, KR-29, KR-34 | ACP/ACM, honeycomb, curtain-wall, spandrel, support, water/air, fire, falling-object, and commissioning evidence at assembly level. | GATE-02, GATE-04, GATE-06, GATE-07, GATE-08, GATE-10. | | `ALM-07` | KR-05, KR-08, KR-16, KR-25, KR-29, KR-35 | Frames, doors, windows, partitions, glazing, hardware, perimeter interfaces, operation, testing, and handover. | GATE-04, GATE-06, GATE-07, GATE-08, GATE-10. | | `ALM-08` | KR-21, KR-25, KR-26, KR-29, KR-31, KR-33 | Canopies, roofs, gutters, drainage, movement, support, exposure, finish, fabrication, and access as an installed outdoor system. | GATE-02, GATE-03, GATE-04, GATE-06, GATE-07, GATE-08. | | `ALM-09` | KR-07, KR-08, KR-21, KR-29, KR-33, KR-35 | Wet-interior aluminium through exact product/finish, joints, moisture path, cleaning compatibility, support, hardware, and installation evidence. | GATE-04, GATE-05, GATE-06, GATE-07, GATE-10. | | `ALM-10` | KR-11, KR-21, KR-27, KR-28, KR-34, KR-35 | Thermal, moisture, acoustic, and fire claims as method- and complete-assembly-specific outcomes. | GATE-01, GATE-02, GATE-04, GATE-07, GATE-08, GATE-10. | | `ALM-11` | KR-09, KR-16, KR-17, KR-29, KR-30, KR-33 | Installation, traceability, inspection, compatible cleaning, defect diagnosis, repair/replace decisions, and documented handover. | GATE-04, GATE-05, GATE-06, GATE-07, GATE-09, GATE-10. | | `ALM-12` | KR-02, KR-03, KR-04, KR-29, KR-32, KR-36 | Indonesian K3 baseline plus aluminium-specific hot work, dust, fume, chemical, lifting, height, public, and emergency controls. | GATE-02, GATE-03, GATE-04, GATE-06, GATE-08. | | `ALM-13` | KR-17, KR-30, KR-31, KR-37 | Product-specific environmental declarations, substantiated claims, condition-led reuse, separation, recovery route, and lifecycle scope. | GATE-04, GATE-06, GATE-07, GATE-09, GATE-10. | Coverage result: **13/13 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank - A glass face, coating, laminate, heat treatment, cavity, frame, gasket, sealant, edge seal, film, and attachment system are distinct components; one component's data does not automatically describe the assembly. - Appearance can support triage but cannot reliably identify concealed glass construction, coating surface, edge quality, seal failure cause, or structural capacity. - A test method defines how a specimen/configuration is assessed. Passing evidence requires the actual current report and a match between the tested and proposed systems. - Center-of-glazing product values do not prove whole-window, room, HVAC, comfort, or building-energy outcomes. - Safety/security claims are threat- and configuration-specific; film alone must not inherit a complete-system result. - Cleaning compatibility is not established by pH alone. Exact substrate, contamination, chemical, tool, water, adjacent finish, and manufacturer instructions matter. - Access-method selection and safe operation are site decisions requiring competent people, current equipment/system evidence, public protection, weather controls, and rescue. - Applied-film appearance changes during cure; acceptance must use the actual product instructions, contract, timing, viewing conditions, and agreed criteria. - Maintenance intervals and prices are project facts, not universal editorial facts. - Foreign standards, NFRC certification, NGA/IWFA/IRATA guidance, and manufacturer bulletins are useful technical evidence but are not Indonesian law. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `GATE-01` Exact clauses, definitions, equations, classifications, tolerances, test conditions, and pass/fail language. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain the current licensed full text and relevant competent interpretation. | | `GATE-02` Indonesian/local legal, permit, competence, inspection, and project applicability. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Check current official sources and the exact building, employer, locality, method, and date. | | `GATE-03` Access method, equipment, anchors, fall protection, weather controls, exclusion zone, and rescue. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain site evidence and a competent-person plan with current records. | | `GATE-04` Exact material, processed product, core/coating/treatment, dimensions, support/fixing, joint, interface, damage, and installed condition. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain product and batch identity, complete system records, close inspection/testing, and competent material/façade review. | | `GATE-05` Cleaner, tool, water, process, runoff, and adjacent-material compatibility. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain current TDS/SDS, substrate instructions, protection plan, and controlled test patch. | | `GATE-06` Exact fabrication, substitution, installation, concealed interface, mock-up, test, acceptance, commissioning, and handover evidence. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain approved shop drawings/submittals, material traceability, ITP/hold-point records, witnessed results, defect closure, and as-builts. | | `GATE-07` Numeric performance, certification, test result, structural capacity, and building outcome. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Match a current report/certification and method to the exact system; model or measure project outcomes. | | `GATE-08` Fire spread, cavity/opening interface, falling object, impact/guard, maintenance access, emergency access, and occupied-work safety. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain complete-assembly fire/structural evidence, access and rescue plan, current law/authority review, and qualified safety/façade/structural approval. | | `GATE-09` Price, availability, schedule, scope, insurance, warranty remedy, liability, approvals, and change rights. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Obtain dated project, quotation, contract, policy, warranty, and approval evidence. | | `GATE-10` Consequential structural, fire, water/air, thermal/solar, condensation, acoustic, forensic, repair, reuse, and lifecycle decisions. | `ALM-01`, `ALM-02`, `ALM-03`, `ALM-04`, `ALM-05`, `ALM-06`, `ALM-07`, `ALM-08`, `ALM-09`, `ALM-10`, `ALM-11`, `ALM-12`, `ALM-13` | Refer actual project evidence to the appropriate competent disciplines and commission defined calculations, mock-ups, tests, condition surveys, and approvals. | ## Source-refresh triggers - Recheck Indonesian official status immediately before publishing any legal, permit, competence, inspection, or K3 statement. - Recheck BSN/ISO/ASTM edition and status before naming a standard; obtain full text before using any exact clause or number. - Recheck NFRC directory entries, manufacturer bulletins, film-to-glass tables, installation instructions, and warranties for the exact product at publication and again at procurement. - Recheck IWFA, NGA, IRATA, and manufacturer documents when their revision date, URL, or technical scope changes. - Re-research the repository corpus if `TOPICAL_AUTHORITY.md`, `ARTICLE_CATALOG.md`, sitemap counts, commercial route ownership, products, or service claims change. - Treat every project survey, quotation, test report, certificate, warranty, and approval as dated evidence with a defined scope. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/produk-aluminium-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/produk-aluminium-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ALM-13-A01` → `/artikel/jejak-lingkungan-aluminium.html` — Jejak Lingkungan Aluminium: Cara Membaca Klaim dari Tambang hingga Daur Ulang
-- `ALM-13-A03` → `/artikel/bukti-kandungan-daur-ulang-aluminium.html` — Kandungan Daur Ulang Aluminium: Bukti Apa yang Layak Dipercaya?
-- `ALM-13-A04` → `/artikel/desain-sirkular-sistem-aluminium.html` — Desain untuk Bongkar Pasang, Pakai Ulang, dan Daur Ulang Sistem Aluminium
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+ Gambar ini bukan dokumentasi proyek tertentu; hanya ilustrasi umum tentang jasa pintu jendela aluminium.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilah Scrap Aluminium agar Nilai dan Kemungkinan Daur Ulang Tidak Hilang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Banyak yang mengira semua potongan bisa dicampur karena “aluminium tetap aluminium”. Padahal campuran tanpa identitas membuat pihak penerima lebih sulit menentukan kategori, cara penanganan, dan nilai. Artikel ini tidak menetapkan urutan harga antarpaduan; kriteria itu perlu dikonfirmasi kepada penerima berdasarkan material yang benar-benar dapat ditelusuri.
+
+Kesalahan lain ialah menganggap kontaminan yang terlihat tidak perlu dicatat. Baut, kaca, atau sealant dapat membuat aliran penerimaan berbeda; pisahkan bila aman dilakukan dan tanyakan kriteria penerimaannya. Untuk informasi lebih lanjut tentang produk aluminium, kunjungi [halaman produk aluminium Yogyakarta](/produk-aluminium-yogyakarta-2.html).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memilah Scrap Aluminium agar Nilai dan Kemungkinan Daur Ulang Tidak Hilang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas pemilahan scrap aluminium dari workshop, proyek, atau fasilitas yang menghasilkan potongan aluminium bekas. Yang termasuk dalam cakupan adalah segregasi sumber, pengetahuan tentang paduan dan bentuk, identifikasi kontaminasi, penanganan fastener, kaca, dan sealant, pengelolaan swarf dan fines, penyimpanan, keamanan, penimbunan, rantai tindanan, dan pertanyaan kepada pihak daur ulang.
+
+Yang tidak termasuk dalam cakupan ini adalah harga scrap, klasifikasi limbah berbahaya, atau rekomendasi pihak daur ulang spesifik. Untuk K3 dan saluran pembuangan limbah yang berwenang, rujukan yang tepat adalah ALM-12.
+
+Batas ini penting karena menentukan seberapa jauh Anda bisa mengandalkan informasi dalam artikel ini. Tanpa pemahaman tentang batas ini, Anda mungkin mengambil keputusan yang tidak sesuai dengan kondisi nyata di lapangan. Untuk memahami lebih lanjut tentang produk aluminium, kunjungi [daftar produk aluminium untuk berbagai kebutuhan](/produk-aluminium-yogyakarta.html).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memilah Scrap Aluminium agar Nilai dan Kemungkinan Daur Ulang Tidak Hilang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pemilahan scrap aluminium melibatkan beberapa tahapan utama yang saling berkaitan:
+
+**Segregasi sumber.** Pisahkan aluminium berdasarkan sumbernya: potongan dari fabrikasi, aluminium bekas dari demontase, atau aluminium dari proses produksi. Setiap sumber mungkin menghasilkan jenis scrap yang berbeda dengan karakteristik yang berbeda pula.
+
+**Identifikasi paduan dan bentuk.** Catat paduan hanya jika ada dokumen, penanda, atau rekaman yang dapat ditelusuri. Bentuk seperti ekstrusi, lembaran, atau serpihan juga perlu dicatat, tetapi jangan menjadikannya bukti tunggal untuk menebak paduan atau nilai.
+
+**Kontaminasi.** Catat baut, kaca, sealant, atau bahan lain yang melekat. Jangan menetapkan sendiri bahwa semua harus dibersihkan; ikuti persyaratan penerima scrap dan cara kerja yang aman.
+
+**Penyimpanan dan penimbunan.** Tentukan wadah, lokasi, dan cara penumpukan bersama kebutuhan akses serta aturan tempat kerja. Jangan membuat aturan penyimpanan universal tanpa mengetahui kondisi lokasi dan persyaratan penerima.
+
+**Rantai tindanan.** Dokumentasikan asal-usul scrap, jenis paduan, jumlah, dan kondisi. Rantai tindanan yang baik membantu membuktikan legalitas dan kualitas scrap kepada pihak daur ulang.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memilah Scrap Aluminium agar Nilai dan Kemungkinan Daur Ulang Tidak Hilang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa faktor menentukan seberapa baik pemilahan scrap aluminium dilakukan:
+
+**Pengetahuan tim tentang paduan.** Tim yang memahami perbedaan antara berbagai jenis paduan aluminium akan melakukan pemilahan yang lebih akurat. Tanpa pengetahuan ini, pemilahan hanya berdasarkan bentuk atau ukuran, bukan kualitas material.
+
+**Ketersediaan wadah dan label.** Ketersediaan wadah terpisah dan sistem pelabelan yang jelas sangat mempengaruhi kualitas pemilahan. Tanpa wadah dan label yang memadai, aluminium akan tercampur dan nilai daur ulangnya menurun.
+
+**Frekuensi pemilahan.** Pemilahan yang dilakukan secara rutin dan konsisten akan menghasilkan scrap yang lebih bersih dan terorganisir dibanding pemilahan yang dilakukan sesekali atau saat sudah menumpuk banyak.
+
+**Kondisi penyimpanan.** Catat apakah scrap terkena air, lumpur, atau kontaminan lain; pengaruhnya terhadap penerimaan dan nilai perlu dikonfirmasi kepada penerima.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memilah Scrap Aluminium agar Nilai dan Kemungkinan Daur Ulang Tidak Hilang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk membantu Anda membuat keputusan yang lebih baik dalam pemilahan scrap aluminium, berikut beberapa skenario praktis:
+
+**Skenario 1: Workshop kecil dengan volume rendah.** Jika workshop Anda hanya menghasilkan sedikit scrap aluminium, Anda bisa menggunakan dua wadah terpisah: satu untuk aluminium murni atau paduan ringan, dan satu untuk aluminium campur. Pastikan setiap wadah dilabeli dengan jelas jenis scrap dan tanggal penimbunan.
+
+**Skenario 2: Fasilitas dengan berbagai jenis produk.** Jika Anda menggunakan berbagai jenis produk aluminium (ekstrusi, lembaran, ACP), pastikan setiap jenis dipisah dan didokumentasikan secara terpisah. Penggunaan checklist harian bisa membantu memastikan tidak ada kontaminasi yang terlewat.
+
+**Skenario 3: Penanganan swarf dan fines.** Swarf (serpihan mesin) dan fines (debu halus) jangan diperlakukan seperti potongan besar tanpa pemeriksaan. Minta prosedur K3 dan penerimaan yang spesifik untuk proses serta lokasi Anda sebelum mengumpulkan, memindahkan, atau menyimpannya.
+
+Setiap keputusan harus didasarkan pada data aktual tentang jenis scrap, volume, kondisi penyimpanan, dan kriteria penerima.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memilah Scrap Aluminium agar Nilai dan Kemungkinan Daur Ulang Tidak Hilang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berikut beberapa kesalahan yang sering terjadi dalam pemilahan scrap aluminium dan cara memeriksanya:
 
-## Objection or shortcut to address
+**Kesalahan 1: Mencampur semua material tanpa jejak.** Tentukan kategori pemisahan bersama pihak penerima, lalu sediakan wadah untuk kategori yang benar-benar dapat dikenali. Jangan menulis nama paduan hanya berdasarkan rupa potongan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Kesalahan 2: Menentukan pembersihan tanpa kriteria penerima.** Catat baut, kaca, sealant, minyak, atau bahan lain yang terlihat. Lepaskan atau bersihkan hanya bila prosedurnya aman dan memang diminta oleh pihak penerima.
 
-## Required conclusion
+**Kesalahan 3: Wadah tidak punya identitas yang dapat ditelusuri.** Gunakan label atau catatan yang mengikuti prosedur tempat kerja dan kebutuhan penerima. Orang berikutnya perlu dapat membedakan asal, kategori yang diketahui, dan kondisi material tanpa mengarang data yang tidak tersedia.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+**Kesalahan 4: Menyimpan tanpa catatan.** Periksa apakah tiap wadah masih memiliki asal dan kondisi yang dapat dijelaskan kepada penerima.
 
-## Draft completion checklist
+## Mitos yang sering menyesatkan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Almini.id!` and uses friendly `Almini.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+“Semua aluminium dapat langsung dicampur karena nanti juga dilebur.” Kalimat ini melewati keputusan yang dimiliki penerima atau pengolah. Campuran tanpa identitas dan catatan kontaminan dapat mengubah penerimaan, pekerjaan pemilahan, atau kategori penanganan, tetapi akibat pastinya tidak boleh ditebak tanpa kriteria fasilitas yang dituju.
+
+Pilihan yang lebih aman adalah menyepakati kategori dengan penerima, menjaga material tetap dapat ditelusuri, dan mencatat kontaminan yang terlihat. Bila jenisnya tidak dapat dibuktikan, gunakan kategori “tidak teridentifikasi” alih-alih menebak.
+
+## Nilai scrap hilang ketika identitasnya hilang lebih dulu
+
+Dalam tumpukan sisa potongan, semua aluminium memang dapat terlihat sama. Namun bagi orang yang menerima atau mengolahnya, campuran tanpa asal-usul membuat keputusan berikutnya lebih sulit. Yang penting di sini bukan mengklaim tiap potongan pasti mempunyai nilai tertentu, melainkan menjaga informasi dasar agar pembeli atau pengolah tidak harus menebak seluruh isinya.
+
+Mulailah dengan memisahkan berdasarkan apa yang benar-benar Anda ketahui: potongan bersih dari satu pekerjaan, bagian yang masih membawa aksesori berbeda, dan material yang asalnya tidak jelas. Jangan memberi label nama paduan hanya dari warna atau bentuk. Bila tidak ada dokumen atau penanda yang dapat ditelusuri, tulis sebagai tidak teridentifikasi dan tanyakan kepada pihak penerima bagaimana mereka ingin menangani kategori itu.
+
+Contohnya, profil sisa yang masih bersih dapat disimpan terpisah dari rangka yang bercampur sekrup, sealant, atau kaca. Ini bukan janji harga lebih tinggi; ini cara mengurangi pekerjaan pemilahan ulang dan menghindari klaim yang tidak bisa dibuktikan. Jika tempat terbatas, wadah kecil berlabel asal pekerjaan sudah lebih baik daripada satu karung tanpa catatan.
+
+Teman Almini.id, aturan praktisnya: jangan menjual cerita yang tidak Anda punya buktinya. Simpan jejak asal, pisahkan kontaminan yang terlihat, dan sepakati kriteria penerimaan dengan pembeli atau pengolah. Dengan begitu keputusan nilai dan daur ulang dibuat oleh data yang lebih jelas, bukan oleh tebakan di akhir.
+
+## Kesimpulan dengan langkah konkret
+
+Memilah scrap aluminium membutuhkan pendekatan yang sistematis dan konsisten. Mulailah dari sumber dan bentuk yang benar-benar diketahui, pisahkan sesuai kategori yang disepakati dengan penerima, lalu dokumentasikan kondisi serta setiap penyerahannya.
+
+Langkah konkret yang bisa Anda ambil sekarang adalah melakukan audit pemilahan scrap di workshop Anda: identifikasi setiap sumber scrap, pastikan wadah dan label tersedia, dan buat jadwal penyerahan scrap yang teratur. Jika Anda menemukan ketidaksesuaian atau keraguan, jangan ragu untuk berkonsultasi dengan pihak yang kompeten sebelum melangkah lebih jauh. Kawan Almini.id, pastikan Anda selalu memperhatikan aspek keamanan dan kebersihan dalam pengelolaan scrap.
+
+Teman Almini.id, pemilahan yang baik bukan sekadar mengejar harga; tujuannya menjaga informasi material agar keputusan penerimaan dan penanganan tidak dimulai dari asumsi. Mulai dari langkah kecil yang konsisten, lalu perbaiki kategori ketika penerima memberi kriteria yang lebih jelas.
