@@ -1,6 +1,6 @@
 # Article progress — almini.id
 
-Last generated: **2026-08-22 23:29:48 (Asia/Jakarta)**
+Last generated: **2026-08-22 23:52:00 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -12,7 +12,7 @@ Last generated: **2026-08-22 23:29:48 (Asia/Jakarta)**
 | Canonical repository | [cfpages-sandbox-elin/Almini.id](https://github.com/cfpages-sandbox-elin/Almini.id) |
 | Default branch | `main` |
 | Instructions | ✅ `AGENTS.md` + `ARTICLE-GUIDE.md` |
-| Repository-local progress tracker | ➕ Central tracker only |
+| Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-sandbox-elin/Almini.id/blob/main/ARTICLE_CATALOG.md) (`f9cf104ba41f`) |
 | Prepared articles | 78 |
 | Accepted and pushed | 78 |
